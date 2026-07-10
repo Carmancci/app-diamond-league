@@ -1,10 +1,14 @@
 'use client'
 
+import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import { cn } from '@/lib/utils'
 import type { Gender } from '@/lib/diamond-league/types'
 import type { StandingRow } from '@/lib/diamond-league/utils'
+import { athleteId } from '@/lib/diamond-league/athletes'
+import { displayName } from '@/lib/diamond-league/format'
 import { CountryFlag } from '@/components/country-flag'
+import { ChevronRight } from 'lucide-react'
 
 const TABS: { key: Gender | 'all'; label: string }[] = [
   { key: 'all', label: 'Geral' },
@@ -50,10 +54,11 @@ export function StandingsBoard({ rows }: { rows: StandingRow[] }) {
         </div>
 
         {filtered.map((row, i) => (
-          <div
+          <Link
             key={`${row.athlete}-${row.discipline}-${row.gender}`}
+            href={`/athletes/${athleteId(row.athlete, row.country)}`}
             className={cn(
-              'flex items-center gap-4 border-b border-border bg-card px-4 py-3 last:border-b-0',
+              'group flex items-center gap-4 border-b border-border bg-card px-4 py-3 transition-colors last:border-b-0 hover:bg-muted/50',
               i < 3 && 'bg-primary/[0.05]',
             )}
           >
@@ -68,7 +73,9 @@ export function StandingsBoard({ rows }: { rows: StandingRow[] }) {
             <div className="flex min-w-0 flex-1 items-center gap-2.5">
               <CountryFlag code={row.country} className="size-5 shrink-0" />
               <div className="min-w-0">
-                <div className="truncate font-medium text-foreground">{row.athlete}</div>
+                <div className="truncate font-medium text-foreground group-hover:text-primary">
+                  {displayName(row.athlete)}
+                </div>
                 <div className="truncate text-xs text-muted-foreground sm:hidden">
                   {row.discipline}
                 </div>
@@ -83,7 +90,8 @@ export function StandingsBoard({ rows }: { rows: StandingRow[] }) {
             <span className="w-16 text-right font-mono text-sm font-semibold tabular-nums text-foreground">
               {row.points}
             </span>
-          </div>
+            <ChevronRight className="size-4 shrink-0 text-muted-foreground/40 group-hover:text-primary" />
+          </Link>
         ))}
 
         {filtered.length === 0 && (

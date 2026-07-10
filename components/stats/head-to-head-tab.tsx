@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import useSWR from 'swr'
 import { CountryFlag } from '@/components/country-flag'
@@ -82,14 +83,14 @@ export function HeadToHeadTab({ athletes }: Props) {
         <div className="mt-6">
           {/* Placar */}
           <div className="flex items-center justify-center gap-6 rounded-lg border border-border bg-card p-5">
-            <ScoreSide name={a.name} country={a.country} wins={data.winsA} lead={data.winsA > data.winsB} />
+            <ScoreSide id={a.id} name={a.name} country={a.country} lead={data.winsA > data.winsB} />
             <div className="text-center">
               <p className="font-mono text-2xl font-bold text-foreground">
                 {data.winsA} <span className="text-muted-foreground">—</span> {data.winsB}
               </p>
               <p className="text-xs uppercase tracking-wide text-muted-foreground">{activeDiscipline}</p>
             </div>
-            <ScoreSide name={b.name} country={b.country} wins={data.winsB} lead={data.winsB > data.winsA} />
+            <ScoreSide id={b.id} name={b.name} country={b.country} lead={data.winsB > data.winsA} />
           </div>
 
           {/* Confrontos etapa a etapa */}
@@ -131,23 +132,31 @@ export function HeadToHeadTab({ athletes }: Props) {
 }
 
 function ScoreSide({
+  id,
   name,
   country,
-  wins,
   lead,
 }: {
+  id: string
   name: string
   country: string
-  wins: number
   lead: boolean
 }) {
   return (
-    <div className="flex flex-1 flex-col items-center gap-1 text-center">
+    <Link
+      href={`/athletes/${id}`}
+      className="group flex flex-1 flex-col items-center gap-1 text-center"
+    >
       <CountryFlag code={country} className="size-7 rounded" />
-      <p className={cn('text-sm font-semibold', lead ? 'text-primary' : 'text-foreground')}>
+      <p
+        className={cn(
+          'text-sm font-semibold group-hover:underline',
+          lead ? 'text-primary' : 'text-foreground group-hover:text-primary',
+        )}
+      >
         {displayName(name)}
       </p>
-    </div>
+    </Link>
   )
 }
 

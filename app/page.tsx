@@ -1,8 +1,10 @@
 import Link from 'next/link'
-import { ArrowUpRight } from 'lucide-react'
+import { ArrowUpRight, ChevronRight } from 'lucide-react'
 import { MeetingCard } from '@/components/meeting-card'
 import { NextMeeting } from '@/components/next-meeting'
 import { CountryFlag } from '@/components/country-flag'
+import { athleteId } from '@/lib/diamond-league/athletes'
+import { displayName } from '@/lib/diamond-league/format'
 import { SEASON_YEAR } from '@/lib/diamond-league/data'
 import {
   getMeetings,
@@ -112,14 +114,17 @@ export default function HomePage() {
 
         <div className="mt-6 overflow-hidden rounded-xl border border-border">
           {topAthletes.map((row, i) => (
-            <div
+            <Link
               key={`${row.athlete}-${row.discipline}`}
-              className="flex items-center gap-4 border-b border-border bg-card px-4 py-3 last:border-b-0"
+              href={`/athletes/${athleteId(row.athlete, row.country)}`}
+              className="group flex items-center gap-4 border-b border-border bg-card px-4 py-3 transition-colors last:border-b-0 hover:bg-muted/50"
             >
               <span className="w-6 font-mono text-sm font-bold text-primary">{i + 1}</span>
               <CountryFlag code={row.country} className="size-5 shrink-0" />
               <div className="min-w-0 flex-1">
-                <div className="truncate font-medium text-foreground">{row.athlete}</div>
+                <div className="truncate font-medium text-foreground group-hover:text-primary">
+                  {displayName(row.athlete)}
+                </div>
                 <div className="truncate text-xs text-muted-foreground">
                   {row.discipline} · {row.gender === 'men' ? 'Masculino' : 'Feminino'}
                 </div>
@@ -127,7 +132,8 @@ export default function HomePage() {
               <span className="font-mono text-sm font-semibold tabular-nums text-foreground">
                 {row.points} pts
               </span>
-            </div>
+              <ChevronRight className="size-4 shrink-0 text-muted-foreground/40 group-hover:text-primary" />
+            </Link>
           ))}
         </div>
       </section>
