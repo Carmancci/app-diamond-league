@@ -3,13 +3,12 @@
 import { useState } from 'react'
 import { cn } from '@/lib/utils'
 import type { DisciplineKey } from '@/lib/diamond-league/stats'
-import type { CountryRow, SeasonInsights } from '@/lib/diamond-league/stats'
-import type { Gender } from '@/lib/diamond-league/types'
+import type { CountryRow } from '@/lib/diamond-league/stats'
 import { TopListTab } from '@/components/stats/top-list-tab'
 import { CountryTab } from '@/components/stats/country-tab'
 import { RecordsTab, type RecordItem } from '@/components/stats/records-tab'
 import { HeadToHeadTab, type H2HAthlete } from '@/components/stats/head-to-head-tab'
-import { InsightsTab } from '@/components/stats/insights-tab'
+import { InsightsTab, type Insights } from '@/components/stats/insights-tab'
 
 const TABS = [
   { key: 'top', label: 'Top Lists' },
@@ -25,7 +24,7 @@ export interface StatsExplorerProps {
   disciplines: DisciplineKey[]
   countries: CountryRow[]
   records: RecordItem[]
-  insights: SeasonInsights
+  insights: Insights
   athletes: H2HAthlete[]
 }
 

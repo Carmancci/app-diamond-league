@@ -1,7 +1,20 @@
 import type { Metadata } from 'next'
 import { getDisciplines, getCountryTable, getRecords, getInsights } from '@/lib/diamond-league/stats'
-import { getAthletes } from '@/lib/diamond-league/athletes'
+import { getAthletes, ageFromDob, type Performance } from '@/lib/diamond-league/athletes'
 import { StatsExplorer } from '@/components/stats/stats-explorer'
+
+function podiumLite(p: Performance | null) {
+  if (!p) return null
+  return {
+    athlete: p.athlete,
+    athleteId: p.athleteId,
+    country: p.country,
+    discipline: p.discipline,
+    mark: p.mark,
+    meetingName: p.meetingName,
+    age: ageFromDob(p.dob),
+  }
+}
 
 export const metadata: Metadata = {
   title: 'Estatísticas — Diamond League 2026',
@@ -13,7 +26,12 @@ export default function StatsPage() {
   const disciplines = getDisciplines()
   const countries = getCountryTable()
   const records = getRecords()
-  const insights = getInsights()
+  const rawInsights = getInsights()
+  const insights = {
+    ...rawInsights,
+    youngestPodium: podiumLite(rawInsights.youngestPodium),
+    oldestPodium: podiumLite(rawInsights.oldestPodium),
+  }
 
   // dados enxutos para o seletor de atletas do head-to-head
   const athletes = getAthletes().map((a) => ({
@@ -38,7 +56,16 @@ export default function StatsPage() {
       <StatsExplorer
         disciplines={disciplines}
         countries={countries}
-        records={records.map((r) => ({ code: r.code, p: r.performance }))}
+        records={records.map((r) => ({
+          code: r.code,
+          athlete: r.performance.athlete,
+          athleteId: r.performance.athleteId,
+          country: r.performance.country,
+          discipline: r.performance.discipline,
+          gender: r.performance.gender,
+          mark: r.performance.mark,
+          meetingName: r.performance.meetingName,
+        }))}
         insights={insights}
         athletes={athletes}
       />

@@ -261,7 +261,8 @@ export function getInsights(): SeasonInsights {
   let maxAge = -Infinity
   for (const p of podiums) {
     const age = ageFromDob(p.dob)
-    if (age === null) continue
+    // Guarda de sanidade: descarta idades implausíveis (DOB mal interpretado)
+    if (age === null || age < 15 || age > 50) continue
     if (age < minAge) {
       minAge = age
       youngestPodium = p
