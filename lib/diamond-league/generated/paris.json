@@ -14,13 +14,14 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-10T12:44:26.680Z",
+  "updatedAt": "2026-07-10T12:51:57.531Z",
   "events": [
     {
       "id": "paris-100m-men",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
+      "isPrimary": true,
       "wind": "+0.1 m/s",
       "startTime": "18:20",
       "results": [
@@ -98,6 +99,7 @@
       "discipline": "400m",
       "category": "sprints",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "18:03",
       "results": [
         {
@@ -168,6 +170,7 @@
       "discipline": "800m",
       "category": "middle",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "18:45",
       "results": [
         {
@@ -258,6 +261,7 @@
       "discipline": "1500m",
       "category": "middle",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "18:52",
       "results": [
         {
@@ -407,6 +411,7 @@
       "discipline": "5000m",
       "category": "distance",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "19:41",
       "results": [
         {
@@ -587,6 +592,7 @@
       "discipline": "3000m Steeplechase",
       "category": "distance",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "19:13",
       "results": [
         {
@@ -758,6 +764,9 @@
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
+      "phase": "Round 1",
+      "isPrimary": false,
+      "startTime": "16:55",
       "results": [
         {
           "rank": 1,
@@ -882,6 +891,10 @@
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
+      "phase": "Heat 1",
+      "isPrimary": false,
+      "wind": "+0.2 m/s",
+      "startTime": "16:55",
       "results": [
         {
           "rank": 1,
@@ -957,6 +970,10 @@
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
+      "phase": "Heat 2",
+      "isPrimary": false,
+      "wind": "-0.8 m/s",
+      "startTime": "17:03",
       "results": [
         {
           "rank": 1,
@@ -1030,6 +1047,10 @@
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
+      "phase": "Final",
+      "isPrimary": true,
+      "wind": "+0.8 m/s",
+      "startTime": "18:32",
       "results": [
         {
           "rank": 1,
@@ -1104,6 +1125,7 @@
       "discipline": "Pole Vault",
       "category": "jumps",
       "gender": "men",
+      "isPrimary": true,
       "startTime": "17:00",
       "results": [
         {
@@ -1199,6 +1221,10 @@
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
+      "phase": "C",
+      "isPrimary": false,
+      "wind": "+0.2 m/s",
+      "startTime": "15:30",
       "results": [
         {
           "rank": 1,
@@ -1256,6 +1282,10 @@
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
+      "phase": "B",
+      "isPrimary": false,
+      "wind": "+0.1 m/s",
+      "startTime": "15:44",
       "results": [
         {
           "rank": 1,
@@ -1328,6 +1358,7 @@
       "discipline": "400m",
       "category": "sprints",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "18:39",
       "results": [
         {
@@ -1407,6 +1438,7 @@
       "discipline": "800m",
       "category": "middle",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "18:13",
       "results": [
         {
@@ -1501,6 +1533,7 @@
       "discipline": "1500m",
       "category": "middle",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "19:27",
       "results": [
         {
@@ -1640,6 +1673,9 @@
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
+      "phase": "Round 1",
+      "isPrimary": false,
+      "startTime": "17:20",
       "results": [
         {
           "rank": 1,
@@ -1758,6 +1794,10 @@
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
+      "phase": "Heat 1",
+      "isPrimary": false,
+      "wind": "+0.4 m/s",
+      "startTime": "17:20",
       "results": [
         {
           "rank": 1,
@@ -1825,6 +1865,10 @@
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
+      "phase": "Heat 2",
+      "isPrimary": false,
+      "wind": "+0.6 m/s",
+      "startTime": "17:28",
       "results": [
         {
           "rank": 1,
@@ -1898,6 +1942,10 @@
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
+      "phase": "Final",
+      "isPrimary": true,
+      "wind": "+0.7 m/s",
+      "startTime": "19:08",
       "results": [
         {
           "rank": 1,
@@ -1975,6 +2023,7 @@
       "discipline": "Pole Vault",
       "category": "jumps",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "17:07",
       "results": [
         {
@@ -2068,6 +2117,7 @@
       "discipline": "Shot Put",
       "category": "throws",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "17:11",
       "results": [
         {
@@ -2140,6 +2190,7 @@
       "discipline": "Javelin Throw",
       "category": "throws",
       "gender": "women",
+      "isPrimary": true,
       "startTime": "18:25",
       "results": [
         {
@@ -2237,6 +2288,10 @@
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
+      "phase": "C",
+      "isPrimary": false,
+      "wind": "+0.5 m/s",
+      "startTime": "15:37",
       "results": [
         {
           "rank": 1,
@@ -2303,6 +2358,10 @@
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
+      "phase": "B",
+      "isPrimary": false,
+      "wind": "+0.1 m/s",
+      "startTime": "15:51",
       "results": [
         {
           "rank": 1,

@@ -2,7 +2,8 @@ import Link from 'next/link'
 import { ArrowUpRight, MapPin } from 'lucide-react'
 import { StatusBadge } from '@/components/status-badge'
 import type { Meeting } from '@/lib/diamond-league/types'
-import { flagEmoji, formatMeetingDate, getMeetingStatus } from '@/lib/diamond-league/utils'
+import { formatMeetingDate, getMeetingStatus } from '@/lib/diamond-league/utils'
+import { CountryFlag } from '@/components/country-flag'
 
 export function MeetingCard({ meeting }: { meeting: Meeting }) {
   const status = getMeetingStatus(meeting)
@@ -27,9 +28,7 @@ export function MeetingCard({ meeting }: { meeting: Meeting }) {
       </div>
 
       <div className="mt-6">
-        <div className="flex items-center gap-2 text-2xl leading-none" aria-hidden="true">
-          {flagEmoji(meeting.country)}
-        </div>
+        <CountryFlag code={meeting.country} className="h-6 w-9 rounded" />
         <h3 className="mt-2 text-lg font-semibold text-balance text-foreground">
           {meeting.name}
         </h3>

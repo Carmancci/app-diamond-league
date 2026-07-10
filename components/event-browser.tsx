@@ -15,6 +15,9 @@ const GENDER_TABS: { key: Gender | 'all'; label: string }[] = [
 export function EventBrowser({ events }: { events: EventResult[] }) {
   const [gender, setGender] = useState<Gender | 'all'>('all')
   const [category, setCategory] = useState<EventCategory | 'all'>('all')
+  const [showSecondary, setShowSecondary] = useState(false)
+
+  const hasSecondary = useMemo(() => events.some((e) => !e.isPrimary), [events])
 
   const categories = useMemo(() => {
     const set = new Set<EventCategory>()
@@ -25,10 +28,11 @@ export function EventBrowser({ events }: { events: EventResult[] }) {
   const filtered = useMemo(() => {
     return events.filter(
       (e) =>
+        (showSecondary || e.isPrimary) &&
         (gender === 'all' || e.gender === gender) &&
         (category === 'all' || e.category === category),
     )
-  }, [events, gender, category])
+  }, [events, gender, category, showSecondary])
 
   const men = filtered.filter((e) => e.gender === 'men')
   const women = filtered.filter((e) => e.gender === 'women')
@@ -36,7 +40,7 @@ export function EventBrowser({ events }: { events: EventResult[] }) {
   return (
     <div>
       {/* Filtros de gênero */}
-      <div className="flex flex-wrap items-center gap-2">
+      <div className="flex flex-wrap items-center justify-between gap-3">
         <div className="inline-flex rounded-lg border border-border bg-card p-1">
           {GENDER_TABS.map((t) => (
             <button
@@ -54,6 +58,21 @@ export function EventBrowser({ events }: { events: EventResult[] }) {
             </button>
           ))}
         </div>
+
+        {hasSecondary && (
+          <button
+            type="button"
+            onClick={() => setShowSecondary((v) => !v)}
+            className={cn(
+              'rounded-lg border px-3 py-1.5 text-xs font-medium transition-colors',
+              showSecondary
+                ? 'border-primary/50 bg-primary/15 text-primary'
+                : 'border-border text-muted-foreground hover:text-foreground',
+            )}
+          >
+            {showSecondary ? 'Ocultar eliminatórias e provas B/C' : 'Incluir eliminatórias e provas B/C'}
+          </button>
+        )}
       </div>
 
       {/* Filtros de categoria */}

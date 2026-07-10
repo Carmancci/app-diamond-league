@@ -1,0 +1,1994 @@
+{
+  "id": "stockholm",
+  "slug": "stockholm",
+  "round": 5,
+  "name": "Estocolmo",
+  "city": "Estocolmo",
+  "country": "SWE",
+  "countryName": "Suécia",
+  "stadium": "Olympic Stadium",
+  "date": "2026-06-07",
+  "isFinal": false,
+  "officialUrl": "https://stockholm.diamondleague.com",
+  "source": {
+    "type": "pdf",
+    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2026/PDF_ATH-------------------------------_MUL.PDF"
+  },
+  "updatedAt": "2026-07-10T12:51:55.052Z",
+  "events": [
+    {
+      "id": "stockholm-200m-men",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "+1.0 m/s",
+      "startTime": "18:30",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BEDNAREK Kenneth",
+          "country": "USA",
+          "dob": "14 OCT 1998",
+          "reaction": 0.15,
+          "mark": "19.87"
+        },
+        {
+          "rank": 2,
+          "athlete": "DAMBILE Sinesipho",
+          "country": "RSA",
+          "dob": "2 MAR 2002",
+          "reaction": 0.132,
+          "mark": "20.10"
+        },
+        {
+          "rank": 3,
+          "athlete": "LINDSEY Courtney",
+          "country": "USA",
+          "dob": "18 NOV 1998",
+          "reaction": 0.145,
+          "mark": "20.24"
+        },
+        {
+          "rank": 4,
+          "athlete": "MENA Reynier",
+          "country": "CUB",
+          "dob": "21 NOV 1996",
+          "reaction": 0.132,
+          "mark": "20.53"
+        },
+        {
+          "rank": 5,
+          "athlete": "MTHIMKULU Mthi",
+          "country": "RSA",
+          "dob": "30 APR 2003",
+          "reaction": 0.156,
+          "mark": "20.78"
+        },
+        {
+          "rank": 6,
+          "athlete": "PIHL Linus",
+          "country": "SWE",
+          "dob": "4 AUG 2003",
+          "reaction": 0.146,
+          "note": "=PB",
+          "mark": "20.90"
+        },
+        {
+          "rank": null,
+          "athlete": "AZU Jeremiah",
+          "country": "GBR",
+          "dob": "15 MAY 2001",
+          "reaction": 0.153,
+          "mark": "DQ",
+          "status": "DQ"
+        },
+        {
+          "rank": null,
+          "athlete": "MUMENTHALER Timothé",
+          "country": "SUI",
+          "dob": "12 DEC 2002",
+          "reaction": 0.135,
+          "mark": "DQ",
+          "status": "DQ"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "17:04",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NENE Zakithi",
+          "country": "RSA",
+          "dob": "2 APR 1998",
+          "reaction": 0.154,
+          "mark": "44.48"
+        },
+        {
+          "rank": 2,
+          "athlete": "PATTERSON Jacory",
+          "country": "USA",
+          "dob": "2 FEB 2000",
+          "reaction": 0.142,
+          "mark": "44.69"
+        },
+        {
+          "rank": 3,
+          "athlete": "RICHARDS Jereem",
+          "country": "TTO",
+          "dob": "13 JAN 1994",
+          "reaction": 0.169,
+          "note": "SB",
+          "mark": "44.87"
+        },
+        {
+          "rank": 4,
+          "athlete": "McRAE Khaleb",
+          "country": "USA",
+          "dob": "9 SEP 2000",
+          "reaction": 0.181,
+          "mark": "44.94"
+        },
+        {
+          "rank": 5,
+          "athlete": "DOBSON Charles",
+          "country": "GBR",
+          "dob": "20 OCT 1999",
+          "reaction": 0.158,
+          "note": "SB",
+          "mark": "45.15"
+        },
+        {
+          "rank": 6,
+          "athlete": "BENGTSTRÖM Carl",
+          "country": "SWE",
+          "dob": "13 JAN 2000",
+          "reaction": 0.227,
+          "note": "SB",
+          "mark": "45.89"
+        },
+        {
+          "rank": 7,
+          "athlete": "SAMUKONGA Muzala",
+          "country": "ZAM",
+          "dob": "9 DEC 2002",
+          "reaction": 0.167,
+          "mark": "47.93"
+        },
+        {
+          "rank": null,
+          "athlete": "HUDSON-SMITH Matthew",
+          "country": "GBR",
+          "dob": "26 OCT 1994",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "17:36",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "LUTKENHAUS Cooper",
+          "country": "USA",
+          "dob": "19 DEC 2008",
+          "note": "SB",
+          "mark": "1:42.70"
+        },
+        {
+          "rank": 2,
+          "athlete": "AROP Marco",
+          "country": "CAN",
+          "dob": "20 SEP 1998",
+          "note": "SB",
+          "mark": "1:43.11"
+        },
+        {
+          "rank": 3,
+          "athlete": "MOULA Slimane",
+          "country": "ALG",
+          "dob": "25 FEB 1999",
+          "note": "SB",
+          "mark": "1:43.41"
+        },
+        {
+          "rank": 4,
+          "athlete": "PATTISON Ben",
+          "country": "GBR",
+          "dob": "15 DEC 2001",
+          "note": "SB",
+          "mark": "1:43.70(.691)"
+        },
+        {
+          "rank": 5,
+          "athlete": "BOL Peter",
+          "country": "AUS",
+          "dob": "22 FEB 1994",
+          "note": "SB",
+          "mark": "1:43.70(.700)"
+        },
+        {
+          "rank": 6,
+          "athlete": "TUAL Gabriel",
+          "country": "FRA",
+          "dob": "9 APR 1998",
+          "mark": "1:43.72"
+        },
+        {
+          "rank": 7,
+          "athlete": "WIGHTMAN Jake",
+          "country": "GBR",
+          "dob": "11 JUL 1994",
+          "note": "SB",
+          "mark": "1:44.39"
+        },
+        {
+          "rank": 8,
+          "athlete": "HOPPEL Bryce",
+          "country": "USA",
+          "dob": "5 SEP 1997",
+          "mark": "1:44.66"
+        },
+        {
+          "rank": 9,
+          "athlete": "HAINGURA Kethobogile",
+          "country": "BOT",
+          "dob": "14 DEC 1998",
+          "mark": "1:45.58"
+        },
+        {
+          "rank": 10,
+          "athlete": "ATTAOUI Mohamed",
+          "country": "ESP",
+          "dob": "26 SEP 2001",
+          "mark": "1:46.92"
+        },
+        {
+          "rank": null,
+          "athlete": "SIERADZKI Patryk",
+          "country": "POL",
+          "dob": "6 OCT 1998",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-men",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "18:51",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NUGUSE Yared",
+          "country": "USA",
+          "dob": "1 JUN 1999",
+          "note": "SB",
+          "mark": "3:30.11"
+        },
+        {
+          "rank": 2,
+          "athlete": "MYERS Cameron",
+          "country": "AUS",
+          "dob": "9 JUN 2006",
+          "mark": "3:30.32"
+        },
+        {
+          "rank": 3,
+          "athlete": "CHERUIYOT Timothy",
+          "country": "KEN",
+          "dob": "20 NOV 1995",
+          "note": "SB",
+          "mark": "3:30.67"
+        },
+        {
+          "rank": 4,
+          "athlete": "CIATTEI Vincent",
+          "country": "USA",
+          "dob": "21 JAN 1995",
+          "mark": "3:31.63"
+        },
+        {
+          "rank": 5,
+          "athlete": "NORDÅS Narve Gilje",
+          "country": "NOR",
+          "dob": "30 SEP 1998",
+          "note": "SB",
+          "mark": "3:31.74"
+        },
+        {
+          "rank": 6,
+          "athlete": "KESSLER Hobbs",
+          "country": "USA",
+          "dob": "15 MAR 2003",
+          "note": "SB",
+          "mark": "3:31.76"
+        },
+        {
+          "rank": 7,
+          "athlete": "VERHEYDEN Ruben",
+          "country": "BEL",
+          "dob": "22 DEC 2000",
+          "mark": "3:32.91"
+        },
+        {
+          "rank": 8,
+          "athlete": "FARKEN Robert",
+          "country": "GER",
+          "dob": "20 SEP 1997",
+          "note": "SB",
+          "mark": "3:32.99"
+        },
+        {
+          "rank": 9,
+          "athlete": "HABZ Azeddine",
+          "country": "FRA",
+          "dob": "19 JUL 1993",
+          "mark": "3:33.84"
+        },
+        {
+          "rank": 10,
+          "athlete": "SZOT Flavien",
+          "country": "FRA",
+          "dob": "6 SEP 2001",
+          "mark": "3:34.27"
+        },
+        {
+          "rank": 11,
+          "athlete": "PIHLSTRÖM Samuel",
+          "country": "SWE",
+          "dob": "8 MAR 2001",
+          "mark": "3:34.53"
+        },
+        {
+          "rank": 12,
+          "athlete": "GRESSIER Jimmy",
+          "country": "FRA",
+          "dob": "4 MAY 1997",
+          "note": "SB",
+          "mark": "3:34.63"
+        },
+        {
+          "rank": 13,
+          "athlete": "HEYWARD Jake",
+          "country": "GBR",
+          "dob": "26 APR 1999",
+          "mark": "3:35.53"
+        },
+        {
+          "rank": 14,
+          "athlete": "ALMGREN Andreas",
+          "country": "SWE",
+          "dob": "12 JUN 1995",
+          "note": "SB",
+          "mark": "3:36.81"
+        },
+        {
+          "rank": null,
+          "athlete": "CLARIDGE Ben",
+          "country": "GBR",
+          "dob": "12 NOV 1997",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "RUDOLF Žan",
+          "country": "SLO",
+          "dob": "9 MAY 1993",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-3000m-steeplechase-men",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "17:59",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "EL BAKKALI Soufiane",
+          "country": "MAR",
+          "dob": "7 JAN 1996",
+          "mark": "8:10.40"
+        },
+        {
+          "rank": 2,
+          "athlete": "SEREM Edmund",
+          "country": "KEN",
+          "dob": "27 DEC 2007",
+          "mark": "8:12.27"
+        },
+        {
+          "rank": 3,
+          "athlete": "KIBIWOT Abraham",
+          "country": "KEN",
+          "dob": "6 APR 1996",
+          "mark": "8:12.75"
+        },
+        {
+          "rank": 4,
+          "athlete": "BEN YAZIDE Salah Eddine",
+          "country": "MAR",
+          "dob": "6 MAY 2003",
+          "mark": "8:13.02"
+        },
+        {
+          "rank": 5,
+          "athlete": "BEAMISH Geordie",
+          "country": "NZL",
+          "dob": "24 OCT 1996",
+          "note": "SB",
+          "mark": "8:13.11"
+        },
+        {
+          "rank": 6,
+          "athlete": "KOECH Simon Kiprop",
+          "country": "KEN",
+          "dob": "6 OCT 2003",
+          "mark": "8:13.40"
+        },
+        {
+          "rank": 7,
+          "athlete": "BEBENDORF Karl",
+          "country": "GER",
+          "dob": "7 MAY 1996",
+          "note": "SB",
+          "mark": "8:14.13"
+        },
+        {
+          "rank": 8,
+          "athlete": "WILKINSON Matthew",
+          "country": "USA",
+          "dob": "27 DEC 1998",
+          "mark": "8:14.27"
+        },
+        {
+          "rank": null,
+          "athlete": "BETT Leonard Kipkemoi",
+          "country": "KEN",
+          "dob": "3 NOV 2000",
+          "note": "SB",
+          "mark": "8:18.70"
+        },
+        {
+          "rank": 10,
+          "athlete": "ARCE Daniel",
+          "country": "ESP",
+          "dob": "22 APR 1992",
+          "mark": "8:20.02"
+        },
+        {
+          "rank": 11,
+          "athlete": "SIME Abrham",
+          "country": "ETH",
+          "dob": "7 NOV 2001",
+          "mark": "8:22.94"
+        },
+        {
+          "rank": 12,
+          "athlete": "JOHANSSON Vidar",
+          "country": "SWE",
+          "dob": "8 OCT 1996",
+          "note": "SB",
+          "mark": "8:23.65"
+        },
+        {
+          "rank": 13,
+          "athlete": "MIURA Ryuji",
+          "country": "JPN",
+          "dob": "11 FEB 2002",
+          "note": "SB",
+          "mark": "8:23.97"
+        },
+        {
+          "rank": 14,
+          "athlete": "MAGNUSSON Leo",
+          "country": "SWE",
+          "dob": "4 FEB 1998",
+          "note": "SB",
+          "mark": "8:24.69"
+        },
+        {
+          "rank": 15,
+          "athlete": "WILLIAMS Carson",
+          "country": "USA",
+          "dob": "12 FEB 2002",
+          "note": "SB",
+          "mark": "8:25.55"
+        },
+        {
+          "rank": 16,
+          "athlete": "SUNDSTRÖM Simon",
+          "country": "SWE",
+          "dob": "4 FEB 1998",
+          "mark": "8:25.99"
+        },
+        {
+          "rank": 17,
+          "athlete": "GIRMA Eisa",
+          "country": "ETH",
+          "dob": "21 SEP 2007",
+          "mark": "8:26.33"
+        },
+        {
+          "rank": 18,
+          "athlete": "ROOKS Kenneth",
+          "country": "USA",
+          "dob": "21 OCT 1999",
+          "mark": "8:29.00"
+        },
+        {
+          "rank": 19,
+          "athlete": "AYALEW Hailu",
+          "country": "ETH",
+          "dob": "21 JAN 2008",
+          "mark": "8:37.96"
+        },
+        {
+          "rank": 20,
+          "athlete": "MEGIER Maciej",
+          "country": "POL",
+          "dob": "26 APR 2003",
+          "note": "SB",
+          "mark": "8:44.20"
+        },
+        {
+          "rank": null,
+          "athlete": "BOUASSEL Abderrafia",
+          "country": "MAR",
+          "dob": "18 FEB 2001",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Lamecha",
+          "country": "ETH",
+          "dob": "26 NOV 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KONES Wilberforce C.",
+          "country": "KEN",
+          "dob": "19 SEP 1993",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "LANGAT Wesley",
+          "country": "KEN",
+          "dob": "7 JUL 1994",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "18:19",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "dos SANTOS Alison",
+          "country": "BRA",
+          "dob": "3 JUN 2000",
+          "reaction": 0.169,
+          "mark": "47.11"
+        },
+        {
+          "rank": 2,
+          "athlete": "LIMA Matheus",
+          "country": "BRA",
+          "dob": "1 JUN 2003",
+          "reaction": 0.164,
+          "note": "PB",
+          "mark": "47.37"
+        },
+        {
+          "rank": 3,
+          "athlete": "AGYEKUM Emil",
+          "country": "GER",
+          "dob": "22 MAY 1999",
+          "reaction": 0.144,
+          "note": "PB",
+          "mark": "47.72"
+        },
+        {
+          "rank": 4,
+          "athlete": "TISANG Kemorena",
+          "country": "BOT",
+          "dob": "25 APR 1995",
+          "reaction": 0.152,
+          "note": "SB",
+          "mark": "48.43"
+        },
+        {
+          "rank": 5,
+          "athlete": "HEMEIDA Bassem",
+          "country": "QAT",
+          "dob": "28 MAR 2000",
+          "reaction": 0.142,
+          "note": "SB",
+          "mark": "48.52"
+        },
+        {
+          "rank": 6,
+          "athlete": "EDLUND Oskar",
+          "country": "SWE",
+          "dob": "16 NOV 2002",
+          "reaction": 0.182,
+          "note": "SB",
+          "mark": "48.81"
+        },
+        {
+          "rank": 7,
+          "athlete": "WILSON Assinie",
+          "country": "JAM",
+          "dob": "10 APR 2002",
+          "reaction": 0.156,
+          "mark": "49.13"
+        },
+        {
+          "rank": 8,
+          "athlete": "DONOVAN Tyri",
+          "country": "GBR",
+          "dob": "20 OCT 1998",
+          "reaction": 0.159,
+          "mark": "49.75"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-pole-vault-men",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "16:14",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MARSCHALL Kurtis",
+          "country": "AUS",
+          "dob": "25 APR 1997",
+          "mark": "5.90"
+        },
+        {
+          "rank": 2,
+          "athlete": "DUPLANTIS Armand",
+          "country": "SWE",
+          "dob": "10 NOV 1999",
+          "mark": "5.80"
+        },
+        {
+          "rank": 3,
+          "athlete": "THIERY Baptiste",
+          "country": "FRA",
+          "dob": "29 JUN 2001",
+          "mark": "5.80"
+        },
+        {
+          "rank": 4,
+          "athlete": "VLOON Menno",
+          "country": "NED",
+          "dob": "11 MAY 1994",
+          "mark": "5.80"
+        },
+        {
+          "rank": 5,
+          "athlete": "BRADFORD Zachery",
+          "country": "USA",
+          "dob": "29 NOV 1999",
+          "mark": "5.80"
+        },
+        {
+          "rank": 6,
+          "athlete": "GUTTORMSEN Sondre",
+          "country": "NOR",
+          "dob": "1 JUN 1999",
+          "mark": "5.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "LAVILLENIE Renaud",
+          "country": "FRA",
+          "dob": "18 SEP 1986",
+          "note": "SB",
+          "mark": "5.70"
+        },
+        {
+          "rank": 8,
+          "athlete": "COLLET Thibaut",
+          "country": "FRA",
+          "dob": "17 JUN 1999",
+          "mark": "5.60"
+        },
+        {
+          "rank": 8,
+          "athlete": "KENDRICKS Sam",
+          "country": "USA",
+          "dob": "7 SEP 1992",
+          "mark": "5.60"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-discus-throw-men",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "17:52",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "STÅHL Daniel",
+          "country": "SWE",
+          "dob": "27 AUG 1992",
+          "note": "SB",
+          "mark": "69.60"
+        },
+        {
+          "rank": 2,
+          "athlete": "DENNY Matthew",
+          "country": "AUS",
+          "dob": "2 JUN 1996",
+          "mark": "69.02"
+        },
+        {
+          "rank": 3,
+          "athlete": "CEH Kristjan",
+          "country": "SLO",
+          "dob": "17 FEB 1999",
+          "mark": "67.67"
+        },
+        {
+          "rank": 4,
+          "athlete": "STONA Roje",
+          "country": "JAM",
+          "dob": "26 FEB 1999",
+          "mark": "66.42"
+        },
+        {
+          "rank": 5,
+          "athlete": "MATTIS Sam",
+          "country": "USA",
+          "dob": "19 MAR 1994",
+          "mark": "66.03"
+        },
+        {
+          "rank": 6,
+          "athlete": "JANSSEN Henrik",
+          "country": "GER",
+          "dob": "19 MAY 1998",
+          "mark": "65.53"
+        },
+        {
+          "rank": 7,
+          "athlete": "ROSE Alex",
+          "country": "SAM",
+          "dob": "17 NOV 1991",
+          "mark": "64.82"
+        },
+        {
+          "rank": 8,
+          "athlete": "OKOYE Lawrence",
+          "country": "GBR",
+          "dob": "6 OCT 1991",
+          "mark": "64.02"
+        },
+        {
+          "rank": 9,
+          "athlete": "DÍAZ Mario Alberto",
+          "country": "CUB",
+          "dob": "8 DEC 1999",
+          "mark": "61.45"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "phase": "promotional",
+      "isPrimary": false,
+      "wind": "+0.5 m/s",
+      "startTime": "16:38",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AZU Jeremiah",
+          "country": "GBR",
+          "dob": "15 MAY 2001",
+          "reaction": 0.126,
+          "note": "SB",
+          "mark": "10.07"
+        },
+        {
+          "rank": 2,
+          "athlete": "BURNET Taymir",
+          "country": "NED",
+          "dob": "1 OCT 1992",
+          "reaction": 0.138,
+          "note": "=PB",
+          "mark": "10.09"
+        },
+        {
+          "rank": 3,
+          "athlete": "CURIN PRAPOTNIK Anej",
+          "country": "SLO",
+          "dob": "23 MAY 2003",
+          "reaction": 0.156,
+          "mark": "10.27"
+        },
+        {
+          "rank": 4,
+          "athlete": "MO-AJOK Xavi",
+          "country": "NED",
+          "dob": "16 SEP 2002",
+          "reaction": 0.142,
+          "note": "SB",
+          "mark": "10.28"
+        },
+        {
+          "rank": 5,
+          "athlete": "PIHL Linus",
+          "country": "SWE",
+          "dob": "4 AUG 2003",
+          "reaction": 0.15,
+          "mark": "10.45"
+        },
+        {
+          "rank": 6,
+          "athlete": "OLSSON Filip",
+          "country": "SWE",
+          "dob": "18 FEB 2006",
+          "reaction": 0.155,
+          "note": "=PB",
+          "mark": "10.53"
+        },
+        {
+          "rank": 7,
+          "athlete": "THOR William",
+          "country": "SWE",
+          "dob": "17 MAR 2000",
+          "reaction": 0.143,
+          "note": "SB",
+          "mark": "10.55"
+        },
+        {
+          "rank": 8,
+          "athlete": "SJÖLANDER Johan",
+          "country": "SWE",
+          "dob": "12 FEB 1999",
+          "reaction": 0.158,
+          "mark": "10.57"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "phase": "national",
+      "isPrimary": false,
+      "startTime": "16:08",
+      "results": [
+        {
+          "rank": 2,
+          "athlete": "SKOGLUND Erik",
+          "country": "SWE",
+          "dob": "27 MAY 2004",
+          "note": "PB",
+          "mark": "1:50.52"
+        },
+        {
+          "rank": 3,
+          "athlete": "WAHLGREN Victor",
+          "country": "SWE",
+          "dob": "20 JUN 2002",
+          "note": "SB",
+          "mark": "1:50.66"
+        },
+        {
+          "rank": 4,
+          "athlete": "JOHANSSON HAUGE Lars",
+          "country": "NOR",
+          "dob": "12 JUN 2007",
+          "note": "PB",
+          "mark": "1:51.20"
+        },
+        {
+          "rank": 5,
+          "athlete": "KARLSSON Vilmer",
+          "country": "SWE",
+          "dob": "11 JUN 2007",
+          "mark": "1:51.32"
+        },
+        {
+          "rank": 6,
+          "athlete": "BODÉN Kevin",
+          "country": "SWE",
+          "dob": "16 OCT 2002",
+          "note": "SB",
+          "mark": "1:51.58"
+        },
+        {
+          "rank": 7,
+          "athlete": "STEINER Noa",
+          "country": "SWE",
+          "dob": "16 MAY 2007",
+          "note": "PB",
+          "mark": "1:52.66"
+        },
+        {
+          "rank": 8,
+          "athlete": "ALNESS-BORG Axel",
+          "country": "SWE",
+          "dob": "25 AUG 1998",
+          "note": "SB",
+          "mark": "1:52.76"
+        },
+        {
+          "rank": null,
+          "athlete": "BÄCK John",
+          "country": "SWE",
+          "dob": "15 APR 2006",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-men",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "phase": "national",
+      "isPrimary": false,
+      "startTime": "15:20",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRHANE Yohannes Kiflay",
+          "country": "ERI",
+          "dob": "24 APR 2002",
+          "note": "SB",
+          "mark": "3:45.40"
+        },
+        {
+          "rank": 2,
+          "athlete": "DYBWAD MATHIESEN S.",
+          "country": "NOR",
+          "dob": "10 NOV 2003",
+          "note": "SB",
+          "mark": "3:45.52"
+        },
+        {
+          "rank": 3,
+          "athlete": "NILSSON Love",
+          "country": "SWE",
+          "dob": "3 MAY 2007",
+          "note": "PB",
+          "mark": "3:46.18"
+        },
+        {
+          "rank": 4,
+          "athlete": "ÅBERG Benjamin",
+          "country": "SWE",
+          "dob": "30 MAY 1995",
+          "note": "PB",
+          "mark": "3:46.56"
+        },
+        {
+          "rank": 5,
+          "athlete": "GRAHN Jonathan",
+          "country": "SWE",
+          "dob": "30 DEC 2004",
+          "note": "SB",
+          "mark": "3:46.84"
+        },
+        {
+          "rank": 6,
+          "athlete": "NEDERHEIM Erik",
+          "country": "SWE",
+          "dob": "22 MAY 2006",
+          "note": "SB",
+          "mark": "3:46.98"
+        },
+        {
+          "rank": 8,
+          "athlete": "NYSTRÖM Alexander",
+          "country": "SWE",
+          "dob": "13 MAY 2003",
+          "note": "PB",
+          "mark": "3:47.63"
+        },
+        {
+          "rank": 9,
+          "athlete": "LÖFQVIST Oliver",
+          "country": "SWE",
+          "dob": "5 MAY 1998",
+          "note": "SB",
+          "mark": "3:48.49"
+        },
+        {
+          "rank": 10,
+          "athlete": "da SILVA SVEEN August",
+          "country": "NOR",
+          "dob": "3 AUG 2004",
+          "note": "SB",
+          "mark": "3:48.93"
+        },
+        {
+          "rank": 11,
+          "athlete": "YNGESJÖ Tim",
+          "country": "SWE",
+          "dob": "11 FEB 1997",
+          "note": "PB",
+          "mark": "3:49.19"
+        },
+        {
+          "rank": 12,
+          "athlete": "OTTFALK Karl",
+          "country": "SWE",
+          "dob": "3 JAN 2006",
+          "note": "SB",
+          "mark": "3:50.69"
+        },
+        {
+          "rank": 13,
+          "athlete": "NORD Jimmy",
+          "country": "SWE",
+          "dob": "26 SEP 2006",
+          "mark": "3:51.61"
+        },
+        {
+          "rank": 14,
+          "athlete": "KLINTH Jacob",
+          "country": "SWE",
+          "dob": "25 AUG 2001",
+          "mark": "3:52.98"
+        },
+        {
+          "rank": 15,
+          "athlete": "KÄLLMAN Eric",
+          "country": "SWE",
+          "dob": "26 JUL 2000",
+          "note": "SB",
+          "mark": "3:55.44"
+        },
+        {
+          "rank": null,
+          "athlete": "EKNOR Tobias",
+          "country": "SWE",
+          "dob": "4 JAN 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "SÖRQVIST Adam",
+          "country": "SWE",
+          "dob": "22 JUL 2005",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "wind": "+0.8 m/s",
+      "startTime": "17:45",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JEFFERSON-WOODEN M.",
+          "country": "USA",
+          "dob": "21 FEB 2001",
+          "reaction": 0.133,
+          "note": "SB",
+          "mark": "10.84"
+        },
+        {
+          "rank": 2,
+          "athlete": "HUNT Amy",
+          "country": "GBR",
+          "dob": "15 MAY 2002",
+          "reaction": 0.129,
+          "note": "PB",
+          "mark": "10.97"
+        },
+        {
+          "rank": 3,
+          "athlete": "van der WEKEN Patrizia",
+          "country": "LUX",
+          "dob": "12 NOV 1999",
+          "reaction": 0.148,
+          "note": "SB",
+          "mark": "11.05"
+        },
+        {
+          "rank": 4,
+          "athlete": "BISSCHOPS Minke",
+          "country": "NED",
+          "dob": "2 SEP 2002",
+          "reaction": 0.139,
+          "note": "SB",
+          "mark": "11.08"
+        },
+        {
+          "rank": 5,
+          "athlete": "DOSSO Zaynab",
+          "country": "ITA",
+          "dob": "12 SEP 1999",
+          "reaction": 0.166,
+          "mark": "11.22"
+        },
+        {
+          "rank": 6,
+          "athlete": "ASHER-SMITH Dina",
+          "country": "GBR",
+          "dob": "4 DEC 1995",
+          "reaction": 0.161,
+          "note": "SB",
+          "mark": "11.24"
+        },
+        {
+          "rank": 7,
+          "athlete": "McCREATH Sade",
+          "country": "CAN",
+          "dob": "25 JUN 1996",
+          "reaction": 0.139,
+          "mark": "11.29"
+        },
+        {
+          "rank": 8,
+          "athlete": "HENRIKSSON Julia",
+          "country": "SWE",
+          "dob": "11 JUL 2000",
+          "reaction": 0.146,
+          "note": "SB",
+          "mark": "11.48"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "18:41",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "WERRO Audrey",
+          "country": "SUI",
+          "dob": "27 MAR 2004",
+          "note": "DLR MR WL",
+          "mark": "1:53.98"
+        },
+        {
+          "rank": 2,
+          "athlete": "HODGKINSON Keely",
+          "country": "GBR",
+          "dob": "3 MAR 2002",
+          "note": "NR",
+          "mark": "1:54.33"
+        },
+        {
+          "rank": 3,
+          "athlete": "WILLIS Roisin",
+          "country": "USA",
+          "dob": "6 AUG 2004",
+          "note": "PB",
+          "mark": "1:57.56"
+        },
+        {
+          "rank": 4,
+          "athlete": "BOURGOIN Anaïs",
+          "country": "FRA",
+          "dob": "3 OCT 1996",
+          "mark": "1:57.68"
+        },
+        {
+          "rank": 5,
+          "athlete": "SEKGODISO Prudence",
+          "country": "RSA",
+          "dob": "5 JAN 2002",
+          "mark": "1:57.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "WIELGOSZ Anna",
+          "country": "POL",
+          "dob": "9 NOV 1993",
+          "note": "PB",
+          "mark": "1:57.92"
+        },
+        {
+          "rank": 7,
+          "athlete": "ROGERS Raevyn",
+          "country": "USA",
+          "dob": "7 SEP 1996",
+          "note": "SB",
+          "mark": "1:57.94"
+        },
+        {
+          "rank": 8,
+          "athlete": "HURTA-KLECKER Sage",
+          "country": "USA",
+          "dob": "23 JUN 1998",
+          "mark": "1:58.26"
+        },
+        {
+          "rank": 9,
+          "athlete": "GETACHEW Nigist",
+          "country": "ETH",
+          "dob": "28 FEB 2002",
+          "mark": "1:58.59"
+        },
+        {
+          "rank": 10,
+          "athlete": "ANTONSEN Pernille Karlsen",
+          "country": "NOR",
+          "dob": "13 DEC 2002",
+          "note": "PB",
+          "mark": "1:58.82"
+        },
+        {
+          "rank": 11,
+          "athlete": "GAJANOVÁ Gabriela",
+          "country": "SVK",
+          "dob": "12 OCT 1999",
+          "mark": "2:02.88"
+        },
+        {
+          "rank": null,
+          "athlete": "KLOPFENSTEIN Rachel",
+          "country": "MRI",
+          "dob": "8 MAR 1995",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "16:47",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HAYLOM Birke",
+          "country": "ETH",
+          "dob": "6 JAN 2006",
+          "mark": "4:00.68"
+        },
+        {
+          "rank": 2,
+          "athlete": "STAFFORD Lucia",
+          "country": "CAN",
+          "dob": "17 AUG 1998",
+          "mark": "4:01.93"
+        },
+        {
+          "rank": 3,
+          "athlete": "WALLACE Erin",
+          "country": "GBR",
+          "dob": "18 MAY 2000",
+          "note": "SB",
+          "mark": "4:02.87"
+        },
+        {
+          "rank": 4,
+          "athlete": "KALAYU Haregeweyni",
+          "country": "ETH",
+          "dob": "29 MAY 2009",
+          "mark": "4:03.86"
+        },
+        {
+          "rank": 5,
+          "athlete": "WIND Joceline",
+          "country": "SUI",
+          "dob": "12 SEP 2000",
+          "mark": "4:04.66"
+        },
+        {
+          "rank": 6,
+          "athlete": "APPLETON Margot",
+          "country": "USA",
+          "dob": "30 SEP 2002",
+          "note": "SB",
+          "mark": "4:04.92"
+        },
+        {
+          "rank": 7,
+          "athlete": "GAY Adèle",
+          "country": "FRA",
+          "dob": "16 OCT 2004",
+          "note": "SB",
+          "mark": "4:05.11"
+        },
+        {
+          "rank": 8,
+          "athlete": "CAVALLI Ludovica",
+          "country": "ITA",
+          "dob": "20 DEC 2000",
+          "mark": "4:05.15"
+        },
+        {
+          "rank": 9,
+          "athlete": "SABBATINI Gaia",
+          "country": "ITA",
+          "dob": "10 JUN 1999",
+          "note": "SB",
+          "mark": "4:05.55"
+        },
+        {
+          "rank": 10,
+          "athlete": "BARNETT Mia",
+          "country": "SWE",
+          "dob": "4 SEP 2003",
+          "note": "SB",
+          "mark": "4:06.00"
+        },
+        {
+          "rank": 11,
+          "athlete": "LØVNES Anne Gine",
+          "country": "NOR",
+          "dob": "14 MAR 2003",
+          "note": "PB",
+          "mark": "4:06.30"
+        },
+        {
+          "rank": 12,
+          "athlete": "MESELE Worknesh",
+          "country": "ETH",
+          "dob": "11 JUN 2001",
+          "mark": "4:06.51"
+        },
+        {
+          "rank": 13,
+          "athlete": "BERHE Saron",
+          "country": "ETH",
+          "dob": "22 AUG 2007",
+          "mark": "4:06.64"
+        },
+        {
+          "rank": 14,
+          "athlete": "ELHADDAD Souad",
+          "country": "MAR",
+          "dob": "10 MAR 2001",
+          "note": "PB",
+          "mark": "4:07.20"
+        },
+        {
+          "rank": 15,
+          "athlete": "PROVCI Saga",
+          "country": "SWE",
+          "dob": "20 OCT 2004",
+          "note": "PB",
+          "mark": "4:09.95"
+        },
+        {
+          "rank": 16,
+          "athlete": "NIELSEN Julia",
+          "country": "SWE",
+          "dob": "2 JUN 2001",
+          "mark": "4:10.13"
+        },
+        {
+          "rank": 17,
+          "athlete": "van ES Diane",
+          "country": "NED",
+          "dob": "22 MAR 1999",
+          "mark": "4:12.64"
+        },
+        {
+          "rank": null,
+          "athlete": "JAGUSCIK Julia",
+          "country": "POL",
+          "dob": "16 DEC 2003",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-3000m-steeplechase-women",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "17:17",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BOUZAYANI Marwa",
+          "country": "TUN",
+          "dob": "26 MAR 1997",
+          "note": "MR",
+          "mark": "8:59.28"
+        },
+        {
+          "rank": 2,
+          "athlete": "THORNER Elise",
+          "country": "GBR",
+          "dob": "16 MAR 2001",
+          "mark": "9:11.01"
+        },
+        {
+          "rank": 3,
+          "athlete": "JENNINGS Gabrielle",
+          "country": "USA",
+          "dob": "15 SEP 1998",
+          "note": "SB",
+          "mark": "9:12.02"
+        },
+        {
+          "rank": 4,
+          "athlete": "TUFA Kena",
+          "country": "ETH",
+          "dob": "27 DEC 2005",
+          "mark": "9:12.42"
+        },
+        {
+          "rank": 5,
+          "athlete": "MEYER Lea",
+          "country": "GER",
+          "dob": "16 SEP 1997",
+          "note": "SB",
+          "mark": "9:13.67"
+        },
+        {
+          "rank": 6,
+          "athlete": "MONONEN Ilona",
+          "country": "FIN",
+          "dob": "18 DEC 2003",
+          "note": "NR",
+          "mark": "9:15.18"
+        },
+        {
+          "rank": 7,
+          "athlete": "WALLE Alemnat",
+          "country": "ETH",
+          "dob": "29 JAN 2006",
+          "mark": "9:15.33"
+        },
+        {
+          "rank": 8,
+          "athlete": "HALLADAY Lexy",
+          "country": "USA",
+          "dob": "23 JUL 2001",
+          "mark": "9:19.02"
+        },
+        {
+          "rank": 9,
+          "athlete": "HYDE Gracie",
+          "country": "USA",
+          "dob": "12 DEC 1999",
+          "mark": "9:24.19"
+        },
+        {
+          "rank": 10,
+          "athlete": "HVID Juliane",
+          "country": "DEN",
+          "dob": "8 APR 1998",
+          "mark": "9:25.46"
+        },
+        {
+          "rank": 11,
+          "athlete": "MARKEZICH Olivia",
+          "country": "USA",
+          "dob": "10 AUG 2000",
+          "mark": "9:25.79"
+        },
+        {
+          "rank": 12,
+          "athlete": "WAYMENT Courtney",
+          "country": "USA",
+          "dob": "4 AUG 1998",
+          "mark": "9:29.05"
+        },
+        {
+          "rank": 13,
+          "athlete": "FINOT Alice",
+          "country": "FRA",
+          "dob": "9 FEB 1991",
+          "note": "SB",
+          "mark": "9:34.30"
+        },
+        {
+          "rank": 14,
+          "athlete": "KRÓLIK Kinga",
+          "country": "POL",
+          "dob": "26 SEP 1999",
+          "mark": "9:35.47"
+        },
+        {
+          "rank": 15,
+          "athlete": "GÜRTH Olivia",
+          "country": "GER",
+          "dob": "31 MAY 2002",
+          "mark": "9:42.35"
+        },
+        {
+          "rank": 16,
+          "athlete": "YESHANEH Meseret",
+          "country": "ETH",
+          "dob": "12 MAY 2005",
+          "note": "SB",
+          "mark": "10:12.27"
+        },
+        {
+          "rank": null,
+          "athlete": "CHORZEPA Agnieszka",
+          "country": "POL",
+          "dob": "14 JAN 2001",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-long-jump-women",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "17:23",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KPATCHA Hilary",
+          "country": "FRA",
+          "dob": "5 MAY 1998",
+          "mark": "6.85"
+        },
+        {
+          "rank": 2,
+          "athlete": "IAPICHINO Larissa",
+          "country": "ITA",
+          "dob": "18 JUL 2002",
+          "mark": "6.84"
+        },
+        {
+          "rank": 3,
+          "athlete": "ROBINSON Nia",
+          "country": "JAM",
+          "dob": "8 NOV 2001",
+          "mark": "6.80"
+        },
+        {
+          "rank": 4,
+          "athlete": "NICHOLS Monae'",
+          "country": "USA",
+          "dob": "24 NOV 1998",
+          "mark": "6.74"
+        },
+        {
+          "rank": 5,
+          "athlete": "de SOUSA Agate",
+          "country": "POR",
+          "dob": "5 JUN 2000",
+          "mark": "6.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "MIHAMBO Malaika",
+          "country": "GER",
+          "dob": "3 FEB 1994",
+          "mark": "6.70"
+        },
+        {
+          "rank": 7,
+          "athlete": "BRYANT Claire",
+          "country": "USA",
+          "dob": "25 AUG 2001",
+          "mark": "6.69"
+        },
+        {
+          "rank": 8,
+          "athlete": "HALLBERG HOSSAIN Ayla",
+          "country": "SWE",
+          "dob": "23 DEC 2006",
+          "note": "PB",
+          "mark": "6.63"
+        },
+        {
+          "rank": 9,
+          "athlete": "BROWN Alexis",
+          "country": "USA",
+          "dob": "26 APR 2001",
+          "mark": "6.62"
+        },
+        {
+          "rank": 10,
+          "athlete": "ÅSKAG Maja",
+          "country": "SWE",
+          "dob": "18 DEC 2002",
+          "mark": "6.56"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-shot-put-women",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "16:17",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SCHILDER Jessica",
+          "country": "NED",
+          "dob": "19 MAR 1999",
+          "note": "MR",
+          "mark": "20.89"
+        },
+        {
+          "rank": 2,
+          "athlete": "JACKSON Chase",
+          "country": "USA",
+          "dob": "20 JUL 1994",
+          "mark": "19.91"
+        },
+        {
+          "rank": 3,
+          "athlete": "MITTON Sarah",
+          "country": "CAN",
+          "dob": "20 JUN 1996",
+          "mark": "19.89"
+        },
+        {
+          "rank": 4,
+          "athlete": "ROOS Fanny",
+          "country": "SWE",
+          "dob": "2 JAN 1995",
+          "mark": "18.90"
+        },
+        {
+          "rank": 5,
+          "athlete": "MABRY Yemisi",
+          "country": "GER",
+          "dob": "3 OCT 1998",
+          "mark": "18.79"
+        },
+        {
+          "rank": 6,
+          "athlete": "THOMAS-DODD Danniel",
+          "country": "JAM",
+          "dob": "11 NOV 1992",
+          "mark": "18.56"
+        },
+        {
+          "rank": 7,
+          "athlete": "SMITH Abria",
+          "country": "USA",
+          "dob": "25 JAN 2002",
+          "mark": "18.50"
+        },
+        {
+          "rank": 8,
+          "athlete": "EWEN Maggie",
+          "country": "USA",
+          "dob": "23 SEP 1994",
+          "mark": "17.93"
+        },
+        {
+          "rank": 9,
+          "athlete": "ROSS Jaida",
+          "country": "USA",
+          "dob": "29 OCT 2001",
+          "mark": "17.80"
+        },
+        {
+          "rank": 10,
+          "athlete": "DONGMO Auriol",
+          "country": "POR",
+          "dob": "3 AUG 1990",
+          "mark": "17.45"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-discus-throw-women",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "16:04",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SION Valarie",
+          "country": "USA",
+          "dob": "23 FEB 1995",
+          "mark": "68.60"
+        },
+        {
+          "rank": 2,
+          "athlete": "van KLINKEN Jorinde",
+          "country": "NED",
+          "dob": "2 FEB 2000",
+          "mark": "66.57"
+        },
+        {
+          "rank": 3,
+          "athlete": "TAUSAGA Laulauga",
+          "country": "USA",
+          "dob": "22 MAY 1998",
+          "mark": "65.89"
+        },
+        {
+          "rank": 4,
+          "athlete": "FENG Bin",
+          "country": "CHN",
+          "dob": "3 APR 1994",
+          "mark": "64.15"
+        },
+        {
+          "rank": 5,
+          "athlete": "STEINACKER Marike",
+          "country": "GER",
+          "dob": "3 APR 1992",
+          "mark": "62.13"
+        },
+        {
+          "rank": 6,
+          "athlete": "KAMGA Vanessa",
+          "country": "SWE",
+          "dob": "19 NOV 1998",
+          "mark": "61.93"
+        },
+        {
+          "rank": 7,
+          "athlete": "CRAFT Shanice",
+          "country": "GER",
+          "dob": "15 MAY 1993",
+          "mark": "61.88"
+        },
+        {
+          "rank": 8,
+          "athlete": "MORÁLES Silinda",
+          "country": "CUB",
+          "dob": "30 AUG 2000",
+          "mark": "58.81"
+        },
+        {
+          "rank": 9,
+          "athlete": "JACKSON Cierra",
+          "country": "USA",
+          "dob": "28 AUG 2002",
+          "mark": "52.90"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "phase": "promotional",
+      "isPrimary": false,
+      "startTime": "16:27",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MITJANS Marta",
+          "country": "ESP",
+          "dob": "28 DEC 2006",
+          "note": "SB",
+          "mark": "2:00.63"
+        },
+        {
+          "rank": 2,
+          "athlete": "NYFORS Malin Ingeborg",
+          "country": "NOR",
+          "dob": "12 JUL 1997",
+          "mark": "2:02.39"
+        },
+        {
+          "rank": 3,
+          "athlete": "CLEYET-MERLE Bérénice",
+          "country": "FRA",
+          "dob": "24 OCT 1994",
+          "note": "SB",
+          "mark": "2:02.52"
+        },
+        {
+          "rank": 4,
+          "athlete": "HANCOCK-CAMERON J.",
+          "country": "AUS",
+          "dob": "28 MAY 2002",
+          "mark": "2:02.66"
+        },
+        {
+          "rank": 5,
+          "athlete": "DESPOLLARI Georgia-Maria",
+          "country": "GRE",
+          "dob": "19 SEP 2003",
+          "mark": "2:02.84(.834)"
+        },
+        {
+          "rank": 6,
+          "athlete": "ARMITAGE Lucy",
+          "country": "GBR",
+          "dob": "3 AUG 2004",
+          "mark": "2:02.84(.837)"
+        },
+        {
+          "rank": 7,
+          "athlete": "LLOYD Ava",
+          "country": "GBR",
+          "dob": "13 AUG 2005",
+          "note": "SB",
+          "mark": "2:02.85"
+        },
+        {
+          "rank": 8,
+          "athlete": "FREIJ Maria",
+          "country": "SWE",
+          "dob": "24 OCT 1998",
+          "note": "SB",
+          "mark": "2:03.22"
+        },
+        {
+          "rank": 9,
+          "athlete": "NISSEN Annemarie",
+          "country": "DEN",
+          "dob": "8 JUL 1994",
+          "note": "SB",
+          "mark": "2:03.85"
+        },
+        {
+          "rank": 10,
+          "athlete": "SCHMIDT Alica",
+          "country": "GER",
+          "dob": "8 NOV 1998",
+          "mark": "2:04.33"
+        },
+        {
+          "rank": null,
+          "athlete": "GAJDA Sylwana",
+          "country": "POL",
+          "dob": "10 NOV 1999",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "phase": "Calculated result",
+      "isPrimary": false,
+      "startTime": "15:10",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HELWIGH Anna Mark",
+          "country": "DEN",
+          "dob": "12 MAR 2000",
+          "note": "SB",
+          "mark": "4:22.07"
+        },
+        {
+          "rank": 2,
+          "athlete": "THUNDAL Agnes",
+          "country": "SWE",
+          "dob": "11 APR 2005",
+          "note": "PB",
+          "mark": "4:23.22"
+        },
+        {
+          "rank": 3,
+          "athlete": "THESTRUP Josephine",
+          "country": "DEN",
+          "dob": "25 NOV 1996",
+          "note": "SB",
+          "mark": "4:23.23"
+        },
+        {
+          "rank": 4,
+          "athlete": "BJUVE Ebba-Stina",
+          "country": "SWE",
+          "dob": "26 AUG 2007",
+          "mark": "4:23.45"
+        },
+        {
+          "rank": 5,
+          "athlete": "PETTERSSON Stina",
+          "country": "SWE",
+          "dob": "4 APR 2002",
+          "mark": "4:24.49"
+        },
+        {
+          "rank": 6,
+          "athlete": "MØRCK Mia Helene",
+          "country": "DEN",
+          "dob": "16 NOV 1999",
+          "mark": "4:25.57"
+        },
+        {
+          "rank": 7,
+          "athlete": "HÖGARDH Caroline",
+          "country": "SWE",
+          "dob": "16 NOV 1992",
+          "note": "SB",
+          "mark": "4:27.39"
+        },
+        {
+          "rank": 8,
+          "athlete": "SCHULZ Line Kalstrup",
+          "country": "DEN",
+          "dob": "18 JUL 1996",
+          "mark": "4:28.67"
+        },
+        {
+          "rank": 10,
+          "athlete": "RICHARDS Frederica",
+          "country": "SWE",
+          "dob": "11 APR 1994",
+          "mark": "4:33.19"
+        },
+        {
+          "rank": 11,
+          "athlete": "BJERSTRÖM Freja",
+          "country": "SWE",
+          "dob": "24 JUL 2007",
+          "mark": "4:38.66"
+        },
+        {
+          "rank": null,
+          "athlete": "HEIER Josefin Victoria",
+          "country": "NOR",
+          "dob": "1 MAY 1996",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    }
+  ]
+}

@@ -7,11 +7,11 @@ import { EventBrowser } from '@/components/event-browser'
 import { StatusBadge } from '@/components/status-badge'
 import { MEETINGS } from '@/lib/diamond-league/data'
 import {
-  flagEmoji,
   formatFullDate,
   getMeetingBySlug,
   getMeetingStatus,
 } from '@/lib/diamond-league/utils'
+import { CountryFlag } from '@/components/country-flag'
 
 export function generateStaticParams() {
   return MEETINGS.map((m) => ({ slug: m.slug }))
@@ -41,7 +41,7 @@ export default async function MeetingPage({
   if (!meeting) notFound()
 
   const status = getMeetingStatus(meeting)
-  const disciplineCount = meeting.events.length
+  const disciplineCount = meeting.events.filter((e) => e.isPrimary).length
 
   return (
     <main className="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
@@ -71,9 +71,7 @@ export default async function MeetingPage({
 
         <div className="mt-5 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
-            <div className="text-4xl leading-none" aria-hidden="true">
-              {flagEmoji(meeting.country)}
-            </div>
+            <CountryFlag code={meeting.country} className="h-8 w-12 rounded" />
             <h1 className="mt-3 text-3xl font-bold tracking-tight text-balance sm:text-4xl">
               {meeting.name}
             </h1>

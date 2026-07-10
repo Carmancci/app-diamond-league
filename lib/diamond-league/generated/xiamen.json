@@ -1,0 +1,1824 @@
+{
+  "id": "xiamen",
+  "slug": "xiamen",
+  "round": 2,
+  "name": "Xiamen",
+  "city": "Xiamen",
+  "country": "CHN",
+  "countryName": "China",
+  "stadium": "Egret Stadium",
+  "date": "2026-05-23",
+  "isFinal": false,
+  "officialUrl": "https://xiamen.diamondleague.com",
+  "source": {
+    "type": "pdf",
+    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/XIAMEN_2026/PDF_ATH-------------------------------_MUL.PDF"
+  },
+  "updatedAt": "2026-07-10T12:51:52.501Z",
+  "events": [
+    {
+      "id": "xiamen-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "+0.2 m/s",
+      "startTime": "20:40",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "OMANYALA Ferdinand",
+          "country": "KEN",
+          "dob": "2 JAN 1996",
+          "reaction": 0.148,
+          "note": "SB",
+          "mark": "9.94"
+        },
+        {
+          "rank": 2,
+          "athlete": "LEOTLELA Gift",
+          "country": "RSA",
+          "dob": "12 MAY 1998",
+          "reaction": 0.138,
+          "mark": "10.00"
+        },
+        {
+          "rank": 3,
+          "athlete": "BROMELL Trayvon",
+          "country": "USA",
+          "dob": "10 JUL 1995",
+          "reaction": 0.128,
+          "mark": "10.03(.024)"
+        },
+        {
+          "rank": 4,
+          "athlete": "BEDNAREK Kenneth",
+          "country": "USA",
+          "dob": "14 OCT 1998",
+          "reaction": 0.156,
+          "mark": "10.03(.029)"
+        },
+        {
+          "rank": 5,
+          "athlete": "SIMBINE Akani",
+          "country": "RSA",
+          "dob": "21 SEP 1993",
+          "reaction": 0.144,
+          "mark": "10.04"
+        },
+        {
+          "rank": 6,
+          "athlete": "KENNEDY Lachlan",
+          "country": "AUS",
+          "dob": "4 NOV 2003",
+          "reaction": 0.158,
+          "mark": "10.06"
+        },
+        {
+          "rank": 7,
+          "athlete": "COLEMAN Christian",
+          "country": "USA",
+          "dob": "6 MAR 1996",
+          "reaction": 0.136,
+          "note": "SB",
+          "mark": "10.08"
+        },
+        {
+          "rank": 8,
+          "athlete": "TEBOGO Letsile",
+          "country": "BOT",
+          "dob": "7 JUN 2003",
+          "reaction": 0.156,
+          "note": "SB",
+          "mark": "10.10"
+        },
+        {
+          "rank": 9,
+          "athlete": "DENG Xinrui",
+          "country": "CHN",
+          "dob": "20 DEC 2003",
+          "reaction": 0.119,
+          "mark": "10.27"
+        },
+        {
+          "rank": 10,
+          "athlete": "WANG Shengjie",
+          "country": "CHN",
+          "dob": "31 MAR 2000",
+          "reaction": 0.139,
+          "mark": "10.33"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "19:04",
+      "results": [
+        {
+          "rank": 2,
+          "athlete": "SAMUKONGA Muzala",
+          "country": "ZAM",
+          "dob": "9 DEC 2002",
+          "reaction": 0.149,
+          "note": "SB",
+          "mark": "44.04"
+        },
+        {
+          "rank": 3,
+          "athlete": "NENE Zakithi",
+          "country": "RSA",
+          "dob": "2 APR 1998",
+          "reaction": 0.148,
+          "note": "SB",
+          "mark": "44.40"
+        },
+        {
+          "rank": 4,
+          "athlete": "BAILEY Chris",
+          "country": "USA",
+          "dob": "29 MAY 2000",
+          "reaction": 0.204,
+          "mark": "44.70"
+        },
+        {
+          "rank": 5,
+          "athlete": "NDORI Bayapo",
+          "country": "BOT",
+          "dob": "20 JUN 1999",
+          "reaction": 0.147,
+          "mark": "44.88"
+        },
+        {
+          "rank": 6,
+          "athlete": "MORALES WILLIAMS Christopher",
+          "country": "CAN",
+          "dob": "5 AUG 2004",
+          "reaction": 0.173,
+          "mark": "45.24"
+        },
+        {
+          "rank": 7,
+          "athlete": "MOLNÁR Attila",
+          "country": "HUN",
+          "dob": "17 JAN 2002",
+          "reaction": 0.163,
+          "mark": "45.49"
+        },
+        {
+          "rank": 8,
+          "athlete": "NORWOOD Vernon",
+          "country": "USA",
+          "dob": "10 APR 1992",
+          "reaction": 0.176,
+          "mark": "45.51"
+        },
+        {
+          "rank": 9,
+          "athlete": "LIU Kai",
+          "country": "CHN",
+          "dob": "10 MAY 2006",
+          "reaction": 0.175,
+          "mark": "46.60"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-5000m-men",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "19:52",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YIHUNE Addisu",
+          "country": "ETH",
+          "dob": "17 MAR 2003",
+          "note": "MR WL",
+          "mark": "12:57.32"
+        },
+        {
+          "rank": 2,
+          "athlete": "ABDILAAHI Mohamed",
+          "country": "GER",
+          "dob": "24 MAR 1999",
+          "note": "SB",
+          "mark": "12:57.90"
+        },
+        {
+          "rank": 3,
+          "athlete": "MEHARY Biniam",
+          "country": "ETH",
+          "dob": "20 DEC 2006",
+          "note": "SB",
+          "mark": "12:58.51"
+        },
+        {
+          "rank": 4,
+          "athlete": "HERRERA Eduardo",
+          "country": "MEX",
+          "dob": "23 SEP 1997",
+          "note": "SB",
+          "mark": "13:00.69"
+        },
+        {
+          "rank": 5,
+          "athlete": "KURGAT Edwin",
+          "country": "KEN",
+          "dob": "19 MAY 1996",
+          "note": "SB",
+          "mark": "13:01.47"
+        },
+        {
+          "rank": 6,
+          "athlete": "BEJIGA Khairi",
+          "country": "ETH",
+          "dob": "27 APR 2006",
+          "note": "PB",
+          "mark": "13:06.45"
+        },
+        {
+          "rank": 7,
+          "athlete": "BALEW Birhanu",
+          "country": "BRN",
+          "dob": "27 FEB 1996",
+          "note": "SB",
+          "mark": "13:07.75"
+        },
+        {
+          "rank": 8,
+          "athlete": "KEMBOI Cornelius",
+          "country": "KEN",
+          "dob": "29 FEB 2000",
+          "note": "SB",
+          "mark": "13:08.45"
+        },
+        {
+          "rank": 9,
+          "athlete": "CATROFE Santiago",
+          "country": "URU",
+          "dob": "13 FEB 1999",
+          "note": "SB",
+          "mark": "13:08.72"
+        },
+        {
+          "rank": 10,
+          "athlete": "KIPROP Keneth",
+          "country": "UGA",
+          "dob": "13 MAY 2005",
+          "note": "SB",
+          "mark": "13:08.79"
+        },
+        {
+          "rank": 12,
+          "athlete": "SIME Mezgebu",
+          "country": "ETH",
+          "dob": "7 OCT 2005",
+          "note": "SB",
+          "mark": "13:13.17"
+        },
+        {
+          "rank": 13,
+          "athlete": "CHERUIYOT Timothy",
+          "country": "KEN",
+          "dob": "20 NOV 1995",
+          "note": "PB",
+          "mark": "13:16.41"
+        },
+        {
+          "rank": 14,
+          "athlete": "O'DONNELL Seth",
+          "country": "AUS",
+          "dob": "14 SEP 2001",
+          "mark": "13:18.68"
+        },
+        {
+          "rank": 15,
+          "athlete": "KIBET Harbert",
+          "country": "UGA",
+          "dob": "17 JUN 2005",
+          "note": "SB",
+          "mark": "13:46.45"
+        },
+        {
+          "rank": 16,
+          "athlete": "VERBAANDERT Tim",
+          "country": "NED",
+          "dob": "17 JUL 2000",
+          "note": "SB",
+          "mark": "13:54.63"
+        },
+        {
+          "rank": null,
+          "athlete": "ALMGREN Andreas",
+          "country": "SWE",
+          "dob": "12 JUN 1995",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "FAYISA Abdisa",
+          "country": "ETH",
+          "dob": "24 APR 2005",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Kuma",
+          "country": "ETH",
+          "dob": "24 NOV 2005",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KIPRUGUT Boaz",
+          "country": "KEN",
+          "dob": "18 MAY 1998",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "SASÍNEK Filip",
+          "country": "CZE",
+          "dob": "8 JAN 1996",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "+0.5 m/s",
+      "startTime": "19:35",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRITT Jamal",
+          "country": "USA",
+          "dob": "28 DEC 1998",
+          "reaction": 0.148,
+          "note": "=PB",
+          "mark": "13.07"
+        },
+        {
+          "rank": 2,
+          "athlete": "MURATAKE Rachid",
+          "country": "JPN",
+          "dob": "6 FEB 2002",
+          "reaction": 0.134,
+          "mark": "13.13"
+        },
+        {
+          "rank": 3,
+          "athlete": "BENNETT Orlando",
+          "country": "JAM",
+          "dob": "12 OCT 1999",
+          "reaction": 0.162,
+          "note": "=SB",
+          "mark": "13.20"
+        },
+        {
+          "rank": 4,
+          "athlete": "JOSEPH Jason",
+          "country": "SUI",
+          "dob": "11 OCT 1998",
+          "reaction": 0.165,
+          "note": "SB",
+          "mark": "13.24"
+        },
+        {
+          "rank": 5,
+          "athlete": "TINCH Cordell",
+          "country": "USA",
+          "dob": "13 JUL 2000",
+          "reaction": 0.149,
+          "mark": "13.28"
+        },
+        {
+          "rank": 6,
+          "athlete": "XU Zhuoyi",
+          "country": "CHN",
+          "dob": "21 AUG 2003",
+          "reaction": 0.153,
+          "note": "SB",
+          "mark": "13.33"
+        },
+        {
+          "rank": 7,
+          "athlete": "LIU Junxi",
+          "country": "CHN",
+          "dob": "11 DEC 2003",
+          "reaction": 0.151,
+          "mark": "13.35"
+        },
+        {
+          "rank": 8,
+          "athlete": "LLOPIS Enrique",
+          "country": "ESP",
+          "dob": "15 OCT 2000",
+          "reaction": 0.131,
+          "note": "SB",
+          "mark": "13.36"
+        },
+        {
+          "rank": 9,
+          "athlete": "EDWARDS Eric",
+          "country": "USA",
+          "dob": "3 JAN 2000",
+          "reaction": 0.134,
+          "mark": "13.43"
+        },
+        {
+          "rank": 10,
+          "athlete": "DIESSL Enzo",
+          "country": "AUT",
+          "dob": "6 JUN 2004",
+          "reaction": 0.16,
+          "note": "SB",
+          "mark": "13.44"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "20:27",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "dos SANTOS Alison",
+          "country": "BRA",
+          "dob": "3 JUN 2000",
+          "reaction": 0.171,
+          "note": "WL",
+          "mark": "46.72"
+        },
+        {
+          "rank": 2,
+          "athlete": "WARHOLM Karsten",
+          "country": "NOR",
+          "dob": "28 FEB 1996",
+          "reaction": 0.168,
+          "note": "SB",
+          "mark": "46.82"
+        },
+        {
+          "rank": 3,
+          "athlete": "DEAN Caleb",
+          "country": "USA",
+          "dob": "20 JUN 2001",
+          "reaction": 0.198,
+          "note": "SB",
+          "mark": "47.75"
+        },
+        {
+          "rank": 4,
+          "athlete": "BASSITT Trevor",
+          "country": "USA",
+          "dob": "26 FEB 1998",
+          "reaction": 0.193,
+          "mark": "47.90"
+        },
+        {
+          "rank": 5,
+          "athlete": "SAMBA Abderrahman",
+          "country": "QAT",
+          "dob": "5 SEP 1995",
+          "reaction": 0.224,
+          "note": "SB",
+          "mark": "47.93"
+        },
+        {
+          "rank": 6,
+          "athlete": "LIMA Matheus",
+          "country": "BRA",
+          "dob": "1 JUN 2003",
+          "reaction": 0.195,
+          "note": "SB",
+          "mark": "48.22"
+        },
+        {
+          "rank": 7,
+          "athlete": "ALLEN CJ",
+          "country": "USA",
+          "dob": "14 FEB 1995",
+          "reaction": 0.168,
+          "mark": "49.18"
+        },
+        {
+          "rank": 8,
+          "athlete": "GONG Debin",
+          "country": "CHN",
+          "dob": "9 SEP 1997",
+          "reaction": 0.224,
+          "note": "SB",
+          "mark": "50.14"
+        },
+        {
+          "rank": 9,
+          "athlete": "McMASTER Kyron",
+          "country": "IVB",
+          "dob": "3 JAN 1997",
+          "reaction": 0.179,
+          "note": "SB",
+          "mark": "52.41"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-long-jump-men",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "19:18",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "TENTOGLOU Miltiadis",
+          "country": "GRE",
+          "dob": "18 MAR 1998",
+          "note": "MR",
+          "mark": "8.46"
+        },
+        {
+          "rank": 2,
+          "athlete": "GAYLE Tajay",
+          "country": "JAM",
+          "dob": "2 AUG 1996",
+          "note": "SB",
+          "mark": "8.32"
+        },
+        {
+          "rank": 3,
+          "athlete": "SARÂBOYUKOV Bozhidar",
+          "country": "BUL",
+          "dob": "6 AUG 2004",
+          "mark": "8.29"
+        },
+        {
+          "rank": 4,
+          "athlete": "FURLANI Mattia",
+          "country": "ITA",
+          "dob": "7 FEB 2005",
+          "mark": "8.28"
+        },
+        {
+          "rank": 5,
+          "athlete": "ANVAROV Anvar",
+          "country": "UZB",
+          "dob": "22 OCT 2000",
+          "mark": "8.01"
+        },
+        {
+          "rank": 6,
+          "athlete": "PINNOCK Wayne",
+          "country": "JAM",
+          "dob": "24 OCT 2000",
+          "note": "=SB",
+          "mark": "7.93"
+        },
+        {
+          "rank": 7,
+          "athlete": "SHU Heng",
+          "country": "CHN",
+          "dob": "22 MAY 2004",
+          "note": "SB",
+          "mark": "7.84"
+        },
+        {
+          "rank": 8,
+          "athlete": "ADCOCK Liam",
+          "country": "AUS",
+          "dob": "21 JUN 1996",
+          "mark": "7.76"
+        },
+        {
+          "rank": 9,
+          "athlete": "SHI Yuhao",
+          "country": "CHN",
+          "dob": "26 SEP 1998",
+          "mark": "7.70"
+        },
+        {
+          "rank": 10,
+          "athlete": "ZHANG Mingkun",
+          "country": "CHN",
+          "dob": "20 OCT 2000",
+          "mark": "7.66"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-shot-put-men",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "18:35",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CAMPBELL Rajindra",
+          "country": "JAM",
+          "dob": "29 FEB 1996",
+          "note": "NR",
+          "mark": "22.34"
+        },
+        {
+          "rank": 2,
+          "athlete": "GEIST Jordan",
+          "country": "USA",
+          "dob": "21 JUL 1998",
+          "mark": "21.52"
+        },
+        {
+          "rank": 3,
+          "athlete": "CROUSER Ryan",
+          "country": "USA",
+          "dob": "18 DEC 1992",
+          "note": "SB",
+          "mark": "21.41"
+        },
+        {
+          "rank": 4,
+          "athlete": "STEEN Roger",
+          "country": "USA",
+          "dob": "17 MAY 1992",
+          "mark": "21.25"
+        },
+        {
+          "rank": 5,
+          "athlete": "ENEKWECHI Chukwuebuka",
+          "country": "NGR",
+          "dob": "28 JAN 1993",
+          "mark": "21.14"
+        },
+        {
+          "rank": 6,
+          "athlete": "WALSH Tom",
+          "country": "NZL",
+          "dob": "1 MAR 1992",
+          "mark": "21.13"
+        },
+        {
+          "rank": 7,
+          "athlete": "PIPERI Adrian",
+          "country": "USA",
+          "dob": "20 JAN 1999",
+          "note": "SB",
+          "mark": "20.57"
+        },
+        {
+          "rank": 8,
+          "athlete": "MUÑOZ Uziel",
+          "country": "MEX",
+          "dob": "8 SEP 1995",
+          "mark": "20.28"
+        },
+        {
+          "rank": 9,
+          "athlete": "XING Jialiang",
+          "country": "CHN",
+          "dob": "26 MAY 2001",
+          "mark": "19.75"
+        },
+        {
+          "rank": null,
+          "athlete": "FABBRI Leonardo",
+          "country": "ITA",
+          "dob": "15 APR 1997",
+          "mark": "NM",
+          "status": "NM"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "-0.4 m/s",
+      "startTime": "18:30",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "LI Xiangrui",
+          "country": "CHN",
+          "dob": "7 SEP 2005",
+          "reaction": 0.157,
+          "mark": "10.72"
+        },
+        {
+          "rank": 2,
+          "athlete": "LIU Juncheng",
+          "country": "CHN",
+          "dob": "15 FEB 1997",
+          "reaction": 0.148,
+          "mark": "10.74"
+        },
+        {
+          "rank": 3,
+          "athlete": "YUAN Shuo",
+          "country": "CHN",
+          "dob": "2 JUL 1995",
+          "reaction": 0.142,
+          "mark": "10.76"
+        },
+        {
+          "rank": 4,
+          "athlete": "HUANG Guanzong",
+          "country": "CHN",
+          "dob": "23 DEC 2006",
+          "reaction": 0.167,
+          "mark": "10.80"
+        },
+        {
+          "rank": 5,
+          "athlete": "JIANG Xianming",
+          "country": "CHN",
+          "dob": "5 AUG 2003",
+          "reaction": 0.157,
+          "mark": "10.87"
+        },
+        {
+          "rank": 6,
+          "athlete": "CHEN Jie",
+          "country": "CHN",
+          "dob": "20 OCT 2002",
+          "reaction": 0.143,
+          "mark": "11.04"
+        },
+        {
+          "rank": 7,
+          "athlete": "OU Yongkang",
+          "country": "CHN",
+          "dob": "10 FEB 2007",
+          "reaction": 0.164,
+          "mark": "11.08"
+        },
+        {
+          "rank": 8,
+          "athlete": "GE Dongwei",
+          "country": "CHN",
+          "dob": "1 DEC 2009",
+          "reaction": 0.184,
+          "mark": "11.20"
+        },
+        {
+          "rank": 9,
+          "athlete": "CHEN Peilong",
+          "country": "CHN",
+          "dob": "28 SEP 2004",
+          "reaction": 0.169,
+          "mark": "11.59"
+        },
+        {
+          "rank": 10,
+          "athlete": "CAI Yucheng",
+          "country": "CHN",
+          "dob": "21 NOV 2005",
+          "reaction": 0.159,
+          "mark": "11.80"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-200m-women",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "wind": "+0.2 m/s",
+      "startTime": "19:44",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JACKSON Shericka",
+          "country": "JAM",
+          "dob": "16 JUL 1994",
+          "reaction": 0.151,
+          "note": "MR SB",
+          "mark": "21.87"
+        },
+        {
+          "rank": 2,
+          "athlete": "MILLER-UIBO Shaunae",
+          "country": "BAH",
+          "dob": "15 APR 1994",
+          "reaction": 0.134,
+          "note": "SB",
+          "mark": "22.04"
+        },
+        {
+          "rank": 3,
+          "athlete": "BATTLE Anavia",
+          "country": "USA",
+          "dob": "28 MAR 1999",
+          "reaction": 0.15,
+          "note": "SB",
+          "mark": "22.29"
+        },
+        {
+          "rank": 4,
+          "athlete": "RICHARDSON Sha'Carri",
+          "country": "USA",
+          "dob": "25 MAR 2000",
+          "reaction": 0.153,
+          "note": "SB",
+          "mark": "22.38"
+        },
+        {
+          "rank": 5,
+          "athlete": "PRANDINI Jenna",
+          "country": "USA",
+          "dob": "20 NOV 1992",
+          "reaction": 0.163,
+          "mark": "22.46"
+        },
+        {
+          "rank": 6,
+          "athlete": "LONG Mckenzie",
+          "country": "USA",
+          "dob": "11 JUL 2000",
+          "reaction": 0.156,
+          "mark": "22.63"
+        },
+        {
+          "rank": 7,
+          "athlete": "HUNT Amy",
+          "country": "GBR",
+          "dob": "15 MAY 2002",
+          "reaction": 0.155,
+          "mark": "22.67"
+        },
+        {
+          "rank": 8,
+          "athlete": "CHEN Yujie",
+          "country": "CHN",
+          "dob": "29 DEC 2008",
+          "reaction": 0.147,
+          "mark": "23.01"
+        },
+        {
+          "rank": 9,
+          "athlete": "LEWIS Torrie",
+          "country": "AUS",
+          "dob": "8 JAN 2005",
+          "reaction": 0.146,
+          "mark": "23.25"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "20:13",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CALDWELL Abbey",
+          "country": "AUS",
+          "dob": "3 JUL 2001",
+          "mark": "3:57.26"
+        },
+        {
+          "rank": 2,
+          "athlete": "HAYLOM Birke",
+          "country": "ETH",
+          "dob": "6 JAN 2006",
+          "mark": "3:57.79"
+        },
+        {
+          "rank": 3,
+          "athlete": "MACKAY Emily",
+          "country": "USA",
+          "dob": "30 APR 1998",
+          "note": "SB",
+          "mark": "3:58.13"
+        },
+        {
+          "rank": 4,
+          "athlete": "EWOI Dorcus",
+          "country": "KEN",
+          "dob": "2 OCT 1996",
+          "mark": "3:58.91"
+        },
+        {
+          "rank": 5,
+          "athlete": "HULL Jessica",
+          "country": "AUS",
+          "dob": "22 OCT 1996",
+          "mark": "3:58.97"
+        },
+        {
+          "rank": 6,
+          "athlete": "BERHE Saron",
+          "country": "ETH",
+          "dob": "22 AUG 2007",
+          "note": "SB",
+          "mark": "4:00.32"
+        },
+        {
+          "rank": 7,
+          "athlete": "GALVYDYTE Gabija",
+          "country": "LTU",
+          "dob": "17 JAN 2000",
+          "mark": "4:00.41"
+        },
+        {
+          "rank": 8,
+          "athlete": "HALL Linden",
+          "country": "AUS",
+          "dob": "20 JUN 1991",
+          "mark": "4:00.55"
+        },
+        {
+          "rank": 9,
+          "athlete": "WALCOTT-NOLAN Revee",
+          "country": "GBR",
+          "dob": "6 MAR 1995",
+          "note": "SB",
+          "mark": "4:00.78"
+        },
+        {
+          "rank": 10,
+          "athlete": "WIND Joceline",
+          "country": "SUI",
+          "dob": "12 SEP 2000",
+          "note": "PB",
+          "mark": "4:01.41"
+        },
+        {
+          "rank": 11,
+          "athlete": "BILLINGS Sarah",
+          "country": "AUS",
+          "dob": "7 MAR 1998",
+          "mark": "4:02.00"
+        },
+        {
+          "rank": 12,
+          "athlete": "MORRIS Gracie",
+          "country": "USA",
+          "dob": "17 DEC 2001",
+          "mark": "4:02.14"
+        },
+        {
+          "rank": 13,
+          "athlete": "HOLLINGSWORTH Claudia",
+          "country": "AUS",
+          "dob": "12 APR 2005",
+          "mark": "4:06.46"
+        },
+        {
+          "rank": 14,
+          "athlete": "LI Chunhui",
+          "country": "CHN",
+          "dob": "29 MAR 2001",
+          "note": "SB",
+          "mark": "4:07.43"
+        },
+        {
+          "rank": 15,
+          "athlete": "MESELE Worknesh",
+          "country": "ETH",
+          "dob": "11 JUN 2001",
+          "mark": "4:07.53"
+        },
+        {
+          "rank": null,
+          "athlete": "PARKS Taryn",
+          "country": "USA",
+          "dob": "6 MAY 2002",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-3000m-steeplechase-women",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "19:15",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CHEMUTAI Peruth",
+          "country": "UGA",
+          "dob": "10 JUL 1999",
+          "note": "MR WL",
+          "mark": "8:51.06"
+        },
+        {
+          "rank": 2,
+          "athlete": "YAVI Winfred",
+          "country": "BRN",
+          "dob": "31 DEC 1999",
+          "note": "SB",
+          "mark": "8:51.54"
+        },
+        {
+          "rank": 3,
+          "athlete": "CHEROTICH Faith",
+          "country": "KEN",
+          "dob": "13 JUL 2004",
+          "mark": "8:52.53"
+        },
+        {
+          "rank": 4,
+          "athlete": "BOUZAYANI Marwa",
+          "country": "TUN",
+          "dob": "26 MAR 1997",
+          "mark": "8:59.25"
+        },
+        {
+          "rank": 5,
+          "athlete": "TUFA Kena",
+          "country": "ETH",
+          "dob": "27 DEC 2005",
+          "mark": "9:11.36"
+        },
+        {
+          "rank": 6,
+          "athlete": "JERUTO Norah",
+          "country": "KAZ",
+          "dob": "2 OCT 1995",
+          "mark": "9:13.86"
+        },
+        {
+          "rank": 7,
+          "athlete": "HALLADAY Lexy",
+          "country": "USA",
+          "dob": "23 JUL 2001",
+          "mark": "9:14.96"
+        },
+        {
+          "rank": 8,
+          "athlete": "WALLE Alemnat",
+          "country": "ETH",
+          "dob": "29 JAN 2006",
+          "mark": "9:15.79"
+        },
+        {
+          "rank": 9,
+          "athlete": "GESESE Firehiwot",
+          "country": "ETH",
+          "dob": "1 JAN 2006",
+          "note": "PB",
+          "mark": "9:16.83"
+        },
+        {
+          "rank": 10,
+          "athlete": "MITCHELL Kaylee",
+          "country": "USA",
+          "dob": "22 OCT 1999",
+          "mark": "9:24.54"
+        },
+        {
+          "rank": 11,
+          "athlete": "COHEN Adva",
+          "country": "ISR",
+          "dob": "24 MAR 1996",
+          "note": "SB",
+          "mark": "9:28.81"
+        },
+        {
+          "rank": 12,
+          "athlete": "FEAIN-RYAN Cara",
+          "country": "AUS",
+          "dob": "5 FEB 1999",
+          "mark": "9:29.10"
+        },
+        {
+          "rank": 13,
+          "athlete": "WAYMENT Courtney",
+          "country": "USA",
+          "dob": "4 AUG 1998",
+          "mark": "9:29.51"
+        },
+        {
+          "rank": 14,
+          "athlete": "ELLIS Angelina",
+          "country": "USA",
+          "dob": "9 AUG 1998",
+          "mark": "9:29.97"
+        },
+        {
+          "rank": 15,
+          "athlete": "GÜRTH Olivia",
+          "country": "GER",
+          "dob": "31 MAY 2002",
+          "note": "SB",
+          "mark": "9:35.82"
+        },
+        {
+          "rank": 16,
+          "athlete": "MARKEZICH Olivia",
+          "country": "USA",
+          "dob": "10 AUG 2000",
+          "mark": "9:38.79"
+        },
+        {
+          "rank": 17,
+          "athlete": "LUO Xia",
+          "country": "CHN",
+          "dob": "10 MAY 2000",
+          "mark": "9:49.83"
+        },
+        {
+          "rank": null,
+          "athlete": "BAKKER Veerle",
+          "country": "NED",
+          "dob": "29 SEP 1997",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "wind": "+0.5 m/s",
+      "startTime": "20:52",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "RUSSELL Masai",
+          "country": "USA",
+          "dob": "17 JUN 2000",
+          "reaction": 0.118,
+          "note": "AR DLR MR",
+          "mark": "12.14"
+        },
+        {
+          "rank": 2,
+          "athlete": "AMUSAN Tobi",
+          "country": "NGR",
+          "dob": "23 APR 1997",
+          "reaction": 0.139,
+          "note": "SB",
+          "mark": "12.28"
+        },
+        {
+          "rank": 3,
+          "athlete": "CHARLTON Devynne",
+          "country": "BAH",
+          "dob": "26 NOV 1995",
+          "reaction": 0.136,
+          "note": "NR",
+          "mark": "12.37"
+        },
+        {
+          "rank": 4,
+          "athlete": "SIMMONDS Megan",
+          "country": "JAM",
+          "dob": "18 MAR 1994",
+          "reaction": 0.139,
+          "note": "SB",
+          "mark": "12.52"
+        },
+        {
+          "rank": 5,
+          "athlete": "KAMBUNDJI Ditaji",
+          "country": "SUI",
+          "dob": "20 MAY 2002",
+          "reaction": 0.122,
+          "note": "SB",
+          "mark": "12.62"
+        },
+        {
+          "rank": 6,
+          "athlete": "NUGENT Ackera",
+          "country": "JAM",
+          "dob": "29 APR 2002",
+          "reaction": 0.155,
+          "note": "SB",
+          "mark": "12.64"
+        },
+        {
+          "rank": 7,
+          "athlete": "WILLIAMS Danielle",
+          "country": "JAM",
+          "dob": "14 SEP 1992",
+          "reaction": 0.126,
+          "note": "SB",
+          "mark": "12.90"
+        },
+        {
+          "rank": 8,
+          "athlete": "WU Yanni",
+          "country": "CHN",
+          "dob": "28 JUL 1997",
+          "reaction": 0.147,
+          "note": "SB",
+          "mark": "13.06"
+        },
+        {
+          "rank": 9,
+          "athlete": "MARSHALL Tonea",
+          "country": "USA",
+          "dob": "17 OCT 1998",
+          "reaction": 0.147,
+          "mark": "13.13"
+        },
+        {
+          "rank": 10,
+          "athlete": "LIU Jingyang",
+          "country": "CHN",
+          "dob": "12 AUG 1997",
+          "reaction": 0.163,
+          "note": "SB",
+          "mark": "13.26"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-high-jump-women",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "18:51",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "LEVCHENKO Yuliia",
+          "country": "UKR",
+          "dob": "28 NOV 1997",
+          "note": "=SB",
+          "mark": "1.99"
+        },
+        {
+          "rank": 2,
+          "athlete": "GERASHCHENKO Iryna",
+          "country": "UKR",
+          "dob": "10 MAR 1995",
+          "note": "SB",
+          "mark": "1.97"
+        },
+        {
+          "rank": 3,
+          "athlete": "DISTIN Lamara",
+          "country": "JAM",
+          "dob": "3 MAR 2000",
+          "mark": "1.94"
+        },
+        {
+          "rank": 4,
+          "athlete": "ZODZIK Maria",
+          "country": "POL",
+          "dob": "19 JAN 1997",
+          "mark": "1.94"
+        },
+        {
+          "rank": 5,
+          "athlete": "PATTERSON Eleanor",
+          "country": "AUS",
+          "dob": "22 MAY 1996",
+          "mark": "1.94"
+        },
+        {
+          "rank": 6,
+          "athlete": "HUFNAGEL Charity",
+          "country": "USA",
+          "dob": "18 JUN 2001",
+          "mark": "1.91"
+        },
+        {
+          "rank": 7,
+          "athlete": "LU Jiawen",
+          "country": "CHN",
+          "dob": "19 AUG 2002",
+          "mark": "1.88"
+        },
+        {
+          "rank": 8,
+          "athlete": "LAKE Morgan",
+          "country": "GBR",
+          "dob": "12 MAY 1997",
+          "mark": "1.88"
+        },
+        {
+          "rank": 9,
+          "athlete": "ONNEN Imke",
+          "country": "GER",
+          "dob": "17 AUG 1994",
+          "mark": "1.88"
+        },
+        {
+          "rank": 10,
+          "athlete": "SHAO Yuqi",
+          "country": "CHN",
+          "dob": "13 MAY 2002",
+          "note": "=SB",
+          "mark": "1.84"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-discus-throw-women",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "19:48",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SION Valarie",
+          "country": "USA",
+          "dob": "23 FEB 1995",
+          "mark": "68.45"
+        },
+        {
+          "rank": 2,
+          "athlete": "FENG Bin",
+          "country": "CHN",
+          "dob": "3 APR 1994",
+          "note": "SB",
+          "mark": "65.03"
+        },
+        {
+          "rank": 3,
+          "athlete": "van KLINKEN Jorinde",
+          "country": "NED",
+          "dob": "2 FEB 2000",
+          "mark": "64.27"
+        },
+        {
+          "rank": 4,
+          "athlete": "BEISTLE Erika",
+          "country": "USA",
+          "dob": "8 MAY 2003",
+          "mark": "64.07"
+        },
+        {
+          "rank": 5,
+          "athlete": "KAMGA Vanessa",
+          "country": "SWE",
+          "dob": "19 NOV 1998",
+          "note": "SB",
+          "mark": "64.02"
+        },
+        {
+          "rank": 6,
+          "athlete": "CRAFT Shanice",
+          "country": "GER",
+          "dob": "15 MAY 1993",
+          "mark": "63.96"
+        },
+        {
+          "rank": 7,
+          "athlete": "JACKSON Cierra",
+          "country": "USA",
+          "dob": "28 AUG 2002",
+          "mark": "62.66"
+        },
+        {
+          "rank": 8,
+          "athlete": "TAUSAGA Laulauga",
+          "country": "USA",
+          "dob": "22 MAY 1998",
+          "mark": "61.51"
+        },
+        {
+          "rank": 9,
+          "athlete": "FRALEY Veronica",
+          "country": "USA",
+          "dob": "27 MAY 2000",
+          "mark": "61.27"
+        },
+        {
+          "rank": 10,
+          "athlete": "MORÁLES Silinda",
+          "country": "CUB",
+          "dob": "30 AUG 2000",
+          "mark": "59.07"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-javelin-throw-women",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "18:10",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YAN Ziyi",
+          "country": "CHN",
+          "dob": "22 MAY 2008",
+          "note": "WU20R AR DLR",
+          "mark": "71.74"
+        },
+        {
+          "rank": 2,
+          "athlete": "BORGE Sigrid",
+          "country": "NOR",
+          "dob": "3 DEC 1995",
+          "note": "SB",
+          "mark": "65.00"
+        },
+        {
+          "rank": 3,
+          "athlete": "VILAGOŠ Adriana",
+          "country": "SRB",
+          "dob": "2 JAN 2004",
+          "note": "SB",
+          "mark": "63.64"
+        },
+        {
+          "rank": 4,
+          "athlete": "ANDREJCZYK Maria",
+          "country": "POL",
+          "dob": "9 MAR 1996",
+          "mark": "62.51"
+        },
+        {
+          "rank": 5,
+          "athlete": "RUIZ HURTADO Flor Denis",
+          "country": "COL",
+          "dob": "29 JAN 1991",
+          "mark": "60.84"
+        },
+        {
+          "rank": 6,
+          "athlete": "MOORBY Tori",
+          "country": "NZL",
+          "dob": "17 MAY 1994",
+          "mark": "60.37"
+        },
+        {
+          "rank": 7,
+          "athlete": "KITAGUCHI Haruka",
+          "country": "JPN",
+          "dob": "16 MAR 1998",
+          "mark": "60.08"
+        },
+        {
+          "rank": 8,
+          "athlete": "DAI Qianqian",
+          "country": "CHN",
+          "dob": "23 AUG 2000",
+          "note": "SB",
+          "mark": "59.20"
+        },
+        {
+          "rank": 10,
+          "athlete": "TZENGKO Elina",
+          "country": "GRE",
+          "dob": "2 SEP 2002",
+          "mark": "55.96"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "wind": "-0.5 m/s",
+      "startTime": "18:41",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "XIAO Zhixuan",
+          "country": "CHN",
+          "dob": "20 NOV 2006",
+          "reaction": 0.148,
+          "mark": "11.94"
+        },
+        {
+          "rank": 2,
+          "athlete": "SUN Yuxuan",
+          "country": "CHN",
+          "dob": "28 NOV 2009",
+          "reaction": 0.158,
+          "mark": "12.60"
+        },
+        {
+          "rank": 3,
+          "athlete": "LIN Kexin",
+          "country": "CHN",
+          "dob": "21 FEB 2009",
+          "reaction": 0.173,
+          "mark": "12.63"
+        },
+        {
+          "rank": 4,
+          "athlete": "WU Shixuan",
+          "country": "CHN",
+          "dob": "21 APR 2009",
+          "reaction": 0.159,
+          "mark": "12.70"
+        },
+        {
+          "rank": 5,
+          "athlete": "CHEN Peiyu",
+          "country": "CHN",
+          "dob": "10 JUL 2010",
+          "reaction": 0.188,
+          "mark": "12.74"
+        },
+        {
+          "rank": 6,
+          "athlete": "LI Mengxi",
+          "country": "CHN",
+          "dob": "17 MAR 2012",
+          "reaction": 0.17,
+          "mark": "12.76"
+        },
+        {
+          "rank": 7,
+          "athlete": "YU Chengxue",
+          "country": "CHN",
+          "dob": "5 JUN 2006",
+          "reaction": 0.173,
+          "mark": "12.80"
+        },
+        {
+          "rank": 8,
+          "athlete": "DING Tiantian",
+          "country": "CHN",
+          "dob": "3 FEB 2007",
+          "reaction": 0.164,
+          "mark": "12.88"
+        },
+        {
+          "rank": 9,
+          "athlete": "WU Shiyu",
+          "country": "CHN",
+          "dob": "21 APR 2009",
+          "reaction": 0.176,
+          "mark": "12.89"
+        },
+        {
+          "rank": 10,
+          "athlete": "YU Mingyi",
+          "country": "CHN",
+          "dob": "18 SEP 2007",
+          "reaction": 0.187,
+          "mark": "13.56"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-4x100m-relay-women",
+      "discipline": "4x100m Relay",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "17:15",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "XIE Mingjie",
+          "country": "CHN",
+          "dob": "28 AUG 2009",
+          "mark": "15:33.93"
+        },
+        {
+          "rank": 2,
+          "athlete": "LONG Zixiang",
+          "country": "CHN",
+          "dob": "7 FEB 2007",
+          "mark": "15:49.04"
+        },
+        {
+          "rank": 3,
+          "athlete": "ZHANG Wenzhui",
+          "country": "CHN",
+          "dob": "31 OCT 2000",
+          "mark": "15:49.58"
+        },
+        {
+          "rank": 4,
+          "athlete": "XU Jiangcheng",
+          "country": "CHN",
+          "dob": "22 MAR 1986",
+          "mark": "15:53.62"
+        },
+        {
+          "rank": 5,
+          "athlete": "JIAN Ping",
+          "country": "CHN",
+          "dob": "5 AUG 2010",
+          "mark": "15:57.49"
+        },
+        {
+          "rank": 6,
+          "athlete": "WANG Xiaokan",
+          "country": "CHN",
+          "dob": "29 FEB 1984",
+          "mark": "16:48.24"
+        },
+        {
+          "rank": 7,
+          "athlete": "SUN Lin",
+          "country": "CHN",
+          "dob": "20 NOV 2006",
+          "mark": "16:57.64"
+        },
+        {
+          "rank": 8,
+          "athlete": "HUANG Xuemei",
+          "country": "CHN",
+          "dob": "4 NOV 1992",
+          "mark": "16:59.75"
+        },
+        {
+          "rank": 9,
+          "athlete": "CAI Xinji",
+          "country": "CHN",
+          "dob": "10 DEC 2010",
+          "mark": "17:01.80"
+        },
+        {
+          "rank": 10,
+          "athlete": "DU Tianyou",
+          "country": "CHN",
+          "dob": "23 DEC 2008",
+          "mark": "17:06.28"
+        },
+        {
+          "rank": 11,
+          "athlete": "YANG Zhuofan",
+          "country": "CHN",
+          "dob": "3 SEP 2009",
+          "mark": "17:06.49"
+        },
+        {
+          "rank": 12,
+          "athlete": "WEI Wenjie",
+          "country": "CHN",
+          "dob": "13 FEB 2003",
+          "mark": "17:09.79"
+        },
+        {
+          "rank": 13,
+          "athlete": "CAI Jinrong",
+          "country": "CHN",
+          "dob": "8 JUN 2003",
+          "mark": "17:12.12"
+        },
+        {
+          "rank": 14,
+          "athlete": "YE Zhibin",
+          "country": "CHN",
+          "dob": "21 APR 2009",
+          "mark": "17:12.88"
+        },
+        {
+          "rank": 15,
+          "athlete": "LI Keliang",
+          "country": "CHN",
+          "dob": "16 FEB 2005",
+          "mark": "17:13.99"
+        },
+        {
+          "rank": 16,
+          "athlete": "ZHONG Zhipeng",
+          "country": "CHN",
+          "dob": "24 APR 2006",
+          "mark": "17:15.90"
+        },
+        {
+          "rank": 17,
+          "athlete": "WANG Pengjun",
+          "country": "CHN",
+          "dob": "20 OCT 2000",
+          "mark": "17:30.65"
+        },
+        {
+          "rank": 18,
+          "athlete": "WANG Binyue",
+          "country": "CHN",
+          "dob": "30 MAR 2010",
+          "mark": "17:31.81"
+        },
+        {
+          "rank": 19,
+          "athlete": "CAI Siqin",
+          "country": "CHN",
+          "dob": "27 FEB 1989",
+          "mark": "17:34.24"
+        },
+        {
+          "rank": 20,
+          "athlete": "HUANG Hao",
+          "country": "CHN",
+          "dob": "20 SEP 2003",
+          "mark": "17:41.01"
+        },
+        {
+          "rank": 21,
+          "athlete": "LI Fuyue",
+          "country": "CHN",
+          "dob": "10 OCT 2006",
+          "mark": "17:47.67"
+        },
+        {
+          "rank": 22,
+          "athlete": "ZHUANG Yanan",
+          "country": "CHN",
+          "dob": "15 JAN 2011",
+          "mark": "18:18.29"
+        },
+        {
+          "rank": 23,
+          "athlete": "HU Ling",
+          "country": "CHN",
+          "dob": "2 SEP 2003",
+          "mark": "19:34.23"
+        },
+        {
+          "rank": 24,
+          "athlete": "XU Shuhan",
+          "country": "CHN",
+          "dob": "22 OCT 1983",
+          "mark": "20:01.53"
+        },
+        {
+          "rank": 25,
+          "athlete": "WANG Xiaoling",
+          "country": "CHN",
+          "dob": "30 AUG 2010",
+          "mark": "20:10.49"
+        },
+        {
+          "rank": 26,
+          "athlete": "LV Nating",
+          "country": "CHN",
+          "dob": "29 JUL 1991",
+          "mark": "20:24.52"
+        },
+        {
+          "rank": 27,
+          "athlete": "ZHAO Yiqun",
+          "country": "CHN",
+          "dob": "1 FEB 1992",
+          "mark": "20:38.74"
+        },
+        {
+          "rank": 28,
+          "athlete": "GAO Bingbing",
+          "country": "CHN",
+          "dob": "17 MAY 2006",
+          "mark": "20:53.46"
+        },
+        {
+          "rank": null,
+          "athlete": "CHI Yimei",
+          "country": "CHN",
+          "dob": "6 OCT 1990",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "CHI Ziling",
+          "country": "CHN",
+          "dob": "13 JAN 2010",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "HU Xiaoyan",
+          "country": "CHN",
+          "dob": "6 FEB 1989",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    }
+  ]
+}

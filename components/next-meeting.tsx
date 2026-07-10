@@ -3,11 +3,8 @@ import { ArrowUpRight, CalendarDays, MapPin } from 'lucide-react'
 import { Countdown } from '@/components/countdown'
 import { StatusBadge } from '@/components/status-badge'
 import type { Meeting } from '@/lib/diamond-league/types'
-import {
-  flagEmoji,
-  formatFullDate,
-  getMeetingStatus,
-} from '@/lib/diamond-league/utils'
+import { formatFullDate, getMeetingStatus } from '@/lib/diamond-league/utils'
+import { CountryFlag } from '@/components/country-flag'
 
 export function NextMeeting({ meeting }: { meeting: Meeting }) {
   const status = getMeetingStatus(meeting)
@@ -29,9 +26,7 @@ export function NextMeeting({ meeting }: { meeting: Meeting }) {
 
         <div className="mt-4 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
-            <div className="text-4xl leading-none" aria-hidden="true">
-              {flagEmoji(meeting.country)}
-            </div>
+            <CountryFlag code={meeting.country} className="h-8 w-12 rounded" />
             <h2 className="mt-3 text-3xl font-bold tracking-tight text-balance sm:text-4xl">
               {meeting.name}
             </h2>

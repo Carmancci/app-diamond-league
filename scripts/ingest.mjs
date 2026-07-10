@@ -163,7 +163,8 @@ async function main() {
   let finalIndex = index
   if (only && fs.existsSync(indexPath)) {
     const prev = JSON.parse(fs.readFileSync(indexPath, 'utf8'))
-    const map = new Map(prev.map((m) => [m.slug, m]))
+    const prevMeetings = Array.isArray(prev) ? prev : (prev.meetings ?? [])
+    const map = new Map(prevMeetings.map((m) => [m.slug, m]))
     for (const m of index) map.set(m.slug, m)
     finalIndex = [...map.values()].sort((a, b) => a.round - b.round)
   }

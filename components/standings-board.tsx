@@ -3,7 +3,8 @@
 import { useMemo, useState } from 'react'
 import { cn } from '@/lib/utils'
 import type { Gender } from '@/lib/diamond-league/types'
-import { flagEmoji, type StandingRow } from '@/lib/diamond-league/utils'
+import type { StandingRow } from '@/lib/diamond-league/utils'
+import { CountryFlag } from '@/components/country-flag'
 
 const TABS: { key: Gender | 'all'; label: string }[] = [
   { key: 'all', label: 'Geral' },
@@ -65,9 +66,7 @@ export function StandingsBoard({ rows }: { rows: StandingRow[] }) {
               {i + 1}
             </span>
             <div className="flex min-w-0 flex-1 items-center gap-2.5">
-              <span className="text-base" aria-hidden="true">
-                {flagEmoji(row.country)}
-              </span>
+              <CountryFlag code={row.country} className="size-5 shrink-0" />
               <div className="min-w-0">
                 <div className="truncate font-medium text-foreground">{row.athlete}</div>
                 <div className="truncate text-xs text-muted-foreground sm:hidden">

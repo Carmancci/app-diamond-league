@@ -1,0 +1,16 @@
+{
+  "id": "zurich",
+  "slug": "zurich",
+  "round": 14,
+  "name": "Zurique",
+  "city": "Zurique",
+  "country": "SUI",
+  "countryName": "Suíça",
+  "stadium": "Letzigrund",
+  "date": "2026-08-27",
+  "isFinal": false,
+  "officialUrl": "https://zurich.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:51:59.797Z",
+  "events": []
+}

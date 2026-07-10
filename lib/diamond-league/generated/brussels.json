@@ -1,0 +1,17 @@
+{
+  "id": "brussels",
+  "slug": "brussels",
+  "round": 15,
+  "name": "Final de Bruxelas",
+  "city": "Bruxelas",
+  "country": "BEL",
+  "countryName": "Bélgica",
+  "stadium": "King Baudouin",
+  "date": "2026-09-04",
+  "endDate": "2026-09-05",
+  "isFinal": true,
+  "officialUrl": "https://brussels.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:52:00.102Z",
+  "events": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "silesia",
+  "slug": "silesia",
+  "round": 13,
+  "name": "Silésia",
+  "city": "Chorzów",
+  "country": "POL",
+  "countryName": "Polônia",
+  "stadium": "Silesian Stadium",
+  "date": "2026-08-23",
+  "isFinal": false,
+  "officialUrl": "https://silesia.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:51:59.502Z",
+  "events": []
+}

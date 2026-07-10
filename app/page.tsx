@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { ArrowUpRight } from 'lucide-react'
 import { MeetingCard } from '@/components/meeting-card'
 import { NextMeeting } from '@/components/next-meeting'
+import { CountryFlag } from '@/components/country-flag'
 import { SEASON_YEAR } from '@/lib/diamond-league/data'
 import {
   getMeetings,
@@ -116,6 +117,7 @@ export default function HomePage() {
               className="flex items-center gap-4 border-b border-border bg-card px-4 py-3 last:border-b-0"
             >
               <span className="w-6 font-mono text-sm font-bold text-primary">{i + 1}</span>
+              <CountryFlag code={row.country} className="size-5 shrink-0" />
               <div className="min-w-0 flex-1">
                 <div className="truncate font-medium text-foreground">{row.athlete}</div>
                 <div className="truncate text-xs text-muted-foreground">
@@ -132,9 +134,9 @@ export default function HomePage() {
 
       {/* Nota de dados */}
       <p className="mt-12 rounded-lg border border-border bg-card px-4 py-3 text-xs leading-relaxed text-muted-foreground">
-        Calendário oficial da Wanda Diamond League {SEASON_YEAR}. A estrutura está preparada
-        para conectar a fonte de dados da World Athletics para atualização automática de
-        resultados.
+        Resultados reais extraídos e convertidos dos boletins oficiais em PDF da Wanda Diamond
+        League {SEASON_YEAR} (Swiss Timing / diamondleague.com). Etapas futuras exibem programa e
+        cronômetro até a publicação do boletim oficial.
       </p>
     </main>
   )

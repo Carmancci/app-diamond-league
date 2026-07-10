@@ -1,0 +1,16 @@
+{
+  "id": "lausanne",
+  "slug": "lausanne",
+  "round": 12,
+  "name": "Lausanne",
+  "city": "Lausanne",
+  "country": "SUI",
+  "countryName": "Suíça",
+  "stadium": "Stade de la Pontaise",
+  "date": "2026-08-21",
+  "isFinal": false,
+  "officialUrl": "https://lausanne.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:51:59.172Z",
+  "events": []
+}

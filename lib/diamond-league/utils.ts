@@ -49,17 +49,22 @@ export interface StandingRow {
   gender: Gender
 }
 
-/** Ranking simples de pontos Diamond League a partir dos resultados existentes. */
+/**
+ * Ranking de pontos Diamond League por disciplina, a partir dos resultados
+ * reais (apenas provas principais, onde `points` foi calculado).
+ */
 export function getStandings(gender?: Gender): StandingRow[] {
   const map = new Map<string, StandingRow>()
 
   for (const meeting of MEETINGS) {
     for (const event of meeting.events) {
+      if (!event.isPrimary) continue
       if (gender && event.gender !== gender) continue
       for (const r of event.results) {
+        const pts = r.points ?? 0
+        if (pts === 0 && r.rank !== 1) continue
         const key = `${r.athlete}-${event.discipline}-${event.gender}`
         const existing = map.get(key)
-        const pts = r.points ?? 0
         if (existing) {
           existing.points += pts
           if (r.rank === 1) existing.wins += 1
@@ -117,20 +122,4 @@ export function formatFullDate(meeting: Meeting): string {
   return `${d} de ${m} de ${SEASON_YEAR}`
 }
 
-/** Bandeira em emoji a partir de ISO-3 (aproximado via mapa ISO3->ISO2). */
-const ISO3_TO_ISO2: Record<string, string> = {
-  JAM: 'JM', USA: 'US', RSA: 'ZA', GBR: 'GB', LCA: 'LC', CIV: 'CI', KEN: 'KE',
-  ETH: 'ET', AUS: 'AU', GRE: 'GR', NOR: 'NO', NGR: 'NG', FRA: 'FR', ZAM: 'ZM',
-  CAN: 'CA', ALG: 'DZ', LTU: 'LT', SWE: 'SE', SLO: 'SI', BOT: 'BW', MAR: 'MA',
-  UKR: 'UA', NED: 'NL', IND: 'IN', GER: 'DE', CZE: 'CZ', QAT: 'QA', BRN: 'BH',
-  UGA: 'UG', POR: 'PT', BUR: 'BF', ESP: 'ES', ITA: 'IT', NZL: 'NZ', CHN: 'CN',
-  POL: 'PL', BEL: 'BE', SUI: 'CH', MON: 'MC',
-}
-
-export function flagEmoji(iso3: string): string {
-  const iso2 = ISO3_TO_ISO2[iso3]
-  if (!iso2) return '\u{1F3F3}'
-  return iso2
-    .toUpperCase()
-    .replace(/./g, (c) => String.fromCodePoint(127397 + c.charCodeAt(0)))
-}
+export { countryName } from './countries'

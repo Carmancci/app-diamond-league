@@ -1,0 +1,16 @@
+{
+  "id": "london",
+  "slug": "london",
+  "round": 11,
+  "name": "Londres",
+  "city": "Londres",
+  "country": "GBR",
+  "countryName": "Reino Unido",
+  "stadium": "London Stadium",
+  "date": "2026-07-18",
+  "isFinal": false,
+  "officialUrl": "https://london.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:51:58.861Z",
+  "events": []
+}

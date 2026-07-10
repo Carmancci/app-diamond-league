@@ -1,0 +1,2925 @@
+{
+  "id": "eugene",
+  "slug": "eugene",
+  "round": 9,
+  "name": "Eugene",
+  "city": "Eugene",
+  "country": "USA",
+  "countryName": "Estados Unidos",
+  "stadium": "Hayward Field",
+  "date": "2026-07-04",
+  "isFinal": false,
+  "officialUrl": "https://eugene.diamondleague.com",
+  "source": {
+    "type": "pdf",
+    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/EUGENE_2026/PDF_ATH-------------------------------_MUL.PDF"
+  },
+  "updatedAt": "2026-07-10T12:51:57.652Z",
+  "events": [
+    {
+      "id": "eugene-hammer-throw-men",
+      "discipline": "Hammer Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "18:00",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KATZBERG Ethan",
+          "country": "CAN",
+          "dob": "5 APR 2002",
+          "note": "DLR MR WL",
+          "mark": "83.33"
+        },
+        {
+          "rank": 2,
+          "athlete": "WINKLER Rudy",
+          "country": "USA",
+          "dob": "6 DEC 1994",
+          "note": "SB",
+          "mark": "81.12"
+        },
+        {
+          "rank": 3,
+          "athlete": "HUMMEL Merlin",
+          "country": "GER",
+          "dob": "4 JAN 2002",
+          "mark": "79.01"
+        },
+        {
+          "rank": 4,
+          "athlete": "KOKHAN Mykhaylo",
+          "country": "UKR",
+          "dob": "22 JAN 2001",
+          "mark": "78.95"
+        },
+        {
+          "rank": 5,
+          "athlete": "KNIGHT Trey",
+          "country": "USA",
+          "dob": "24 MAY 2002",
+          "mark": "76.48"
+        },
+        {
+          "rank": 6,
+          "athlete": "HAMILTON Rowan",
+          "country": "CAN",
+          "dob": "29 JAN 2000",
+          "mark": "75.63"
+        },
+        {
+          "rank": 7,
+          "athlete": "HAUGH Daniel",
+          "country": "USA",
+          "dob": "3 MAY 1995",
+          "mark": "72.39"
+        },
+        {
+          "rank": 8,
+          "athlete": "COMENENTIA Denzel",
+          "country": "NED",
+          "dob": "25 NOV 1995",
+          "mark": "72.10"
+        }
+      ]
+    },
+    {
+      "id": "eugene-pole-vault-women",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "phase": "Community",
+      "isPrimary": false,
+      "wind": "0.0 m/s",
+      "startTime": "20:03",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MORRIS Sandi",
+          "country": "USA",
+          "dob": "8 JUL 1992",
+          "note": "SB",
+          "mark": "4.85"
+        },
+        {
+          "rank": 2,
+          "athlete": "MOON Katie",
+          "country": "USA",
+          "dob": "13 JUN 1991",
+          "note": "SB",
+          "mark": "4.80"
+        },
+        {
+          "rank": 3,
+          "athlete": "LEON Gabriela",
+          "country": "USA",
+          "dob": "17 JUN 1999",
+          "mark": "4.70"
+        },
+        {
+          "rank": 4,
+          "athlete": "GROVE Emily",
+          "country": "USA",
+          "dob": "22 MAY 1993",
+          "note": "SB",
+          "mark": "4.70"
+        },
+        {
+          "rank": 4,
+          "athlete": "MOLL Hana",
+          "country": "USA",
+          "dob": "31 JAN 2005",
+          "mark": "4.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "MOLL Amanda",
+          "country": "USA",
+          "dob": "31 JAN 2005",
+          "mark": "4.60"
+        },
+        {
+          "rank": 6,
+          "athlete": "TIMBERG Chloe",
+          "country": "USA",
+          "dob": "24 JUN 2003",
+          "mark": "4.60"
+        },
+        {
+          "rank": 8,
+          "athlete": "KING Brynn",
+          "country": "USA",
+          "dob": "22 AUG 2000",
+          "mark": "4.60"
+        },
+        {
+          "rank": 9,
+          "athlete": "BONNIN Marie-Julie",
+          "country": "FRA",
+          "dob": "17 DEC 2001",
+          "note": "=SB",
+          "mark": "4.50"
+        },
+        {
+          "rank": 1,
+          "athlete": "DAVIS Troy",
+          "country": "USA",
+          "dob": "29 JAN 1975",
+          "mark": "16.43"
+        },
+        {
+          "rank": 2,
+          "athlete": "ZEDDEK Adrian",
+          "country": "USA",
+          "dob": "20 NOV 2010",
+          "mark": "17.87"
+        },
+        {
+          "rank": 3,
+          "athlete": "ABBOTT Zach",
+          "country": "USA",
+          "dob": "31 OCT 1990",
+          "mark": "20.27"
+        },
+        {
+          "rank": 4,
+          "athlete": "PARKER Finley",
+          "country": "USA",
+          "dob": "30 APR 2010",
+          "mark": "20.89"
+        }
+      ]
+    },
+    {
+      "id": "eugene-discus-throw-women",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "20:22",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SION Valarie",
+          "country": "USA",
+          "dob": "23 FEB 1995",
+          "mark": "68.64"
+        },
+        {
+          "rank": 2,
+          "athlete": "van KLINKEN Jorinde",
+          "country": "NED",
+          "dob": "2 FEB 2000",
+          "mark": "68.21"
+        },
+        {
+          "rank": 3,
+          "athlete": "van DAALEN Alida",
+          "country": "NED",
+          "dob": "12 APR 2002",
+          "mark": "65.02"
+        },
+        {
+          "rank": 4,
+          "athlete": "TAUSAGA Laulauga",
+          "country": "USA",
+          "dob": "22 MAY 1998",
+          "mark": "62.39"
+        },
+        {
+          "rank": 5,
+          "athlete": "BEISTLE Erika",
+          "country": "USA",
+          "dob": "8 MAY 2003",
+          "mark": "61.32"
+        },
+        {
+          "rank": 6,
+          "athlete": "ULRICH Jayden",
+          "country": "USA",
+          "dob": "15 SEP 2002",
+          "mark": "61.21"
+        },
+        {
+          "rank": 7,
+          "athlete": "JACOBS Gabi",
+          "country": "USA",
+          "dob": "20 AUG 1996",
+          "mark": "58.95"
+        },
+        {
+          "rank": null,
+          "athlete": "JACKSON Cierra",
+          "country": "USA",
+          "dob": "28 AUG 2002",
+          "mark": "NM",
+          "status": "NM"
+        },
+        {
+          "rank": 1,
+          "athlete": "SULKOSKY Isabella",
+          "country": "USA",
+          "dob": "5 NOV 2012",
+          "mark": "4:48.93"
+        },
+        {
+          "rank": 2,
+          "athlete": "LAVIGNE Kyra",
+          "country": "USA",
+          "dob": "11 AUG 2013",
+          "mark": "5:05.92"
+        },
+        {
+          "rank": 3,
+          "athlete": "CUTTING Emma",
+          "country": "USA",
+          "dob": "3 APR 2014",
+          "mark": "5:06.39"
+        },
+        {
+          "rank": 4,
+          "athlete": "KELLER Elizabeth",
+          "country": "USA",
+          "dob": "19 JAN 2012",
+          "mark": "5:30.28"
+        },
+        {
+          "rank": 5,
+          "athlete": "KELLER Nora",
+          "country": "USA",
+          "dob": "26 OCT 2013",
+          "mark": "5:32.86"
+        },
+        {
+          "rank": 6,
+          "athlete": "McELLIGOTT Sayuri",
+          "country": "USA",
+          "dob": "22 APR 2013",
+          "mark": "5:38.67"
+        },
+        {
+          "rank": 7,
+          "athlete": "DAY Alexa",
+          "country": "USA",
+          "dob": "29 OCT 2014",
+          "mark": "5:44.46"
+        },
+        {
+          "rank": 8,
+          "athlete": "HUSTON Charlotte",
+          "country": "USA",
+          "dob": "13 JUL 2012",
+          "mark": "5:49.18"
+        },
+        {
+          "rank": 9,
+          "athlete": "PEARTREE Eloise",
+          "country": "USA",
+          "dob": "29 MAY 2014",
+          "mark": "5:52.18"
+        },
+        {
+          "rank": 10,
+          "athlete": "TREVISAN Rafaela",
+          "country": "USA",
+          "dob": "22 JUN 2013",
+          "mark": "6:08.67"
+        },
+        {
+          "rank": 11,
+          "athlete": "THOMAS Elsie",
+          "country": "USA",
+          "dob": "8 NOV 2016",
+          "mark": "6:09.98"
+        },
+        {
+          "rank": 12,
+          "athlete": "RANDALL Lori",
+          "country": "USA",
+          "dob": "10 SEP 2012",
+          "mark": "6:13.11"
+        },
+        {
+          "rank": 13,
+          "athlete": "SHEKAR Avika",
+          "country": "USA",
+          "dob": "31 JAN 2015",
+          "mark": "6:17.53"
+        },
+        {
+          "rank": 14,
+          "athlete": "WHAN Corabelle",
+          "country": "USA",
+          "dob": "2 AUG 2013",
+          "mark": "6:23.88"
+        },
+        {
+          "rank": 15,
+          "athlete": "LUCERO Tochtli",
+          "country": "USA",
+          "dob": "11 APR 2014",
+          "mark": "6:28.84"
+        },
+        {
+          "rank": 16,
+          "athlete": "DIBOS Eva",
+          "country": "USA",
+          "dob": "19 MAY 2019",
+          "mark": "6:30.67"
+        },
+        {
+          "rank": 17,
+          "athlete": "CLINE Hannah",
+          "country": "USA",
+          "dob": "6 NOV 2013",
+          "mark": "6:32.24"
+        },
+        {
+          "rank": 18,
+          "athlete": "ENRIGHT Veda",
+          "country": "USA",
+          "dob": "24 JUL 2015",
+          "mark": "6:33.08"
+        },
+        {
+          "rank": 19,
+          "athlete": "TABOR Jazzmyne",
+          "country": "USA",
+          "dob": "21 SEP 2016",
+          "mark": "7:14.01"
+        },
+        {
+          "rank": 1,
+          "athlete": "DUNCAN Logan",
+          "country": "USA",
+          "dob": "20 MAR 2014",
+          "mark": "4:28.52"
+        },
+        {
+          "rank": 2,
+          "athlete": "BECKER Sam",
+          "country": "USA",
+          "dob": "3 APR 2012",
+          "mark": "4:30.48"
+        },
+        {
+          "rank": 3,
+          "athlete": "REAVIS Nathan",
+          "country": "USA",
+          "dob": "23 JUL 2012",
+          "mark": "4:37.88"
+        },
+        {
+          "rank": 4,
+          "athlete": "KELLY Leo",
+          "country": "USA",
+          "dob": "27 JAN 2013",
+          "mark": "4:49.59"
+        },
+        {
+          "rank": 5,
+          "athlete": "VERRAULT Owen",
+          "country": "USA",
+          "dob": "6 SEP 2011",
+          "mark": "4:54.21"
+        },
+        {
+          "rank": 6,
+          "athlete": "KOBER Roger",
+          "country": "USA",
+          "dob": "1 MAR 2012",
+          "mark": "4:55.96"
+        },
+        {
+          "rank": 7,
+          "athlete": "DRAKE Conrad",
+          "country": "USA",
+          "dob": "13 NOV 2012",
+          "mark": "4:56.61"
+        },
+        {
+          "rank": 8,
+          "athlete": "LAVIGNE Sean",
+          "country": "USA",
+          "dob": "3 MAR 2012",
+          "mark": "4:59.07"
+        },
+        {
+          "rank": 9,
+          "athlete": "SIEBERS Jackson",
+          "country": "USA",
+          "dob": "9 MAR 2012",
+          "mark": "5:01.95"
+        },
+        {
+          "rank": 10,
+          "athlete": "NEWLAND Bobby",
+          "country": "USA",
+          "dob": "17 FEB 2012",
+          "mark": "5:03.10(.099)"
+        },
+        {
+          "rank": 11,
+          "athlete": "UBEL Caedmon",
+          "country": "USA",
+          "dob": "17 OCT 2012",
+          "mark": "5:03.10(.100)"
+        },
+        {
+          "rank": 12,
+          "athlete": "LAVIGNE Aiden",
+          "country": "USA",
+          "dob": "19 NOV 2014",
+          "mark": "5:08.73"
+        },
+        {
+          "rank": 13,
+          "athlete": "KREMPLEY Myles",
+          "country": "USA",
+          "dob": "25 SEP 2013",
+          "mark": "5:09.98"
+        },
+        {
+          "rank": 14,
+          "athlete": "DOWNEY Lincoln",
+          "country": "USA",
+          "dob": "25 JUL 2014",
+          "mark": "5:10.97"
+        },
+        {
+          "rank": 15,
+          "athlete": "REAMES Silas",
+          "country": "USA",
+          "dob": "19 DEC 2013",
+          "mark": "5:11.93"
+        },
+        {
+          "rank": 16,
+          "athlete": "RAMIREZ Damian",
+          "country": "USA",
+          "dob": "23 JAN 2013",
+          "mark": "5:18.31"
+        },
+        {
+          "rank": 17,
+          "athlete": "VLAICU Alex",
+          "country": "USA",
+          "dob": "12 APR 2012",
+          "mark": "5:18.69"
+        },
+        {
+          "rank": 18,
+          "athlete": "KROFTA Chip",
+          "country": "USA",
+          "dob": "23 DEC 2014",
+          "mark": "5:21.85"
+        },
+        {
+          "rank": 19,
+          "athlete": "TUSKI Tyson",
+          "country": "USA",
+          "dob": "12 DEC 2013",
+          "mark": "5:21.90"
+        },
+        {
+          "rank": 20,
+          "athlete": "QUENCER Justin",
+          "country": "USA",
+          "dob": "1 OCT 2014",
+          "mark": "5:24.46"
+        },
+        {
+          "rank": 21,
+          "athlete": "DOWDLE Isaac",
+          "country": "USA",
+          "dob": "26 MAR 2013",
+          "mark": "5:27.10"
+        },
+        {
+          "rank": 22,
+          "athlete": "ULRICH Everett",
+          "country": "USA",
+          "dob": "29 OCT 2014",
+          "mark": "5:27.13"
+        },
+        {
+          "rank": 23,
+          "athlete": "SELJAN Douglas",
+          "country": "USA",
+          "dob": "11 JUN 2014",
+          "mark": "5:29.27"
+        },
+        {
+          "rank": 24,
+          "athlete": "O'LOUGHLIN Mason",
+          "country": "USA",
+          "dob": "25 APR 2016",
+          "mark": "5:36.78"
+        },
+        {
+          "rank": 25,
+          "athlete": "VLAICU Matthew",
+          "country": "USA",
+          "dob": "3 OCT 2013",
+          "mark": "5:38.35"
+        },
+        {
+          "rank": 26,
+          "athlete": "BRENNAN Luke",
+          "country": "USA",
+          "dob": "11 SEP 2013",
+          "mark": "5:44.05"
+        },
+        {
+          "rank": 27,
+          "athlete": "WRIGHT Lincoln",
+          "country": "USA",
+          "dob": "16 JUL 2014",
+          "mark": "5:59.18"
+        },
+        {
+          "rank": 28,
+          "athlete": "SCHOENHERR Reece",
+          "country": "USA",
+          "dob": "11 JUN 2015",
+          "mark": "5:59.67"
+        },
+        {
+          "rank": 29,
+          "athlete": "STEENSON Fischer",
+          "country": "USA",
+          "dob": "5 MAY 2014",
+          "mark": "6:00.15"
+        },
+        {
+          "rank": 30,
+          "athlete": "DIBOS Lewis",
+          "country": "USA",
+          "dob": "2 OCT 2014",
+          "mark": "6:05.54"
+        },
+        {
+          "rank": 31,
+          "athlete": "NEWLAND Will",
+          "country": "USA",
+          "dob": "21 MAY 2013",
+          "mark": "6:10.53"
+        },
+        {
+          "rank": null,
+          "athlete": "BRAVO AGUAYO Gustavo",
+          "country": "USA",
+          "dob": "10 OCT 2011",
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "LOWE Daniel",
+          "country": "USA",
+          "dob": "1 FEB 2013",
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "SHAHA Peter",
+          "country": "USA",
+          "dob": "14 OCT 2013",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "eugene-400m-women",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "20:37",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "OAKLEY Dejanea",
+          "country": "JAM",
+          "dob": "4 JUL 2004",
+          "reaction": 0.138,
+          "mark": "49.64"
+        },
+        {
+          "rank": 2,
+          "athlete": "BUTLER Aaliyah",
+          "country": "USA",
+          "dob": "5 NOV 2003",
+          "reaction": 0.16,
+          "mark": "49.97"
+        },
+        {
+          "rank": 3,
+          "athlete": "WILLIAMS Stacey Ann",
+          "country": "JAM",
+          "dob": "8 MAR 1999",
+          "reaction": 0.132,
+          "mark": "50.12"
+        },
+        {
+          "rank": 4,
+          "athlete": "HOLMES Alexis",
+          "country": "USA",
+          "dob": "28 JAN 2000",
+          "reaction": 0.138,
+          "note": "SB",
+          "mark": "50.36"
+        },
+        {
+          "rank": 5,
+          "athlete": "ONOJUVWEVWO Ella",
+          "country": "NGR",
+          "dob": "25 MAR 2005",
+          "reaction": 0.191,
+          "mark": "50.67"
+        },
+        {
+          "rank": 6,
+          "athlete": "WEIL Martina",
+          "country": "CHI",
+          "dob": "12 JUL 1999",
+          "reaction": 0.167,
+          "note": "SB",
+          "mark": "50.75"
+        },
+        {
+          "rank": 7,
+          "athlete": "BUTLER Sanaria",
+          "country": "USA",
+          "dob": "27 APR 2004",
+          "reaction": 0.172,
+          "mark": "51.65"
+        },
+        {
+          "rank": 8,
+          "athlete": "LEAR Bailey",
+          "country": "USA",
+          "dob": "17 MAR 2001",
+          "reaction": 0.145,
+          "mark": "51.99"
+        },
+        {
+          "rank": 9,
+          "athlete": "ADELEKE Rhasidat",
+          "country": "IRL",
+          "dob": "29 AUG 2002",
+          "reaction": 0.156,
+          "mark": "52.26"
+        }
+      ]
+    },
+    {
+      "id": "eugene-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "20:56",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NIELSEN Wilma",
+          "country": "SWE",
+          "dob": "2 JUN 2001",
+          "note": "SB",
+          "mark": "4:05.60"
+        },
+        {
+          "rank": 2,
+          "athlete": "WHITTAKER Juliette",
+          "country": "USA",
+          "dob": "1 DEC 2003",
+          "note": "PB",
+          "mark": "4:05.78"
+        },
+        {
+          "rank": 3,
+          "athlete": "BUTLER Lindsey",
+          "country": "USA",
+          "dob": "28 AUG 2000",
+          "mark": "4:06.46"
+        },
+        {
+          "rank": 4,
+          "athlete": "SABBATINI Gaia",
+          "country": "ITA",
+          "dob": "10 JUN 1999",
+          "mark": "4:06.55"
+        },
+        {
+          "rank": 5,
+          "athlete": "ZENONI Marta",
+          "country": "ITA",
+          "dob": "9 MAR 1999",
+          "mark": "4:06.75"
+        },
+        {
+          "rank": 6,
+          "athlete": "REISS Annika",
+          "country": "USA",
+          "dob": "11 SEP 2000",
+          "note": "PB",
+          "mark": "4:06.89"
+        },
+        {
+          "rank": 7,
+          "athlete": "ELBADRA Salma",
+          "country": "MAR",
+          "dob": "12 SEP 2004",
+          "mark": "4:06.97"
+        },
+        {
+          "rank": 8,
+          "athlete": "LINCOLN Ellery",
+          "country": "USA",
+          "dob": "23 JAN 2009",
+          "note": "PB",
+          "mark": "4:07.06"
+        },
+        {
+          "rank": 9,
+          "athlete": "STAFFORD Lucia",
+          "country": "CAN",
+          "dob": "17 AUG 1998",
+          "mark": "4:07.14"
+        },
+        {
+          "rank": 10,
+          "athlete": "BARNETT Mia",
+          "country": "SWE",
+          "dob": "4 SEP 2003",
+          "mark": "4:07.26"
+        },
+        {
+          "rank": 12,
+          "athlete": "ENGELHARDT Sadie",
+          "country": "USA",
+          "dob": "21 AUG 2006",
+          "mark": "4:08.10"
+        },
+        {
+          "rank": 13,
+          "athlete": "MORRIS Gracie",
+          "country": "USA",
+          "dob": "17 DEC 2001",
+          "mark": "4:08.50"
+        },
+        {
+          "rank": 15,
+          "athlete": "ARAGON Christina",
+          "country": "USA",
+          "dob": "17 JUN 1997",
+          "mark": "4:11.38"
+        },
+        {
+          "rank": null,
+          "athlete": "MOONEY Maddy",
+          "country": "IRL",
+          "dob": "21 MAR 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": 1,
+          "athlete": "MURPHY Liam",
+          "country": "USA",
+          "dob": "2 APR 2002",
+          "note": "PB",
+          "mark": "3:50.49"
+        },
+        {
+          "rank": 2,
+          "athlete": "NILLESSEN Stefan",
+          "country": "NED",
+          "dob": "2 JAN 2003",
+          "mark": "3:50.50"
+        },
+        {
+          "rank": 3,
+          "athlete": "TEFFRA Abel",
+          "country": "USA",
+          "dob": "23 JAN 2002",
+          "note": "PB",
+          "mark": "3:51.13"
+        },
+        {
+          "rank": 4,
+          "athlete": "BOVE Davis",
+          "country": "USA",
+          "dob": "17 OCT 2000",
+          "note": "PB",
+          "mark": "3:51.42"
+        },
+        {
+          "rank": 5,
+          "athlete": "LAGAT Festus",
+          "country": "KEN",
+          "dob": "10 OCT 1996",
+          "mark": "3:51.44"
+        },
+        {
+          "rank": 6,
+          "athlete": "McFARLAND Trent",
+          "country": "USA",
+          "dob": "1 JUN 2005",
+          "note": "PB",
+          "mark": "3:52.21"
+        },
+        {
+          "rank": 7,
+          "athlete": "ALVARADO Abraham",
+          "country": "MEX",
+          "dob": "4 AUG 1995",
+          "note": "NR",
+          "mark": "3:52.30"
+        },
+        {
+          "rank": 8,
+          "athlete": "CUTTING Carter",
+          "country": "USA",
+          "dob": "10 JAN 2005",
+          "note": "PB",
+          "mark": "3:53.07"
+        },
+        {
+          "rank": 9,
+          "athlete": "PLANT Nick",
+          "country": "USA",
+          "dob": "30 OCT 2003",
+          "note": "PB",
+          "mark": "3:53.13"
+        },
+        {
+          "rank": 10,
+          "athlete": "PORTER Wes",
+          "country": "USA",
+          "dob": "18 SEP 2001",
+          "mark": "3:53.57"
+        },
+        {
+          "rank": 11,
+          "athlete": "HOARE Oliver",
+          "country": "AUS",
+          "dob": "29 JAN 1997",
+          "mark": "3:55.35"
+        },
+        {
+          "rank": 12,
+          "athlete": "COOK Elliott",
+          "country": "USA",
+          "dob": "22 FEB 2002",
+          "note": "PB",
+          "mark": "3:56.16"
+        },
+        {
+          "rank": 13,
+          "athlete": "SPENCER Jackson",
+          "country": "USA",
+          "dob": "29 NOV 2007",
+          "mark": "3:57.34"
+        },
+        {
+          "rank": 14,
+          "athlete": "HOUSER Luke",
+          "country": "USA",
+          "dob": "2 MAY 2001",
+          "mark": "3:59.49"
+        },
+        {
+          "rank": null,
+          "athlete": "STREICH Shane",
+          "country": "USA",
+          "dob": "19 SEP 1996",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "eugene-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "21:16",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MILLER Brandon",
+          "country": "USA",
+          "dob": "30 JAN 2002",
+          "note": "SB",
+          "mark": "1:43.68"
+        },
+        {
+          "rank": 2,
+          "athlete": "LUTKENHAUS Cooper",
+          "country": "USA",
+          "dob": "19 DEC 2008",
+          "mark": "1:44.62"
+        },
+        {
+          "rank": 3,
+          "athlete": "BRAZIER Donavan",
+          "country": "USA",
+          "dob": "15 APR 1997",
+          "mark": "1:44.86"
+        },
+        {
+          "rank": 4,
+          "athlete": "HOPPEL Bryce",
+          "country": "USA",
+          "dob": "5 SEP 1997",
+          "mark": "1:45.05"
+        },
+        {
+          "rank": 5,
+          "athlete": "CRESTAN Eliott",
+          "country": "BEL",
+          "dob": "22 FEB 1999",
+          "mark": "1:45.11"
+        },
+        {
+          "rank": 6,
+          "athlete": "WILLIAMS Daniel",
+          "country": "AUS",
+          "dob": "3 AUG 2007",
+          "mark": "1:45.42"
+        },
+        {
+          "rank": 7,
+          "athlete": "MEZIANE Yanis",
+          "country": "FRA",
+          "dob": "26 JAN 2002",
+          "mark": "1:45.66"
+        },
+        {
+          "rank": 8,
+          "athlete": "MASALELA Tshepiso",
+          "country": "BOT",
+          "dob": "25 MAY 1999",
+          "mark": "1:45.70"
+        },
+        {
+          "rank": 9,
+          "athlete": "KIBET Noah",
+          "country": "KEN",
+          "dob": "12 APR 2004",
+          "mark": "1:46.10"
+        },
+        {
+          "rank": 10,
+          "athlete": "BIZIMANA Yusuf",
+          "country": "GBR",
+          "dob": "6 SEP 2000",
+          "mark": "1:46.37"
+        },
+        {
+          "rank": null,
+          "athlete": "FRILOT Lloyd",
+          "country": "USA",
+          "dob": "19 MAR 2001",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": 1,
+          "athlete": "WOLFE Parker",
+          "country": "USA",
+          "dob": "27 JUL 2003",
+          "mark": "8:10.13"
+        },
+        {
+          "rank": 2,
+          "athlete": "ABDILAAHI Mohamed",
+          "country": "GER",
+          "dob": "24 MAR 1999",
+          "note": "PB",
+          "mark": "8:10.34"
+        },
+        {
+          "rank": 3,
+          "athlete": "FISHER Grant",
+          "country": "USA",
+          "dob": "22 APR 1997",
+          "mark": "8:10.96"
+        },
+        {
+          "rank": 4,
+          "athlete": "ALMGREN Andreas",
+          "country": "SWE",
+          "dob": "12 JUN 1995",
+          "mark": "8:11.12"
+        },
+        {
+          "rank": 5,
+          "athlete": "RATCLIFFE Thomas",
+          "country": "USA",
+          "dob": "3 SEP 1997",
+          "note": "PB",
+          "mark": "8:11.68"
+        },
+        {
+          "rank": 6,
+          "athlete": "TEARE Cooper",
+          "country": "USA",
+          "dob": "18 AUG 1999",
+          "mark": "8:12.00"
+        },
+        {
+          "rank": 7,
+          "athlete": "ROBINSON Ky",
+          "country": "AUS",
+          "dob": "27 FEB 2002",
+          "mark": "8:12.16"
+        },
+        {
+          "rank": 8,
+          "athlete": "BEADLESCOMB Morgan",
+          "country": "USA",
+          "dob": "1 JUN 1998",
+          "mark": "8:12.24"
+        },
+        {
+          "rank": 9,
+          "athlete": "TSHITE Tshepo",
+          "country": "RSA",
+          "dob": "15 JAN 1997",
+          "mark": "8:12.94"
+        },
+        {
+          "rank": 10,
+          "athlete": "JACOBS Dylan",
+          "country": "USA",
+          "dob": "15 JUN 2000",
+          "mark": "8:13.37"
+        },
+        {
+          "rank": 11,
+          "athlete": "NUR Abdihamid",
+          "country": "USA",
+          "dob": "14 OCT 1997",
+          "mark": "8:13.44"
+        },
+        {
+          "rank": 12,
+          "athlete": "HERRERA Eduardo",
+          "country": "MEX",
+          "dob": "23 SEP 1997",
+          "note": "PB",
+          "mark": "8:13.72"
+        },
+        {
+          "rank": 13,
+          "athlete": "SIME Mezgebu",
+          "country": "ETH",
+          "dob": "7 OCT 2005",
+          "mark": "8:14.12"
+        },
+        {
+          "rank": 14,
+          "athlete": "LANGON Marco",
+          "country": "USA",
+          "dob": "31 AUG 2004",
+          "note": "PB",
+          "mark": "8:14.32"
+        },
+        {
+          "rank": 15,
+          "athlete": "FOPPEN Mike",
+          "country": "NED",
+          "dob": "29 NOV 1996",
+          "mark": "8:14.81"
+        },
+        {
+          "rank": 16,
+          "athlete": "CATROFE Santiago",
+          "country": "URU",
+          "dob": "13 FEB 1999",
+          "mark": "8:18.09"
+        },
+        {
+          "rank": 17,
+          "athlete": "AHMED Mohammed",
+          "country": "CAN",
+          "dob": "5 JAN 1991",
+          "mark": "8:26.44"
+        },
+        {
+          "rank": 18,
+          "athlete": "SATOH Keita",
+          "country": "JPN",
+          "dob": "22 JAN 2004",
+          "mark": "8:27.79"
+        },
+        {
+          "rank": 19,
+          "athlete": "GILMAN Sam",
+          "country": "USA",
+          "dob": "20 SEP 2000",
+          "mark": "8:32.72"
+        },
+        {
+          "rank": null,
+          "athlete": "BALAZS Benjamin",
+          "country": "USA",
+          "dob": "2 JUN 2004",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "eugene-hammer-throw-women",
+      "discipline": "Hammer Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "12:00",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "ZHANG Jiale",
+          "country": "CHN",
+          "dob": "22 OCT 2006",
+          "note": "PB",
+          "mark": "77.94"
+        },
+        {
+          "rank": 2,
+          "athlete": "ROGERS Camryn",
+          "country": "CAN",
+          "dob": "7 JUN 1999",
+          "mark": "77.81"
+        },
+        {
+          "rank": 3,
+          "athlete": "PRICE DeAnna",
+          "country": "USA",
+          "dob": "8 JUN 1993",
+          "mark": "76.95"
+        },
+        {
+          "rank": 4,
+          "athlete": "RICHESON Rachel",
+          "country": "USA",
+          "dob": "27 SEP 1999",
+          "mark": "76.18"
+        },
+        {
+          "rank": 5,
+          "athlete": "ZHAO Jie",
+          "country": "CHN",
+          "dob": "13 OCT 2002",
+          "mark": "75.63"
+        },
+        {
+          "rank": 6,
+          "athlete": "ECHIKUNWOKE Annette Nneka",
+          "country": "USA",
+          "dob": "29 JUL 1996",
+          "mark": "74.47"
+        },
+        {
+          "rank": 7,
+          "athlete": "WLODARCZYK Anita",
+          "country": "POL",
+          "dob": "8 AUG 1985",
+          "note": "SB",
+          "mark": "73.20"
+        },
+        {
+          "rank": 8,
+          "athlete": "REESE Erin",
+          "country": "USA",
+          "dob": "4 DEC 1995",
+          "mark": "71.65"
+        },
+        {
+          "rank": 9,
+          "athlete": "KASSANAVOID Janee'",
+          "country": "USA",
+          "dob": "19 JAN 1995",
+          "note": "SB",
+          "mark": "70.65"
+        }
+      ]
+    },
+    {
+      "id": "eugene-shot-put-women",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "12:30",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JACKSON Chase",
+          "country": "USA",
+          "dob": "20 JUL 1994",
+          "mark": "20.56"
+        },
+        {
+          "rank": 2,
+          "athlete": "SCHILDER Jessica",
+          "country": "NED",
+          "dob": "19 MAR 1999",
+          "mark": "20.11"
+        },
+        {
+          "rank": 3,
+          "athlete": "ROOS Fanny",
+          "country": "SWE",
+          "dob": "2 JAN 1995",
+          "note": "PB",
+          "mark": "19.70"
+        },
+        {
+          "rank": 4,
+          "athlete": "MITTON Sarah",
+          "country": "CAN",
+          "dob": "20 JUN 1996",
+          "mark": "19.61"
+        },
+        {
+          "rank": 5,
+          "athlete": "MABRY Yemisi",
+          "country": "GER",
+          "dob": "3 OCT 1998",
+          "mark": "19.14"
+        },
+        {
+          "rank": 6,
+          "athlete": "van KLINKEN Jorinde",
+          "country": "NED",
+          "dob": "2 FEB 2000",
+          "mark": "19.06"
+        },
+        {
+          "rank": 7,
+          "athlete": "JOHANSSON Axelina",
+          "country": "SWE",
+          "dob": "20 APR 2000",
+          "mark": "18.84"
+        },
+        {
+          "rank": 8,
+          "athlete": "ROSS Jaida",
+          "country": "USA",
+          "dob": "29 OCT 2001",
+          "mark": "18.74"
+        },
+        {
+          "rank": 9,
+          "athlete": "EWEN Maggie",
+          "country": "USA",
+          "dob": "23 SEP 1994",
+          "mark": "18.47"
+        },
+        {
+          "rank": 10,
+          "athlete": "WESCHE Maddison-Lee",
+          "country": "NZL",
+          "dob": "13 JUN 1999",
+          "note": "SB",
+          "mark": "17.71"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "phase": "Round 1 Heat 1",
+      "isPrimary": false,
+      "wind": "-0.2 m/s",
+      "startTime": "12:32",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HODGE Adaejah",
+          "country": "IVB",
+          "dob": "21 MAR 2006",
+          "reaction": 0.201,
+          "mark": "10.82"
+        },
+        {
+          "rank": 2,
+          "athlete": "RICHARDSON Sha'Carri",
+          "country": "USA",
+          "dob": "25 MAR 2000",
+          "reaction": 0.198,
+          "mark": "10.83"
+        },
+        {
+          "rank": 3,
+          "athlete": "SMITH Jonielle",
+          "country": "JAM",
+          "dob": "30 JAN 1996",
+          "reaction": 0.172,
+          "mark": "11.02"
+        },
+        {
+          "rank": 4,
+          "athlete": "JACKSON Shawnti",
+          "country": "USA",
+          "dob": "2 MAY 2005",
+          "reaction": 0.182,
+          "mark": "11.06(.051)"
+        },
+        {
+          "rank": 5,
+          "athlete": "CLAYTON Tina",
+          "country": "JAM",
+          "dob": "17 AUG 2004",
+          "reaction": 0.181,
+          "mark": "11.06(.058)"
+        },
+        {
+          "rank": 6,
+          "athlete": "HUNT Amy",
+          "country": "GBR",
+          "dob": "15 MAY 2002",
+          "reaction": 0.183,
+          "mark": "11.10"
+        },
+        {
+          "rank": 7,
+          "athlete": "WHITE Kayla",
+          "country": "USA",
+          "dob": "14 SEP 1996",
+          "reaction": 0.175,
+          "mark": "11.11"
+        },
+        {
+          "rank": 8,
+          "athlete": "JOSEPH Gémima",
+          "country": "FRA",
+          "dob": "17 OCT 2001",
+          "reaction": 0.178,
+          "mark": "11.31(.301)"
+        },
+        {
+          "rank": 9,
+          "athlete": "BARNES Celera",
+          "country": "USA",
+          "dob": "2 DEC 1998",
+          "reaction": 0.182,
+          "mark": "11.31(.305)"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "phase": "Round 1 Heat 2",
+      "isPrimary": false,
+      "wind": "-0.2 m/s",
+      "startTime": "12:39",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JEFFERSON-WOODEN Melissa",
+          "country": "USA",
+          "dob": "21 FEB 2001",
+          "reaction": 0.186,
+          "mark": "10.95"
+        },
+        {
+          "rank": 2,
+          "athlete": "JACKSON Shericka",
+          "country": "JAM",
+          "dob": "16 JUL 1994",
+          "reaction": 0.183,
+          "mark": "11.06"
+        },
+        {
+          "rank": 3,
+          "athlete": "OFILI Favour",
+          "country": "NGR",
+          "dob": "31 DEC 2002",
+          "reaction": 0.181,
+          "note": "SB",
+          "mark": "11.10"
+        },
+        {
+          "rank": 4,
+          "athlete": "ASHER-SMITH Dina",
+          "country": "GBR",
+          "dob": "4 DEC 1995",
+          "reaction": 0.172,
+          "note": "=SB",
+          "mark": "11.13"
+        },
+        {
+          "rank": 5,
+          "athlete": "CLAYTON Tia",
+          "country": "JAM",
+          "dob": "17 AUG 2004",
+          "reaction": 0.177,
+          "mark": "11.14"
+        },
+        {
+          "rank": 6,
+          "athlete": "CARTER Jassani",
+          "country": "USA",
+          "dob": "4 NOV 2003",
+          "reaction": 0.173,
+          "mark": "11.21"
+        },
+        {
+          "rank": 7,
+          "athlete": "DAVIS Tamari",
+          "country": "USA",
+          "dob": "15 FEB 2003",
+          "reaction": 0.171,
+          "mark": "11.23"
+        },
+        {
+          "rank": 8,
+          "athlete": "PRANDINI Jenna",
+          "country": "USA",
+          "dob": "20 NOV 1992",
+          "reaction": 0.183,
+          "mark": "11.26"
+        },
+        {
+          "rank": 9,
+          "athlete": "STURGIS Cambrea",
+          "country": "USA",
+          "dob": "27 MAR 1999",
+          "reaction": 0.192,
+          "mark": "11.29"
+        }
+      ]
+    },
+    {
+      "id": "eugene-discus-throw-men",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "12:44",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "ALEKNA Mykolas",
+          "country": "LTU",
+          "dob": "28 SEP 2002",
+          "note": "SB",
+          "mark": "71.06"
+        },
+        {
+          "rank": 2,
+          "athlete": "CEH Kristjan",
+          "country": "SLO",
+          "dob": "17 FEB 1999",
+          "mark": "69.94"
+        },
+        {
+          "rank": 3,
+          "athlete": "STONA Roje",
+          "country": "JAM",
+          "dob": "26 FEB 1999",
+          "mark": "67.42"
+        },
+        {
+          "rank": 4,
+          "athlete": "DENNY Matthew",
+          "country": "AUS",
+          "dob": "2 JUN 1996",
+          "mark": "66.26"
+        },
+        {
+          "rank": 5,
+          "athlete": "ROSE Alex",
+          "country": "SAM",
+          "dob": "17 NOV 1991",
+          "mark": "65.86"
+        },
+        {
+          "rank": 6,
+          "athlete": "STÅHL Daniel",
+          "country": "SWE",
+          "dob": "27 AUG 1992",
+          "mark": "65.46"
+        },
+        {
+          "rank": 7,
+          "athlete": "OKOYE Lawrence",
+          "country": "GBR",
+          "dob": "6 OCT 1991",
+          "mark": "65.25"
+        },
+        {
+          "rank": 8,
+          "athlete": "MULLINGS Ralford",
+          "country": "JAM",
+          "dob": "22 NOV 2002",
+          "mark": "64.94"
+        },
+        {
+          "rank": 9,
+          "athlete": "MATTIS Sam",
+          "country": "USA",
+          "dob": "19 MAR 1994",
+          "mark": "63.31"
+        },
+        {
+          "rank": 10,
+          "athlete": "JAGERS III Reggie",
+          "country": "USA",
+          "dob": "13 AUG 1994",
+          "mark": "62.72"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "phase": "Para Athletics",
+      "isPrimary": false,
+      "wind": "+1.0 m/s",
+      "startTime": "12:47",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MASON Brittni",
+          "country": "USA",
+          "dob": "19 APR 1998",
+          "reaction": 0.182,
+          "note": "SB",
+          "mark": "12.05"
+        },
+        {
+          "rank": 2,
+          "athlete": "CROSBY Kym",
+          "country": "USA",
+          "dob": "14 FEB 1993",
+          "reaction": 0.178,
+          "mark": "12.42"
+        },
+        {
+          "rank": 3,
+          "athlete": "JOHNSON Kerragan",
+          "country": "USA",
+          "dob": "25 OCT 2007",
+          "reaction": 0.188,
+          "note": "PB",
+          "mark": "12.98"
+        },
+        {
+          "rank": 4,
+          "athlete": "KERKHOFF Erin",
+          "country": "USA",
+          "dob": "13 DEC 2000",
+          "reaction": 0.266,
+          "note": "SB",
+          "mark": "13.08"
+        },
+        {
+          "rank": 5,
+          "athlete": "BARTA Sydney",
+          "country": "USA",
+          "dob": "16 FEB 2004",
+          "reaction": 0.235,
+          "mark": "13.35"
+        },
+        {
+          "rank": 6,
+          "athlete": "GUIMARAES Catarina",
+          "country": "USA",
+          "dob": "19 FEB 2004",
+          "reaction": 0.274,
+          "mark": "13.71"
+        },
+        {
+          "rank": 7,
+          "athlete": "CHAVEZ Chloe",
+          "country": "USA",
+          "dob": "19 AUG 2006",
+          "reaction": 0.316,
+          "note": "PB",
+          "mark": "13.75"
+        },
+        {
+          "rank": 8,
+          "athlete": "MARCUSSEN Lindi",
+          "country": "USA",
+          "dob": "20 JUL 1996",
+          "note": "SB",
+          "mark": "15.43"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "phase": "Para Athletics",
+      "isPrimary": false,
+      "wind": "-0.1 m/s",
+      "startTime": "12:55",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MALONE Noah",
+          "country": "USA",
+          "dob": "13 OCT 2001",
+          "reaction": 0.192,
+          "note": "=SB",
+          "mark": "10.54"
+        },
+        {
+          "rank": 2,
+          "athlete": "BLACKWELL Jaydin",
+          "country": "USA",
+          "dob": "16 MAR 2004",
+          "reaction": 0.192,
+          "note": "SB",
+          "mark": "10.67"
+        },
+        {
+          "rank": 3,
+          "athlete": "OSUALA Abuchi",
+          "country": "USA",
+          "dob": "24 JUN 2004",
+          "reaction": 0.212,
+          "mark": "10.85"
+        },
+        {
+          "rank": 4,
+          "athlete": "BEST Korban",
+          "country": "USA",
+          "dob": "19 JUL 2003",
+          "reaction": 0.19,
+          "mark": "10.89"
+        },
+        {
+          "rank": 5,
+          "athlete": "MEDRANO Ryan",
+          "country": "USA",
+          "dob": "26 AUG 1997",
+          "reaction": 0.206,
+          "mark": "11.01"
+        },
+        {
+          "rank": 6,
+          "athlete": "WOODHALL Hunter",
+          "country": "USA",
+          "dob": "17 FEB 1999",
+          "reaction": 0.173,
+          "mark": "11.02"
+        },
+        {
+          "rank": 7,
+          "athlete": "LOCCIDENT Derek",
+          "country": "USA",
+          "dob": "13 JUL 1998",
+          "reaction": 0.255,
+          "mark": "11.66"
+        },
+        {
+          "rank": 8,
+          "athlete": "LEEPER Blake",
+          "country": "USA",
+          "dob": "1 JAN 1950",
+          "reaction": 0.194,
+          "mark": "12.08"
+        }
+      ]
+    },
+    {
+      "id": "eugene-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "13:04",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KEBINATSHIPI Busang Collen",
+          "country": "BOT",
+          "dob": "13 FEB 2004",
+          "reaction": 0.156,
+          "mark": "44.00"
+        },
+        {
+          "rank": 2,
+          "athlete": "BENJAMIN Rai",
+          "country": "USA",
+          "dob": "27 JUL 1997",
+          "reaction": 0.165,
+          "note": "PB",
+          "mark": "44.11"
+        },
+        {
+          "rank": 3,
+          "athlete": "BAILEY Chris",
+          "country": "USA",
+          "dob": "29 MAY 2000",
+          "reaction": 0.152,
+          "mark": "44.58"
+        },
+        {
+          "rank": 4,
+          "athlete": "PATTERSON Jacory",
+          "country": "USA",
+          "dob": "2 FEB 2000",
+          "reaction": 0.179,
+          "mark": "44.88(.873)"
+        },
+        {
+          "rank": 5,
+          "athlete": "ROBINSON Chris",
+          "country": "USA",
+          "dob": "19 FEB 2001",
+          "reaction": 0.14,
+          "note": "SB",
+          "mark": "44.88(.879)"
+        },
+        {
+          "rank": 6,
+          "athlete": "McRAE Khaleb",
+          "country": "USA",
+          "dob": "9 SEP 2000",
+          "reaction": 0.15,
+          "mark": "44.91"
+        },
+        {
+          "rank": 7,
+          "athlete": "NORWOOD Vernon",
+          "country": "USA",
+          "dob": "10 APR 1992",
+          "reaction": 0.165,
+          "mark": "44.92"
+        },
+        {
+          "rank": 8,
+          "athlete": "NATHANIEL Ezekiel",
+          "country": "NGR",
+          "dob": "20 JUN 2003",
+          "reaction": 0.198,
+          "note": "SB",
+          "mark": "45.32"
+        },
+        {
+          "rank": 9,
+          "athlete": "NORMAN Michael",
+          "country": "USA",
+          "dob": "3 DEC 1997",
+          "reaction": 0.151,
+          "mark": "45.47"
+        }
+      ]
+    },
+    {
+      "id": "eugene-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "+1.8 m/s",
+      "startTime": "13:20",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRITT Jamal",
+          "country": "USA",
+          "dob": "28 DEC 1998",
+          "reaction": 0.166,
+          "note": "MR PB",
+          "mark": "12.86"
+        },
+        {
+          "rank": 2,
+          "athlete": "THARP Ja'Kobe",
+          "country": "USA",
+          "dob": "30 SEP 2005",
+          "reaction": 0.152,
+          "mark": "12.91"
+        },
+        {
+          "rank": 3,
+          "athlete": "PRINCE Demario",
+          "country": "JAM",
+          "dob": "27 OCT 2004",
+          "reaction": 0.16,
+          "note": "PB",
+          "mark": "13.01"
+        },
+        {
+          "rank": 4,
+          "athlete": "TINCH Cordell",
+          "country": "USA",
+          "dob": "13 JUL 2000",
+          "reaction": 0.163,
+          "note": "SB",
+          "mark": "13.07"
+        },
+        {
+          "rank": 5,
+          "athlete": "BENNETT Orlando",
+          "country": "JAM",
+          "dob": "12 OCT 1999",
+          "reaction": 0.166,
+          "note": "SB",
+          "mark": "13.15"
+        },
+        {
+          "rank": 6,
+          "athlete": "MARSHALL Jamar",
+          "country": "USA",
+          "dob": "18 DEC 2001",
+          "reaction": 0.151,
+          "mark": "13.24"
+        },
+        {
+          "rank": 8,
+          "athlete": "EDWARDS Eric",
+          "country": "USA",
+          "dob": "3 JAN 2000",
+          "reaction": 0.139,
+          "mark": "13.43"
+        },
+        {
+          "rank": 9,
+          "athlete": "BEARD Dylan",
+          "country": "USA",
+          "dob": "15 SEP 1998",
+          "reaction": 0.155,
+          "mark": "13.53"
+        },
+        {
+          "rank": 1,
+          "athlete": "BAWEKE Aleshign",
+          "country": "ETH",
+          "dob": "23 JAN 2006",
+          "note": "WL",
+          "mark": "9:20.02"
+        },
+        {
+          "rank": 2,
+          "athlete": "MESHESHA Hirut",
+          "country": "ETH",
+          "dob": "20 JAN 2001",
+          "mark": "9:20.20"
+        },
+        {
+          "rank": 3,
+          "athlete": "HOULIHAN Shelby",
+          "country": "USA",
+          "dob": "8 FEB 1993",
+          "mark": "9:21.42(.413)"
+        },
+        {
+          "rank": 4,
+          "athlete": "ALEMAYO Marta",
+          "country": "ETH",
+          "dob": "8 APR 2008",
+          "mark": "9:21.42(.420)"
+        },
+        {
+          "rank": 5,
+          "athlete": "APPLETON Margot",
+          "country": "USA",
+          "dob": "30 SEP 2002",
+          "mark": "9:22.52"
+        },
+        {
+          "rank": 6,
+          "athlete": "SCHWEIZER Karissa",
+          "country": "USA",
+          "dob": "4 MAY 1996",
+          "mark": "9:22.79"
+        },
+        {
+          "rank": 7,
+          "athlete": "NBRET Yenawa",
+          "country": "ETH",
+          "dob": "18 MAY 2007",
+          "mark": "9:22.93"
+        },
+        {
+          "rank": 8,
+          "athlete": "AYICHEW Asayech",
+          "country": "ETH",
+          "dob": "3 APR 2005",
+          "mark": "9:23.04"
+        },
+        {
+          "rank": 9,
+          "athlete": "STEARNS Elise",
+          "country": "USA",
+          "dob": "8 MAY 2000",
+          "mark": "9:24.24"
+        },
+        {
+          "rank": 10,
+          "athlete": "DEBUES-STAFFORD Gabriela",
+          "country": "CAN",
+          "dob": "13 SEP 1995",
+          "mark": "9:28.76"
+        },
+        {
+          "rank": 11,
+          "athlete": "DONAGHU Ella",
+          "country": "USA",
+          "dob": "13 APR 1998",
+          "mark": "9:44.15"
+        },
+        {
+          "rank": null,
+          "athlete": "BARNETT Mia",
+          "country": "SWE",
+          "dob": "4 SEP 2003",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "AKIDOR Margaret",
+          "country": "KEN",
+          "dob": "26 JUN 2002",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "eugene-long-jump-women",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "13:33",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "DAVIS-WOODHALL Tara",
+          "country": "USA",
+          "dob": "20 MAY 1999",
+          "mark": "7.13"
+        },
+        {
+          "rank": 2,
+          "athlete": "IAPICHINO Larissa",
+          "country": "ITA",
+          "dob": "18 JUL 2002",
+          "note": "NR",
+          "mark": "7.12"
+        },
+        {
+          "rank": 3,
+          "athlete": "NICHOLS Monae'",
+          "country": "USA",
+          "dob": "24 NOV 1998",
+          "mark": "7.05"
+        },
+        {
+          "rank": 4,
+          "athlete": "JONES Alyssa",
+          "country": "USA",
+          "dob": "6 FEB 2004",
+          "mark": "6.99"
+        },
+        {
+          "rank": 5,
+          "athlete": "MIHAMBO Malaika",
+          "country": "GER",
+          "dob": "3 FEB 1994",
+          "note": "SB",
+          "mark": "6.92"
+        },
+        {
+          "rank": 6,
+          "athlete": "ÅSKAG Maja",
+          "country": "SWE",
+          "dob": "18 DEC 2002",
+          "note": "PB",
+          "mark": "6.80"
+        },
+        {
+          "rank": 7,
+          "athlete": "KPATCHA Hilary",
+          "country": "FRA",
+          "dob": "5 MAY 1998",
+          "note": "SB",
+          "mark": "6.74"
+        },
+        {
+          "rank": 8,
+          "athlete": "BROWN Alexis",
+          "country": "USA",
+          "dob": "26 APR 2001",
+          "mark": "6.61"
+        },
+        {
+          "rank": 9,
+          "athlete": "BRYANT Claire",
+          "country": "USA",
+          "dob": "25 AUG 2001",
+          "mark": "6.58"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "+0.1 m/s",
+      "startTime": "13:37",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AJAYI Kayinsola",
+          "country": "NGR",
+          "dob": "14 SEP 2004",
+          "reaction": 0.182,
+          "note": "=NR",
+          "mark": "9.84"
+        },
+        {
+          "rank": 2,
+          "athlete": "SEVILLE Oblique",
+          "country": "JAM",
+          "dob": "16 MAR 2001",
+          "reaction": 0.153,
+          "mark": "9.89"
+        },
+        {
+          "rank": 3,
+          "athlete": "COLEMAN Christian",
+          "country": "USA",
+          "dob": "6 MAR 1996",
+          "reaction": 0.159,
+          "note": "SB",
+          "mark": "9.95"
+        },
+        {
+          "rank": 4,
+          "athlete": "BEDNAREK Kenneth",
+          "country": "USA",
+          "dob": "14 OCT 1998",
+          "reaction": 0.215,
+          "note": "SB",
+          "mark": "9.96"
+        },
+        {
+          "rank": 5,
+          "athlete": "BLAKE Ackeem",
+          "country": "JAM",
+          "dob": "21 JAN 2002",
+          "reaction": 0.17,
+          "mark": "10.06"
+        },
+        {
+          "rank": 6,
+          "athlete": "KENNEDY Lachlan",
+          "country": "AUS",
+          "dob": "4 NOV 2003",
+          "reaction": 0.181,
+          "mark": "10.09"
+        },
+        {
+          "rank": 7,
+          "athlete": "SAMINU Abdul-Rasheed",
+          "country": "GHA",
+          "dob": "6 OCT 1997",
+          "reaction": 0.218,
+          "note": "SB",
+          "mark": "10.15"
+        },
+        {
+          "rank": 8,
+          "athlete": "HICKLIN Brandon",
+          "country": "USA",
+          "dob": "2 APR 1999",
+          "reaction": 0.188,
+          "mark": "10.17"
+        },
+        {
+          "rank": 9,
+          "athlete": "AMOAH Joseph Paul",
+          "country": "GHA",
+          "dob": "12 JAN 1997",
+          "reaction": 0.178,
+          "mark": "10.19"
+        }
+      ]
+    },
+    {
+      "id": "eugene-3000m-steeplechase-women",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "startTime": "13:45",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CHEROTICH Faith",
+          "country": "KEN",
+          "dob": "13 JUL 2004",
+          "mark": "8:51.74"
+        },
+        {
+          "rank": 2,
+          "athlete": "YAVI Winfred",
+          "country": "BRN",
+          "dob": "31 DEC 1999",
+          "mark": "8:52.84"
+        },
+        {
+          "rank": 3,
+          "athlete": "BOUZAYANI Marwa",
+          "country": "TUN",
+          "dob": "26 MAR 1997",
+          "note": "NR",
+          "mark": "8:54.32"
+        },
+        {
+          "rank": 4,
+          "athlete": "LEMNGOLE Doris",
+          "country": "KEN",
+          "dob": "5 FEB 2002",
+          "note": "PB",
+          "mark": "8:57.89"
+        },
+        {
+          "rank": 5,
+          "athlete": "CHEMUTAI Peruth",
+          "country": "UGA",
+          "dob": "10 JUL 1999",
+          "mark": "9:05.39"
+        },
+        {
+          "rank": 6,
+          "athlete": "KRAUSE Gesa Felicitas",
+          "country": "GER",
+          "dob": "3 AUG 1992",
+          "mark": "9:07.50"
+        },
+        {
+          "rank": 7,
+          "athlete": "MEYER Lea",
+          "country": "GER",
+          "dob": "16 SEP 1997",
+          "note": "PB",
+          "mark": "9:09.13"
+        },
+        {
+          "rank": 8,
+          "athlete": "HALLADAY Lexy",
+          "country": "USA",
+          "dob": "23 JUL 2001",
+          "note": "SB",
+          "mark": "9:13.33"
+        },
+        {
+          "rank": 9,
+          "athlete": "COBURN Emma",
+          "country": "USA",
+          "dob": "19 OCT 1990",
+          "note": "SB",
+          "mark": "9:15.97"
+        },
+        {
+          "rank": 10,
+          "athlete": "JENNINGS Gabrielle",
+          "country": "USA",
+          "dob": "15 SEP 1998",
+          "mark": "9:18.12"
+        },
+        {
+          "rank": 11,
+          "athlete": "NAPOLEON Angelina",
+          "country": "USA",
+          "dob": "3 MAR 2005",
+          "note": "SB",
+          "mark": "9:19.41"
+        },
+        {
+          "rank": 12,
+          "athlete": "ELLIS Angelina",
+          "country": "USA",
+          "dob": "9 AUG 1998",
+          "note": "PB",
+          "mark": "9:20.30"
+        },
+        {
+          "rank": 13,
+          "athlete": "WAYMENT Courtney",
+          "country": "USA",
+          "dob": "4 AUG 1998",
+          "note": "SB",
+          "mark": "9:20.90"
+        },
+        {
+          "rank": 14,
+          "athlete": "HYDE Gracie",
+          "country": "USA",
+          "dob": "12 DEC 1999",
+          "mark": "9:25.19"
+        },
+        {
+          "rank": 15,
+          "athlete": "MARKEZICH Olivia",
+          "country": "USA",
+          "dob": "10 AUG 2000",
+          "mark": "9:32.13"
+        },
+        {
+          "rank": null,
+          "athlete": "JERUTO Norah",
+          "country": "KAZ",
+          "dob": "2 OCT 1995",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "LOVELL Taylor",
+          "country": "USA",
+          "dob": "9 OCT 2003",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "eugene-shot-put-men",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "startTime": "13:57",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "FABBRI Leonardo",
+          "country": "ITA",
+          "dob": "15 APR 1997",
+          "note": "WL",
+          "mark": "22.74"
+        },
+        {
+          "rank": 2,
+          "athlete": "CAMPBELL Rajindra",
+          "country": "JAM",
+          "dob": "29 FEB 1996",
+          "mark": "22.16"
+        },
+        {
+          "rank": 3,
+          "athlete": "GEIST Jordan",
+          "country": "USA",
+          "dob": "21 JUL 1998",
+          "mark": "21.98"
+        },
+        {
+          "rank": 4,
+          "athlete": "PIPERI Adrian",
+          "country": "USA",
+          "dob": "20 JAN 1999",
+          "note": "SB",
+          "mark": "21.70"
+        },
+        {
+          "rank": 5,
+          "athlete": "STEEN Roger",
+          "country": "USA",
+          "dob": "17 MAY 1992",
+          "mark": "21.58"
+        },
+        {
+          "rank": 7,
+          "athlete": "WALSH Tom",
+          "country": "NZL",
+          "dob": "1 MAR 1992",
+          "mark": "21.12"
+        },
+        {
+          "rank": 8,
+          "athlete": "KOVACS Joe",
+          "country": "USA",
+          "dob": "28 JUN 1989",
+          "mark": "21.05"
+        },
+        {
+          "rank": 9,
+          "athlete": "OTTERDAHL Payton",
+          "country": "USA",
+          "dob": "2 APR 1996",
+          "mark": "20.55"
+        },
+        {
+          "rank": 10,
+          "athlete": "MUÑOZ Uziel",
+          "country": "MEX",
+          "dob": "8 SEP 1995",
+          "mark": "20.31"
+        },
+        {
+          "rank": 11,
+          "athlete": "BUKOWIECKI Konrad",
+          "country": "POL",
+          "dob": "17 MAR 1997",
+          "mark": "20.13"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "wind": "+0.8 m/s",
+      "startTime": "14:04",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "RUSSELL Masai",
+          "country": "USA",
+          "dob": "17 JUN 2000",
+          "reaction": 0.167,
+          "note": "=MR",
+          "mark": "12.24"
+        },
+        {
+          "rank": 2,
+          "athlete": "AMUSAN Tobi",
+          "country": "NGR",
+          "dob": "23 APR 1997",
+          "reaction": 0.173,
+          "mark": "12.34"
+        },
+        {
+          "rank": 3,
+          "athlete": "CHARLTON Devynne",
+          "country": "BAH",
+          "dob": "26 NOV 1995",
+          "reaction": 0.177,
+          "mark": "12.41(.404)"
+        },
+        {
+          "rank": 3,
+          "athlete": "STARK Grace",
+          "country": "USA",
+          "dob": "6 MAY 2001",
+          "reaction": 0.202,
+          "mark": "12.41(.404)"
+        },
+        {
+          "rank": 5,
+          "athlete": "WILLIAMS Danielle",
+          "country": "JAM",
+          "dob": "14 SEP 1992",
+          "reaction": 0.154,
+          "note": "SB",
+          "mark": "12.51"
+        },
+        {
+          "rank": 6,
+          "athlete": "NUGENT Ackera",
+          "country": "JAM",
+          "dob": "29 APR 2002",
+          "reaction": 0.154,
+          "mark": "12.63"
+        },
+        {
+          "rank": 7,
+          "athlete": "MARSHALL Tonea",
+          "country": "USA",
+          "dob": "17 OCT 1998",
+          "reaction": 0.193,
+          "note": "SB",
+          "mark": "12.65"
+        },
+        {
+          "rank": 8,
+          "athlete": "HARRISON Kendra",
+          "country": "USA",
+          "dob": "18 SEP 1992",
+          "reaction": 0.185,
+          "mark": "12.66"
+        },
+        {
+          "rank": 9,
+          "athlete": "JOHNSON Alaysha",
+          "country": "USA",
+          "dob": "20 JUL 1996",
+          "reaction": 0.186,
+          "mark": "12.86"
+        }
+      ]
+    },
+    {
+      "id": "eugene-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "phase": "Mutola 800m",
+      "isPrimary": false,
+      "startTime": "14:11",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "ODIRA Lilian",
+          "country": "KEN",
+          "dob": "18 APR 1999",
+          "note": "SB",
+          "mark": "1:56.19"
+        },
+        {
+          "rank": 2,
+          "athlete": "HODGKINSON Keely",
+          "country": "GBR",
+          "dob": "3 MAR 2002",
+          "mark": "1:56.73"
+        },
+        {
+          "rank": 3,
+          "athlete": "WILEY Addison",
+          "country": "USA",
+          "dob": "24 OCT 2003",
+          "note": "SB",
+          "mark": "1:57.70"
+        },
+        {
+          "rank": 4,
+          "athlete": "JALLOW Sanu",
+          "country": "GAM",
+          "dob": "4 APR 2003",
+          "mark": "1:58.12"
+        },
+        {
+          "rank": 5,
+          "athlete": "ROGERS Raevyn",
+          "country": "USA",
+          "dob": "7 SEP 1996",
+          "mark": "1:58.21"
+        },
+        {
+          "rank": 6,
+          "athlete": "BOURGOIN Anaïs",
+          "country": "FRA",
+          "dob": "3 OCT 1996",
+          "mark": "1:58.66"
+        },
+        {
+          "rank": 7,
+          "athlete": "SEKGODISO Prudence",
+          "country": "RSA",
+          "dob": "5 JAN 2002",
+          "mark": "1:58.79"
+        },
+        {
+          "rank": 8,
+          "athlete": "NAKAAYI Halimah",
+          "country": "UGA",
+          "dob": "16 OCT 1994",
+          "mark": "1:59.37"
+        },
+        {
+          "rank": 9,
+          "athlete": "KITCHING Hayley",
+          "country": "AUS",
+          "dob": "26 SEP 2004",
+          "mark": "1:59.56"
+        },
+        {
+          "rank": null,
+          "athlete": "PEOPLES Paris",
+          "country": "USA",
+          "dob": "27 MAY 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "eugene-200m-men",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "wind": "-0.9 m/s",
+      "startTime": "14:21",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "TAYLOR Tate",
+          "country": "USA",
+          "dob": "26 SEP 2007",
+          "reaction": 0.144,
+          "note": "PB",
+          "mark": "19.75"
+        },
+        {
+          "rank": 2,
+          "athlete": "TEBOGO Letsile",
+          "country": "BOT",
+          "dob": "7 JUN 2003",
+          "reaction": 0.16,
+          "mark": "19.93"
+        },
+        {
+          "rank": 4,
+          "athlete": "LINDSEY Courtney",
+          "country": "USA",
+          "dob": "18 NOV 1998",
+          "reaction": 0.161,
+          "note": "SB",
+          "mark": "20.19"
+        },
+        {
+          "rank": 5,
+          "athlete": "LEVELL Bryan",
+          "country": "JAM",
+          "dob": "23 DEC 2003",
+          "reaction": 0.131,
+          "mark": "20.20"
+        },
+        {
+          "rank": 6,
+          "athlete": "HUGHES Zharnel",
+          "country": "GBR",
+          "dob": "13 JUL 1995",
+          "reaction": 0.13,
+          "mark": "20.26"
+        },
+        {
+          "rank": 7,
+          "athlete": "BLASKOWSKI Sam",
+          "country": "USA",
+          "dob": "5 NOV 2002",
+          "reaction": 0.152,
+          "mark": "20.32"
+        },
+        {
+          "rank": 8,
+          "athlete": "FIGUEROA José",
+          "country": "PUR",
+          "dob": "14 SEP 2004",
+          "reaction": 0.16,
+          "mark": "20.34"
+        },
+        {
+          "rank": 9,
+          "athlete": "KERR Adrian",
+          "country": "JAM",
+          "dob": "7 OCT 2003",
+          "reaction": 0.144,
+          "mark": "20.78"
+        }
+      ]
+    },
+    {
+      "id": "eugene-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "phase": "Bowerman Mile",
+      "isPrimary": false,
+      "wind": "0.0 m/s",
+      "startTime": "14:50",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JEFFERSON-WOODEN Melissa",
+          "country": "USA",
+          "dob": "21 FEB 2001",
+          "reaction": 0.186,
+          "note": "SB",
+          "mark": "10.78"
+        },
+        {
+          "rank": 2,
+          "athlete": "RICHARDSON Sha'Carri",
+          "country": "USA",
+          "dob": "25 MAR 2000",
+          "reaction": 0.198,
+          "mark": "10.79"
+        },
+        {
+          "rank": 3,
+          "athlete": "HODGE Adaejah",
+          "country": "IVB",
+          "dob": "21 MAR 2006",
+          "reaction": 0.192,
+          "mark": "10.80"
+        },
+        {
+          "rank": 4,
+          "athlete": "SMITH Jonielle",
+          "country": "JAM",
+          "dob": "30 JAN 1996",
+          "reaction": 0.152,
+          "note": "PB",
+          "mark": "10.89"
+        },
+        {
+          "rank": 5,
+          "athlete": "CLAYTON Tina",
+          "country": "JAM",
+          "dob": "17 AUG 2004",
+          "reaction": 0.194,
+          "mark": "11.00"
+        },
+        {
+          "rank": 6,
+          "athlete": "JACKSON Shericka",
+          "country": "JAM",
+          "dob": "16 JUL 1994",
+          "reaction": 0.183,
+          "mark": "11.02(.013)"
+        },
+        {
+          "rank": 7,
+          "athlete": "JACKSON Shawnti",
+          "country": "USA",
+          "dob": "2 MAY 2005",
+          "reaction": 0.173,
+          "mark": "11.02(.015)"
+        },
+        {
+          "rank": 8,
+          "athlete": "OFILI Favour",
+          "country": "NGR",
+          "dob": "31 DEC 2002",
+          "reaction": 0.197,
+          "note": "SB",
+          "mark": "11.07"
+        },
+        {
+          "rank": 9,
+          "athlete": "ASHER-SMITH Dina",
+          "country": "GBR",
+          "dob": "4 DEC 1995",
+          "reaction": 0.18,
+          "mark": "11.18"
+        },
+        {
+          "rank": 1,
+          "athlete": "HILTZ Nikki",
+          "country": "USA",
+          "dob": "23 OCT 1994",
+          "note": "WL",
+          "mark": "4:17.49"
+        },
+        {
+          "rank": 2,
+          "athlete": "EWOI Dorcus",
+          "country": "KEN",
+          "dob": "2 OCT 1996",
+          "note": "PB",
+          "mark": "4:17.62"
+        },
+        {
+          "rank": 3,
+          "athlete": "KIPYEGON Faith",
+          "country": "KEN",
+          "dob": "10 JAN 1994",
+          "mark": "4:17.80"
+        },
+        {
+          "rank": 4,
+          "athlete": "KAZIMIERSKA Klaudia",
+          "country": "POL",
+          "dob": "3 SEP 2001",
+          "note": "NR",
+          "mark": "4:17.90"
+        },
+        {
+          "rank": 5,
+          "athlete": "HULL Jessica",
+          "country": "AUS",
+          "dob": "22 OCT 1996",
+          "mark": "4:18.03"
+        },
+        {
+          "rank": 6,
+          "athlete": "MACKAY Emily",
+          "country": "USA",
+          "dob": "30 APR 1998",
+          "note": "PB",
+          "mark": "4:18.18"
+        },
+        {
+          "rank": 7,
+          "athlete": "HEALY Sarah",
+          "country": "IRL",
+          "dob": "13 FEB 2001",
+          "mark": "4:18.49"
+        },
+        {
+          "rank": 8,
+          "athlete": "HUNTER BELL Georgia",
+          "country": "GBR",
+          "dob": "17 OCT 1993",
+          "note": "PB",
+          "mark": "4:18.52"
+        },
+        {
+          "rank": 9,
+          "athlete": "GALVYDYTE Gabija",
+          "country": "LTU",
+          "dob": "17 JAN 2000",
+          "note": "PB",
+          "mark": "4:21.43"
+        },
+        {
+          "rank": 10,
+          "athlete": "MUIR Laura",
+          "country": "GBR",
+          "dob": "9 MAY 1993",
+          "note": "SB",
+          "mark": "4:22.31"
+        },
+        {
+          "rank": 11,
+          "athlete": "BERHE Saron",
+          "country": "ETH",
+          "dob": "22 AUG 2007",
+          "mark": "4:22.50"
+        },
+        {
+          "rank": 12,
+          "athlete": "MACLEAN Heather",
+          "country": "USA",
+          "dob": "31 AUG 1995",
+          "mark": "4:26.13"
+        },
+        {
+          "rank": 13,
+          "athlete": "MESELE Worknesh",
+          "country": "ETH",
+          "dob": "11 JUN 2001",
+          "mark": "4:36.80"
+        },
+        {
+          "rank": null,
+          "athlete": "PARKS Taryn",
+          "country": "USA",
+          "dob": "6 MAY 2002",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": 1,
+          "athlete": "MYERS Cameron",
+          "country": "AUS",
+          "dob": "9 JUN 2006",
+          "note": "AR",
+          "mark": "3:46.06"
+        },
+        {
+          "rank": 2,
+          "athlete": "NUGUSE Yared",
+          "country": "USA",
+          "dob": "1 JUN 1999",
+          "note": "SB",
+          "mark": "3:46.61"
+        },
+        {
+          "rank": 3,
+          "athlete": "STRAND Ethan",
+          "country": "USA",
+          "dob": "20 OCT 2002",
+          "note": "PB",
+          "mark": "3:46.97"
+        },
+        {
+          "rank": 4,
+          "athlete": "KESSLER Hobbs",
+          "country": "USA",
+          "dob": "15 MAR 2003",
+          "note": "PB",
+          "mark": "3:47.38"
+        },
+        {
+          "rank": 5,
+          "athlete": "CHERUIYOT Timothy",
+          "country": "KEN",
+          "dob": "20 NOV 1995",
+          "note": "PB",
+          "mark": "3:47.39"
+        },
+        {
+          "rank": 6,
+          "athlete": "HOCKER Cole",
+          "country": "USA",
+          "dob": "6 JUN 2001",
+          "mark": "3:47.57"
+        },
+        {
+          "rank": 7,
+          "athlete": "FARKEN Robert",
+          "country": "GER",
+          "dob": "20 SEP 1997",
+          "note": "NR",
+          "mark": "3:47.76"
+        },
+        {
+          "rank": 8,
+          "athlete": "CIATTEI Vincent",
+          "country": "USA",
+          "dob": "21 JAN 1995",
+          "note": "PB",
+          "mark": "3:48.34"
+        },
+        {
+          "rank": 9,
+          "athlete": "HABZ Azeddine",
+          "country": "FRA",
+          "dob": "19 JUL 1993",
+          "note": "SB",
+          "mark": "3:48.43"
+        },
+        {
+          "rank": 10,
+          "athlete": "MARTIN Gary",
+          "country": "USA",
+          "dob": "23 DEC 2003",
+          "note": "PB",
+          "mark": "3:48.76"
+        },
+        {
+          "rank": 11,
+          "athlete": "CHERUIYOT Reynold",
+          "country": "KEN",
+          "dob": "30 JUL 2004",
+          "mark": "3:51.31"
+        },
+        {
+          "rank": null,
+          "athlete": "ALVARADO Abraham",
+          "country": "MEX",
+          "dob": "4 AUG 1995",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    }
+  ]
+}

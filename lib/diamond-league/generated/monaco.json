@@ -1,0 +1,16 @@
+{
+  "id": "monaco",
+  "slug": "monaco",
+  "round": 10,
+  "name": "Mônaco",
+  "city": "Mônaco",
+  "country": "MON",
+  "countryName": "Mônaco",
+  "stadium": "Stade Louis II",
+  "date": "2026-07-10",
+  "isFinal": false,
+  "officialUrl": "https://monaco.diamondleague.com",
+  "source": null,
+  "updatedAt": "2026-07-10T12:51:58.557Z",
+  "events": []
+}
