@@ -8,6 +8,11 @@ const NOTES: { code: string; label: string }[] = [
   { code: 'SB', label: 'Melhor marca da temporada' },
 ]
 
+/** Mapa código → rótulo, para tooltips em qualquer parte do app. */
+export const NOTE_LABELS: Record<string, string> = Object.fromEntries(
+  NOTES.map((n) => [n.code, n.label]),
+)
+
 export function NoteLegend() {
   return (
     <details className="group rounded-xl border border-border bg-card px-4 py-3">
