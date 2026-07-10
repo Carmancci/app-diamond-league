@@ -1,36 +1,29 @@
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
+import { Geist, Geist_Mono } from 'next/font/google'
+import { SiteHeader } from '@/components/site-header'
 import './globals.css'
 
+const geistSans = Geist({
+  subsets: ['latin'],
+  variable: '--font-geist-sans',
+})
+
+const geistMono = Geist_Mono({
+  subsets: ['latin'],
+  variable: '--font-geist-mono',
+})
+
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Diamond League 2026 — Resultados & Estatísticas',
+  description:
+    'Todos os resultados, calendário e estatísticas da Wanda Diamond League 2026. Cada etapa com modalidades por gênero, marcas dos atletas e cronômetro para as próximas provas.',
   generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export const viewport: Viewport = {
-  colorScheme: 'light dark',
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: 'white' },
-    { media: '(prefers-color-scheme: dark)', color: 'black' },
-  ],
+  colorScheme: 'dark',
+  themeColor: '#28251f',
 }
 
 export default function RootLayout({
@@ -39,8 +32,9 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className="antialiased">
+    <html lang="pt-BR" className={`dark ${geistSans.variable} ${geistMono.variable}`}>
+      <body className="bg-background font-sans antialiased">
+        <SiteHeader />
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
