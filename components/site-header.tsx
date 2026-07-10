@@ -6,6 +6,7 @@ import { useState } from 'react'
 import { Menu, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { SearchDialog } from '@/components/search-dialog'
+import { ThemeToggle } from '@/components/theme-toggle'
 
 const NAV = [
   { href: '/', label: 'Temporada' },
@@ -54,8 +55,9 @@ export function SiteHeader() {
           })}
         </nav>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2">
           <SearchDialog />
+          <ThemeToggle />
           <button
             type="button"
             className="grid size-9 place-items-center rounded-md border border-border text-foreground md:hidden"

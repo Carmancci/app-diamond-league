@@ -12,5 +12,119 @@
   "officialUrl": "https://monaco.diamondleague.com",
   "source": null,
   "updatedAt": "2026-07-10T12:51:58.557Z",
-  "events": []
+  "events": [
+    {
+      "id": "monaco-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-1000m-men",
+      "discipline": "1000m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-5000m-men",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-3000m-steeplechase-men",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-long-jump-men",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-high-jump-men",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-200m-women",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-400m-women",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-3000m-women",
+      "discipline": "3000m",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-pole-vault-women",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-triple-jump-women",
+      "discipline": "Triple Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "monaco-javelin-throw-women",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    }
+  ],
+  "hasProgram": true
 }

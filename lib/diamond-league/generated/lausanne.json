@@ -12,5 +12,127 @@
   "officialUrl": "https://lausanne.diamondleague.com",
   "source": null,
   "updatedAt": "2026-07-10T12:51:59.172Z",
-  "events": []
+  "events": [
+    {
+      "id": "lausanne-200m-men",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-5000m-men",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-long-jump-men",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-triple-jump-men",
+      "discipline": "Triple Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-javelin-throw-men",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-200m-women",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-3000m-steeplechase-women",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-400m-hurdles-women",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-pole-vault-women",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "lausanne-javelin-throw-women",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    }
+  ],
+  "hasProgram": true
 }
