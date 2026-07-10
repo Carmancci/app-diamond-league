@@ -1,0 +1,19 @@
+{
+  "season": 2026,
+  "meetings": [
+    {
+      "slug": "paris",
+      "round": 8,
+      "name": "Paris",
+      "city": "Paris",
+      "country": "FRA",
+      "countryName": "França",
+      "stadium": "Stade Charléty",
+      "date": "2026-06-28",
+      "endDate": null,
+      "isFinal": false,
+      "hasResults": true,
+      "eventCount": 25
+    }
+  ]
+}

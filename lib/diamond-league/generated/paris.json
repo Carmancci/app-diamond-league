@@ -1,0 +1,2374 @@
+{
+  "id": "paris",
+  "slug": "paris",
+  "round": 8,
+  "name": "Paris",
+  "city": "Paris",
+  "country": "FRA",
+  "countryName": "França",
+  "stadium": "Stade Charléty",
+  "date": "2026-06-28",
+  "isFinal": false,
+  "officialUrl": "https://paris.diamondleague.com",
+  "source": {
+    "type": "pdf",
+    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF"
+  },
+  "updatedAt": "2026-07-10T12:44:26.680Z",
+  "events": [
+    {
+      "id": "paris-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "wind": "+0.1 m/s",
+      "startTime": "18:20",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BROMELL Trayvon",
+          "country": "USA",
+          "dob": "10 JUL 1995",
+          "reaction": 0.131,
+          "note": "SB",
+          "mark": "9.91"
+        },
+        {
+          "rank": 2,
+          "athlete": "LYLES Noah",
+          "country": "USA",
+          "dob": "18 JUL 1997",
+          "reaction": 0.16,
+          "mark": "9.92"
+        },
+        {
+          "rank": 3,
+          "athlete": "JACOBS Lamont Marcell",
+          "country": "ITA",
+          "dob": "26 SEP 1994",
+          "reaction": 0.161,
+          "note": "SB",
+          "mark": "9.96"
+        },
+        {
+          "rank": 4,
+          "athlete": "SIMBINE Akani",
+          "country": "RSA",
+          "dob": "21 SEP 1993",
+          "reaction": 0.139,
+          "note": "SB",
+          "mark": "9.97"
+        },
+        {
+          "rank": 5,
+          "athlete": "ANTHONY Jordan",
+          "country": "USA",
+          "dob": "29 JUN 2004",
+          "reaction": 0.136,
+          "mark": "9.99"
+        },
+        {
+          "rank": 6,
+          "athlete": "OMANYALA Ferdinand",
+          "country": "KEN",
+          "dob": "2 JAN 1996",
+          "reaction": 0.151,
+          "mark": "10.02(.011)"
+        },
+        {
+          "rank": 7,
+          "athlete": "de GRASSE Andre",
+          "country": "CAN",
+          "dob": "10 NOV 1994",
+          "reaction": 0.147,
+          "mark": "10.02(.017)"
+        },
+        {
+          "rank": 8,
+          "athlete": "AZU Jeremiah",
+          "country": "GBR",
+          "dob": "15 MAY 2001",
+          "reaction": 0.137,
+          "mark": "10.18"
+        }
+      ]
+    },
+    {
+      "id": "paris-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "startTime": "18:03",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KEBINATSHIPI Busang Collen",
+          "country": "BOT",
+          "dob": "13 FEB 2004",
+          "reaction": 0.157,
+          "note": "DLR MR SB",
+          "mark": "43.54"
+        },
+        {
+          "rank": 2,
+          "athlete": "NENE Zakithi",
+          "country": "RSA",
+          "dob": "2 APR 1998",
+          "reaction": 0.156,
+          "note": "SB",
+          "mark": "43.89"
+        },
+        {
+          "rank": 3,
+          "athlete": "BAILEY Chris",
+          "country": "USA",
+          "dob": "29 MAY 2000",
+          "reaction": 0.165,
+          "note": "PB",
+          "mark": "44.06"
+        },
+        {
+          "rank": 4,
+          "athlete": "HUDSON-SMITH Matthew",
+          "country": "GBR",
+          "dob": "26 OCT 1994",
+          "reaction": 0.186,
+          "note": "SB",
+          "mark": "44.09"
+        },
+        {
+          "rank": 5,
+          "athlete": "SAMUKONGA Muzala",
+          "country": "ZAM",
+          "dob": "9 DEC 2002",
+          "reaction": 0.25,
+          "mark": "44.29"
+        },
+        {
+          "rank": 6,
+          "athlete": "RICHARDS Jereem",
+          "country": "TTO",
+          "dob": "13 JAN 1994",
+          "reaction": 0.207,
+          "note": "SB",
+          "mark": "44.53"
+        },
+        {
+          "rank": 7,
+          "athlete": "KOUNTA Muhammad Abdallah",
+          "country": "FRA",
+          "dob": "27 OCT 1994",
+          "reaction": 0.172,
+          "mark": "44.88"
+        }
+      ]
+    },
+    {
+      "id": "paris-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "startTime": "18:45",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AROP Marco",
+          "country": "CAN",
+          "dob": "20 SEP 1998",
+          "note": "WL",
+          "mark": "1:41.84"
+        },
+        {
+          "rank": 2,
+          "athlete": "LAROS Niels",
+          "country": "NED",
+          "dob": "17 APR 2005",
+          "note": "PB",
+          "mark": "1:43.60"
+        },
+        {
+          "rank": 3,
+          "athlete": "GRØNSTAD Tobias",
+          "country": "NOR",
+          "dob": "6 JUL 2002",
+          "mark": "1:43.63"
+        },
+        {
+          "rank": 4,
+          "athlete": "PATTISON Ben",
+          "country": "GBR",
+          "dob": "15 DEC 2001",
+          "mark": "1:43.71"
+        },
+        {
+          "rank": 5,
+          "athlete": "CRESTAN Eliott",
+          "country": "BEL",
+          "dob": "22 FEB 1999",
+          "mark": "1:44.23"
+        },
+        {
+          "rank": 6,
+          "athlete": "OUERRAT Louey",
+          "country": "FRA",
+          "dob": "4 NOV 2004",
+          "mark": "1:44.40(.396)"
+        },
+        {
+          "rank": 7,
+          "athlete": "MEZIANE Yanis",
+          "country": "FRA",
+          "dob": "26 JAN 2002",
+          "mark": "1:44.40(.400)"
+        },
+        {
+          "rank": 8,
+          "athlete": "TUAL Gabriel",
+          "country": "FRA",
+          "dob": "9 APR 1998",
+          "mark": "1:44.92"
+        },
+        {
+          "rank": 9,
+          "athlete": "ATTAOUI Mohamed",
+          "country": "ESP",
+          "dob": "26 SEP 2001",
+          "mark": "1:45.09"
+        },
+        {
+          "rank": null,
+          "athlete": "MOULA Slimane",
+          "country": "ALG",
+          "dob": "25 FEB 1999",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "SIERADZKI Patryk",
+          "country": "POL",
+          "dob": "6 OCT 1998",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-1500m-men",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "startTime": "18:52",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MYERS Cameron",
+          "country": "AUS",
+          "dob": "9 JUN 2006",
+          "note": "AR WL",
+          "mark": "3:28.00"
+        },
+        {
+          "rank": 2,
+          "athlete": "HABZ Azeddine",
+          "country": "FRA",
+          "dob": "19 JUL 1993",
+          "note": "SB",
+          "mark": "3:29.80"
+        },
+        {
+          "rank": 3,
+          "athlete": "WIGHTMAN Jake",
+          "country": "GBR",
+          "dob": "11 JUL 1994",
+          "note": "SB",
+          "mark": "3:29.95"
+        },
+        {
+          "rank": 4,
+          "athlete": "ESSAYI Anass",
+          "country": "MAR",
+          "dob": "18 MAY 2001",
+          "note": "PB",
+          "mark": "3:30.17"
+        },
+        {
+          "rank": 5,
+          "athlete": "CHERUIYOT Reynold",
+          "country": "KEN",
+          "dob": "30 JUL 2004",
+          "note": "SB",
+          "mark": "3:30.28"
+        },
+        {
+          "rank": 6,
+          "athlete": "LAGTIY CHAOUDAR Anas",
+          "country": "FRA",
+          "dob": "17 JAN 2004",
+          "note": "PB",
+          "mark": "3:30.31"
+        },
+        {
+          "rank": 7,
+          "athlete": "ANSELMINI Paul",
+          "country": "FRA",
+          "dob": "2 AUG 2003",
+          "note": "PB",
+          "mark": "3:31.36"
+        },
+        {
+          "rank": 8,
+          "athlete": "le GRIX Titouan",
+          "country": "FRA",
+          "dob": "16 JUN 2002",
+          "note": "PB",
+          "mark": "3:31.46"
+        },
+        {
+          "rank": 9,
+          "athlete": "SZOT Flavien",
+          "country": "FRA",
+          "dob": "6 SEP 2001",
+          "note": "SB",
+          "mark": "3:31.81"
+        },
+        {
+          "rank": 10,
+          "athlete": "NORDÅS Narve Gilje",
+          "country": "NOR",
+          "dob": "30 SEP 1998",
+          "mark": "3:32.05"
+        },
+        {
+          "rank": 11,
+          "athlete": "MESSAOUDI Fouad",
+          "country": "MAR",
+          "dob": "7 JAN 2001",
+          "mark": "3:32.40"
+        },
+        {
+          "rank": 12,
+          "athlete": "NILLESSEN Stefan",
+          "country": "NED",
+          "dob": "2 JAN 2003",
+          "note": "SB",
+          "mark": "3:32.45"
+        },
+        {
+          "rank": 13,
+          "athlete": "KIPSANG Abel",
+          "country": "KEN",
+          "dob": "22 NOV 1996",
+          "note": "SB",
+          "mark": "3:33.52"
+        },
+        {
+          "rank": 14,
+          "athlete": "CIATTEI Vincent",
+          "country": "USA",
+          "dob": "21 JAN 1995",
+          "mark": "3:36.47"
+        },
+        {
+          "rank": 15,
+          "athlete": "COSCORAN Andrew",
+          "country": "IRL",
+          "dob": "18 JUN 1996",
+          "mark": "3:46.91"
+        },
+        {
+          "rank": null,
+          "athlete": "AKBACHE Mounir",
+          "country": "FRA",
+          "dob": "14 MAR 1986",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "RUDOLF Žan",
+          "country": "SLO",
+          "dob": "9 MAY 1993",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "VERHEYDEN Ruben",
+          "country": "BEL",
+          "dob": "22 DEC 2000",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-5000m-men",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "startTime": "19:41",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "FISHER Grant",
+          "country": "USA",
+          "dob": "22 APR 1997",
+          "mark": "12:54.80"
+        },
+        {
+          "rank": 2,
+          "athlete": "KROP Jacob",
+          "country": "KEN",
+          "dob": "4 JUN 2001",
+          "note": "SB",
+          "mark": "12:55.22"
+        },
+        {
+          "rank": 3,
+          "athlete": "ALMGREN Andreas",
+          "country": "SWE",
+          "dob": "12 JUN 1995",
+          "mark": "12:55.38"
+        },
+        {
+          "rank": 4,
+          "athlete": "NTAKARUTIMANA Egide",
+          "country": "BDI",
+          "dob": "21 OCT 1997",
+          "note": "NR",
+          "mark": "12:56.06"
+        },
+        {
+          "rank": 5,
+          "athlete": "BALEW Birhanu",
+          "country": "BRN",
+          "dob": "27 FEB 1996",
+          "mark": "12:56.66"
+        },
+        {
+          "rank": 6,
+          "athlete": "BLANKS Graham",
+          "country": "USA",
+          "dob": "24 APR 2002",
+          "mark": "12:57.12"
+        },
+        {
+          "rank": 7,
+          "athlete": "GRESSIER Jimmy",
+          "country": "FRA",
+          "dob": "4 MAY 1997",
+          "mark": "12:57.79"
+        },
+        {
+          "rank": 8,
+          "athlete": "KEMBOI Cornelius",
+          "country": "KEN",
+          "dob": "29 FEB 2000",
+          "mark": "12:58.10"
+        },
+        {
+          "rank": 9,
+          "athlete": "KIPSANG Mathew Kipchumba",
+          "country": "KEN",
+          "dob": "16 NOV 1995",
+          "note": "SB",
+          "mark": "12:58.95"
+        },
+        {
+          "rank": 10,
+          "athlete": "AMANUEL Saymon",
+          "country": "ERI",
+          "dob": "27 MAY 2007",
+          "note": "PB",
+          "mark": "12:59.37"
+        },
+        {
+          "rank": 11,
+          "athlete": "CATROFE Santiago",
+          "country": "URU",
+          "dob": "13 FEB 1999",
+          "note": "SB",
+          "mark": "13:02.57"
+        },
+        {
+          "rank": 12,
+          "athlete": "YIHUNE Addisu",
+          "country": "ETH",
+          "dob": "17 MAR 2003",
+          "mark": "13:03.22"
+        },
+        {
+          "rank": 13,
+          "athlete": "KIBET Frankline",
+          "country": "KEN",
+          "dob": "28 JUL 2007",
+          "note": "PB",
+          "mark": "13:08.32"
+        },
+        {
+          "rank": 14,
+          "athlete": "BREMM Florian",
+          "country": "GER",
+          "dob": "14 AUG 2000",
+          "mark": "13:10.39"
+        },
+        {
+          "rank": 15,
+          "athlete": "BEJIGA Khairi",
+          "country": "ETH",
+          "dob": "27 APR 2006",
+          "mark": "13:15.41"
+        },
+        {
+          "rank": 16,
+          "athlete": "WALE Getnet",
+          "country": "ETH",
+          "dob": "16 JUL 2000",
+          "mark": "13:15.68"
+        },
+        {
+          "rank": 17,
+          "athlete": "HERRERA Eduardo",
+          "country": "MEX",
+          "dob": "23 SEP 1997",
+          "mark": "13:16.18"
+        },
+        {
+          "rank": 18,
+          "athlete": "SOCA Valentin",
+          "country": "URU",
+          "dob": "24 JUL 2002",
+          "mark": "13:19.69"
+        },
+        {
+          "rank": 19,
+          "athlete": "GIRMA Kuma",
+          "country": "ETH",
+          "dob": "24 NOV 2005",
+          "mark": "13:33.07"
+        },
+        {
+          "rank": null,
+          "athlete": "DAGUINOS Etienne",
+          "country": "FRA",
+          "dob": "15 FEB 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Lamecha",
+          "country": "ETH",
+          "dob": "26 NOV 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "MECHAAL Said",
+          "country": "ESP",
+          "dob": "23 MAY 1998",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "VERBAANDERT Tim",
+          "country": "NED",
+          "dob": "17 JUL 2000",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-3000m-steeplechase-men",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "startTime": "19:13",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BEBENDORF Karl",
+          "country": "GER",
+          "dob": "7 MAY 1996",
+          "note": "PB",
+          "mark": "8:05.55"
+        },
+        {
+          "rank": 2,
+          "athlete": "GODANA Gemechu",
+          "country": "ETH",
+          "dob": "30 SEP 2005",
+          "note": "PB",
+          "mark": "8:05.86"
+        },
+        {
+          "rank": 3,
+          "athlete": "SEREM Edmund",
+          "country": "KEN",
+          "dob": "27 DEC 2007",
+          "mark": "8:08.54"
+        },
+        {
+          "rank": 4,
+          "athlete": "FIREWU Samuel",
+          "country": "ETH",
+          "dob": "3 MAY 2004",
+          "note": "SB",
+          "mark": "8:09.13"
+        },
+        {
+          "rank": 5,
+          "athlete": "MIURA Ryuji",
+          "country": "JPN",
+          "dob": "11 FEB 2002",
+          "note": "SB",
+          "mark": "8:10.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "WILKINSON Matthew",
+          "country": "USA",
+          "dob": "27 DEC 1998",
+          "mark": "8:11.35"
+        },
+        {
+          "rank": 7,
+          "athlete": "SIME Abrham",
+          "country": "ETH",
+          "dob": "7 NOV 2001",
+          "note": "SB",
+          "mark": "8:13.48"
+        },
+        {
+          "rank": 8,
+          "athlete": "DARU Nicolas-Marie",
+          "country": "FRA",
+          "dob": "21 OCT 1988",
+          "mark": "8:13.89"
+        },
+        {
+          "rank": 9,
+          "athlete": "KIBIWOT Abraham",
+          "country": "KEN",
+          "dob": "6 APR 1996",
+          "mark": "8:14.43"
+        },
+        {
+          "rank": 10,
+          "athlete": "FOURMONT Baptiste",
+          "country": "FRA",
+          "dob": "19 MAY 1999",
+          "mark": "8:14.87"
+        },
+        {
+          "rank": 11,
+          "athlete": "QUERINJEAN Ruben",
+          "country": "LUX",
+          "dob": "22 DEC 2001",
+          "mark": "8:15.45"
+        },
+        {
+          "rank": 12,
+          "athlete": "ZOGHLAMI Osama",
+          "country": "ITA",
+          "dob": "19 JUN 1994",
+          "mark": "8:17.23"
+        },
+        {
+          "rank": 13,
+          "athlete": "BOUDY Pierre",
+          "country": "FRA",
+          "dob": "9 AUG 2004",
+          "mark": "8:19.50"
+        },
+        {
+          "rank": 14,
+          "athlete": "le BARON Luc",
+          "country": "FRA",
+          "dob": "5 FEB 2002",
+          "mark": "8:20.06"
+        },
+        {
+          "rank": 15,
+          "athlete": "WILLIAMS Carson",
+          "country": "USA",
+          "dob": "12 FEB 2002",
+          "mark": "8:20.67"
+        },
+        {
+          "rank": 16,
+          "athlete": "ARCE Daniel",
+          "country": "ESP",
+          "dob": "22 APR 1992",
+          "mark": "8:20.99"
+        },
+        {
+          "rank": 17,
+          "athlete": "DESGAGNÉS Jean-Simon",
+          "country": "CAN",
+          "dob": "26 JUL 1998",
+          "mark": "8:23.50"
+        },
+        {
+          "rank": 18,
+          "athlete": "AMARE Hailemariyam",
+          "country": "ETH",
+          "dob": "22 FEB 1997",
+          "mark": "8:32.74"
+        },
+        {
+          "rank": 19,
+          "athlete": "THEBAUD Oscar",
+          "country": "FRA",
+          "dob": "7 JUL 2004",
+          "mark": "8:45.31"
+        },
+        {
+          "rank": null,
+          "athlete": "BOUASSEL Abderrafia",
+          "country": "MAR",
+          "dob": "18 FEB 2001",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KONES Wilberforce Chemiat",
+          "country": "KEN",
+          "dob": "19 SEP 1993",
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "TINDOUFT Mohamed",
+          "country": "MAR",
+          "dob": "12 MAR 1993",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CUNNINGHAM Trey",
+          "country": "USA",
+          "dob": "26 AUG 1998",
+          "mark": "13.06"
+        },
+        {
+          "rank": 2,
+          "athlete": "SMALLWOOD Kendrick",
+          "country": "USA",
+          "dob": "7 APR 2004",
+          "mark": "13.09"
+        },
+        {
+          "rank": 3,
+          "athlete": "BRITT Jamal",
+          "country": "USA",
+          "dob": "28 DEC 1998",
+          "mark": "13.14"
+        },
+        {
+          "rank": 4,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "country": "CUB",
+          "dob": "14 MAR 2006",
+          "mark": "13.15"
+        },
+        {
+          "rank": 5,
+          "athlete": "OBASUYI Michael",
+          "country": "BEL",
+          "dob": "12 AUG 1999",
+          "note": "NR",
+          "mark": "13.16"
+        },
+        {
+          "rank": 6,
+          "athlete": "IZUMIYA Shunsuke",
+          "country": "JPN",
+          "dob": "26 JAN 2000",
+          "mark": "13.22"
+        },
+        {
+          "rank": 7,
+          "athlete": "WILKES Thomas",
+          "country": "FRA",
+          "dob": "16 MAY 2004",
+          "note": "PB",
+          "mark": "13.27"
+        },
+        {
+          "rank": 8,
+          "athlete": "MURATAKE Rachid",
+          "country": "JPN",
+          "dob": "6 FEB 2002",
+          "mark": "13.30"
+        },
+        {
+          "rank": 9,
+          "athlete": "KWAOU-MATHEY Just",
+          "country": "FRA",
+          "dob": "4 DEC 1999",
+          "note": "SB",
+          "mark": "13.32"
+        },
+        {
+          "rank": 10,
+          "athlete": "LLOPIS Enrique",
+          "country": "ESP",
+          "dob": "15 OCT 2000",
+          "mark": "13.34"
+        },
+        {
+          "rank": 11,
+          "athlete": "MARTÍNEZ Asier",
+          "country": "ESP",
+          "dob": "22 APR 2000",
+          "mark": "13.39"
+        },
+        {
+          "rank": 12,
+          "athlete": "LECOEUR Romain",
+          "country": "FRA",
+          "dob": "9 AUG 1997",
+          "mark": "13.40"
+        },
+        {
+          "rank": 13,
+          "athlete": "BEARD Dylan",
+          "country": "USA",
+          "dob": "15 SEP 1998",
+          "mark": "13.42"
+        },
+        {
+          "rank": 14,
+          "athlete": "EDWARDS Eric",
+          "country": "USA",
+          "dob": "3 JAN 2000",
+          "mark": "13.57"
+        },
+        {
+          "rank": 15,
+          "athlete": "CRITTENDEN Freddie",
+          "country": "USA",
+          "dob": "3 AUG 1994",
+          "note": "SB",
+          "mark": "13.64"
+        },
+        {
+          "rank": 16,
+          "athlete": "CINNA Erwann",
+          "country": "FRA",
+          "dob": "26 SEP 2003",
+          "mark": "13.74"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SMALLWOOD Kendrick",
+          "country": "USA",
+          "dob": "7 APR 2004",
+          "reaction": 0.158,
+          "mark": "13.09"
+        },
+        {
+          "rank": 2,
+          "athlete": "BRITT Jamal",
+          "country": "USA",
+          "dob": "28 DEC 1998",
+          "reaction": 0.143,
+          "mark": "13.14"
+        },
+        {
+          "rank": 3,
+          "athlete": "OBASUYI Michael",
+          "country": "BEL",
+          "dob": "12 AUG 1999",
+          "reaction": 0.144,
+          "note": "NR",
+          "mark": "13.16"
+        },
+        {
+          "rank": 4,
+          "athlete": "IZUMIYA Shunsuke",
+          "country": "JPN",
+          "dob": "26 JAN 2000",
+          "reaction": 0.143,
+          "mark": "13.22"
+        },
+        {
+          "rank": 5,
+          "athlete": "WILKES Thomas",
+          "country": "FRA",
+          "dob": "16 MAY 2004",
+          "reaction": 0.137,
+          "note": "PB",
+          "mark": "13.27"
+        },
+        {
+          "rank": 6,
+          "athlete": "LECOEUR Romain",
+          "country": "FRA",
+          "dob": "9 AUG 1997",
+          "reaction": 0.163,
+          "mark": "13.40"
+        },
+        {
+          "rank": 7,
+          "athlete": "BEARD Dylan",
+          "country": "USA",
+          "dob": "15 SEP 1998",
+          "reaction": 0.157,
+          "mark": "13.42"
+        },
+        {
+          "rank": 8,
+          "athlete": "CRITTENDEN Freddie",
+          "country": "USA",
+          "dob": "3 AUG 1994",
+          "reaction": 0.157,
+          "note": "SB",
+          "mark": "13.64"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CUNNINGHAM Trey",
+          "country": "USA",
+          "dob": "26 AUG 1998",
+          "reaction": 0.138,
+          "mark": "13.06"
+        },
+        {
+          "rank": 2,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "country": "CUB",
+          "dob": "14 MAR 2006",
+          "reaction": 0.143,
+          "mark": "13.15"
+        },
+        {
+          "rank": 3,
+          "athlete": "MURATAKE Rachid",
+          "country": "JPN",
+          "dob": "6 FEB 2002",
+          "reaction": 0.149,
+          "mark": "13.30"
+        },
+        {
+          "rank": 4,
+          "athlete": "KWAOU-MATHEY Just",
+          "country": "FRA",
+          "dob": "4 DEC 1999",
+          "reaction": 0.163,
+          "note": "SB",
+          "mark": "13.32"
+        },
+        {
+          "rank": 5,
+          "athlete": "LLOPIS Enrique",
+          "country": "ESP",
+          "dob": "15 OCT 2000",
+          "reaction": 0.142,
+          "mark": "13.34"
+        },
+        {
+          "rank": 6,
+          "athlete": "MARTÍNEZ Asier",
+          "country": "ESP",
+          "dob": "22 APR 2000",
+          "reaction": 0.138,
+          "mark": "13.39"
+        },
+        {
+          "rank": 7,
+          "athlete": "EDWARDS Eric",
+          "country": "USA",
+          "dob": "3 JAN 2000",
+          "reaction": 0.103,
+          "mark": "13.57"
+        },
+        {
+          "rank": 8,
+          "athlete": "CINNA Erwann",
+          "country": "FRA",
+          "dob": "26 SEP 2003",
+          "reaction": 0.135,
+          "mark": "13.74"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRITT Jamal",
+          "country": "USA",
+          "dob": "28 DEC 1998",
+          "reaction": 0.123,
+          "note": "PB",
+          "mark": "12.89"
+        },
+        {
+          "rank": 2,
+          "athlete": "IZUMIYA Shunsuke",
+          "country": "JPN",
+          "dob": "26 JAN 2000",
+          "reaction": 0.132,
+          "mark": "13.01"
+        },
+        {
+          "rank": 3,
+          "athlete": "CUNNINGHAM Trey",
+          "country": "USA",
+          "dob": "26 AUG 1998",
+          "reaction": 0.123,
+          "mark": "13.07"
+        },
+        {
+          "rank": 4,
+          "athlete": "OBASUYI Michael",
+          "country": "BEL",
+          "dob": "12 AUG 1999",
+          "reaction": 0.127,
+          "note": "NR",
+          "mark": "13.10"
+        },
+        {
+          "rank": 5,
+          "athlete": "MURATAKE Rachid",
+          "country": "JPN",
+          "dob": "6 FEB 2002",
+          "reaction": 0.127,
+          "mark": "13.21"
+        },
+        {
+          "rank": 6,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "country": "CUB",
+          "dob": "14 MAR 2006",
+          "reaction": 0.127,
+          "mark": "13.24"
+        },
+        {
+          "rank": 7,
+          "athlete": "WILKES Thomas",
+          "country": "FRA",
+          "dob": "16 MAY 2004",
+          "reaction": 0.143,
+          "mark": "13.32"
+        },
+        {
+          "rank": 8,
+          "athlete": "SMALLWOOD Kendrick",
+          "country": "USA",
+          "dob": "7 APR 2004",
+          "reaction": 0.132,
+          "mark": "13.46"
+        }
+      ]
+    },
+    {
+      "id": "paris-pole-vault-men",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "startTime": "17:00",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "DUPLANTIS Armand",
+          "country": "SWE",
+          "dob": "10 NOV 1999",
+          "note": "MR",
+          "mark": "6.13"
+        },
+        {
+          "rank": 2,
+          "athlete": "THIERY Baptiste",
+          "country": "FRA",
+          "dob": "29 JUN 2001",
+          "note": "PB",
+          "mark": "5.93"
+        },
+        {
+          "rank": 3,
+          "athlete": "KARALIS Emmanouil",
+          "country": "GRE",
+          "dob": "20 OCT 1999",
+          "mark": "5.83"
+        },
+        {
+          "rank": 4,
+          "athlete": "NILSEN Christopher",
+          "country": "USA",
+          "dob": "13 JAN 1998",
+          "mark": "5.83"
+        },
+        {
+          "rank": 5,
+          "athlete": "GUTTORMSEN Sondre",
+          "country": "NOR",
+          "dob": "1 JUN 1999",
+          "mark": "5.83"
+        },
+        {
+          "rank": 6,
+          "athlete": "BRADFORD Zachery",
+          "country": "USA",
+          "dob": "29 NOV 1999",
+          "mark": "5.83"
+        },
+        {
+          "rank": 7,
+          "athlete": "MARSCHALL Kurtis",
+          "country": "AUS",
+          "dob": "25 APR 1997",
+          "mark": "5.83"
+        },
+        {
+          "rank": 8,
+          "athlete": "KENDRICKS Sam",
+          "country": "USA",
+          "dob": "7 SEP 1992",
+          "mark": "5.73"
+        },
+        {
+          "rank": 9,
+          "athlete": "COLLET Thibaut",
+          "country": "FRA",
+          "dob": "17 JUN 1999",
+          "mark": "5.73"
+        },
+        {
+          "rank": 10,
+          "athlete": "DIA Zackaria",
+          "country": "FRA",
+          "dob": "24 MAY 2008",
+          "mark": "5.63"
+        },
+        {
+          "rank": 10,
+          "athlete": "LIGHTFOOT KC",
+          "country": "USA",
+          "dob": "11 NOV 1999",
+          "mark": "5.63"
+        },
+        {
+          "rank": 12,
+          "athlete": "LAVILLENIE Renaud",
+          "country": "FRA",
+          "dob": "18 SEP 1986",
+          "mark": "5.43"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "RANDAZZO Filippo",
+          "country": "ITA",
+          "dob": "27 APR 1996",
+          "reaction": 0.151,
+          "note": "=SB",
+          "mark": "10.30"
+        },
+        {
+          "rank": 2,
+          "athlete": "SNYDERS Antoine",
+          "country": "BEL",
+          "dob": "10 FEB 1997",
+          "reaction": 0.159,
+          "mark": "10.42"
+        },
+        {
+          "rank": 3,
+          "athlete": "IUS Christopher",
+          "country": "AUS",
+          "dob": "10 FEB 2000",
+          "reaction": 0.14,
+          "mark": "10.43(.422)"
+        },
+        {
+          "rank": 4,
+          "athlete": "REVIERRE Jozuah",
+          "country": "NED",
+          "dob": "20 APR 2006",
+          "reaction": 0.15,
+          "mark": "10.43(.425)"
+        },
+        {
+          "rank": 5,
+          "athlete": "BADRU Mohamed",
+          "country": "FRA",
+          "dob": "3 JUL 2003",
+          "reaction": 0.129,
+          "mark": "10.47"
+        },
+        {
+          "rank": 7,
+          "athlete": "HOORNAERT Valentijn",
+          "country": "BEL",
+          "dob": "25 OCT 2000",
+          "reaction": 0.147,
+          "mark": "10.54"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AFRIFA Elvis",
+          "country": "NED",
+          "dob": "30 NOV 1997",
+          "reaction": 0.131,
+          "mark": "10.22"
+        },
+        {
+          "rank": 2,
+          "athlete": "BROWNING Rohan",
+          "country": "AUS",
+          "dob": "31 DEC 1997",
+          "reaction": 0.124,
+          "mark": "10.23"
+        },
+        {
+          "rank": 3,
+          "athlete": "GUSSMANN Heiko",
+          "country": "GER",
+          "dob": "11 MAR 2004",
+          "reaction": 0.156,
+          "mark": "10.27"
+        },
+        {
+          "rank": 4,
+          "athlete": "EKPO Nsikak",
+          "country": "NED",
+          "dob": "14 APR 2003",
+          "reaction": 0.138,
+          "mark": "10.32"
+        },
+        {
+          "rank": 5,
+          "athlete": "BIZASENE Ylann",
+          "country": "FRA",
+          "dob": "19 APR 2006",
+          "reaction": 0.147,
+          "mark": "10.33"
+        },
+        {
+          "rank": 6,
+          "athlete": "GANTER Robin",
+          "country": "GER",
+          "dob": "3 JAN 2001",
+          "reaction": 0.143,
+          "mark": "10.34"
+        },
+        {
+          "rank": 7,
+          "athlete": "SCHAUB Theo",
+          "country": "FRA",
+          "dob": "15 NOV 2000",
+          "reaction": 0.152,
+          "mark": "10.36"
+        },
+        {
+          "rank": 8,
+          "athlete": "ALMAS Deniz",
+          "country": "GER",
+          "dob": "17 JUL 1997",
+          "reaction": 0.146,
+          "mark": "10.53"
+        }
+      ]
+    },
+    {
+      "id": "paris-400m-women",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "startTime": "18:39",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "PAULINO Marileidy",
+          "country": "DOM",
+          "dob": "25 OCT 1996",
+          "reaction": 0.204,
+          "note": "DLR MR WL",
+          "mark": "48.48"
+        },
+        {
+          "rank": 2,
+          "athlete": "MANUEL Lurdes Gloria",
+          "country": "CZE",
+          "dob": "12 JUL 2005",
+          "reaction": 0.169,
+          "note": "PB",
+          "mark": "49.37"
+        },
+        {
+          "rank": 3,
+          "athlete": "WILLIAMS Stacey Ann",
+          "country": "JAM",
+          "dob": "8 MAR 1999",
+          "reaction": 0.143,
+          "mark": "49.51"
+        },
+        {
+          "rank": 4,
+          "athlete": "KLAVER Lieke",
+          "country": "NED",
+          "dob": "20 AUG 1998",
+          "reaction": 0.218,
+          "note": "SB",
+          "mark": "49.97"
+        },
+        {
+          "rank": 5,
+          "athlete": "MAWDSLEY Sharlene",
+          "country": "IRL",
+          "dob": "10 AUG 1998",
+          "reaction": 0.158,
+          "note": "PB",
+          "mark": "50.06"
+        },
+        {
+          "rank": 6,
+          "athlete": "GÓMEZ Roxana",
+          "country": "CUB",
+          "dob": "7 JAN 1999",
+          "reaction": 0.176,
+          "note": "SB",
+          "mark": "50.07"
+        },
+        {
+          "rank": 7,
+          "athlete": "BUKOWIECKA Natalia",
+          "country": "POL",
+          "dob": "17 JAN 1998",
+          "reaction": 0.175,
+          "mark": "50.81"
+        },
+        {
+          "rank": 8,
+          "athlete": "BLACK Isabelle",
+          "country": "FRA",
+          "dob": "8 FEB 2000",
+          "reaction": 0.192,
+          "note": "PB",
+          "mark": "51.15"
+        }
+      ]
+    },
+    {
+      "id": "paris-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "startTime": "18:13",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "WERRO Audrey",
+          "country": "SUI",
+          "dob": "27 MAR 2004",
+          "note": "DLR MR WL NR",
+          "mark": "1:53.80"
+        },
+        {
+          "rank": 2,
+          "athlete": "BROEDERS-BOL Femke",
+          "country": "NED",
+          "dob": "23 FEB 2000",
+          "note": "PB",
+          "mark": "1:55.60"
+        },
+        {
+          "rank": 3,
+          "athlete": "BOURGOIN Anaïs",
+          "country": "FRA",
+          "dob": "3 OCT 1996",
+          "note": "NR",
+          "mark": "1:55.65"
+        },
+        {
+          "rank": 4,
+          "athlete": "SEKGODISO Prudence",
+          "country": "RSA",
+          "dob": "5 JAN 2002",
+          "note": "PB",
+          "mark": "1:56.83"
+        },
+        {
+          "rank": 5,
+          "athlete": "LAMOTE Rénelle",
+          "country": "FRA",
+          "dob": "26 DEC 1993",
+          "note": "PB",
+          "mark": "1:56.93"
+        },
+        {
+          "rank": 6,
+          "athlete": "BILLINGS Sarah",
+          "country": "AUS",
+          "dob": "7 MAR 1998",
+          "note": "AR",
+          "mark": "1:57.01"
+        },
+        {
+          "rank": 7,
+          "athlete": "NOWE Oratile",
+          "country": "BOT",
+          "dob": "20 MAY 2000",
+          "mark": "1:57.46"
+        },
+        {
+          "rank": 8,
+          "athlete": "LIBERMAN Clara",
+          "country": "FRA",
+          "dob": "5 APR 2000",
+          "note": "PB",
+          "mark": "1:58.34"
+        },
+        {
+          "rank": 9,
+          "athlete": "WILLIS Roisin",
+          "country": "USA",
+          "dob": "6 AUG 2004",
+          "mark": "1:58.66"
+        },
+        {
+          "rank": 10,
+          "athlete": "ELHADDAD Souad",
+          "country": "MAR",
+          "dob": "10 MAR 2001",
+          "mark": "1:58.90"
+        },
+        {
+          "rank": null,
+          "athlete": "van der SCHOOT Myrte",
+          "country": "NED",
+          "dob": "16 APR 2004",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "startTime": "19:27",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HUNTER BELL Georgia",
+          "country": "GBR",
+          "dob": "17 OCT 1993",
+          "note": "SB",
+          "mark": "3:55.63"
+        },
+        {
+          "rank": 2,
+          "athlete": "HAILU Freweyni",
+          "country": "ETH",
+          "dob": "12 FEB 2001",
+          "note": "SB",
+          "mark": "3:55.92"
+        },
+        {
+          "rank": 3,
+          "athlete": "GUILLEMOT Agathe",
+          "country": "FRA",
+          "dob": "11 JUL 1999",
+          "note": "NR",
+          "mark": "3:56.24"
+        },
+        {
+          "rank": 4,
+          "athlete": "HULL Jessica",
+          "country": "AUS",
+          "dob": "22 OCT 1996",
+          "note": "SB",
+          "mark": "3:57.22"
+        },
+        {
+          "rank": 5,
+          "athlete": "CALDWELL Abbey",
+          "country": "AUS",
+          "dob": "3 JUL 2001",
+          "mark": "3:57.59"
+        },
+        {
+          "rank": 6,
+          "athlete": "JEPKOSGEI Nelly",
+          "country": "BRN",
+          "dob": "14 JUL 1991",
+          "note": "PB",
+          "mark": "3:57.61"
+        },
+        {
+          "rank": 7,
+          "athlete": "SILVA Patricia",
+          "country": "POR",
+          "dob": "9 DEC 1999",
+          "note": "PB",
+          "mark": "3:58.74"
+        },
+        {
+          "rank": 8,
+          "athlete": "HALL Linden",
+          "country": "AUS",
+          "dob": "20 JUN 1991",
+          "mark": "4:00.00"
+        },
+        {
+          "rank": 9,
+          "athlete": "HAJJI Soukaina",
+          "country": "MAR",
+          "dob": "4 FEB 1997",
+          "note": "PB",
+          "mark": "4:00.62"
+        },
+        {
+          "rank": 10,
+          "athlete": "SNOWDEN Katie",
+          "country": "GBR",
+          "dob": "9 MAR 1994",
+          "note": "SB",
+          "mark": "4:00.91"
+        },
+        {
+          "rank": 11,
+          "athlete": "HEALY Sarah",
+          "country": "IRL",
+          "dob": "13 FEB 2001",
+          "mark": "4:01.50"
+        },
+        {
+          "rank": 12,
+          "athlete": "KALAYU Haregeweyni",
+          "country": "ETH",
+          "dob": "29 MAY 2009",
+          "mark": "4:02.70(.692)"
+        },
+        {
+          "rank": 13,
+          "athlete": "ARERI Aster",
+          "country": "ETH",
+          "dob": "16 APR 2006",
+          "mark": "4:02.70(.695)"
+        },
+        {
+          "rank": 14,
+          "athlete": "GAY Adèle",
+          "country": "FRA",
+          "dob": "16 OCT 2004",
+          "note": "PB",
+          "mark": "4:03.13"
+        },
+        {
+          "rank": 15,
+          "athlete": "CLEYET-MERLE Bérénice",
+          "country": "FRA",
+          "dob": "24 OCT 1994",
+          "note": "PB",
+          "mark": "4:03.58"
+        },
+        {
+          "rank": 16,
+          "athlete": "AFONSO Salomé",
+          "country": "POR",
+          "dob": "19 NOV 1997",
+          "mark": "4:06.36"
+        },
+        {
+          "rank": null,
+          "athlete": "RODRÍGUEZ Andrea",
+          "country": "ESP",
+          "dob": "1 APR 2003",
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "country": "NGR",
+          "dob": "23 APR 1997",
+          "mark": "12.39"
+        },
+        {
+          "rank": 2,
+          "athlete": "JOHNSON Alaysha",
+          "country": "USA",
+          "dob": "20 JUL 1996",
+          "note": "SB",
+          "mark": "12.42"
+        },
+        {
+          "rank": 3,
+          "athlete": "VISSER Nadine",
+          "country": "NED",
+          "dob": "9 FEB 1995",
+          "note": "SB",
+          "mark": "12.44"
+        },
+        {
+          "rank": 4,
+          "athlete": "ROSWELL Demisha",
+          "country": "JAM",
+          "dob": "19 JUN 1998",
+          "mark": "12.46"
+        },
+        {
+          "rank": 5,
+          "athlete": "STARK Grace",
+          "country": "USA",
+          "dob": "6 MAY 2001",
+          "mark": "12.51"
+        },
+        {
+          "rank": 6,
+          "athlete": "JONES Rayniah",
+          "country": "USA",
+          "dob": "28 SEP 2001",
+          "mark": "12.52"
+        },
+        {
+          "rank": 7,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "country": "POL",
+          "dob": "20 APR 2001",
+          "note": "SB",
+          "mark": "12.53(.527)"
+        },
+        {
+          "rank": 8,
+          "athlete": "SIMMONDS Megan",
+          "country": "JAM",
+          "dob": "18 MAR 1994",
+          "mark": "12.53(.528)"
+        },
+        {
+          "rank": 9,
+          "athlete": "CHARLTON Devynne",
+          "country": "BAH",
+          "dob": "26 NOV 1995",
+          "mark": "12.55"
+        },
+        {
+          "rank": 10,
+          "athlete": "ARMSTRONG Alia",
+          "country": "USA",
+          "dob": "28 DEC 2000",
+          "mark": "12.57"
+        },
+        {
+          "rank": 11,
+          "athlete": "HARRISON Kendra",
+          "country": "USA",
+          "dob": "18 SEP 1992",
+          "mark": "12.61"
+        },
+        {
+          "rank": 12,
+          "athlete": "FOURIE Marione",
+          "country": "RSA",
+          "dob": "30 APR 2002",
+          "mark": "12.66(.653)"
+        },
+        {
+          "rank": 13,
+          "athlete": "BAPTÉ Laeticia",
+          "country": "FRA",
+          "dob": "8 FEB 1999",
+          "note": "PB",
+          "mark": "12.66(.656)"
+        },
+        {
+          "rank": 14,
+          "athlete": "ALESSANDRINI Sacha",
+          "country": "FRA",
+          "dob": "7 JUN 1999",
+          "mark": "12.82"
+        },
+        {
+          "rank": null,
+          "athlete": "KAMBUNDJI Ditaji",
+          "country": "SUI",
+          "dob": "20 MAY 2002",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "country": "NGR",
+          "dob": "23 APR 1997",
+          "reaction": 0.15,
+          "mark": "12.39"
+        },
+        {
+          "rank": 2,
+          "athlete": "VISSER Nadine",
+          "country": "NED",
+          "dob": "9 FEB 1995",
+          "reaction": 0.152,
+          "note": "SB",
+          "mark": "12.44"
+        },
+        {
+          "rank": 3,
+          "athlete": "ROSWELL Demisha",
+          "country": "JAM",
+          "dob": "19 JUN 1998",
+          "reaction": 0.155,
+          "mark": "12.46"
+        },
+        {
+          "rank": 4,
+          "athlete": "JONES Rayniah",
+          "country": "USA",
+          "dob": "28 SEP 2001",
+          "reaction": 0.138,
+          "mark": "12.52"
+        },
+        {
+          "rank": 5,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "country": "POL",
+          "dob": "20 APR 2001",
+          "reaction": 0.142,
+          "note": "SB",
+          "mark": "12.53"
+        },
+        {
+          "rank": 6,
+          "athlete": "ARMSTRONG Alia",
+          "country": "USA",
+          "dob": "28 DEC 2000",
+          "reaction": 0.159,
+          "mark": "12.57"
+        },
+        {
+          "rank": 7,
+          "athlete": "BAPTÉ Laeticia",
+          "country": "FRA",
+          "dob": "8 FEB 1999",
+          "reaction": 0.13,
+          "note": "PB",
+          "mark": "12.66"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JOHNSON Alaysha",
+          "country": "USA",
+          "dob": "20 JUL 1996",
+          "reaction": 0.148,
+          "note": "SB",
+          "mark": "12.42"
+        },
+        {
+          "rank": 2,
+          "athlete": "STARK Grace",
+          "country": "USA",
+          "dob": "6 MAY 2001",
+          "reaction": 0.167,
+          "mark": "12.51"
+        },
+        {
+          "rank": 3,
+          "athlete": "SIMMONDS Megan",
+          "country": "JAM",
+          "dob": "18 MAR 1994",
+          "reaction": 0.135,
+          "mark": "12.53"
+        },
+        {
+          "rank": 4,
+          "athlete": "CHARLTON Devynne",
+          "country": "BAH",
+          "dob": "26 NOV 1995",
+          "reaction": 0.136,
+          "mark": "12.55"
+        },
+        {
+          "rank": 5,
+          "athlete": "HARRISON Kendra",
+          "country": "USA",
+          "dob": "18 SEP 1992",
+          "reaction": 0.153,
+          "mark": "12.61"
+        },
+        {
+          "rank": 6,
+          "athlete": "FOURIE Marione",
+          "country": "RSA",
+          "dob": "30 APR 2002",
+          "reaction": 0.157,
+          "mark": "12.66"
+        },
+        {
+          "rank": 7,
+          "athlete": "ALESSANDRINI Sacha",
+          "country": "FRA",
+          "dob": "7 JUN 1999",
+          "reaction": 0.147,
+          "mark": "12.82"
+        },
+        {
+          "rank": null,
+          "athlete": "KAMBUNDJI Ditaji",
+          "country": "SUI",
+          "dob": "20 MAY 2002",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "country": "NGR",
+          "dob": "23 APR 1997",
+          "reaction": 0.135,
+          "note": "=SB",
+          "mark": "12.28"
+        },
+        {
+          "rank": 2,
+          "athlete": "STARK Grace",
+          "country": "USA",
+          "dob": "6 MAY 2001",
+          "reaction": 0.161,
+          "note": "SB",
+          "mark": "12.38"
+        },
+        {
+          "rank": 3,
+          "athlete": "JOHNSON Alaysha",
+          "country": "USA",
+          "dob": "20 JUL 1996",
+          "reaction": 0.148,
+          "note": "SB",
+          "mark": "12.39"
+        },
+        {
+          "rank": 4,
+          "athlete": "VISSER Nadine",
+          "country": "NED",
+          "dob": "9 FEB 1995",
+          "reaction": 0.137,
+          "note": "SB",
+          "mark": "12.41"
+        },
+        {
+          "rank": 5,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "country": "POL",
+          "dob": "20 APR 2001",
+          "reaction": 0.141,
+          "note": "SB",
+          "mark": "12.46"
+        },
+        {
+          "rank": 6,
+          "athlete": "JONES Rayniah",
+          "country": "USA",
+          "dob": "28 SEP 2001",
+          "reaction": 0.149,
+          "mark": "12.60"
+        },
+        {
+          "rank": 7,
+          "athlete": "ROSWELL Demisha",
+          "country": "JAM",
+          "dob": "19 JUN 1998",
+          "reaction": 0.167,
+          "mark": "12.78"
+        },
+        {
+          "rank": 8,
+          "athlete": "SIMMONDS Megan",
+          "country": "JAM",
+          "dob": "18 MAR 1994",
+          "reaction": 0.149,
+          "mark": "12.92"
+        }
+      ]
+    },
+    {
+      "id": "paris-pole-vault-women",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "startTime": "17:07",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MOSER Angelica",
+          "country": "SUI",
+          "dob": "9 OCT 1997",
+          "mark": "4.77"
+        },
+        {
+          "rank": 2,
+          "athlete": "McCARTNEY Eliza",
+          "country": "NZL",
+          "dob": "11 DEC 1996",
+          "mark": "4.70"
+        },
+        {
+          "rank": 3,
+          "athlete": "KENNEDY Nina",
+          "country": "AUS",
+          "dob": "5 APR 1997",
+          "mark": "4.70"
+        },
+        {
+          "rank": 4,
+          "athlete": "GROVE Emily",
+          "country": "USA",
+          "dob": "22 MAY 1993",
+          "mark": "4.60"
+        },
+        {
+          "rank": 4,
+          "athlete": "ŠUTEJ Tina",
+          "country": "SLO",
+          "dob": "7 NOV 1988",
+          "mark": "4.60"
+        },
+        {
+          "rank": 6,
+          "athlete": "LEON Gabriela",
+          "country": "USA",
+          "dob": "17 JUN 1999",
+          "mark": "4.60"
+        },
+        {
+          "rank": 7,
+          "athlete": "AYRIS Imogen",
+          "country": "NZL",
+          "dob": "12 DEC 2000",
+          "mark": "4.60"
+        },
+        {
+          "rank": 8,
+          "athlete": "McTAGGART Olivia",
+          "country": "NZL",
+          "dob": "9 JAN 2000",
+          "mark": "4.45"
+        },
+        {
+          "rank": 8,
+          "athlete": "PETIT Berenice",
+          "country": "FRA",
+          "dob": "23 NOV 1998",
+          "mark": "4.45"
+        },
+        {
+          "rank": 10,
+          "athlete": "KING Brynn",
+          "country": "USA",
+          "dob": "22 AUG 2000",
+          "mark": "4.45"
+        },
+        {
+          "rank": 11,
+          "athlete": "BONNIN Marie-Julie",
+          "country": "FRA",
+          "dob": "17 DEC 2001",
+          "mark": "4.45"
+        },
+        {
+          "rank": 11,
+          "athlete": "HELTELÄ Wilma",
+          "country": "FIN",
+          "dob": "11 JUN 1998",
+          "mark": "4.45"
+        }
+      ]
+    },
+    {
+      "id": "paris-shot-put-women",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "startTime": "17:11",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MITTON Sarah",
+          "country": "CAN",
+          "dob": "20 JUN 1996",
+          "mark": "19.99"
+        },
+        {
+          "rank": 2,
+          "athlete": "MABRY Yemisi",
+          "country": "GER",
+          "dob": "3 OCT 1998",
+          "mark": "19.93"
+        },
+        {
+          "rank": 3,
+          "athlete": "SCHILDER Jessica",
+          "country": "NED",
+          "dob": "19 MAR 1999",
+          "mark": "19.89"
+        },
+        {
+          "rank": 4,
+          "athlete": "JOHANSSON Axelina",
+          "country": "SWE",
+          "dob": "20 APR 2000",
+          "mark": "19.25"
+        },
+        {
+          "rank": 5,
+          "athlete": "ROOS Fanny",
+          "country": "SWE",
+          "dob": "2 JAN 1995",
+          "mark": "19.17"
+        },
+        {
+          "rank": 6,
+          "athlete": "THOMAS-DODD Danniel",
+          "country": "JAM",
+          "dob": "11 NOV 1992",
+          "mark": "18.88"
+        },
+        {
+          "rank": 7,
+          "athlete": "SMITH Abria",
+          "country": "USA",
+          "dob": "25 JAN 2002",
+          "mark": "18.46"
+        },
+        {
+          "rank": 8,
+          "athlete": "ROSS Jaida",
+          "country": "USA",
+          "dob": "29 OCT 2001",
+          "mark": "18.18"
+        },
+        {
+          "rank": 9,
+          "athlete": "AQUILLA Adelaide",
+          "country": "USA",
+          "dob": "3 MAR 1999",
+          "mark": "18.09"
+        }
+      ]
+    },
+    {
+      "id": "paris-javelin-throw-women",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "startTime": "18:25",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YAN Ziyi",
+          "country": "CHN",
+          "dob": "22 MAY 2008",
+          "mark": "67.44"
+        },
+        {
+          "rank": 2,
+          "athlete": "VILAGOŠ Adriana",
+          "country": "SRB",
+          "dob": "2 JAN 2004",
+          "note": "SB",
+          "mark": "63.83"
+        },
+        {
+          "rank": 3,
+          "athlete": "KITAGUCHI Haruka",
+          "country": "JPN",
+          "dob": "16 MAR 1998",
+          "note": "SB",
+          "mark": "63.01"
+        },
+        {
+          "rank": 4,
+          "athlete": "MINARD Alizée",
+          "country": "FRA",
+          "dob": "6 MAY 1997",
+          "note": "PB",
+          "mark": "61.51"
+        },
+        {
+          "rank": 6,
+          "athlete": "MARAVAL Jade",
+          "country": "FRA",
+          "dob": "6 JUN 2002",
+          "mark": "59.97"
+        },
+        {
+          "rank": 7,
+          "athlete": "ANDREJCZYK Maria",
+          "country": "POL",
+          "dob": "9 MAR 1996",
+          "mark": "59.58"
+        },
+        {
+          "rank": 8,
+          "athlete": "KOLAK Sara",
+          "country": "CRO",
+          "dob": "22 JUN 1995",
+          "mark": "58.35"
+        },
+        {
+          "rank": 9,
+          "athlete": "BORGE Sigrid",
+          "country": "NOR",
+          "dob": "3 DEC 1995",
+          "mark": "56.92"
+        },
+        {
+          "rank": 10,
+          "athlete": "MOORBY Tori",
+          "country": "NZL",
+          "dob": "17 MAY 1994",
+          "mark": "55.89"
+        },
+        {
+          "rank": 11,
+          "athlete": "TZENGKO Elina",
+          "country": "GRE",
+          "dob": "2 SEP 2002",
+          "mark": "54.35"
+        },
+        {
+          "rank": 12,
+          "athlete": "ANGULO Juleisy",
+          "country": "ECU",
+          "dob": "2 JAN 2001",
+          "mark": "52.91"
+        },
+        {
+          "rank": null,
+          "athlete": "SIETINA Anete",
+          "country": "LAT",
+          "dob": "5 FEB 1996",
+          "mark": "NM",
+          "status": "NM"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "PAVESE Alessia",
+          "country": "ITA",
+          "dob": "15 JUL 1998",
+          "reaction": 0.171,
+          "note": "PB",
+          "mark": "11.33(.322)"
+        },
+        {
+          "rank": 2,
+          "athlete": "GALET Chloe",
+          "country": "FRA",
+          "dob": "30 AUG 2001",
+          "reaction": 0.142,
+          "note": "SB",
+          "mark": "11.33(.328)"
+        },
+        {
+          "rank": 3,
+          "athlete": "de NAEYER Janie",
+          "country": "BEL",
+          "dob": "17 AUG 2001",
+          "reaction": 0.148,
+          "mark": "11.47"
+        },
+        {
+          "rank": 4,
+          "athlete": "van den BERG Isabel",
+          "country": "NED",
+          "dob": "2 FEB 2005",
+          "reaction": 0.161,
+          "mark": "11.52"
+        },
+        {
+          "rank": 5,
+          "athlete": "RICHARD MENGAS Sarah",
+          "country": "FRA",
+          "dob": "2 APR 1998",
+          "reaction": 0.176,
+          "mark": "11.55"
+        },
+        {
+          "rank": 6,
+          "athlete": "RISKWAIT Naomi",
+          "country": "FRA",
+          "dob": "28 AUG 2002",
+          "reaction": 0.165,
+          "mark": "11.62"
+        },
+        {
+          "rank": 7,
+          "athlete": "THEVENIN Nina",
+          "country": "FRA",
+          "dob": "21 DEC 2005",
+          "reaction": 0.16,
+          "mark": "11.93"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NKANSA Delphine",
+          "country": "BEL",
+          "dob": "21 SEP 2001",
+          "reaction": 0.12,
+          "mark": "11.21"
+        },
+        {
+          "rank": 2,
+          "athlete": "HOOPER Gloria",
+          "country": "ITA",
+          "dob": "3 MAR 1992",
+          "reaction": 0.154,
+          "mark": "11.30"
+        },
+        {
+          "rank": 3,
+          "athlete": "LÜCKENKEMPER Gina",
+          "country": "GER",
+          "dob": "21 NOV 1996",
+          "reaction": 0.201,
+          "mark": "11.39"
+        },
+        {
+          "rank": 4,
+          "athlete": "PARISOT Hélène",
+          "country": "FRA",
+          "dob": "17 DEC 1992",
+          "reaction": 0.166,
+          "mark": "11.59"
+        },
+        {
+          "rank": 5,
+          "athlete": "de BLAAUW Britt",
+          "country": "NED",
+          "dob": "22 APR 2004",
+          "reaction": 0.206,
+          "mark": "11.75"
+        },
+        {
+          "rank": null,
+          "athlete": "BISSCHOPS Minke",
+          "country": "NED",
+          "dob": "2 SEP 2002",
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "HAGAN Zara",
+          "country": "AUS",
+          "dob": "5 AUG 2007",
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "LEWIS Torrie",
+          "country": "AUS",
+          "dob": "8 JAN 2005",
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    }
+  ]
+}
