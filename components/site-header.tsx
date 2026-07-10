@@ -5,11 +5,14 @@ import { usePathname } from 'next/navigation'
 import { useState } from 'react'
 import { Menu, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
+import { SearchDialog } from '@/components/search-dialog'
 
 const NAV = [
   { href: '/', label: 'Temporada' },
   { href: '/meetings', label: 'Etapas' },
+  { href: '/stats', label: 'Estatísticas' },
   { href: '/standings', label: 'Rankings' },
+  { href: '/athletes', label: 'Atletas' },
 ]
 
 export function SiteHeader() {
@@ -52,9 +55,7 @@ export function SiteHeader() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <span className="hidden font-mono text-xs uppercase tracking-widest text-muted-foreground sm:inline">
-            Temporada 2026
-          </span>
+          <SearchDialog />
           <button
             type="button"
             className="grid size-9 place-items-center rounded-md border border-border text-foreground md:hidden"

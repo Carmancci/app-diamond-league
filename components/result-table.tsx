@@ -1,7 +1,10 @@
+import Link from 'next/link'
 import { Wind, Clock } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { EventResult } from '@/lib/diamond-league/types'
 import { CountryFlag } from '@/components/country-flag'
+import { athleteId } from '@/lib/diamond-league/athletes'
+import { displayName } from '@/lib/diamond-league/format'
 
 const NOTE_STYLES: Record<string, string> = {
   WL: 'bg-primary/20 text-primary',
@@ -14,6 +17,12 @@ const NOTE_STYLES: Record<string, string> = {
 }
 
 const DNF_MARKS = new Set(['DNF', 'DNS', 'DQ', 'NM', 'DID NOT START'])
+
+const RANK_ACCENT: Record<number, string> = {
+  1: 'text-primary',
+  2: 'text-foreground',
+  3: 'text-chart-3',
+}
 
 export function ResultTable({ event }: { event: EventResult }) {
   const hasResults = event.results.length > 0
@@ -49,6 +58,7 @@ export function ResultTable({ event }: { event: EventResult }) {
         <div className="divide-y divide-border">
           {event.results.map((r, i) => {
             const isDnf = DNF_MARKS.has(r.mark.toUpperCase())
+            const id = athleteId(r.athlete, r.country)
             return (
               <div
                 key={`${r.rank ?? 'x'}-${r.athlete}-${i}`}
@@ -60,18 +70,21 @@ export function ResultTable({ event }: { event: EventResult }) {
                 <span
                   className={cn(
                     'w-6 text-center font-mono text-sm font-bold',
-                    r.rank === 1 ? 'text-primary' : 'text-muted-foreground',
+                    r.rank && RANK_ACCENT[r.rank] ? RANK_ACCENT[r.rank] : 'text-muted-foreground',
                   )}
                 >
                   {r.rank ?? '–'}
                 </span>
                 <CountryFlag code={r.country} className="size-4 shrink-0" />
-                <div className="min-w-0 flex-1">
-                  <span className="truncate font-medium text-foreground">{r.athlete}</span>
+                <Link
+                  href={`/athletes/${id}`}
+                  className="min-w-0 flex-1 transition-colors hover:text-primary"
+                >
+                  <span className="truncate font-medium">{displayName(r.athlete)}</span>
                   <span className="ml-2 font-mono text-[10px] uppercase tracking-wider text-muted-foreground">
                     {r.country}
                   </span>
-                </div>
+                </Link>
                 {r.note && (
                   <span
                     className={cn(

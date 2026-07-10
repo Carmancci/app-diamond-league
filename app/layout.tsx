@@ -2,6 +2,7 @@ import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { SiteHeader } from '@/components/site-header'
+import { BottomNav } from '@/components/bottom-nav'
 import './globals.css'
 
 const geistSans = Geist({
@@ -33,9 +34,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR" className={`dark ${geistSans.variable} ${geistMono.variable}`}>
-      <body className="bg-background font-sans antialiased">
+      <body className="bg-background font-sans antialiased pb-16 md:pb-0">
         <SiteHeader />
         {children}
+        <BottomNav />
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
     </html>

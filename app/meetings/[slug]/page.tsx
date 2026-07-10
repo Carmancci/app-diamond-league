@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import { ArrowLeft, ArrowUpRight, CalendarDays, MapPin } from 'lucide-react'
 import { Countdown } from '@/components/countdown'
 import { EventBrowser } from '@/components/event-browser'
+import { NoteLegend } from '@/components/note-legend'
 import { StatusBadge } from '@/components/status-badge'
 import { MEETINGS } from '@/lib/diamond-league/data'
 import {
@@ -121,6 +122,12 @@ export default async function MeetingPage({
         </h2>
         <EventBrowser events={meeting.events} />
       </section>
+
+      {status === 'completed' && (
+        <section className="mt-8">
+          <NoteLegend />
+        </section>
+      )}
     </main>
   )
 }
