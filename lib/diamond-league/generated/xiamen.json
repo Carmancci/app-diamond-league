@@ -8,1797 +8,1865 @@
   "countryName": "China",
   "stadium": "Egret Stadium",
   "date": "2026-05-23",
+  "timezone": "Asia/Shanghai",
   "isFinal": false,
   "officialUrl": "https://xiamen.diamondleague.com",
+  "state": "confirmado_oficial",
   "source": {
-    "type": "pdf",
-    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/XIAMEN_2026/PDF_ATH-------------------------------_MUL.PDF"
+    "type": "swiss_timing_json",
+    "url": "https://ath-wdl-archive.azureedge.net/2026/xiamen.json",
+    "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/XIAMEN_2026/PDF_ATH-------------------------------_MUL.PDF",
+    "checksum": "cec3dc3cfd22e33b03164d556fb4eed1ccf70555f1cf8e0773443150a992b6c9",
+    "collectedAt": "2026-07-13T13:01:51.292Z",
+    "parserVersion": "2.0.0",
+    "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-10T12:51:52.501Z",
+  "updatedAt": "2026-07-13T13:01:51.292Z",
+  "eventCount": 19,
+  "athleteCount": 231,
   "events": [
     {
-      "id": "xiamen-100m-men",
-      "discipline": "100m",
+      "id": "xiamen-200m-women-102-1020040",
+      "discipline": "200m",
       "category": "sprints",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "wind": "+0.2 m/s",
-      "startTime": "20:40",
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.2",
+      "startTime": "19:44",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "21.34",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Seoul",
+          "date": "1988-09-29T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "21.63",
+          "holder": "SCHIPPERS Dafne",
+          "holderCountry": "NED",
+          "location": "Beijing",
+          "date": "2015-08-28T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "22.01",
+          "holder": "LI Xuemei",
+          "holderCountry": "CHN",
+          "location": "Shanghai",
+          "date": "1997-10-22T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "22.23",
+          "holder": "GAINSFORD Melinda",
+          "holderCountry": "AUS",
+          "location": "Stuttgart",
+          "date": "1997-07-13T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "21.86",
+          "holder": "ALFRED Julien",
+          "holderCountry": "LCA",
+          "location": "Austin, TX",
+          "date": "2026-04-30T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "21.48",
+          "holder": "JACKSON Shericka",
+          "holderCountry": "JAM",
+          "location": "Bruxelles",
+          "date": "2023-09-08T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "21.87",
+          "holder": "JACKSON Shericka",
+          "holderCountry": "JAM",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "22.41",
+          "holder": "BATTLE Anavia",
+          "holderCountry": "USA",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "22.96",
+          "holder": "LEWIS Torrie",
+          "holderCountry": "AUS",
+          "date": "2024-04-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "OMANYALA Ferdinand",
-          "country": "KEN",
-          "dob": "2 JAN 1996",
-          "reaction": 0.148,
-          "note": "SB",
-          "mark": "9.94"
+          "athlete": "JACKSON Shericka",
+          "athleteId": "14325599",
+          "country": "JAM",
+          "bib": 123,
+          "mark": "21.87",
+          "note": "MR,SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
         },
         {
           "rank": 2,
-          "athlete": "LEOTLELA Gift",
-          "country": "RSA",
-          "dob": "12 MAY 1998",
-          "reaction": 0.138,
-          "mark": "10.00"
+          "athlete": "MILLER-UIBO Shaunae",
+          "athleteId": "14368116",
+          "country": "BAH",
+          "bib": 15,
+          "mark": "22.04",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 14
         },
         {
           "rank": 3,
-          "athlete": "BROMELL Trayvon",
+          "athlete": "BATTLE Anavia",
+          "athleteId": "14715397",
           "country": "USA",
-          "dob": "10 JUL 1995",
-          "reaction": 0.128,
-          "mark": "10.03(.024)"
+          "bib": 177,
+          "mark": "22.29",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 12
         },
         {
           "rank": 4,
-          "athlete": "BEDNAREK Kenneth",
+          "athlete": "RICHARDSON Sha'Carri",
+          "athleteId": "14717691",
           "country": "USA",
-          "dob": "14 OCT 1998",
-          "reaction": 0.156,
-          "mark": "10.03(.029)"
+          "bib": 206,
+          "mark": "22.38",
+          "note": "SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 10
         },
         {
           "rank": 5,
-          "athlete": "SIMBINE Akani",
-          "country": "RSA",
-          "dob": "21 SEP 1993",
-          "reaction": 0.144,
-          "mark": "10.04"
+          "athlete": "PRANDINI Jenna",
+          "athleteId": "14329068",
+          "country": "USA",
+          "bib": 205,
+          "mark": "22.46",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
         },
         {
           "rank": 6,
-          "athlete": "KENNEDY Lachlan",
+          "athlete": "LONG Mckenzie",
+          "athleteId": "14723890",
+          "country": "USA",
+          "bib": 197,
+          "mark": "22.63",
+          "qualificationRank": 7,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 7,
+          "athlete": "HUNT Amy",
+          "athleteId": "14685108",
+          "country": "GBR",
+          "bib": 95,
+          "mark": "22.67",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 8,
+          "athlete": "CHEN Yujie",
+          "athleteId": "15138450",
+          "country": "CHN",
+          "bib": 24,
+          "mark": "23.01",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 9,
+          "athlete": "LEWIS Torrie",
+          "athleteId": "14778459",
           "country": "AUS",
-          "dob": "4 NOV 2003",
-          "reaction": 0.158,
-          "mark": "10.06"
-        },
-        {
-          "rank": 7,
-          "athlete": "COLEMAN Christian",
-          "country": "USA",
-          "dob": "6 MAR 1996",
-          "reaction": 0.136,
-          "note": "SB",
-          "mark": "10.08"
-        },
-        {
-          "rank": 8,
-          "athlete": "TEBOGO Letsile",
-          "country": "BOT",
-          "dob": "7 JUN 2003",
-          "reaction": 0.156,
-          "note": "SB",
-          "mark": "10.10"
-        },
-        {
-          "rank": 9,
-          "athlete": "DENG Xinrui",
-          "country": "CHN",
-          "dob": "20 DEC 2003",
-          "reaction": 0.119,
-          "mark": "10.27"
-        },
-        {
-          "rank": 10,
-          "athlete": "WANG Shengjie",
-          "country": "CHN",
-          "dob": "31 MAR 2000",
-          "reaction": 0.139,
-          "mark": "10.33"
+          "bib": 10,
+          "mark": "23.25"
         }
       ]
     },
     {
-      "id": "xiamen-400m-men",
-      "discipline": "400m",
-      "category": "sprints",
-      "gender": "men",
+      "id": "xiamen-1500m-women-113-1130040",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "19:04",
-      "results": [
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "20:13",
+      "startDate": "23 May 2026",
+      "records": [
         {
-          "rank": 2,
-          "athlete": "SAMUKONGA Muzala",
-          "country": "ZAM",
-          "dob": "9 DEC 2002",
-          "reaction": 0.149,
-          "note": "SB",
-          "mark": "44.04"
+          "name": "World Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
         },
         {
-          "rank": 3,
-          "athlete": "NENE Zakithi",
-          "country": "RSA",
-          "dob": "2 APR 1998",
-          "reaction": 0.148,
-          "note": "SB",
-          "mark": "44.40"
+          "name": "Area Record",
+          "performance": "3:50.46",
+          "holder": "QU Yunxia",
+          "holderCountry": "CHN",
+          "location": "Beijing",
+          "date": "1993-09-11T00:00:00"
         },
         {
-          "rank": 4,
-          "athlete": "BAILEY Chris",
-          "country": "USA",
-          "dob": "29 MAY 2000",
-          "reaction": 0.204,
-          "mark": "44.70"
+          "name": "Area Record",
+          "performance": "3:50.83",
+          "holder": "HULL Jessica",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
         },
         {
-          "rank": 5,
-          "athlete": "NDORI Bayapo",
-          "country": "BOT",
-          "dob": "20 JUN 1999",
-          "reaction": 0.147,
-          "mark": "44.88"
+          "name": "Area Record",
+          "performance": "3:51.95",
+          "holder": "HASSAN Sifan",
+          "holderCountry": "NED",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
         },
         {
-          "rank": 6,
-          "athlete": "MORALES WILLIAMS Christopher",
-          "country": "CAN",
-          "dob": "5 AUG 2004",
-          "reaction": 0.173,
-          "mark": "45.24"
+          "name": "Area Record",
+          "performance": "3:54.99",
+          "holder": "HOULIHAN Shelby",
+          "holderCountry": "USA",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
         },
         {
-          "rank": 7,
-          "athlete": "MOLNÁR Attila",
-          "country": "HUN",
-          "dob": "17 JAN 2002",
-          "reaction": 0.163,
-          "mark": "45.49"
+          "name": "World Lead",
+          "performance": "3:55.56",
+          "holder": "HAYLOM Birke",
+          "holderCountry": "ETH",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
         },
         {
-          "rank": 8,
-          "athlete": "NORWOOD Vernon",
-          "country": "USA",
-          "dob": "10 APR 1992",
-          "reaction": 0.176,
-          "mark": "45.51"
+          "name": "Diamond League Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
         },
         {
-          "rank": 9,
-          "athlete": "LIU Kai",
-          "country": "CHN",
-          "dob": "10 MAY 2006",
-          "reaction": 0.175,
-          "mark": "46.60"
+          "name": "Meeting Record",
+          "performance": "3:50.30",
+          "holder": "TSEGAY Gudaf",
+          "holderCountry": "ETH",
+          "date": "2024-04-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:56.56",
+          "holder": "HAILU Freweyni",
+          "holderCountry": "ETH",
+          "date": "2023-09-02T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
         }
-      ]
-    },
-    {
-      "id": "xiamen-5000m-men",
-      "discipline": "5000m",
-      "category": "distance",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "19:52",
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "YIHUNE Addisu",
-          "country": "ETH",
-          "dob": "17 MAR 2003",
-          "note": "MR WL",
-          "mark": "12:57.32"
+          "athlete": "CALDWELL Abbey",
+          "athleteId": "14636659",
+          "country": "AUS",
+          "bib": 3,
+          "mark": "3:57.26",
+          "qualificationRank": 2,
+          "qualificationPoints": 14
         },
         {
           "rank": 2,
-          "athlete": "ABDILAAHI Mohamed",
-          "country": "GER",
-          "dob": "24 MAR 1999",
-          "note": "SB",
-          "mark": "12:57.90"
+          "athlete": "HAYLOM Birke",
+          "athleteId": "15009582",
+          "country": "ETH",
+          "bib": 75,
+          "mark": "3:57.79",
+          "qualificationRank": 1,
+          "qualificationPoints": 15
         },
         {
           "rank": 3,
-          "athlete": "MEHARY Biniam",
-          "country": "ETH",
-          "dob": "20 DEC 2006",
+          "athlete": "MACKAY Emily",
+          "athleteId": "14667572",
+          "country": "USA",
+          "bib": 198,
+          "mark": "3:58.13",
           "note": "SB",
-          "mark": "12:58.51"
+          "qualificationRank": 4,
+          "qualificationPoints": 8
         },
         {
           "rank": 4,
-          "athlete": "HERRERA Eduardo",
-          "country": "MEX",
-          "dob": "23 SEP 1997",
-          "note": "SB",
-          "mark": "13:00.69"
+          "athlete": "EWOI Dorcus",
+          "athleteId": "14878719",
+          "country": "KEN",
+          "bib": 138,
+          "mark": "3:58.91",
+          "qualificationRank": 3,
+          "qualificationPoints": 9
         },
         {
           "rank": 5,
-          "athlete": "KURGAT Edwin",
-          "country": "KEN",
-          "dob": "19 MAY 1996",
-          "note": "SB",
-          "mark": "13:01.47"
+          "athlete": "HULL Jessica",
+          "athleteId": "14464506",
+          "country": "AUS",
+          "bib": 9,
+          "mark": "3:58.97",
+          "qualificationRank": 6,
+          "qualificationPoints": 7
         },
         {
           "rank": 6,
-          "athlete": "BEJIGA Khairi",
+          "athlete": "BERHE Saron",
+          "athleteId": "15009577",
           "country": "ETH",
-          "dob": "27 APR 2006",
-          "note": "PB",
-          "mark": "13:06.45"
+          "bib": 70,
+          "mark": "4:00.32",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
         },
         {
           "rank": 7,
-          "athlete": "BALEW Birhanu",
-          "country": "BRN",
-          "dob": "27 FEB 1996",
-          "note": "SB",
-          "mark": "13:07.75"
+          "athlete": "GALVYDYTE Gabija",
+          "athleteId": "14675493",
+          "country": "LTU",
+          "bib": 140,
+          "mark": "4:00.41",
+          "qualificationRank": 9,
+          "qualificationPoints": 2
         },
         {
           "rank": 8,
-          "athlete": "KEMBOI Cornelius",
-          "country": "KEN",
-          "dob": "29 FEB 2000",
-          "note": "SB",
-          "mark": "13:08.45"
+          "athlete": "HALL Linden",
+          "athleteId": "14272002",
+          "country": "AUS",
+          "bib": 7,
+          "mark": "4:00.55",
+          "qualificationRank": 11,
+          "qualificationPoints": 1
         },
         {
           "rank": 9,
-          "athlete": "CATROFE Santiago",
-          "country": "URU",
-          "dob": "13 FEB 1999",
-          "note": "SB",
-          "mark": "13:08.72"
+          "athlete": "WALCOTT-NOLAN Revee",
+          "athleteId": "14471539",
+          "country": "GBR",
+          "bib": 99,
+          "mark": "4:00.78",
+          "note": "SB"
         },
         {
           "rank": 10,
-          "athlete": "KIPROP Keneth",
-          "country": "UGA",
-          "dob": "13 MAY 2005",
-          "note": "SB",
-          "mark": "13:08.79"
+          "athlete": "WIND Joceline",
+          "athleteId": "14843282",
+          "country": "SUI",
+          "bib": 164,
+          "mark": "4:01.41",
+          "note": "PB"
+        },
+        {
+          "rank": 11,
+          "athlete": "BILLINGS Sarah",
+          "athleteId": "14464575",
+          "country": "AUS",
+          "bib": 2,
+          "mark": "4:02.00",
+          "qualificationRank": 10,
+          "qualificationPoints": 1
         },
         {
           "rank": 12,
-          "athlete": "SIME Mezgebu",
-          "country": "ETH",
-          "dob": "7 OCT 2005",
-          "note": "SB",
-          "mark": "13:13.17"
+          "athlete": "MORRIS Gracie",
+          "athleteId": "14715821",
+          "country": "USA",
+          "bib": 203,
+          "mark": "4:02.14"
         },
         {
           "rank": 13,
-          "athlete": "CHERUIYOT Timothy",
-          "country": "KEN",
-          "dob": "20 NOV 1995",
-          "note": "PB",
-          "mark": "13:16.41"
+          "athlete": "HOLLINGSWORTH Claudia",
+          "athleteId": "14922448",
+          "country": "AUS",
+          "bib": 8,
+          "mark": "4:06.46"
         },
         {
           "rank": 14,
-          "athlete": "O'DONNELL Seth",
-          "country": "AUS",
-          "dob": "14 SEP 2001",
-          "mark": "13:18.68"
+          "athlete": "LI Chunhui",
+          "athleteId": "14803753",
+          "country": "CHN",
+          "bib": 35,
+          "mark": "4:07.43",
+          "note": "SB"
         },
         {
           "rank": 15,
-          "athlete": "KIBET Harbert",
-          "country": "UGA",
-          "dob": "17 JUN 2005",
-          "note": "SB",
-          "mark": "13:46.45"
-        },
-        {
-          "rank": 16,
-          "athlete": "VERBAANDERT Tim",
-          "country": "NED",
-          "dob": "17 JUL 2000",
-          "note": "SB",
-          "mark": "13:54.63"
-        },
-        {
-          "rank": null,
-          "athlete": "ALMGREN Andreas",
-          "country": "SWE",
-          "dob": "12 JUN 1995",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "FAYISA Abdisa",
+          "athlete": "MESELE Worknesh",
+          "athleteId": "14852703",
           "country": "ETH",
-          "dob": "24 APR 2005",
-          "mark": "DNF",
-          "status": "DNF"
+          "bib": 77,
+          "mark": "4:07.53",
+          "qualificationRank": 7,
+          "qualificationPoints": 5
         },
         {
           "rank": null,
-          "athlete": "GIRMA Kuma",
-          "country": "ETH",
-          "dob": "24 NOV 2005",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "KIPRUGUT Boaz",
-          "country": "KEN",
-          "dob": "18 MAY 1998",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "SASÍNEK Filip",
-          "country": "CZE",
-          "dob": "8 JAN 1996",
+          "athlete": "PARKS Taryn",
+          "athleteId": "14783168",
+          "country": "USA",
+          "bib": 204,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "xiamen-110m-hurdles-men",
-      "discipline": "110m Hurdles",
+      "id": "xiamen-100m-hurdles-women-125-1250040",
+      "discipline": "100m Hurdles",
       "category": "hurdles",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "wind": "+0.5 m/s",
-      "startTime": "19:35",
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.5",
+      "startTime": "20:52",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.12",
+          "holder": "AMUSAN Tobi",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2022-07-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.17",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Miramar, FL",
+          "date": "2025-05-02T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.21",
+          "holder": "DONKOVA Yordanka",
+          "holderCountry": "BUL",
+          "location": "Stara Zagora",
+          "date": "1988-08-20T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.44",
+          "holder": "SHISHIGINA Olga",
+          "holderCountry": "KAZ",
+          "location": "Luzern",
+          "date": "1995-06-27T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.25",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.19",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.45",
+          "holder": "CAMACHO-QUINN Jasmine",
+          "holderCountry": "PUR",
+          "date": "2024-04-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "13.00",
+          "holder": "LIN Yuwei",
+          "holderCountry": "CHN",
+          "date": "2023-09-02T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "BRITT Jamal",
+          "athlete": "RUSSELL Masai",
+          "athleteId": "14659011",
           "country": "USA",
-          "dob": "28 DEC 1998",
-          "reaction": 0.148,
-          "note": "=PB",
-          "mark": "13.07"
+          "bib": 207,
+          "mark": "12.14",
+          "note": "AR,DLR,MR,WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
         },
         {
           "rank": 2,
-          "athlete": "MURATAKE Rachid",
-          "country": "JPN",
-          "dob": "6 FEB 2002",
-          "reaction": 0.134,
+          "athlete": "AMUSAN Tobi",
+          "athleteId": "14579526",
+          "country": "NGR",
+          "bib": 146,
+          "mark": "12.28",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 3,
+          "athlete": "CHARLTON Devynne",
+          "athleteId": "14414505",
+          "country": "BAH",
+          "bib": 14,
+          "mark": "12.37",
+          "note": "NR",
+          "qualificationRank": 3,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 4,
+          "athlete": "SIMMONDS Megan",
+          "athleteId": "14413569",
+          "country": "JAM",
+          "bib": 126,
+          "mark": "12.52",
+          "note": "SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 5,
+          "athlete": "KAMBUNDJI Ditaji",
+          "athleteId": "14739461",
+          "country": "SUI",
+          "bib": 163,
+          "mark": "12.62",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 6,
+          "athlete": "NUGENT Ackera",
+          "athleteId": "14685249",
+          "country": "JAM",
+          "bib": 125,
+          "mark": "12.64",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 7,
+          "athlete": "WILLIAMS Danielle",
+          "athleteId": "14450995",
+          "country": "JAM",
+          "bib": 127,
+          "mark": "12.90",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "WU Yanni",
+          "athleteId": "14585472",
+          "country": "CHN",
+          "bib": 49,
+          "mark": "13.06",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 9,
+          "athlete": "MARSHALL Tonea",
+          "athleteId": "14564128",
+          "country": "USA",
+          "bib": 200,
           "mark": "13.13"
         },
         {
+          "rank": 10,
+          "athlete": "LIU Jingyang",
+          "athleteId": "14635021",
+          "country": "CHN",
+          "bib": 40,
+          "mark": "13.26",
+          "note": "SB"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-3000m-steeplechase-women-129-1290040",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:15",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "8:44.32",
+          "holder": "CHEPKOECH Beatrice",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2018-07-20T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:44.39",
+          "holder": "YAVI Winfred",
+          "holderCountry": "BRN",
+          "location": "Roma",
+          "date": "2024-08-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:57.77",
+          "holder": "FRERICHS Courtney",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:58.67",
+          "holder": "FINOT Alice",
+          "holderCountry": "FRA",
+          "location": "Paris",
+          "date": "2024-08-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9:14.28",
+          "holder": "LACAZE Genevieve",
+          "holderCountry": "AUS",
+          "location": "Paris-St-Denis",
+          "date": "2016-08-27T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8:51.06",
+          "holder": "CHEMUTAI Peruth",
+          "holderCountry": "UGA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8:51.47",
+          "holder": "CHEMUTAI Peruth",
+          "holderCountry": "UGA",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "8:44.32",
+          "holder": "CHEPKOECH Beatrice",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2018-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8:51.06",
+          "holder": "CHEMUTAI Peruth",
+          "holderCountry": "UGA",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8:55.40",
+          "holder": "CHEPKOECH Beatrice",
+          "holderCountry": "KEN",
+          "date": "2024-04-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CHEMUTAI Peruth",
+          "athleteId": "14707661",
+          "country": "UGA",
+          "bib": 172,
+          "mark": "8:51.06",
+          "note": "MR,WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "YAVI Winfred",
+          "athleteId": "14695622",
+          "country": "BRN",
+          "bib": 19,
+          "mark": "8:51.54",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
+        },
+        {
           "rank": 3,
-          "athlete": "BENNETT Orlando",
-          "country": "JAM",
-          "dob": "12 OCT 1999",
-          "reaction": 0.162,
-          "note": "=SB",
-          "mark": "13.20"
+          "athlete": "CHEROTICH Faith",
+          "athleteId": "14989893",
+          "country": "KEN",
+          "bib": 137,
+          "mark": "8:52.53",
+          "qualificationRank": 2,
+          "qualificationPoints": 13
         },
         {
           "rank": 4,
-          "athlete": "JOSEPH Jason",
-          "country": "SUI",
-          "dob": "11 OCT 1998",
-          "reaction": 0.165,
-          "note": "SB",
-          "mark": "13.24"
+          "athlete": "BOUZAYANI Marwa",
+          "athleteId": "14595096",
+          "country": "TUN",
+          "bib": 167,
+          "mark": "8:59.25",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
         },
         {
           "rank": 5,
-          "athlete": "TINCH Cordell",
-          "country": "USA",
-          "dob": "13 JUL 2000",
-          "reaction": 0.149,
-          "mark": "13.28"
+          "athlete": "TUFA Kena",
+          "athleteId": "15024115",
+          "country": "ETH",
+          "bib": 81,
+          "mark": "9:11.36",
+          "qualificationRank": 4,
+          "qualificationPoints": 9
         },
         {
           "rank": 6,
-          "athlete": "XU Zhuoyi",
-          "country": "CHN",
-          "dob": "21 AUG 2003",
-          "reaction": 0.153,
-          "note": "SB",
-          "mark": "13.33"
+          "athlete": "JERUTO Norah",
+          "athleteId": "14479154",
+          "country": "KAZ",
+          "bib": 134,
+          "mark": "9:13.86",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
         },
         {
           "rank": 7,
-          "athlete": "LIU Junxi",
-          "country": "CHN",
-          "dob": "11 DEC 2003",
-          "reaction": 0.151,
-          "mark": "13.35"
+          "athlete": "HALLADAY Lexy",
+          "athleteId": "14741102",
+          "country": "USA",
+          "bib": 189,
+          "mark": "9:14.96",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
         },
         {
           "rank": 8,
-          "athlete": "LLOPIS Enrique",
-          "country": "ESP",
-          "dob": "15 OCT 2000",
-          "reaction": 0.131,
-          "note": "SB",
-          "mark": "13.36"
+          "athlete": "WALLE Alemnat",
+          "athleteId": "15024112",
+          "country": "ETH",
+          "bib": 82,
+          "mark": "9:15.79",
+          "qualificationRank": 7,
+          "qualificationPoints": 5
         },
         {
           "rank": 9,
-          "athlete": "EDWARDS Eric",
-          "country": "USA",
-          "dob": "3 JAN 2000",
-          "reaction": 0.134,
-          "mark": "13.43"
+          "athlete": "GESESE Firehiwot",
+          "athleteId": "15009736",
+          "country": "ETH",
+          "bib": 73,
+          "mark": "9:16.83",
+          "note": "PB"
         },
         {
           "rank": 10,
-          "athlete": "DIESSL Enzo",
-          "country": "AUT",
-          "dob": "6 JUN 2004",
-          "reaction": 0.16,
-          "note": "SB",
-          "mark": "13.44"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-400m-hurdles-men",
-      "discipline": "400m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "20:27",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "dos SANTOS Alison",
-          "country": "BRA",
-          "dob": "3 JUN 2000",
-          "reaction": 0.171,
-          "note": "WL",
-          "mark": "46.72"
-        },
-        {
-          "rank": 2,
-          "athlete": "WARHOLM Karsten",
-          "country": "NOR",
-          "dob": "28 FEB 1996",
-          "reaction": 0.168,
-          "note": "SB",
-          "mark": "46.82"
-        },
-        {
-          "rank": 3,
-          "athlete": "DEAN Caleb",
+          "athlete": "MITCHELL Kaylee",
+          "athleteId": "14874875",
           "country": "USA",
-          "dob": "20 JUN 2001",
-          "reaction": 0.198,
-          "note": "SB",
-          "mark": "47.75"
+          "bib": 202,
+          "mark": "9:24.54"
         },
         {
-          "rank": 4,
-          "athlete": "BASSITT Trevor",
-          "country": "USA",
-          "dob": "26 FEB 1998",
-          "reaction": 0.193,
-          "mark": "47.90"
+          "rank": 11,
+          "athlete": "COHEN Adva",
+          "athleteId": "14699069",
+          "country": "ISR",
+          "bib": 115,
+          "mark": "9:28.81",
+          "note": "SB"
         },
         {
-          "rank": 5,
-          "athlete": "SAMBA Abderrahman",
-          "country": "QAT",
-          "dob": "5 SEP 1995",
-          "reaction": 0.224,
-          "note": "SB",
-          "mark": "47.93"
-        },
-        {
-          "rank": 6,
-          "athlete": "LIMA Matheus",
-          "country": "BRA",
-          "dob": "1 JUN 2003",
-          "reaction": 0.195,
-          "note": "SB",
-          "mark": "48.22"
-        },
-        {
-          "rank": 7,
-          "athlete": "ALLEN CJ",
-          "country": "USA",
-          "dob": "14 FEB 1995",
-          "reaction": 0.168,
-          "mark": "49.18"
-        },
-        {
-          "rank": 8,
-          "athlete": "GONG Debin",
-          "country": "CHN",
-          "dob": "9 SEP 1997",
-          "reaction": 0.224,
-          "note": "SB",
-          "mark": "50.14"
-        },
-        {
-          "rank": 9,
-          "athlete": "McMASTER Kyron",
-          "country": "IVB",
-          "dob": "3 JAN 1997",
-          "reaction": 0.179,
-          "note": "SB",
-          "mark": "52.41"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-long-jump-men",
-      "discipline": "Long Jump",
-      "category": "jumps",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "19:18",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "TENTOGLOU Miltiadis",
-          "country": "GRE",
-          "dob": "18 MAR 1998",
-          "note": "MR",
-          "mark": "8.46"
-        },
-        {
-          "rank": 2,
-          "athlete": "GAYLE Tajay",
-          "country": "JAM",
-          "dob": "2 AUG 1996",
-          "note": "SB",
-          "mark": "8.32"
-        },
-        {
-          "rank": 3,
-          "athlete": "SARÂBOYUKOV Bozhidar",
-          "country": "BUL",
-          "dob": "6 AUG 2004",
-          "mark": "8.29"
-        },
-        {
-          "rank": 4,
-          "athlete": "FURLANI Mattia",
-          "country": "ITA",
-          "dob": "7 FEB 2005",
-          "mark": "8.28"
-        },
-        {
-          "rank": 5,
-          "athlete": "ANVAROV Anvar",
-          "country": "UZB",
-          "dob": "22 OCT 2000",
-          "mark": "8.01"
-        },
-        {
-          "rank": 6,
-          "athlete": "PINNOCK Wayne",
-          "country": "JAM",
-          "dob": "24 OCT 2000",
-          "note": "=SB",
-          "mark": "7.93"
-        },
-        {
-          "rank": 7,
-          "athlete": "SHU Heng",
-          "country": "CHN",
-          "dob": "22 MAY 2004",
-          "note": "SB",
-          "mark": "7.84"
-        },
-        {
-          "rank": 8,
-          "athlete": "ADCOCK Liam",
+          "rank": 12,
+          "athlete": "FEAIN-RYAN Cara",
+          "athleteId": "14608674",
           "country": "AUS",
-          "dob": "21 JUN 1996",
-          "mark": "7.76"
+          "bib": 5,
+          "mark": "9:29.10"
         },
         {
-          "rank": 9,
-          "athlete": "SHI Yuhao",
+          "rank": 13,
+          "athlete": "WAYMENT Courtney",
+          "athleteId": "14617090",
+          "country": "USA",
+          "bib": 213,
+          "mark": "9:29.51"
+        },
+        {
+          "rank": 14,
+          "athlete": "ELLIS Angelina",
+          "athleteId": "14820700",
+          "country": "USA",
+          "bib": 186,
+          "mark": "9:29.97"
+        },
+        {
+          "rank": 15,
+          "athlete": "GÜRTH Olivia",
+          "athleteId": "14804796",
+          "country": "GER",
+          "bib": 101,
+          "mark": "9:35.82",
+          "note": "SB"
+        },
+        {
+          "rank": 16,
+          "athlete": "MARKEZICH Olivia",
+          "athleteId": "14846039",
+          "country": "USA",
+          "bib": 199,
+          "mark": "9:38.79"
+        },
+        {
+          "rank": 17,
+          "athlete": "LUO Xia",
+          "athleteId": "14892675",
           "country": "CHN",
-          "dob": "26 SEP 1998",
-          "mark": "7.70"
-        },
-        {
-          "rank": 10,
-          "athlete": "ZHANG Mingkun",
-          "country": "CHN",
-          "dob": "20 OCT 2000",
-          "mark": "7.66"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-shot-put-men",
-      "discipline": "Shot Put",
-      "category": "throws",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "18:35",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "CAMPBELL Rajindra",
-          "country": "JAM",
-          "dob": "29 FEB 1996",
-          "note": "NR",
-          "mark": "22.34"
-        },
-        {
-          "rank": 2,
-          "athlete": "GEIST Jordan",
-          "country": "USA",
-          "dob": "21 JUL 1998",
-          "mark": "21.52"
-        },
-        {
-          "rank": 3,
-          "athlete": "CROUSER Ryan",
-          "country": "USA",
-          "dob": "18 DEC 1992",
-          "note": "SB",
-          "mark": "21.41"
-        },
-        {
-          "rank": 4,
-          "athlete": "STEEN Roger",
-          "country": "USA",
-          "dob": "17 MAY 1992",
-          "mark": "21.25"
-        },
-        {
-          "rank": 5,
-          "athlete": "ENEKWECHI Chukwuebuka",
-          "country": "NGR",
-          "dob": "28 JAN 1993",
-          "mark": "21.14"
-        },
-        {
-          "rank": 6,
-          "athlete": "WALSH Tom",
-          "country": "NZL",
-          "dob": "1 MAR 1992",
-          "mark": "21.13"
-        },
-        {
-          "rank": 7,
-          "athlete": "PIPERI Adrian",
-          "country": "USA",
-          "dob": "20 JAN 1999",
-          "note": "SB",
-          "mark": "20.57"
-        },
-        {
-          "rank": 8,
-          "athlete": "MUÑOZ Uziel",
-          "country": "MEX",
-          "dob": "8 SEP 1995",
-          "mark": "20.28"
-        },
-        {
-          "rank": 9,
-          "athlete": "XING Jialiang",
-          "country": "CHN",
-          "dob": "26 MAY 2001",
-          "mark": "19.75"
+          "bib": 42,
+          "mark": "9:49.83"
         },
         {
           "rank": null,
-          "athlete": "FABBRI Leonardo",
-          "country": "ITA",
-          "dob": "15 APR 1997",
-          "mark": "NM",
-          "status": "NM"
+          "athlete": "BAKKER Veerle",
+          "athleteId": "14513285",
+          "country": "NED",
+          "bib": 144,
+          "mark": "DNF",
+          "status": "DNF"
         }
       ]
     },
     {
-      "id": "xiamen-100m-men",
+      "id": "xiamen-high-jump-women-181-1810040",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:51",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "2.10",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "2.00",
+          "holder": "DUBOVITSKAYA Nadezhda",
+          "holderCountry": "KAZ",
+          "location": "Almaty",
+          "date": "2021-06-08T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "2.04",
+          "holder": "OLYSLAGERS Nicola",
+          "holderCountry": "AUS",
+          "location": "Zürich",
+          "date": "2025-08-27T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "2.05",
+          "holder": "LOWE Chaunte",
+          "holderCountry": "USA",
+          "location": "Des Moines, IA",
+          "date": "2010-06-26T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "2.03",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Lviv",
+          "date": "2026-01-17T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "2.10",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "0.01",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "2.02",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "date": "2023-09-02T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "LEVCHENKO Yuliia",
+          "athleteId": "14594836",
+          "country": "UKR",
+          "bib": 174,
+          "mark": "1.99",
+          "note": "=SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "GERASHCHENKO Iryna",
+          "athleteId": "14423612",
+          "country": "UKR",
+          "bib": 173,
+          "mark": "1.97",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "DISTIN Lamara",
+          "athleteId": "14630614",
+          "country": "JAM",
+          "bib": 120,
+          "mark": "1.94",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "ZODZIK Maria",
+          "athleteId": "14620985",
+          "country": "POL",
+          "bib": 153,
+          "mark": "1.94",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "PATTERSON Eleanor",
+          "athleteId": "14411267",
+          "country": "AUS",
+          "bib": 12,
+          "mark": "1.94",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "HUFNAGEL Charity",
+          "athleteId": "14888087",
+          "country": "USA",
+          "bib": 191,
+          "mark": "1.91",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "LU Jiawen",
+          "athleteId": "14805472",
+          "country": "CHN",
+          "bib": 41,
+          "mark": "1.88",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "LAKE Morgan",
+          "athleteId": "14409457",
+          "country": "GBR",
+          "bib": 96,
+          "mark": "1.88",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "ONNEN Imke",
+          "athleteId": "14401199",
+          "country": "GER",
+          "bib": 103,
+          "mark": "1.88"
+        },
+        {
+          "rank": 10,
+          "athlete": "SHAO Yuqi",
+          "athleteId": "14849119",
+          "country": "CHN",
+          "bib": 44,
+          "mark": "1.84",
+          "note": "=SB"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-discus-throw-women-186-1860040",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:48",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "76.80",
+          "holder": "REINSCH Gabriele",
+          "holderCountry": "GDR",
+          "location": "Neubrandenburg",
+          "date": "1988-07-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "71.68",
+          "holder": "XIAO Yanling",
+          "holderCountry": "CHN",
+          "location": "Beijing",
+          "date": "1992-03-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "73.52",
+          "holder": "ALLMAN Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2025-04-12T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "73.10",
+          "holder": "SION Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2026-04-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.38",
+          "holder": "PERKOVIC Sandra",
+          "holderCountry": "CRO",
+          "location": "Doha",
+          "date": "2018-05-04T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "0.01",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "67.41",
+          "holder": "FENG Bin",
+          "holderCountry": "CHN",
+          "date": "2023-09-02T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "69.80",
+          "holder": "ALLMAN Valarie",
+          "holderCountry": "USA",
+          "date": "2024-04-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SION Valarie",
+          "athleteId": "14479216",
+          "country": "USA",
+          "bib": 208,
+          "mark": "68.45",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "FENG Bin",
+          "athleteId": "14430151",
+          "country": "CHN",
+          "bib": 29,
+          "mark": "65.03",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "van KLINKEN Jorinde",
+          "athleteId": "14676577",
+          "country": "NED",
+          "bib": 145,
+          "mark": "64.27",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "BEISTLE Erika",
+          "athleteId": "14937691",
+          "country": "USA",
+          "bib": 178,
+          "mark": "64.07",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "KAMGA Vanessa",
+          "athleteId": "14718533",
+          "country": "SWE",
+          "bib": 165,
+          "mark": "64.02",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "CRAFT Shanice",
+          "athleteId": "14361931",
+          "country": "GER",
+          "bib": 100,
+          "mark": "63.96",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "JACKSON Cierra",
+          "athleteId": "14839155",
+          "country": "USA",
+          "bib": 193,
+          "mark": "62.66",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "TAUSAGA Laulauga",
+          "athleteId": "14647494",
+          "country": "USA",
+          "bib": 211,
+          "mark": "61.51",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "FRALEY Veronica",
+          "athleteId": "14748979",
+          "country": "USA",
+          "bib": 187,
+          "mark": "61.27"
+        },
+        {
+          "rank": 10,
+          "athlete": "MORÁLES Silinda",
+          "athleteId": "14709137",
+          "country": "CUB",
+          "bib": 61,
+          "mark": "59.07"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-javelin-throw-women-188-1880040",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:10",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "72.28",
+          "holder": "ŠPOTÁKOVÁ Barbora",
+          "holderCountry": "CZE",
+          "location": "Stuttgart",
+          "date": "2008-09-13T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "66.70",
+          "holder": "RUIZ HURTADO Flor Denis",
+          "holderCountry": "COL",
+          "location": "Cuiaba",
+          "date": "2024-05-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "67.98",
+          "holder": "LYU Huihui",
+          "holderCountry": "CHN",
+          "location": "Shenyang",
+          "date": "2019-08-02T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "68.92",
+          "holder": "MITCHELL Kathryn",
+          "holderCountry": "AUS",
+          "location": "Gold Coast",
+          "date": "2018-04-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "63.83",
+          "holder": "WILTROUT Madison",
+          "holderCountry": "USA",
+          "location": "Halle",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "69.57",
+          "holder": "OBERGFÖLL Christina",
+          "holderCountry": "GER",
+          "location": "Zürich",
+          "date": "2011-09-08T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "64.75",
+          "holder": "Tzengko Elina",
+          "holderCountry": "GRE",
+          "location": "Xiamen",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "date": "2026-05-23T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YAN Ziyi",
+          "athleteId": "15144603",
+          "country": "CHN",
+          "bib": 52,
+          "mark": "71.74",
+          "note": "WU20R,AR,DLR,MR,WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "BORGE Sigrid",
+          "athleteId": "14481209",
+          "country": "NOR",
+          "bib": 147,
+          "mark": "65.00",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "VILAGOŠ Adriana",
+          "athleteId": "14791117",
+          "country": "SRB",
+          "bib": 160,
+          "mark": "63.64",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "ANDREJCZYK Maria",
+          "athleteId": "14500245",
+          "country": "POL",
+          "bib": 149,
+          "mark": "62.51",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "RUIZ HURTADO Flor Denis",
+          "athleteId": "14369335",
+          "country": "COL",
+          "bib": 58,
+          "mark": "60.84",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "MOORBY Tori",
+          "athleteId": "14465380",
+          "country": "NZL",
+          "bib": 148,
+          "mark": "60.37",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "KITAGUCHI Haruka",
+          "athleteId": "14649131",
+          "country": "JPN",
+          "bib": 131,
+          "mark": "60.08",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "DAI Qianqian",
+          "athleteId": "14748837",
+          "country": "CHN",
+          "bib": 27,
+          "mark": "59.20",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "MASLAK-GLUGLA Malgorzata",
+          "athleteId": "14810709",
+          "country": "POL",
+          "bib": 150,
+          "mark": "58.59"
+        },
+        {
+          "rank": 10,
+          "athlete": "TZENGKO Elina",
+          "athleteId": "14756709",
+          "country": "GRE",
+          "bib": 107,
+          "mark": "55.96"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-men-601-6010040",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
-      "isPrimary": true,
-      "wind": "-0.4 m/s",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "-0.4",
       "startTime": "18:30",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.83",
+          "holder": "SU Bingtian",
+          "holderCountry": "CHN",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.89",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "location": "Gaborone",
+          "date": "2026-04-03T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.83",
+          "holder": "COLEMAN Christian",
+          "holderCountry": "USA",
+          "date": "2023-09-02T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "LI Xiangrui",
           "country": "CHN",
-          "dob": "7 SEP 2005",
-          "reaction": 0.157,
+          "bib": 349,
           "mark": "10.72"
         },
         {
           "rank": 2,
           "athlete": "LIU Juncheng",
           "country": "CHN",
-          "dob": "15 FEB 1997",
-          "reaction": 0.148,
+          "bib": 351,
           "mark": "10.74"
         },
         {
           "rank": 3,
           "athlete": "YUAN Shuo",
           "country": "CHN",
-          "dob": "2 JUL 1995",
-          "reaction": 0.142,
+          "bib": 371,
           "mark": "10.76"
         },
         {
           "rank": 4,
           "athlete": "HUANG Guanzong",
           "country": "CHN",
-          "dob": "23 DEC 2006",
-          "reaction": 0.167,
+          "bib": 343,
           "mark": "10.80"
         },
         {
           "rank": 5,
           "athlete": "JIANG Xianming",
           "country": "CHN",
-          "dob": "5 AUG 2003",
-          "reaction": 0.157,
+          "bib": 346,
           "mark": "10.87"
         },
         {
           "rank": 6,
           "athlete": "CHEN Jie",
           "country": "CHN",
-          "dob": "20 OCT 2002",
-          "reaction": 0.143,
+          "bib": 336,
           "mark": "11.04"
         },
         {
           "rank": 7,
           "athlete": "OU Yongkang",
           "country": "CHN",
-          "dob": "10 FEB 2007",
-          "reaction": 0.164,
+          "bib": 355,
           "mark": "11.08"
         },
         {
           "rank": 8,
           "athlete": "GE Dongwei",
           "country": "CHN",
-          "dob": "1 DEC 2009",
-          "reaction": 0.184,
+          "bib": 340,
           "mark": "11.20"
         },
         {
           "rank": 9,
           "athlete": "CHEN Peilong",
           "country": "CHN",
-          "dob": "28 SEP 2004",
-          "reaction": 0.169,
+          "bib": 337,
           "mark": "11.59"
         },
         {
           "rank": 10,
           "athlete": "CAI Yucheng",
           "country": "CHN",
-          "dob": "21 NOV 2005",
-          "reaction": 0.159,
+          "bib": 334,
           "mark": "11.80"
         }
       ]
     },
     {
-      "id": "xiamen-200m-women",
-      "discipline": "200m",
-      "category": "sprints",
-      "gender": "women",
-      "isPrimary": true,
-      "wind": "+0.2 m/s",
-      "startTime": "19:44",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "JACKSON Shericka",
-          "country": "JAM",
-          "dob": "16 JUL 1994",
-          "reaction": 0.151,
-          "note": "MR SB",
-          "mark": "21.87"
-        },
-        {
-          "rank": 2,
-          "athlete": "MILLER-UIBO Shaunae",
-          "country": "BAH",
-          "dob": "15 APR 1994",
-          "reaction": 0.134,
-          "note": "SB",
-          "mark": "22.04"
-        },
-        {
-          "rank": 3,
-          "athlete": "BATTLE Anavia",
-          "country": "USA",
-          "dob": "28 MAR 1999",
-          "reaction": 0.15,
-          "note": "SB",
-          "mark": "22.29"
-        },
-        {
-          "rank": 4,
-          "athlete": "RICHARDSON Sha'Carri",
-          "country": "USA",
-          "dob": "25 MAR 2000",
-          "reaction": 0.153,
-          "note": "SB",
-          "mark": "22.38"
-        },
-        {
-          "rank": 5,
-          "athlete": "PRANDINI Jenna",
-          "country": "USA",
-          "dob": "20 NOV 1992",
-          "reaction": 0.163,
-          "mark": "22.46"
-        },
-        {
-          "rank": 6,
-          "athlete": "LONG Mckenzie",
-          "country": "USA",
-          "dob": "11 JUL 2000",
-          "reaction": 0.156,
-          "mark": "22.63"
-        },
-        {
-          "rank": 7,
-          "athlete": "HUNT Amy",
-          "country": "GBR",
-          "dob": "15 MAY 2002",
-          "reaction": 0.155,
-          "mark": "22.67"
-        },
-        {
-          "rank": 8,
-          "athlete": "CHEN Yujie",
-          "country": "CHN",
-          "dob": "29 DEC 2008",
-          "reaction": 0.147,
-          "mark": "23.01"
-        },
-        {
-          "rank": 9,
-          "athlete": "LEWIS Torrie",
-          "country": "AUS",
-          "dob": "8 JAN 2005",
-          "reaction": 0.146,
-          "mark": "23.25"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-1500m-women",
-      "discipline": "1500m",
-      "category": "middle",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "20:13",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "CALDWELL Abbey",
-          "country": "AUS",
-          "dob": "3 JUL 2001",
-          "mark": "3:57.26"
-        },
-        {
-          "rank": 2,
-          "athlete": "HAYLOM Birke",
-          "country": "ETH",
-          "dob": "6 JAN 2006",
-          "mark": "3:57.79"
-        },
-        {
-          "rank": 3,
-          "athlete": "MACKAY Emily",
-          "country": "USA",
-          "dob": "30 APR 1998",
-          "note": "SB",
-          "mark": "3:58.13"
-        },
-        {
-          "rank": 4,
-          "athlete": "EWOI Dorcus",
-          "country": "KEN",
-          "dob": "2 OCT 1996",
-          "mark": "3:58.91"
-        },
-        {
-          "rank": 5,
-          "athlete": "HULL Jessica",
-          "country": "AUS",
-          "dob": "22 OCT 1996",
-          "mark": "3:58.97"
-        },
-        {
-          "rank": 6,
-          "athlete": "BERHE Saron",
-          "country": "ETH",
-          "dob": "22 AUG 2007",
-          "note": "SB",
-          "mark": "4:00.32"
-        },
-        {
-          "rank": 7,
-          "athlete": "GALVYDYTE Gabija",
-          "country": "LTU",
-          "dob": "17 JAN 2000",
-          "mark": "4:00.41"
-        },
-        {
-          "rank": 8,
-          "athlete": "HALL Linden",
-          "country": "AUS",
-          "dob": "20 JUN 1991",
-          "mark": "4:00.55"
-        },
-        {
-          "rank": 9,
-          "athlete": "WALCOTT-NOLAN Revee",
-          "country": "GBR",
-          "dob": "6 MAR 1995",
-          "note": "SB",
-          "mark": "4:00.78"
-        },
-        {
-          "rank": 10,
-          "athlete": "WIND Joceline",
-          "country": "SUI",
-          "dob": "12 SEP 2000",
-          "note": "PB",
-          "mark": "4:01.41"
-        },
-        {
-          "rank": 11,
-          "athlete": "BILLINGS Sarah",
-          "country": "AUS",
-          "dob": "7 MAR 1998",
-          "mark": "4:02.00"
-        },
-        {
-          "rank": 12,
-          "athlete": "MORRIS Gracie",
-          "country": "USA",
-          "dob": "17 DEC 2001",
-          "mark": "4:02.14"
-        },
-        {
-          "rank": 13,
-          "athlete": "HOLLINGSWORTH Claudia",
-          "country": "AUS",
-          "dob": "12 APR 2005",
-          "mark": "4:06.46"
-        },
-        {
-          "rank": 14,
-          "athlete": "LI Chunhui",
-          "country": "CHN",
-          "dob": "29 MAR 2001",
-          "note": "SB",
-          "mark": "4:07.43"
-        },
-        {
-          "rank": 15,
-          "athlete": "MESELE Worknesh",
-          "country": "ETH",
-          "dob": "11 JUN 2001",
-          "mark": "4:07.53"
-        },
-        {
-          "rank": null,
-          "athlete": "PARKS Taryn",
-          "country": "USA",
-          "dob": "6 MAY 2002",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-3000m-steeplechase-women",
-      "discipline": "3000m Steeplechase",
+      "id": "xiamen-5000m-mixed-men-617-6170040",
+      "discipline": "5000m Mixed",
       "category": "distance",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "19:15",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "CHEMUTAI Peruth",
-          "country": "UGA",
-          "dob": "10 JUL 1999",
-          "note": "MR WL",
-          "mark": "8:51.06"
-        },
-        {
-          "rank": 2,
-          "athlete": "YAVI Winfred",
-          "country": "BRN",
-          "dob": "31 DEC 1999",
-          "note": "SB",
-          "mark": "8:51.54"
-        },
-        {
-          "rank": 3,
-          "athlete": "CHEROTICH Faith",
-          "country": "KEN",
-          "dob": "13 JUL 2004",
-          "mark": "8:52.53"
-        },
-        {
-          "rank": 4,
-          "athlete": "BOUZAYANI Marwa",
-          "country": "TUN",
-          "dob": "26 MAR 1997",
-          "mark": "8:59.25"
-        },
-        {
-          "rank": 5,
-          "athlete": "TUFA Kena",
-          "country": "ETH",
-          "dob": "27 DEC 2005",
-          "mark": "9:11.36"
-        },
-        {
-          "rank": 6,
-          "athlete": "JERUTO Norah",
-          "country": "KAZ",
-          "dob": "2 OCT 1995",
-          "mark": "9:13.86"
-        },
-        {
-          "rank": 7,
-          "athlete": "HALLADAY Lexy",
-          "country": "USA",
-          "dob": "23 JUL 2001",
-          "mark": "9:14.96"
-        },
-        {
-          "rank": 8,
-          "athlete": "WALLE Alemnat",
-          "country": "ETH",
-          "dob": "29 JAN 2006",
-          "mark": "9:15.79"
-        },
-        {
-          "rank": 9,
-          "athlete": "GESESE Firehiwot",
-          "country": "ETH",
-          "dob": "1 JAN 2006",
-          "note": "PB",
-          "mark": "9:16.83"
-        },
-        {
-          "rank": 10,
-          "athlete": "MITCHELL Kaylee",
-          "country": "USA",
-          "dob": "22 OCT 1999",
-          "mark": "9:24.54"
-        },
-        {
-          "rank": 11,
-          "athlete": "COHEN Adva",
-          "country": "ISR",
-          "dob": "24 MAR 1996",
-          "note": "SB",
-          "mark": "9:28.81"
-        },
-        {
-          "rank": 12,
-          "athlete": "FEAIN-RYAN Cara",
-          "country": "AUS",
-          "dob": "5 FEB 1999",
-          "mark": "9:29.10"
-        },
-        {
-          "rank": 13,
-          "athlete": "WAYMENT Courtney",
-          "country": "USA",
-          "dob": "4 AUG 1998",
-          "mark": "9:29.51"
-        },
-        {
-          "rank": 14,
-          "athlete": "ELLIS Angelina",
-          "country": "USA",
-          "dob": "9 AUG 1998",
-          "mark": "9:29.97"
-        },
-        {
-          "rank": 15,
-          "athlete": "GÜRTH Olivia",
-          "country": "GER",
-          "dob": "31 MAY 2002",
-          "note": "SB",
-          "mark": "9:35.82"
-        },
-        {
-          "rank": 16,
-          "athlete": "MARKEZICH Olivia",
-          "country": "USA",
-          "dob": "10 AUG 2000",
-          "mark": "9:38.79"
-        },
-        {
-          "rank": 17,
-          "athlete": "LUO Xia",
-          "country": "CHN",
-          "dob": "10 MAY 2000",
-          "mark": "9:49.83"
-        },
-        {
-          "rank": null,
-          "athlete": "BAKKER Veerle",
-          "country": "NED",
-          "dob": "29 SEP 1997",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-100m-hurdles-women",
-      "discipline": "100m Hurdles",
-      "category": "hurdles",
-      "gender": "women",
-      "isPrimary": true,
-      "wind": "+0.5 m/s",
-      "startTime": "20:52",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "RUSSELL Masai",
-          "country": "USA",
-          "dob": "17 JUN 2000",
-          "reaction": 0.118,
-          "note": "AR DLR MR",
-          "mark": "12.14"
-        },
-        {
-          "rank": 2,
-          "athlete": "AMUSAN Tobi",
-          "country": "NGR",
-          "dob": "23 APR 1997",
-          "reaction": 0.139,
-          "note": "SB",
-          "mark": "12.28"
-        },
-        {
-          "rank": 3,
-          "athlete": "CHARLTON Devynne",
-          "country": "BAH",
-          "dob": "26 NOV 1995",
-          "reaction": 0.136,
-          "note": "NR",
-          "mark": "12.37"
-        },
-        {
-          "rank": 4,
-          "athlete": "SIMMONDS Megan",
-          "country": "JAM",
-          "dob": "18 MAR 1994",
-          "reaction": 0.139,
-          "note": "SB",
-          "mark": "12.52"
-        },
-        {
-          "rank": 5,
-          "athlete": "KAMBUNDJI Ditaji",
-          "country": "SUI",
-          "dob": "20 MAY 2002",
-          "reaction": 0.122,
-          "note": "SB",
-          "mark": "12.62"
-        },
-        {
-          "rank": 6,
-          "athlete": "NUGENT Ackera",
-          "country": "JAM",
-          "dob": "29 APR 2002",
-          "reaction": 0.155,
-          "note": "SB",
-          "mark": "12.64"
-        },
-        {
-          "rank": 7,
-          "athlete": "WILLIAMS Danielle",
-          "country": "JAM",
-          "dob": "14 SEP 1992",
-          "reaction": 0.126,
-          "note": "SB",
-          "mark": "12.90"
-        },
-        {
-          "rank": 8,
-          "athlete": "WU Yanni",
-          "country": "CHN",
-          "dob": "28 JUL 1997",
-          "reaction": 0.147,
-          "note": "SB",
-          "mark": "13.06"
-        },
-        {
-          "rank": 9,
-          "athlete": "MARSHALL Tonea",
-          "country": "USA",
-          "dob": "17 OCT 1998",
-          "reaction": 0.147,
-          "mark": "13.13"
-        },
-        {
-          "rank": 10,
-          "athlete": "LIU Jingyang",
-          "country": "CHN",
-          "dob": "12 AUG 1997",
-          "reaction": 0.163,
-          "note": "SB",
-          "mark": "13.26"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-high-jump-women",
-      "discipline": "High Jump",
-      "category": "jumps",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:51",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "LEVCHENKO Yuliia",
-          "country": "UKR",
-          "dob": "28 NOV 1997",
-          "note": "=SB",
-          "mark": "1.99"
-        },
-        {
-          "rank": 2,
-          "athlete": "GERASHCHENKO Iryna",
-          "country": "UKR",
-          "dob": "10 MAR 1995",
-          "note": "SB",
-          "mark": "1.97"
-        },
-        {
-          "rank": 3,
-          "athlete": "DISTIN Lamara",
-          "country": "JAM",
-          "dob": "3 MAR 2000",
-          "mark": "1.94"
-        },
-        {
-          "rank": 4,
-          "athlete": "ZODZIK Maria",
-          "country": "POL",
-          "dob": "19 JAN 1997",
-          "mark": "1.94"
-        },
-        {
-          "rank": 5,
-          "athlete": "PATTERSON Eleanor",
-          "country": "AUS",
-          "dob": "22 MAY 1996",
-          "mark": "1.94"
-        },
-        {
-          "rank": 6,
-          "athlete": "HUFNAGEL Charity",
-          "country": "USA",
-          "dob": "18 JUN 2001",
-          "mark": "1.91"
-        },
-        {
-          "rank": 7,
-          "athlete": "LU Jiawen",
-          "country": "CHN",
-          "dob": "19 AUG 2002",
-          "mark": "1.88"
-        },
-        {
-          "rank": 8,
-          "athlete": "LAKE Morgan",
-          "country": "GBR",
-          "dob": "12 MAY 1997",
-          "mark": "1.88"
-        },
-        {
-          "rank": 9,
-          "athlete": "ONNEN Imke",
-          "country": "GER",
-          "dob": "17 AUG 1994",
-          "mark": "1.88"
-        },
-        {
-          "rank": 10,
-          "athlete": "SHAO Yuqi",
-          "country": "CHN",
-          "dob": "13 MAY 2002",
-          "note": "=SB",
-          "mark": "1.84"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-discus-throw-women",
-      "discipline": "Discus Throw",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "19:48",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "SION Valarie",
-          "country": "USA",
-          "dob": "23 FEB 1995",
-          "mark": "68.45"
-        },
-        {
-          "rank": 2,
-          "athlete": "FENG Bin",
-          "country": "CHN",
-          "dob": "3 APR 1994",
-          "note": "SB",
-          "mark": "65.03"
-        },
-        {
-          "rank": 3,
-          "athlete": "van KLINKEN Jorinde",
-          "country": "NED",
-          "dob": "2 FEB 2000",
-          "mark": "64.27"
-        },
-        {
-          "rank": 4,
-          "athlete": "BEISTLE Erika",
-          "country": "USA",
-          "dob": "8 MAY 2003",
-          "mark": "64.07"
-        },
-        {
-          "rank": 5,
-          "athlete": "KAMGA Vanessa",
-          "country": "SWE",
-          "dob": "19 NOV 1998",
-          "note": "SB",
-          "mark": "64.02"
-        },
-        {
-          "rank": 6,
-          "athlete": "CRAFT Shanice",
-          "country": "GER",
-          "dob": "15 MAY 1993",
-          "mark": "63.96"
-        },
-        {
-          "rank": 7,
-          "athlete": "JACKSON Cierra",
-          "country": "USA",
-          "dob": "28 AUG 2002",
-          "mark": "62.66"
-        },
-        {
-          "rank": 8,
-          "athlete": "TAUSAGA Laulauga",
-          "country": "USA",
-          "dob": "22 MAY 1998",
-          "mark": "61.51"
-        },
-        {
-          "rank": 9,
-          "athlete": "FRALEY Veronica",
-          "country": "USA",
-          "dob": "27 MAY 2000",
-          "mark": "61.27"
-        },
-        {
-          "rank": 10,
-          "athlete": "MORÁLES Silinda",
-          "country": "CUB",
-          "dob": "30 AUG 2000",
-          "mark": "59.07"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-javelin-throw-women",
-      "discipline": "Javelin Throw",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:10",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "YAN Ziyi",
-          "country": "CHN",
-          "dob": "22 MAY 2008",
-          "note": "WU20R AR DLR",
-          "mark": "71.74"
-        },
-        {
-          "rank": 2,
-          "athlete": "BORGE Sigrid",
-          "country": "NOR",
-          "dob": "3 DEC 1995",
-          "note": "SB",
-          "mark": "65.00"
-        },
-        {
-          "rank": 3,
-          "athlete": "VILAGOŠ Adriana",
-          "country": "SRB",
-          "dob": "2 JAN 2004",
-          "note": "SB",
-          "mark": "63.64"
-        },
-        {
-          "rank": 4,
-          "athlete": "ANDREJCZYK Maria",
-          "country": "POL",
-          "dob": "9 MAR 1996",
-          "mark": "62.51"
-        },
-        {
-          "rank": 5,
-          "athlete": "RUIZ HURTADO Flor Denis",
-          "country": "COL",
-          "dob": "29 JAN 1991",
-          "mark": "60.84"
-        },
-        {
-          "rank": 6,
-          "athlete": "MOORBY Tori",
-          "country": "NZL",
-          "dob": "17 MAY 1994",
-          "mark": "60.37"
-        },
-        {
-          "rank": 7,
-          "athlete": "KITAGUCHI Haruka",
-          "country": "JPN",
-          "dob": "16 MAR 1998",
-          "mark": "60.08"
-        },
-        {
-          "rank": 8,
-          "athlete": "DAI Qianqian",
-          "country": "CHN",
-          "dob": "23 AUG 2000",
-          "note": "SB",
-          "mark": "59.20"
-        },
-        {
-          "rank": 10,
-          "athlete": "TZENGKO Elina",
-          "country": "GRE",
-          "dob": "2 SEP 2002",
-          "mark": "55.96"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-100m-women",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "women",
-      "isPrimary": true,
-      "wind": "-0.5 m/s",
-      "startTime": "18:41",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "XIAO Zhixuan",
-          "country": "CHN",
-          "dob": "20 NOV 2006",
-          "reaction": 0.148,
-          "mark": "11.94"
-        },
-        {
-          "rank": 2,
-          "athlete": "SUN Yuxuan",
-          "country": "CHN",
-          "dob": "28 NOV 2009",
-          "reaction": 0.158,
-          "mark": "12.60"
-        },
-        {
-          "rank": 3,
-          "athlete": "LIN Kexin",
-          "country": "CHN",
-          "dob": "21 FEB 2009",
-          "reaction": 0.173,
-          "mark": "12.63"
-        },
-        {
-          "rank": 4,
-          "athlete": "WU Shixuan",
-          "country": "CHN",
-          "dob": "21 APR 2009",
-          "reaction": 0.159,
-          "mark": "12.70"
-        },
-        {
-          "rank": 5,
-          "athlete": "CHEN Peiyu",
-          "country": "CHN",
-          "dob": "10 JUL 2010",
-          "reaction": 0.188,
-          "mark": "12.74"
-        },
-        {
-          "rank": 6,
-          "athlete": "LI Mengxi",
-          "country": "CHN",
-          "dob": "17 MAR 2012",
-          "reaction": 0.17,
-          "mark": "12.76"
-        },
-        {
-          "rank": 7,
-          "athlete": "YU Chengxue",
-          "country": "CHN",
-          "dob": "5 JUN 2006",
-          "reaction": 0.173,
-          "mark": "12.80"
-        },
-        {
-          "rank": 8,
-          "athlete": "DING Tiantian",
-          "country": "CHN",
-          "dob": "3 FEB 2007",
-          "reaction": 0.164,
-          "mark": "12.88"
-        },
-        {
-          "rank": 9,
-          "athlete": "WU Shiyu",
-          "country": "CHN",
-          "dob": "21 APR 2009",
-          "reaction": 0.176,
-          "mark": "12.89"
-        },
-        {
-          "rank": 10,
-          "athlete": "YU Mingyi",
-          "country": "CHN",
-          "dob": "18 SEP 2007",
-          "reaction": 0.187,
-          "mark": "13.56"
-        }
-      ]
-    },
-    {
-      "id": "xiamen-4x100m-relay-women",
-      "discipline": "4x100m Relay",
-      "category": "sprints",
-      "gender": "women",
-      "isPrimary": true,
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
       "startTime": "17:15",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:48.67",
+          "holder": "BALEW Birhanu",
+          "holderCountry": "BRN",
+          "location": "Paris",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12:59.09",
+          "holder": "WOLFE Parker",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2026-02-22T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "XIE Mingjie",
           "country": "CHN",
-          "dob": "28 AUG 2009",
+          "bib": 365,
           "mark": "15:33.93"
         },
         {
           "rank": 2,
           "athlete": "LONG Zixiang",
           "country": "CHN",
-          "dob": "7 FEB 2007",
+          "bib": 354,
           "mark": "15:49.04"
         },
         {
           "rank": 3,
           "athlete": "ZHANG Wenzhui",
           "country": "CHN",
-          "dob": "31 OCT 2000",
+          "bib": 374,
           "mark": "15:49.58"
         },
         {
           "rank": 4,
           "athlete": "XU Jiangcheng",
           "country": "CHN",
-          "dob": "22 MAR 1986",
+          "bib": 367,
           "mark": "15:53.62"
         },
         {
           "rank": 5,
           "athlete": "JIAN Ping",
           "country": "CHN",
-          "dob": "5 AUG 2010",
+          "bib": 345,
           "mark": "15:57.49"
         },
         {
           "rank": 6,
           "athlete": "WANG Xiaokan",
           "country": "CHN",
-          "dob": "29 FEB 1984",
+          "bib": 363,
           "mark": "16:48.24"
         },
         {
           "rank": 7,
           "athlete": "SUN Lin",
           "country": "CHN",
-          "dob": "20 NOV 2006",
+          "bib": 359,
           "mark": "16:57.64"
         },
         {
           "rank": 8,
           "athlete": "HUANG Xuemei",
           "country": "CHN",
-          "dob": "4 NOV 1992",
+          "bib": 34,
           "mark": "16:59.75"
         },
         {
           "rank": 9,
           "athlete": "CAI Xinji",
           "country": "CHN",
-          "dob": "10 DEC 2010",
+          "bib": 333,
           "mark": "17:01.80"
         },
         {
           "rank": 10,
           "athlete": "DU Tianyou",
           "country": "CHN",
-          "dob": "23 DEC 2008",
+          "bib": 339,
           "mark": "17:06.28"
         },
         {
           "rank": 11,
           "athlete": "YANG Zhuofan",
           "country": "CHN",
-          "dob": "3 SEP 2009",
+          "bib": 369,
           "mark": "17:06.49"
         },
         {
           "rank": 12,
           "athlete": "WEI Wenjie",
           "country": "CHN",
-          "dob": "13 FEB 2003",
+          "bib": 364,
           "mark": "17:09.79"
         },
         {
           "rank": 13,
           "athlete": "CAI Jinrong",
           "country": "CHN",
-          "dob": "8 JUN 2003",
+          "bib": 331,
           "mark": "17:12.12"
         },
         {
           "rank": 14,
           "athlete": "YE Zhibin",
           "country": "CHN",
-          "dob": "21 APR 2009",
+          "bib": 370,
           "mark": "17:12.88"
         },
         {
           "rank": 15,
           "athlete": "LI Keliang",
           "country": "CHN",
-          "dob": "16 FEB 2005",
+          "bib": 348,
           "mark": "17:13.99"
         },
         {
           "rank": 16,
           "athlete": "ZHONG Zhipeng",
           "country": "CHN",
-          "dob": "24 APR 2006",
+          "bib": 375,
           "mark": "17:15.90"
         },
         {
           "rank": 17,
           "athlete": "WANG Pengjun",
           "country": "CHN",
-          "dob": "20 OCT 2000",
+          "bib": 361,
           "mark": "17:30.65"
         },
         {
           "rank": 18,
           "athlete": "WANG Binyue",
           "country": "CHN",
-          "dob": "30 MAR 2010",
+          "bib": 360,
           "mark": "17:31.81"
         },
         {
           "rank": 19,
           "athlete": "CAI Siqin",
           "country": "CHN",
-          "dob": "27 FEB 1989",
+          "bib": 332,
           "mark": "17:34.24"
         },
         {
           "rank": 20,
           "athlete": "HUANG Hao",
           "country": "CHN",
-          "dob": "20 SEP 2003",
+          "bib": 344,
           "mark": "17:41.01"
         },
         {
           "rank": 21,
           "athlete": "LI Fuyue",
           "country": "CHN",
-          "dob": "10 OCT 2006",
+          "bib": 347,
           "mark": "17:47.67"
         },
         {
           "rank": 22,
           "athlete": "ZHUANG Yanan",
           "country": "CHN",
-          "dob": "15 JAN 2011",
+          "bib": 56,
           "mark": "18:18.29"
         },
         {
           "rank": 23,
           "athlete": "HU Ling",
           "country": "CHN",
-          "dob": "2 SEP 2003",
+          "bib": 32,
           "mark": "19:34.23"
         },
         {
           "rank": 24,
           "athlete": "XU Shuhan",
           "country": "CHN",
-          "dob": "22 OCT 1983",
+          "bib": 51,
           "mark": "20:01.53"
         },
         {
           "rank": 25,
           "athlete": "WANG Xiaoling",
           "country": "CHN",
-          "dob": "30 AUG 2010",
+          "bib": 46,
           "mark": "20:10.49"
         },
         {
           "rank": 26,
           "athlete": "LV Nating",
           "country": "CHN",
-          "dob": "29 JUL 1991",
+          "bib": 43,
           "mark": "20:24.52"
         },
         {
           "rank": 27,
           "athlete": "ZHAO Yiqun",
           "country": "CHN",
-          "dob": "1 FEB 1992",
+          "bib": 55,
           "mark": "20:38.74"
         },
         {
           "rank": 28,
           "athlete": "GAO Bingbing",
           "country": "CHN",
-          "dob": "17 MAY 2006",
+          "bib": 30,
           "mark": "20:53.46"
         },
         {
           "rank": null,
           "athlete": "CHI Yimei",
           "country": "CHN",
-          "dob": "6 OCT 1990",
+          "bib": 25,
           "mark": "DNF",
           "status": "DNF"
         },
@@ -1806,7 +1874,7 @@
           "rank": null,
           "athlete": "CHI Ziling",
           "country": "CHN",
-          "dob": "13 JAN 2010",
+          "bib": 26,
           "mark": "DNF",
           "status": "DNF"
         },
@@ -1814,9 +1882,1797 @@
           "rank": null,
           "athlete": "HU Xiaoyan",
           "country": "CHN",
-          "dob": "6 FEB 1989",
+          "bib": 33,
           "mark": "DNF",
           "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-4x100m-relay-men-634-6340040",
+      "discipline": "4x100m Relay",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:05",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "36.84",
+          "holder": "Jamaica",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2012-08-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "37.43",
+          "holder": "Japan",
+          "holderCountry": "JPN",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "37.43",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Gaborone",
+          "date": "2026-05-03T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "37.45",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Zürich",
+          "date": "2010-08-19T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "40.81",
+          "holder": "XIAMEN SPORTS GROUP HUIYI CLUB",
+          "holderCountry": "CHN",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "41.99",
+          "holder": "XIAMEN SPORTS SCHOOL",
+          "holderCountry": "CHN",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Xiamen Sports Group Huiyi Club",
+          "country": "CHN",
+          "bib": 1012,
+          "mark": "40.81",
+          "note": "MR"
+        },
+        {
+          "rank": 2,
+          "athlete": "Xiamen University",
+          "country": "CHN",
+          "bib": 1014,
+          "mark": "40.95"
+        },
+        {
+          "rank": 3,
+          "athlete": "Xiamen Sports School",
+          "country": "CHN",
+          "bib": 1013,
+          "mark": "41.13"
+        },
+        {
+          "rank": 4,
+          "athlete": "Jimei University",
+          "country": "CHN",
+          "bib": 1006,
+          "mark": "41.55"
+        },
+        {
+          "rank": 5,
+          "athlete": "Xiamen Xindian Middle School",
+          "country": "CHN",
+          "bib": 1015,
+          "mark": "41.70"
+        },
+        {
+          "rank": 6,
+          "athlete": "Hubei Daxue Subaotiyu",
+          "country": "CHN",
+          "bib": 1005,
+          "mark": "42.26"
+        },
+        {
+          "rank": 7,
+          "athlete": "Hqu University",
+          "country": "CHN",
+          "bib": 1004,
+          "mark": "42.50"
+        },
+        {
+          "rank": 8,
+          "athlete": "Zhang Zhou",
+          "country": "CHN",
+          "bib": 1018,
+          "mark": "45.81"
+        },
+        {
+          "rank": 9,
+          "athlete": "Wuhan Tiyuan Zhijia",
+          "country": "CHN",
+          "bib": 1009,
+          "mark": "47.19"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-women-701-7010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "-0.5",
+      "startTime": "18:41",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "10.49",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Indianapolis, IN",
+          "date": "1988-07-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "10.79",
+          "holder": "LI Xuemei",
+          "holderCountry": "CHN",
+          "location": "Shanghai",
+          "date": "1997-10-18T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "10.77",
+          "holder": "HODGE Adaejah",
+          "holderCountry": "IVB",
+          "location": "Gainesville, FL",
+          "date": "2026-04-18T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "10.54",
+          "holder": "THOMPSON-HERAH Elaine",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "11.33",
+          "holder": "GE Manqi",
+          "holderCountry": "CHN",
+          "date": "2023-09-02T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "XIAO Zhixuan",
+          "country": "CHN",
+          "bib": 50,
+          "mark": "11.94"
+        },
+        {
+          "rank": 2,
+          "athlete": "SUN Yuxuan",
+          "country": "CHN",
+          "bib": 45,
+          "mark": "12.60"
+        },
+        {
+          "rank": 3,
+          "athlete": "LIN Kexin",
+          "country": "CHN",
+          "bib": 38,
+          "mark": "12.63"
+        },
+        {
+          "rank": 4,
+          "athlete": "WU Shixuan",
+          "country": "CHN",
+          "bib": 47,
+          "mark": "12.70"
+        },
+        {
+          "rank": 5,
+          "athlete": "CHEN Peiyu",
+          "country": "CHN",
+          "bib": 23,
+          "mark": "12.74"
+        },
+        {
+          "rank": 6,
+          "athlete": "LI Mengxi",
+          "country": "CHN",
+          "bib": 36,
+          "mark": "12.76"
+        },
+        {
+          "rank": 7,
+          "athlete": "YU Chengxue",
+          "country": "CHN",
+          "bib": 53,
+          "mark": "12.80"
+        },
+        {
+          "rank": 8,
+          "athlete": "DING Tiantian",
+          "country": "CHN",
+          "bib": 28,
+          "mark": "12.88"
+        },
+        {
+          "rank": 9,
+          "athlete": "WU Shiyu",
+          "country": "CHN",
+          "bib": 48,
+          "mark": "12.89"
+        },
+        {
+          "rank": 10,
+          "athlete": "YU Mingyi",
+          "country": "CHN",
+          "bib": 54,
+          "mark": "13.56"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-4x100m-relay-women-734-7340040",
+      "discipline": "4x100m Relay",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:17",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "40.82",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2012-08-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "42.23",
+          "holder": "People's Republic of China",
+          "holderCountry": "CHN",
+          "location": "Shanghai",
+          "date": "1997-10-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "41.70",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Gainesville, FL",
+          "date": "2026-04-18T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "41.55",
+          "holder": "",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46.38",
+          "holder": "FU JIAN",
+          "holderCountry": "CHN",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.69",
+          "holder": "XIAMEN XINDIAN MIDDLE SCHOOL",
+          "holderCountry": "CHN",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Fu Jian",
+          "country": "CHN",
+          "bib": 1001,
+          "mark": "46.38",
+          "note": "MR"
+        },
+        {
+          "rank": 2,
+          "athlete": "Fu Jian Yi Ben",
+          "country": "CHN",
+          "bib": 1002,
+          "mark": "48.02"
+        },
+        {
+          "rank": 3,
+          "athlete": "Jimei University",
+          "country": "CHN",
+          "bib": 1007,
+          "mark": "48.29"
+        },
+        {
+          "rank": 4,
+          "athlete": "Verirun",
+          "country": "CHN",
+          "bib": 1008,
+          "mark": "48.79"
+        },
+        {
+          "rank": 5,
+          "athlete": "Xiamen Xindian Middle School Team 1",
+          "country": "CHN",
+          "bib": 1016,
+          "mark": "48.95"
+        },
+        {
+          "rank": 6,
+          "athlete": "Hqu University",
+          "country": "CHN",
+          "bib": 1003,
+          "mark": "50.61"
+        },
+        {
+          "rank": 7,
+          "athlete": "Xiamen Xindian Middle School Team 2",
+          "country": "CHN",
+          "bib": 1017,
+          "mark": "51.32"
+        },
+        {
+          "rank": 8,
+          "athlete": "Xiamen Medical College",
+          "country": "CHN",
+          "bib": 1010,
+          "mark": "56.05"
+        },
+        {
+          "rank": 9,
+          "athlete": "Xiamen Ocean Vocational College",
+          "country": "CHN",
+          "bib": 1011,
+          "mark": "56.97"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-100m-men-001-0010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.2",
+      "startTime": "20:40",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.77",
+          "holder": "OMANYALA Ferdinand",
+          "holderCountry": "KEN",
+          "location": "Kasarani, Nairobi",
+          "date": "2021-09-18T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.83",
+          "holder": "SU Bingtian",
+          "holderCountry": "CHN",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.93",
+          "holder": "JOHNSON Patrick",
+          "holderCountry": "AUS",
+          "location": "Mito",
+          "date": "2003-05-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.89",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "location": "Gaborone",
+          "date": "2026-04-03T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.83",
+          "holder": "COLEMAN Christian",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2023-09-02T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "OMANYALA Ferdinand",
+          "athleteId": "14747153",
+          "country": "KEN",
+          "bib": 483,
+          "mark": "9.94",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 2,
+          "athlete": "LEOTLELA Gift",
+          "athleteId": "14578589",
+          "country": "RSA",
+          "bib": 512,
+          "mark": "10.00",
+          "qualificationRank": 2,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 3,
+          "athlete": "BROMELL Trayvon",
+          "athleteId": "14519911",
+          "country": "USA",
+          "bib": 540,
+          "mark": "10.03",
+          "qualificationRank": 4,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "BEDNAREK Kenneth",
+          "athleteId": "14715244",
+          "country": "USA",
+          "bib": 538,
+          "mark": "10.03",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 5,
+          "athlete": "SIMBINE Akani",
+          "athleteId": "14417763",
+          "country": "RSA",
+          "bib": 516,
+          "mark": "10.04",
+          "qualificationRank": 6,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 6,
+          "athlete": "KENNEDY Lachlan",
+          "athleteId": "14970569",
+          "country": "AUS",
+          "bib": 303,
+          "mark": "10.06",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "COLEMAN Christian",
+          "athleteId": "14541956",
+          "country": "USA",
+          "bib": 542,
+          "mark": "10.08",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 8,
+          "athlete": "TEBOGO Letsile",
+          "athleteId": "14883897",
+          "country": "BOT",
+          "bib": 318,
+          "mark": "10.10",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 9,
+          "athlete": "DENG Xinrui",
+          "athleteId": "15074892",
+          "country": "CHN",
+          "bib": 338,
+          "mark": "10.27"
+        },
+        {
+          "rank": 10,
+          "athlete": "WANG Shengjie",
+          "athleteId": "14857868",
+          "country": "CHN",
+          "bib": 362,
+          "mark": "10.33"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-400m-men-004-0040040",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:04",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "43.03",
+          "holder": "van NIEKERK Wayde",
+          "holderCountry": "RSA",
+          "location": "Rio de Janeiro",
+          "date": "2016-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.18",
+          "holder": "JOHNSON Michael",
+          "holderCountry": "USA",
+          "location": "Sevilla",
+          "date": "1999-08-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.44",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "Paris",
+          "date": "2024-08-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.93",
+          "holder": "MASRAHI Youssef Ahmed",
+          "holderCountry": "KSA",
+          "location": "Beijing",
+          "date": "2015-08-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.92",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.95",
+          "holder": "OGAZI Samuel",
+          "holderCountry": "NGR",
+          "location": "Auburn, AL",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.60",
+          "holder": "NORMAN Michael",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2022-05-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.92",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "44.25",
+          "holder": "NDORI Bayapo",
+          "holderCountry": "BOT",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "44.38",
+          "holder": "JAMES Kirani",
+          "holderCountry": "GRN",
+          "date": "2023-09-02T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KEBINATSHIPI Busang Collen",
+          "athleteId": "14935809",
+          "country": "BOT",
+          "bib": 314,
+          "mark": "43.92",
+          "note": "MR,WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "SAMUKONGA Muzala",
+          "athleteId": "14930603",
+          "country": "ZAM",
+          "bib": 570,
+          "mark": "44.04",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "NENE Zakithi",
+          "athleteId": "14696997",
+          "country": "RSA",
+          "bib": 514,
+          "mark": "44.40",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "BAILEY Chris",
+          "athleteId": "14850487",
+          "country": "USA",
+          "bib": 534,
+          "mark": "44.70",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "NDORI Bayapo",
+          "athleteId": "14847443",
+          "country": "BOT",
+          "bib": 315,
+          "mark": "44.88",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "MORALES WILLIAMS Christopher",
+          "athleteId": "14876627",
+          "country": "CAN",
+          "bib": 330,
+          "mark": "45.24",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "MOLNÁR Attila",
+          "athleteId": "14712930",
+          "country": "HUN",
+          "bib": 430,
+          "mark": "45.49",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "NORWOOD Vernon",
+          "athleteId": "14490237",
+          "country": "USA",
+          "bib": 558,
+          "mark": "45.51",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "LIU Kai",
+          "athleteId": "15054835",
+          "country": "CHN",
+          "bib": 353,
+          "mark": "46.60"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-5000m-men-017-0170040",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:52",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:44.09",
+          "holder": "FISHER Grant",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2025-02-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:44.27",
+          "holder": "ALMGREN Andreas",
+          "holderCountry": "SWE",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:48.67",
+          "holder": "BALEW Birhanu",
+          "holderCountry": "BRN",
+          "location": "Paris",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:55.76",
+          "holder": "MOTTRAM Craig",
+          "holderCountry": "AUS",
+          "location": "London",
+          "date": "2004-07-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:59.26",
+          "holder": "CATROFE Santiago",
+          "holderCountry": "URU",
+          "location": "Paris",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12:57.32",
+          "holder": "YIHUNE Addisu",
+          "holderCountry": "ETH",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12:59.09",
+          "holder": "WOLFE Parker",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2026-02-22T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12:57.32",
+          "holder": "YIHUNE Addisu",
+          "holderCountry": "ETH",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12:58.96",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "date": "2024-04-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YIHUNE Addisu",
+          "athleteId": "14977660",
+          "country": "ETH",
+          "bib": 412,
+          "mark": "12:57.32",
+          "note": "MR,WL",
+          "qualificationRank": 2,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "ABDILAAHI Mohamed",
+          "athleteId": "14753471",
+          "country": "GER",
+          "bib": 423,
+          "mark": "12:57.90",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 3,
+          "athlete": "MEHARY Biniam",
+          "athleteId": "15118094",
+          "country": "ETH",
+          "bib": 406,
+          "mark": "12:58.51",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "HERRERA Eduardo",
+          "athleteId": "14668389",
+          "country": "MEX",
+          "bib": 486,
+          "mark": "13:00.69",
+          "note": "SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 5,
+          "athlete": "KURGAT Edwin",
+          "athleteId": "14401023",
+          "country": "KEN",
+          "bib": 479,
+          "mark": "13:01.47",
+          "note": "SB",
+          "qualificationRank": 9,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "BEJIGA Khairi",
+          "athleteId": "15156595",
+          "country": "ETH",
+          "bib": 395,
+          "mark": "13:06.45",
+          "note": "PB",
+          "qualificationRank": 11,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "BALEW Birhanu",
+          "athleteId": "14695983",
+          "country": "BRN",
+          "bib": 324,
+          "mark": "13:07.75",
+          "note": "SB",
+          "qualificationRank": 12,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "KEMBOI Cornelius",
+          "athleteId": "14894347",
+          "country": "KEN",
+          "bib": 473,
+          "mark": "13:08.45",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 9,
+          "athlete": "CATROFE Santiago",
+          "athleteId": "14706109",
+          "country": "URU",
+          "bib": 529,
+          "mark": "13:08.72",
+          "note": "SB"
+        },
+        {
+          "rank": 10,
+          "athlete": "KIPROP Keneth",
+          "athleteId": "15041078",
+          "country": "UGA",
+          "bib": 527,
+          "mark": "13:08.79",
+          "note": "SB"
+        },
+        {
+          "rank": 11,
+          "athlete": "KIPSANG Mathew Kipchumba",
+          "athleteId": "14909441",
+          "country": "KEN",
+          "bib": 478,
+          "mark": "13:12.82",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 12,
+          "athlete": "SIME Mezgebu",
+          "athleteId": "15024068",
+          "country": "ETH",
+          "bib": 409,
+          "mark": "13:13.17",
+          "note": "SB"
+        },
+        {
+          "rank": 13,
+          "athlete": "CHERUIYOT Timothy",
+          "athleteId": "14643526",
+          "country": "KEN",
+          "bib": 472,
+          "mark": "13:16.41",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 14,
+          "athlete": "O'DONNELL Seth",
+          "athleteId": "14928262",
+          "country": "AUS",
+          "bib": 306,
+          "mark": "13:18.68"
+        },
+        {
+          "rank": 15,
+          "athlete": "KIBET Harbert",
+          "athleteId": "15138312",
+          "country": "UGA",
+          "bib": 526,
+          "mark": "13:46.45",
+          "note": "SB"
+        },
+        {
+          "rank": 16,
+          "athlete": "VERBAANDERT Tim",
+          "athleteId": "14790169",
+          "country": "NED",
+          "bib": 490,
+          "mark": "13:54.63",
+          "note": "SB"
+        },
+        {
+          "rank": null,
+          "athlete": "ALMGREN Andreas",
+          "athleteId": "14460738",
+          "country": "SWE",
+          "bib": 522,
+          "mark": "DNF",
+          "qualificationRank": 5,
+          "qualificationPoints": 6,
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "FAYISA Abdisa",
+          "athleteId": "15042281",
+          "country": "ETH",
+          "bib": 399,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Kuma",
+          "athleteId": "14975226",
+          "country": "ETH",
+          "bib": 403,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KIPRUGUT Boaz",
+          "athleteId": "14695615",
+          "country": "KEN",
+          "bib": 477,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "SASÍNEK Filip",
+          "athleteId": "14474319",
+          "country": "CZE",
+          "bib": 385,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-110m-hurdles-men-026-0260040",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.5",
+      "startTime": "19:35",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.88",
+          "holder": "LIU Xiang",
+          "holderCountry": "CHN",
+          "location": "Lausanne",
+          "date": "2006-07-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "13.05",
+          "holder": "MURATAKE Rachid",
+          "holderCountry": "JPN",
+          "location": "Osaka",
+          "date": "2026-05-10T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "13.05",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Auburn, AL",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.96",
+          "holder": "PARCHMENT Hansle",
+          "holderCountry": "JAM",
+          "date": "2023-09-02T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46:39.00",
+          "holder": "DUMMY RECORD",
+          "holderCountry": "",
+          "date": "0001-01-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRITT Jamal",
+          "athleteId": "14769264",
+          "country": "USA",
+          "bib": 539,
+          "mark": "13.07",
+          "note": "=PB",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "MURATAKE Rachid",
+          "athleteId": "14854913",
+          "country": "JPN",
+          "bib": 461,
+          "mark": "13.13",
+          "qualificationRank": 2,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 3,
+          "athlete": "BENNETT Orlando",
+          "athleteId": "14739873",
+          "country": "JAM",
+          "bib": 441,
+          "mark": "13.20",
+          "note": "=SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "JOSEPH Jason",
+          "athleteId": "14680682",
+          "country": "SUI",
+          "bib": 520,
+          "mark": "13.24",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 5,
+          "athlete": "TINCH Cordell",
+          "athleteId": "14719972",
+          "country": "USA",
+          "bib": 567,
+          "mark": "13.28",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 6,
+          "athlete": "XU Zhuoyi",
+          "athleteId": "14885102",
+          "country": "CHN",
+          "bib": 368,
+          "mark": "13.33",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 7,
+          "athlete": "LIU Junxi",
+          "athleteId": "14977766",
+          "country": "CHN",
+          "bib": 352,
+          "mark": "13.35",
+          "qualificationRank": 5,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 8,
+          "athlete": "LLOPIS Enrique",
+          "athleteId": "14711683",
+          "country": "ESP",
+          "bib": 389,
+          "mark": "13.36",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 9,
+          "athlete": "EDWARDS Eric",
+          "athleteId": "14716336",
+          "country": "USA",
+          "bib": 548,
+          "mark": "13.43"
+        },
+        {
+          "rank": 10,
+          "athlete": "DIESSL Enzo",
+          "athleteId": "14915048",
+          "country": "AUT",
+          "bib": 309,
+          "mark": "13.44",
+          "note": "SB"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-400m-hurdles-men-027-0270040",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "20:27",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "45.94",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.17",
+          "holder": "BENJAMIN Rai",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.29",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Eugene, OR",
+          "date": "2022-07-19T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.98",
+          "holder": "SAMBA Abderrahman",
+          "holderCountry": "QAT",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "46.72",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "47.82",
+          "holder": "BASSITT Trevor",
+          "holderCountry": "USA",
+          "location": "Gainesville, FL",
+          "date": "2026-04-17T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "46.28",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "dos SANTOS Alison",
+          "athleteId": "14755064",
+          "country": "BRA",
+          "bib": 320,
+          "mark": "46.72",
+          "note": "WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "WARHOLM Karsten",
+          "athleteId": "14479487",
+          "country": "NOR",
+          "bib": 494,
+          "mark": "46.82",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 3,
+          "athlete": "DEAN Caleb",
+          "athleteId": "14865900",
+          "country": "USA",
+          "bib": 547,
+          "mark": "47.75",
+          "note": "SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 4,
+          "athlete": "BASSITT Trevor",
+          "athleteId": "14719193",
+          "country": "USA",
+          "bib": 537,
+          "mark": "47.90",
+          "qualificationRank": 3,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 5,
+          "athlete": "SAMBA Abderrahman",
+          "athleteId": "14752208",
+          "country": "QAT",
+          "bib": 507,
+          "mark": "47.93",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "LIMA Matheus",
+          "athleteId": "14918836",
+          "country": "BRA",
+          "bib": 321,
+          "mark": "48.22",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 7,
+          "athlete": "ALLEN CJ",
+          "athleteId": "14627624",
+          "country": "USA",
+          "bib": 531,
+          "mark": "49.18",
+          "qualificationRank": 8,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 8,
+          "athlete": "GONG Debin",
+          "athleteId": "14714459",
+          "country": "CHN",
+          "bib": 341,
+          "mark": "50.14",
+          "note": "SB",
+          "qualificationRank": 9,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "McMASTER Kyron",
+          "athleteId": "14532760",
+          "country": "IVB",
+          "bib": 439,
+          "mark": "52.41",
+          "note": "SB"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-long-jump-men-083-0830040",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:18",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "8.95",
+          "holder": "POWELL Mike",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "1991-08-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8.48",
+          "holder": "AL KHUWALIDI Mohamed Salman",
+          "holderCountry": "KSA",
+          "location": "Sotteville-lès-Rouen",
+          "date": "2006-07-02T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8.54",
+          "holder": "WATT Mitchell",
+          "holderCountry": "AUS",
+          "location": "Stockholm",
+          "date": "2011-07-29T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8.86",
+          "holder": "EMMIYAN Robert",
+          "holderCountry": "URS",
+          "location": "Tsakhadzor",
+          "date": "1987-05-22T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8.46",
+          "holder": "BALDÉ Gerson",
+          "holderCountry": "POR",
+          "location": "Torun",
+          "date": "2026-03-22T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8.46",
+          "holder": "TENTOGLOU Miltiadis",
+          "holderCountry": "GRE",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "8.65",
+          "holder": "ECHEVARRÍA Juan Miguel",
+          "holderCountry": "CUB",
+          "location": "Zürich",
+          "date": "2019-08-29T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8.18",
+          "holder": "Zhang Mingkun",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2025-04-26T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8.46",
+          "holder": "TENTOGLOU Miltiadis",
+          "holderCountry": "GRE",
+          "date": "2026-05-23T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "TENTOGLOU Miltiadis",
+          "athleteId": "14669734",
+          "country": "GRE",
+          "bib": 429,
+          "mark": "8.46",
+          "note": "MR,=WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "GAYLE Tajay",
+          "athleteId": "14631861",
+          "country": "JAM",
+          "bib": 444,
+          "mark": "8.32",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "SARÂBOYUKOV Bozhidar",
+          "athleteId": "14927349",
+          "country": "BUL",
+          "bib": 325,
+          "mark": "8.29",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "FURLANI Mattia",
+          "athleteId": "14905216",
+          "country": "ITA",
+          "bib": 436,
+          "mark": "8.28",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "ANVAROV Anvar",
+          "athleteId": "14934300",
+          "country": "UZB",
+          "bib": 569,
+          "mark": "8.01",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "PINNOCK Wayne",
+          "athleteId": "14693852",
+          "country": "JAM",
+          "bib": 450,
+          "mark": "7.93",
+          "note": "=SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "SHU Heng",
+          "athleteId": "15072915",
+          "country": "CHN",
+          "bib": 358,
+          "mark": "7.84",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "ADCOCK Liam",
+          "athleteId": "14572123",
+          "country": "AUS",
+          "bib": 301,
+          "mark": "7.76",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "SHI Yuhao",
+          "athleteId": "14714402",
+          "country": "CHN",
+          "bib": 357,
+          "mark": "7.70"
+        },
+        {
+          "rank": 10,
+          "athlete": "ZHANG Mingkun",
+          "athleteId": "14884079",
+          "country": "CHN",
+          "bib": 372,
+          "mark": "7.66"
+        }
+      ]
+    },
+    {
+      "id": "xiamen-shot-put-men-085-0850040",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:35",
+      "startDate": "23 May 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "23.56",
+          "holder": "CROUSER Ryan",
+          "holderCountry": "USA",
+          "location": "Los Angeles, CA",
+          "date": "2023-05-27T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "21.80",
+          "holder": "TOLU Mohammed Daoud B",
+          "holderCountry": "KSA",
+          "location": "Madrid",
+          "date": "2024-06-21T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "22.10",
+          "holder": "ENEKWECHI Chukwuebuka",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "22.90",
+          "holder": "WALSH Tom",
+          "holderCountry": "NZL",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "23.06",
+          "holder": "TIMMERMANN Ulf",
+          "holderCountry": "GDR",
+          "location": "Chania",
+          "date": "1988-05-22T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "22.50",
+          "holder": "FABBRI Leonardo",
+          "holderCountry": "ITA",
+          "location": "Stellenbosch",
+          "date": "2026-02-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "23.23",
+          "holder": "KOVACS Joe",
+          "holderCountry": "USA",
+          "location": "Zürich",
+          "date": "2022-09-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CAMPBELL Rajindra",
+          "athleteId": "14687604",
+          "country": "JAM",
+          "bib": 442,
+          "mark": "22.34",
+          "note": "NR",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "GEIST Jordan",
+          "athleteId": "14713125",
+          "country": "USA",
+          "bib": 549,
+          "mark": "21.52",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "CROUSER Ryan",
+          "athleteId": "14369211",
+          "country": "USA",
+          "bib": 544,
+          "mark": "21.41",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "STEEN Roger",
+          "athleteId": "14515622",
+          "country": "USA",
+          "bib": 564,
+          "mark": "21.25",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "ENEKWECHI Chukwuebuka",
+          "athleteId": "14463876",
+          "country": "NGR",
+          "bib": 491,
+          "mark": "21.14",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "WALSH Tom",
+          "athleteId": "14413007",
+          "country": "NZL",
+          "bib": 496,
+          "mark": "21.13",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "PIPERI Adrian",
+          "athleteId": "14713124",
+          "country": "USA",
+          "bib": 559,
+          "mark": "20.57",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "MUÑOZ Uziel",
+          "athleteId": "14593049",
+          "country": "MEX",
+          "bib": 487,
+          "mark": "20.28",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "XING Jialiang",
+          "athleteId": "14820722",
+          "country": "CHN",
+          "bib": 366,
+          "mark": "19.75"
+        },
+        {
+          "rank": null,
+          "athlete": "FABBRI Leonardo",
+          "athleteId": "14567432",
+          "country": "ITA",
+          "bib": 435,
+          "mark": "NM",
+          "status": "NM"
         }
       ]
     }

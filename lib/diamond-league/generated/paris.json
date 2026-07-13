@@ -8,2424 +8,4784 @@
   "countryName": "França",
   "stadium": "Stade Charléty",
   "date": "2026-06-28",
+  "timezone": "Europe/Paris",
   "isFinal": false,
   "officialUrl": "https://paris.diamondleague.com",
+  "state": "confirmado_oficial",
   "source": {
-    "type": "pdf",
-    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF"
+    "type": "swiss_timing_json",
+    "url": "https://ath-wdl-archive.azureedge.net/2026/paris.json",
+    "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF",
+    "checksum": "af16ad02dc7211859f412a4733b2e560e380df16132e6f776fcf926bd36d3a11",
+    "collectedAt": "2026-07-13T13:01:52.556Z",
+    "parserVersion": "2.0.0",
+    "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-10T12:51:57.531Z",
+  "updatedAt": "2026-07-13T13:01:52.556Z",
+  "eventCount": 28,
+  "athleteCount": 299,
   "events": [
     {
-      "id": "paris-100m-men",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "men",
-      "isPrimary": true,
-      "wind": "+0.1 m/s",
-      "startTime": "18:20",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "BROMELL Trayvon",
-          "country": "USA",
-          "dob": "10 JUL 1995",
-          "reaction": 0.131,
-          "note": "SB",
-          "mark": "9.91"
-        },
-        {
-          "rank": 2,
-          "athlete": "LYLES Noah",
-          "country": "USA",
-          "dob": "18 JUL 1997",
-          "reaction": 0.16,
-          "mark": "9.92"
-        },
-        {
-          "rank": 3,
-          "athlete": "JACOBS Lamont Marcell",
-          "country": "ITA",
-          "dob": "26 SEP 1994",
-          "reaction": 0.161,
-          "note": "SB",
-          "mark": "9.96"
-        },
-        {
-          "rank": 4,
-          "athlete": "SIMBINE Akani",
-          "country": "RSA",
-          "dob": "21 SEP 1993",
-          "reaction": 0.139,
-          "note": "SB",
-          "mark": "9.97"
-        },
-        {
-          "rank": 5,
-          "athlete": "ANTHONY Jordan",
-          "country": "USA",
-          "dob": "29 JUN 2004",
-          "reaction": 0.136,
-          "mark": "9.99"
-        },
-        {
-          "rank": 6,
-          "athlete": "OMANYALA Ferdinand",
-          "country": "KEN",
-          "dob": "2 JAN 1996",
-          "reaction": 0.151,
-          "mark": "10.02(.011)"
-        },
-        {
-          "rank": 7,
-          "athlete": "de GRASSE Andre",
-          "country": "CAN",
-          "dob": "10 NOV 1994",
-          "reaction": 0.147,
-          "mark": "10.02(.017)"
-        },
-        {
-          "rank": 8,
-          "athlete": "AZU Jeremiah",
-          "country": "GBR",
-          "dob": "15 MAY 2001",
-          "reaction": 0.137,
-          "mark": "10.18"
-        }
-      ]
-    },
-    {
-      "id": "paris-400m-men",
+      "id": "paris-400m-women-104-1040040",
       "discipline": "400m",
       "category": "sprints",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "18:03",
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:39",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "47.60",
+          "holder": "KOCH Marita",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "47.78",
+          "holder": "McLAUGHLIN-LEVRONE Sydney",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "2025-09-18T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "48.79",
+          "holder": "OAKLEY Dejanea",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2026-06-13T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "48.57",
+          "holder": "PRYCE Nickisha",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.81",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "49.12",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "KEBINATSHIPI Busang Collen",
-          "country": "BOT",
-          "dob": "13 FEB 2004",
-          "reaction": 0.157,
-          "note": "DLR MR SB",
-          "mark": "43.54"
+          "athlete": "PAULINO Marileidy",
+          "athleteId": "14749613",
+          "country": "DOM",
+          "bib": 15,
+          "mark": "48.48",
+          "note": "DLR,MR,WL",
+          "qualificationRank": 3,
+          "qualificationPoints": 16
         },
         {
           "rank": 2,
-          "athlete": "NENE Zakithi",
-          "country": "RSA",
-          "dob": "2 APR 1998",
-          "reaction": 0.156,
-          "note": "SB",
-          "mark": "43.89"
+          "athlete": "MANUEL Lurdes Gloria",
+          "athleteId": "14905336",
+          "country": "CZE",
+          "bib": 14,
+          "mark": "49.37",
+          "note": "PB",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
         },
         {
           "rank": 3,
-          "athlete": "BAILEY Chris",
-          "country": "USA",
-          "dob": "29 MAY 2000",
-          "reaction": 0.165,
-          "note": "PB",
-          "mark": "44.06"
+          "athlete": "WILLIAMS Stacey Ann",
+          "athleteId": "14630564",
+          "country": "JAM",
+          "bib": 45,
+          "mark": "49.51",
+          "qualificationRank": 8,
+          "qualificationPoints": 11
         },
         {
           "rank": 4,
-          "athlete": "HUDSON-SMITH Matthew",
-          "country": "GBR",
-          "dob": "26 OCT 1994",
-          "reaction": 0.186,
+          "athlete": "KLAVER Lieke",
+          "athleteId": "14560483",
+          "country": "NED",
+          "bib": 51,
+          "mark": "49.97",
           "note": "SB",
-          "mark": "44.09"
+          "qualificationRank": 9,
+          "qualificationPoints": 11
         },
         {
           "rank": 5,
-          "athlete": "SAMUKONGA Muzala",
-          "country": "ZAM",
-          "dob": "9 DEC 2002",
-          "reaction": 0.25,
-          "mark": "44.29"
+          "athlete": "MAWDSLEY Sharlene",
+          "athleteId": "14589082",
+          "country": "IRL",
+          "bib": 41,
+          "mark": "50.06",
+          "note": "PB",
+          "qualificationRank": 13,
+          "qualificationPoints": 4
         },
         {
           "rank": 6,
-          "athlete": "RICHARDS Jereem",
-          "country": "TTO",
-          "dob": "13 JAN 1994",
-          "reaction": 0.207,
+          "athlete": "GÓMEZ Roxana",
+          "athleteId": "14637147",
+          "country": "CUB",
+          "bib": 13,
+          "mark": "50.07",
           "note": "SB",
-          "mark": "44.53"
+          "qualificationRank": 5,
+          "qualificationPoints": 15
         },
         {
           "rank": 7,
-          "athlete": "KOUNTA Muhammad Abdallah",
+          "athlete": "BUKOWIECKA Natalia",
+          "athleteId": "14642563",
+          "country": "POL",
+          "bib": 62,
+          "mark": "50.81",
+          "qualificationRank": 6,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 8,
+          "athlete": "BLACK Isabelle",
+          "athleteId": "14900662",
           "country": "FRA",
-          "dob": "27 OCT 1994",
-          "reaction": 0.172,
-          "mark": "44.88"
+          "bib": 24,
+          "mark": "51.15",
+          "note": "PB",
+          "qualificationRank": 20,
+          "qualificationPoints": 1
         }
       ]
     },
     {
-      "id": "paris-800m-men",
+      "id": "paris-800m-women-111-1110040",
       "discipline": "800m",
       "category": "middle",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "18:45",
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:13",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:53.28",
+          "holder": "KRATOCHVÍLOVÁ Jarmila",
+          "holderCountry": "TCH",
+          "location": "München",
+          "date": "1983-07-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:54.01",
+          "holder": "JELIMO Pamela",
+          "holderCountry": "KEN",
+          "location": "Zürich",
+          "date": "2008-08-29T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:54.44",
+          "holder": "QUIROT Ana Fidelia",
+          "holderCountry": "CUB",
+          "location": "Barcelona",
+          "date": "1989-09-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:57.01",
+          "holder": "BILLINGS Sarah",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:57.15",
+          "holder": "HULL Jessica",
+          "holderCountry": "AUS",
+          "location": "Tokyo",
+          "date": "2025-09-19T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:53.80",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:53.98",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Stockholm",
+          "date": "2026-06-07T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:53.80",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:53.98",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Stockholm",
+          "date": "2026-06-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:53.80",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:54.25",
+          "holder": "SEMENYA Caster",
+          "holderCountry": "RSA",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "AROP Marco",
-          "country": "CAN",
-          "dob": "20 SEP 1998",
-          "note": "WL",
-          "mark": "1:41.84"
+          "athlete": "WERRO Audrey",
+          "athleteId": "14856078",
+          "country": "SUI",
+          "bib": 72,
+          "mark": "1:53.80",
+          "note": "DLR MR WL NR",
+          "qualificationRank": 1,
+          "qualificationPoints": 24
         },
         {
           "rank": 2,
-          "athlete": "LAROS Niels",
+          "athlete": "BROEDERS-BOL Femke",
+          "athleteId": "14707010",
           "country": "NED",
-          "dob": "17 APR 2005",
+          "bib": 50,
+          "mark": "1:55.60",
           "note": "PB",
-          "mark": "1:43.60"
+          "qualificationRank": 8,
+          "qualificationPoints": 7
         },
         {
           "rank": 3,
-          "athlete": "GRØNSTAD Tobias",
-          "country": "NOR",
-          "dob": "6 JUL 2002",
-          "mark": "1:43.63"
+          "athlete": "BOURGOIN Anaïs",
+          "athleteId": "14523787",
+          "country": "FRA",
+          "bib": 26,
+          "mark": "1:55.65",
+          "note": "NR",
+          "qualificationRank": 3,
+          "qualificationPoints": 15
         },
         {
           "rank": 4,
-          "athlete": "PATTISON Ben",
-          "country": "GBR",
-          "dob": "15 DEC 2001",
-          "mark": "1:43.71"
+          "athlete": "SEKGODISO Prudence",
+          "athleteId": "14745817",
+          "country": "RSA",
+          "bib": 67,
+          "mark": "1:56.83",
+          "note": "PB",
+          "qualificationRank": 2,
+          "qualificationPoints": 17
         },
         {
           "rank": 5,
-          "athlete": "CRESTAN Eliott",
-          "country": "BEL",
-          "dob": "22 FEB 1999",
-          "mark": "1:44.23"
+          "athlete": "LAMOTE Rénelle",
+          "athleteId": "14424718",
+          "country": "FRA",
+          "bib": 30,
+          "mark": "1:56.93",
+          "note": "PB",
+          "qualificationRank": 9,
+          "qualificationPoints": 6
         },
         {
           "rank": 6,
-          "athlete": "OUERRAT Louey",
-          "country": "FRA",
-          "dob": "4 NOV 2004",
-          "mark": "1:44.40(.396)"
+          "athlete": "BILLINGS Sarah",
+          "athleteId": "14464575",
+          "country": "AUS",
+          "bib": 1,
+          "mark": "1:57.01",
+          "note": "AR",
+          "qualificationRank": 13,
+          "qualificationPoints": 5
         },
         {
           "rank": 7,
-          "athlete": "MEZIANE Yanis",
-          "country": "FRA",
-          "dob": "26 JAN 2002",
-          "mark": "1:44.40(.400)"
+          "athlete": "NOWE Oratile",
+          "athleteId": "14754344",
+          "country": "BOT",
+          "bib": 7,
+          "mark": "1:57.46",
+          "qualificationRank": 5,
+          "qualificationPoints": 11
         },
         {
           "rank": 8,
-          "athlete": "TUAL Gabriel",
+          "athlete": "LIBERMAN Clara",
+          "athleteId": "14737263",
           "country": "FRA",
-          "dob": "9 APR 1998",
-          "mark": "1:44.92"
+          "bib": 31,
+          "mark": "1:58.34",
+          "note": "PB",
+          "qualificationRank": 18,
+          "qualificationPoints": 1
         },
         {
           "rank": 9,
-          "athlete": "ATTAOUI Mohamed",
-          "country": "ESP",
-          "dob": "26 SEP 2001",
-          "mark": "1:45.09"
+          "athlete": "WILLIS Roisin",
+          "athleteId": "14761309",
+          "country": "USA",
+          "bib": 86,
+          "mark": "1:58.66",
+          "qualificationRank": 11,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 10,
+          "athlete": "ELHADDAD Souad",
+          "athleteId": "15018745",
+          "country": "MAR",
+          "bib": 48,
+          "mark": "1:58.90"
         },
         {
           "rank": null,
-          "athlete": "MOULA Slimane",
-          "country": "ALG",
-          "dob": "25 FEB 1999",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "SIERADZKI Patryk",
-          "country": "POL",
-          "dob": "6 OCT 1998",
+          "athlete": "van der SCHOOT Myrte",
+          "athleteId": "14865892",
+          "country": "NED",
+          "bib": 53,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "paris-1500m-men",
+      "id": "paris-1500m-women-113-1130040",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:27",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:50.46",
+          "holder": "QU Yunxia",
+          "holderCountry": "CHN",
+          "location": "Beijing",
+          "date": "1993-09-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:50.83",
+          "holder": "HULL Jessica",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:51.95",
+          "holder": "HASSAN Sifan",
+          "holderCountry": "NED",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:55.56",
+          "holder": "HAYLOM Birke",
+          "holderCountry": "ETH",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:49.04",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HUNTER BELL Georgia",
+          "athleteId": "14329797",
+          "country": "GBR",
+          "bib": 36,
+          "mark": "3:55.63",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "HAILU Freweyni",
+          "athleteId": "14836656",
+          "country": "ETH",
+          "bib": 19,
+          "mark": "3:55.92",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "GUILLEMOT Agathe",
+          "athleteId": "14685757",
+          "country": "FRA",
+          "bib": 29,
+          "mark": "3:56.24",
+          "note": "NR",
+          "qualificationRank": 5,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "HULL Jessica",
+          "athleteId": "14464506",
+          "country": "AUS",
+          "bib": 4,
+          "mark": "3:57.22",
+          "note": "SB",
+          "qualificationRank": 4,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 5,
+          "athlete": "CALDWELL Abbey",
+          "athleteId": "14636659",
+          "country": "AUS",
+          "bib": 2,
+          "mark": "3:57.59",
+          "qualificationRank": 2,
+          "qualificationPoints": 20
+        },
+        {
+          "rank": 6,
+          "athlete": "JEPKOSGEI Nelly",
+          "athleteId": "14373314",
+          "country": "BRN",
+          "bib": 8,
+          "mark": "3:57.61",
+          "note": "PB",
+          "qualificationRank": 18,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "SILVA Patricia",
+          "athleteId": "14715561",
+          "country": "POR",
+          "bib": 65,
+          "mark": "3:58.74",
+          "note": "PB",
+          "qualificationRank": 12,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 8,
+          "athlete": "HALL Linden",
+          "athleteId": "14272002",
+          "country": "AUS",
+          "bib": 3,
+          "mark": "4:00.00",
+          "qualificationRank": 21,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 9,
+          "athlete": "HAJJI Soukaina",
+          "athleteId": "14579514",
+          "country": "MAR",
+          "bib": 49,
+          "mark": "4:00.62",
+          "note": "PB"
+        },
+        {
+          "rank": 10,
+          "athlete": "SNOWDEN Katie",
+          "athleteId": "14360725",
+          "country": "GBR",
+          "bib": 37,
+          "mark": "4:00.91",
+          "note": "SB"
+        },
+        {
+          "rank": 11,
+          "athlete": "HEALY Sarah",
+          "athleteId": "14705242",
+          "country": "IRL",
+          "bib": 40,
+          "mark": "4:01.50"
+        },
+        {
+          "rank": 12,
+          "athlete": "KALAYU Haregeweyni",
+          "athleteId": "15285064",
+          "country": "ETH",
+          "bib": 20,
+          "mark": "4:02.70",
+          "qualificationRank": 14,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 13,
+          "athlete": "ARERI Aster",
+          "athleteId": "15090797",
+          "country": "ETH",
+          "bib": 18,
+          "mark": "4:02.70",
+          "qualificationRank": 25,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 14,
+          "athlete": "GAY Adèle",
+          "athleteId": "14924676",
+          "country": "FRA",
+          "bib": 28,
+          "mark": "4:03.13",
+          "note": "PB"
+        },
+        {
+          "rank": 15,
+          "athlete": "CLEYET-MERLE Bérénice",
+          "athleteId": "14425535",
+          "country": "FRA",
+          "bib": 27,
+          "mark": "4:03.58",
+          "note": "PB"
+        },
+        {
+          "rank": 16,
+          "athlete": "AFONSO Salomé",
+          "athleteId": "14594593",
+          "country": "POR",
+          "bib": 64,
+          "mark": "4:06.36",
+          "qualificationRank": 26,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": null,
+          "athlete": "RODRÍGUEZ Andrea",
+          "athleteId": "14932639",
+          "country": "ESP",
+          "bib": 17,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women-125-1250001",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "phase": "1ére série",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.4",
+      "startTime": "17:20",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.12",
+          "holder": "AMUSAN Tobi",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2022-07-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.21",
+          "holder": "DONKOVA Yordanka",
+          "holderCountry": "BUL",
+          "location": "Stara Zagora",
+          "date": "1988-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.21",
+          "holder": "STARK Grace",
+          "holderCountry": "USA",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.32",
+          "holder": "NAROZHILENKO Lyudmila",
+          "holderCountry": "RUS",
+          "location": "Paris-St-Denis",
+          "date": "1992-06-04T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "athleteId": "14579526",
+          "country": "NGR",
+          "bib": 55,
+          "mark": "12.39",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
+        },
+        {
+          "rank": 2,
+          "athlete": "VISSER Nadine",
+          "athleteId": "14451249",
+          "country": "NED",
+          "bib": 54,
+          "mark": "12.44",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 3,
+          "athlete": "ROSWELL Demisha",
+          "athleteId": "14631833",
+          "country": "JAM",
+          "bib": 42,
+          "mark": "12.46",
+          "qualificationRank": 17,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 4,
+          "athlete": "JONES Rayniah",
+          "athleteId": "14794344",
+          "country": "USA",
+          "bib": 80,
+          "mark": "12.52",
+          "qualificationRank": 14,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 5,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "athleteId": "14736349",
+          "country": "POL",
+          "bib": 63,
+          "mark": "12.53",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 6,
+          "athlete": "ARMSTRONG Alia",
+          "athleteId": "14824306",
+          "country": "USA",
+          "bib": 76,
+          "mark": "12.57"
+        },
+        {
+          "rank": 7,
+          "athlete": "BAPTÉ Laeticia",
+          "athleteId": "14639107",
+          "country": "FRA",
+          "bib": 23,
+          "mark": "12.66",
+          "note": "PB"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women-125-1250002",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "phase": "2eme série",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.6",
+      "startTime": "17:28",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.12",
+          "holder": "AMUSAN Tobi",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2022-07-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.21",
+          "holder": "DONKOVA Yordanka",
+          "holderCountry": "BUL",
+          "location": "Stara Zagora",
+          "date": "1988-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.21",
+          "holder": "STARK Grace",
+          "holderCountry": "USA",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.32",
+          "holder": "NAROZHILENKO Lyudmila",
+          "holderCountry": "RUS",
+          "location": "Paris-St-Denis",
+          "date": "1992-06-04T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JOHNSON Alaysha",
+          "athleteId": "14486620",
+          "country": "USA",
+          "bib": 79,
+          "mark": "12.42",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 2,
+          "athlete": "STARK Grace",
+          "athleteId": "14716925",
+          "country": "USA",
+          "bib": 85,
+          "mark": "12.51",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "SIMMONDS Megan",
+          "athleteId": "14413569",
+          "country": "JAM",
+          "bib": 43,
+          "mark": "12.53",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 4,
+          "athlete": "CHARLTON Devynne",
+          "athleteId": "14414505",
+          "country": "BAH",
+          "bib": 6,
+          "mark": "12.55",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 5,
+          "athlete": "HARRISON Kendra",
+          "athleteId": "14425415",
+          "country": "USA",
+          "bib": 78,
+          "mark": "12.61",
+          "qualificationRank": 9,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 6,
+          "athlete": "FOURIE Marione",
+          "athleteId": "14838617",
+          "country": "RSA",
+          "bib": 66,
+          "mark": "12.66",
+          "qualificationRank": 13,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 7,
+          "athlete": "ALESSANDRINI Sacha",
+          "athleteId": "14576456",
+          "country": "FRA",
+          "bib": 22,
+          "mark": "12.82"
+        },
+        {
+          "rank": null,
+          "athlete": "KAMBUNDJI Ditaji",
+          "athleteId": "14739461",
+          "country": "SUI",
+          "bib": 70,
+          "mark": "DNS",
+          "qualificationRank": 6,
+          "qualificationPoints": 8,
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women-125-1250040",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "phase": "Finale",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.7",
+      "startTime": "19:08",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.12",
+          "holder": "AMUSAN Tobi",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2022-07-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.21",
+          "holder": "DONKOVA Yordanka",
+          "holderCountry": "BUL",
+          "location": "Stara Zagora",
+          "date": "1988-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.21",
+          "holder": "STARK Grace",
+          "holderCountry": "USA",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.32",
+          "holder": "NAROZHILENKO Lyudmila",
+          "holderCountry": "RUS",
+          "location": "Paris-St-Denis",
+          "date": "1992-06-04T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "athleteId": "14579526",
+          "country": "NGR",
+          "bib": 55,
+          "mark": "12.28",
+          "note": "=SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
+        },
+        {
+          "rank": 2,
+          "athlete": "STARK Grace",
+          "athleteId": "14716925",
+          "country": "USA",
+          "bib": 85,
+          "mark": "12.38",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "JOHNSON Alaysha",
+          "athleteId": "14486620",
+          "country": "USA",
+          "bib": 79,
+          "mark": "12.39",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "VISSER Nadine",
+          "athleteId": "14451249",
+          "country": "NED",
+          "bib": 54,
+          "mark": "12.41",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 5,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "athleteId": "14736349",
+          "country": "POL",
+          "bib": 63,
+          "mark": "12.46",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 6,
+          "athlete": "JONES Rayniah",
+          "athleteId": "14794344",
+          "country": "USA",
+          "bib": 80,
+          "mark": "12.60",
+          "qualificationRank": 14,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "ROSWELL Demisha",
+          "athleteId": "14631833",
+          "country": "JAM",
+          "bib": 42,
+          "mark": "12.78",
+          "qualificationRank": 17,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "SIMMONDS Megan",
+          "athleteId": "14413569",
+          "country": "JAM",
+          "bib": 43,
+          "mark": "12.92",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-hurdles-women-125-1250061",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "phase": "1er tour",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+100.0",
+      "startTime": "17:20",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.12",
+          "holder": "AMUSAN Tobi",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2022-07-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.21",
+          "holder": "DONKOVA Yordanka",
+          "holderCountry": "BUL",
+          "location": "Stara Zagora",
+          "date": "1988-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.14",
+          "holder": "RUSSELL Masai",
+          "holderCountry": "USA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.21",
+          "holder": "STARK Grace",
+          "holderCountry": "USA",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.32",
+          "holder": "NAROZHILENKO Lyudmila",
+          "holderCountry": "RUS",
+          "location": "Paris-St-Denis",
+          "date": "1992-06-04T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AMUSAN Tobi",
+          "athleteId": "14579526",
+          "country": "NGR",
+          "bib": 55,
+          "mark": "12.39",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
+        },
+        {
+          "rank": 2,
+          "athlete": "JOHNSON Alaysha",
+          "athleteId": "14486620",
+          "country": "USA",
+          "bib": 79,
+          "mark": "12.42",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 3,
+          "athlete": "VISSER Nadine",
+          "athleteId": "14451249",
+          "country": "NED",
+          "bib": 54,
+          "mark": "12.44",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "ROSWELL Demisha",
+          "athleteId": "14631833",
+          "country": "JAM",
+          "bib": 42,
+          "mark": "12.46",
+          "qualificationRank": 17,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 5,
+          "athlete": "STARK Grace",
+          "athleteId": "14716925",
+          "country": "USA",
+          "bib": 85,
+          "mark": "12.51",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 6,
+          "athlete": "JONES Rayniah",
+          "athleteId": "14794344",
+          "country": "USA",
+          "bib": 80,
+          "mark": "12.52",
+          "qualificationRank": 14,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "SKRZYSZOWSKA Pia",
+          "athleteId": "14736349",
+          "country": "POL",
+          "bib": 63,
+          "mark": "12.53",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 8,
+          "athlete": "SIMMONDS Megan",
+          "athleteId": "14413569",
+          "country": "JAM",
+          "bib": 43,
+          "mark": "12.53",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 9,
+          "athlete": "CHARLTON Devynne",
+          "athleteId": "14414505",
+          "country": "BAH",
+          "bib": 6,
+          "mark": "12.55",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 10,
+          "athlete": "ARMSTRONG Alia",
+          "athleteId": "14824306",
+          "country": "USA",
+          "bib": 76,
+          "mark": "12.57"
+        },
+        {
+          "rank": 11,
+          "athlete": "HARRISON Kendra",
+          "athleteId": "14425415",
+          "country": "USA",
+          "bib": 78,
+          "mark": "12.61",
+          "qualificationRank": 9,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 12,
+          "athlete": "FOURIE Marione",
+          "athleteId": "14838617",
+          "country": "RSA",
+          "bib": 66,
+          "mark": "12.66",
+          "qualificationRank": 13,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 13,
+          "athlete": "BAPTÉ Laeticia",
+          "athleteId": "14639107",
+          "country": "FRA",
+          "bib": 23,
+          "mark": "12.66",
+          "note": "PB"
+        },
+        {
+          "rank": 14,
+          "athlete": "ALESSANDRINI Sacha",
+          "athleteId": "14576456",
+          "country": "FRA",
+          "bib": 22,
+          "mark": "12.82"
+        },
+        {
+          "rank": null,
+          "athlete": "KAMBUNDJI Ditaji",
+          "athleteId": "14739461",
+          "country": "SUI",
+          "bib": 70,
+          "mark": "DNS",
+          "qualificationRank": 6,
+          "qualificationPoints": 8,
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-pole-vault-women-182-1820040",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:07",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "5.06",
+          "holder": "ISINBAYEVA Yelena",
+          "holderCountry": "RUS",
+          "location": "Zürich",
+          "date": "2009-08-28T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "4.94",
+          "holder": "McCARTNEY Eliza",
+          "holderCountry": "NZL",
+          "location": "Jockgrim",
+          "date": "2018-07-17T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "5.03",
+          "holder": "SUHR Jennifer",
+          "holderCountry": "USA",
+          "location": "Brockport, NY",
+          "date": "2016-01-30T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "4.91",
+          "holder": "KNOROZ Polina",
+          "holderCountry": "RUS",
+          "location": "Cheboksary",
+          "date": "2026-06-20T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "5.01",
+          "holder": "SIDOROVA Anzhelika",
+          "holderCountry": "ANA",
+          "location": "Zürich",
+          "date": "2021-09-09T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "4.91",
+          "holder": "ISINBAYEVA Yelena",
+          "holderCountry": "RUS",
+          "location": "Paris-St-Denis",
+          "date": "2007-07-06T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MOSER Angelica",
+          "athleteId": "14450465",
+          "country": "SUI",
+          "bib": 71,
+          "mark": "4.77",
+          "qualificationRank": 2,
+          "qualificationPoints": 20
+        },
+        {
+          "rank": 2,
+          "athlete": "McCARTNEY Eliza",
+          "athleteId": "14464500",
+          "country": "NZL",
+          "bib": 58,
+          "mark": "4.70",
+          "qualificationRank": 7,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 3,
+          "athlete": "KENNEDY Nina",
+          "athleteId": "14407592",
+          "country": "AUS",
+          "bib": 5,
+          "mark": "4.70",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
+        },
+        {
+          "rank": 4,
+          "athlete": "GROVE Emily",
+          "athleteId": "14443646",
+          "country": "USA",
+          "bib": 77,
+          "mark": "4.60",
+          "qualificationRank": 6,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 4,
+          "athlete": "ŠUTEJ Tina",
+          "athleteId": "14300261",
+          "country": "SLO",
+          "bib": 68,
+          "mark": "4.60",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 6,
+          "athlete": "LEON Gabriela",
+          "athleteId": "14721860",
+          "country": "USA",
+          "bib": 82,
+          "mark": "4.60",
+          "qualificationRank": 11,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "AYRIS Imogen",
+          "athleteId": "14668954",
+          "country": "NZL",
+          "bib": 57,
+          "mark": "4.60",
+          "qualificationRank": 5,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 8,
+          "athlete": "McTAGGART Olivia",
+          "athleteId": "14684694",
+          "country": "NZL",
+          "bib": 59,
+          "mark": "4.45",
+          "qualificationRank": 9,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 8,
+          "athlete": "PETIT Berenice",
+          "athleteId": "14708590",
+          "country": "FRA",
+          "bib": 34,
+          "mark": "4.45",
+          "qualificationRank": 14,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 10,
+          "athlete": "KING Brynn",
+          "athleteId": "14823502",
+          "country": "USA",
+          "bib": 81,
+          "mark": "4.45"
+        },
+        {
+          "rank": 11,
+          "athlete": "BONNIN Marie-Julie",
+          "athleteId": "14770113",
+          "country": "FRA",
+          "bib": 25,
+          "mark": "4.45"
+        },
+        {
+          "rank": 11,
+          "athlete": "HELTELÄ Wilma",
+          "athleteId": "14486887",
+          "country": "FIN",
+          "bib": 21,
+          "mark": "4.45"
+        }
+      ]
+    },
+    {
+      "id": "paris-shot-put-women-185-1850040",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:11",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "22.63",
+          "holder": "LISOVSKAYA Natalya",
+          "holderCountry": "URS",
+          "location": "Moskva",
+          "date": "1987-06-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "20.96",
+          "holder": "LAZA Belsy",
+          "holderCountry": "CUB",
+          "location": "Ciudad de México",
+          "date": "1992-05-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "21.09",
+          "holder": "SCHILDER Jessica",
+          "holderCountry": "NED",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "21.09",
+          "holder": "SCHILDER Jessica",
+          "holderCountry": "NED",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "20.78",
+          "holder": "ADAMS Valerie",
+          "holderCountry": "NZL",
+          "location": "Paris-St-Denis",
+          "date": "2011-07-08T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MITTON Sarah",
+          "athleteId": "14607093",
+          "country": "CAN",
+          "bib": 9,
+          "mark": "19.99",
+          "qualificationRank": 2,
+          "qualificationPoints": 26
+        },
+        {
+          "rank": 2,
+          "athlete": "MABRY Yemisi",
+          "athleteId": "14565871",
+          "country": "GER",
+          "bib": 38,
+          "mark": "19.93",
+          "qualificationRank": 4,
+          "qualificationPoints": 17
+        },
+        {
+          "rank": 3,
+          "athlete": "SCHILDER Jessica",
+          "athleteId": "14688805",
+          "country": "NED",
+          "bib": 52,
+          "mark": "19.89",
+          "qualificationRank": 1,
+          "qualificationPoints": 29
+        },
+        {
+          "rank": 4,
+          "athlete": "JOHANSSON Axelina",
+          "athleteId": "14680446",
+          "country": "SWE",
+          "bib": 73,
+          "mark": "19.25",
+          "qualificationRank": 8,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "ROOS Fanny",
+          "athleteId": "14429853",
+          "country": "SWE",
+          "bib": 74,
+          "mark": "19.17",
+          "qualificationRank": 5,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 6,
+          "athlete": "THOMAS-DODD Danniel",
+          "athleteId": "14468647",
+          "country": "JAM",
+          "bib": 44,
+          "mark": "18.88",
+          "qualificationRank": 6,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 7,
+          "athlete": "SMITH Abria",
+          "athleteId": "15008110",
+          "country": "USA",
+          "bib": 84,
+          "mark": "18.46",
+          "qualificationRank": 9,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 8,
+          "athlete": "ROSS Jaida",
+          "athleteId": "14850442",
+          "country": "USA",
+          "bib": 83,
+          "mark": "18.18",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 9,
+          "athlete": "AQUILLA Adelaide",
+          "athleteId": "14743171",
+          "country": "USA",
+          "bib": 75,
+          "mark": "18.09"
+        }
+      ]
+    },
+    {
+      "id": "paris-javelin-throw-women-188-1880040",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:25",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "72.28",
+          "holder": "ŠPOTÁKOVÁ Barbora",
+          "holderCountry": "CZE",
+          "location": "Stuttgart",
+          "date": "2008-09-13T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "66.70",
+          "holder": "RUIZ HURTADO Flor Denis",
+          "holderCountry": "COL",
+          "location": "Cuiaba",
+          "date": "2024-05-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "68.92",
+          "holder": "MITCHELL Kathryn",
+          "holderCountry": "AUS",
+          "location": "Gold Coast",
+          "date": "2018-04-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.74",
+          "holder": "YAN Ziyi",
+          "holderCountry": "CHN",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "68.01",
+          "holder": "OBERGFÖLL Christina",
+          "holderCountry": "GER",
+          "location": "Paris-St-Denis",
+          "date": "2011-07-08T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "YAN Ziyi",
+          "athleteId": "15144603",
+          "country": "CHN",
+          "bib": 10,
+          "mark": "67.44",
+          "qualificationRank": 1,
+          "qualificationPoints": 24
+        },
+        {
+          "rank": 2,
+          "athlete": "VILAGOŠ Adriana",
+          "athleteId": "14791117",
+          "country": "SRB",
+          "bib": 69,
+          "mark": "63.83",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 3,
+          "athlete": "KITAGUCHI Haruka",
+          "athleteId": "14649131",
+          "country": "JPN",
+          "bib": 46,
+          "mark": "63.01",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 4,
+          "athlete": "MINARD Alizée",
+          "athleteId": "14595849",
+          "country": "FRA",
+          "bib": 33,
+          "mark": "61.51",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "RUIZ HURTADO Flor Denis",
+          "athleteId": "14369335",
+          "country": "COL",
+          "bib": 11,
+          "mark": "61.23",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 6,
+          "athlete": "MARAVAL Jade",
+          "athleteId": "14836113",
+          "country": "FRA",
+          "bib": 32,
+          "mark": "59.97",
+          "qualificationRank": 10,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "ANDREJCZYK Maria",
+          "athleteId": "14500245",
+          "country": "POL",
+          "bib": 61,
+          "mark": "59.58",
+          "qualificationRank": 6,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 8,
+          "athlete": "KOLAK Sara",
+          "athleteId": "14380461",
+          "country": "CRO",
+          "bib": 12,
+          "mark": "58.35",
+          "qualificationRank": 14,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "BORGE Sigrid",
+          "athleteId": "14481209",
+          "country": "NOR",
+          "bib": 56,
+          "mark": "56.92",
+          "qualificationRank": 3,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 10,
+          "athlete": "MOORBY Tori",
+          "athleteId": "14465380",
+          "country": "NZL",
+          "bib": 60,
+          "mark": "55.89",
+          "qualificationRank": 9,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 11,
+          "athlete": "TZENGKO Elina",
+          "athleteId": "14756709",
+          "country": "GRE",
+          "bib": 39,
+          "mark": "54.35"
+        },
+        {
+          "rank": 12,
+          "athlete": "ANGULO Juleisy",
+          "athleteId": "14718123",
+          "country": "ECU",
+          "bib": 16,
+          "mark": "52.91",
+          "qualificationRank": 11,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": null,
+          "athlete": "SIETINA Anete",
+          "athleteId": "14475585",
+          "country": "LAT",
+          "bib": 47,
+          "mark": "NM",
+          "qualificationRank": 8,
+          "qualificationPoints": 4,
+          "status": "NM"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-men-401-4010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "phase": "C",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.2",
+      "startTime": "15:30",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.80",
+          "holder": "JACOBS Lamont Marcell",
+          "holderCountry": "ITA",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.93",
+          "holder": "JOHNSON Patrick",
+          "holderCountry": "AUS",
+          "location": "Mito",
+          "date": "2003-05-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.82",
+          "holder": "SEVILLE Oblique",
+          "holderCountry": "JAM",
+          "location": "Kingston",
+          "date": "2026-06-19T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.79",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Paris-St-Denis",
+          "date": "2009-07-17T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "RANDAZZO Filippo",
+          "athleteId": "14514010",
+          "country": "ITA",
+          "bib": 331,
+          "mark": "10.30",
+          "note": "=SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "SNYDERS Antoine",
+          "athleteId": "14677730",
+          "country": "BEL",
+          "bib": 325,
+          "mark": "10.42"
+        },
+        {
+          "rank": 3,
+          "athlete": "IUS Christopher",
+          "athleteId": "14619610",
+          "country": "AUS",
+          "bib": 341,
+          "mark": "10.43"
+        },
+        {
+          "rank": 4,
+          "athlete": "REVIERRE Jozuah",
+          "athleteId": "14988683",
+          "country": "NED",
+          "bib": 329,
+          "mark": "10.43"
+        },
+        {
+          "rank": 5,
+          "athlete": "BADRU Mohamed",
+          "athleteId": "14875927",
+          "country": "FRA",
+          "bib": 336,
+          "mark": "10.47"
+        },
+        {
+          "rank": 6,
+          "athlete": "GIRAULT Victor",
+          "athleteId": "14989950",
+          "country": "FRA",
+          "bib": 322,
+          "mark": "10.53",
+          "note": "SB"
+        },
+        {
+          "rank": 7,
+          "athlete": "HOORNAERT Valentijn",
+          "athleteId": "14795194",
+          "country": "BEL",
+          "bib": 324,
+          "mark": "10.54"
+        }
+      ]
+    },
+    {
+      "id": "paris-1500m-men-413-4130040",
       "discipline": "1500m",
       "category": "middle",
       "gender": "men",
-      "isPrimary": true,
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
       "startTime": "18:52",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:26.00",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Roma",
+          "date": "1998-07-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:26.73",
+          "holder": "INGEBRIGTSEN Jakob",
+          "holderCountry": "NOR",
+          "location": "Monaco",
+          "date": "2024-07-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:27.65",
+          "holder": "HOCKER Cole",
+          "holderCountry": "USA",
+          "location": "Paris",
+          "date": "2024-08-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:28.00",
+          "holder": "MYERS Cameron",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:29.41",
+          "holder": "HOARE Oliver",
+          "holderCountry": "AUS",
+          "location": "Oslo",
+          "date": "2023-06-15T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:28.00",
+          "holder": "MYERS Cameron",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:29.85",
+          "holder": "MYERS Cameron",
+          "holderCountry": "AUS",
+          "location": "Sydney",
+          "date": "2026-04-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:26.69",
+          "holder": "KIPROP Asbel",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2015-07-17T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:27.49",
+          "holder": "HABZ Azeddine",
+          "holderCountry": "FRA",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:28.38",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Paris-St-Denis",
+          "date": "2001-07-06T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "MYERS Cameron",
+          "athleteId": "14962470",
           "country": "AUS",
-          "dob": "9 JUN 2006",
-          "note": "AR WL",
-          "mark": "3:28.00"
+          "bib": 203,
+          "mark": "3:28.00",
+          "note": "AR,WL"
         },
         {
           "rank": 2,
           "athlete": "HABZ Azeddine",
+          "athleteId": "14640588",
           "country": "FRA",
-          "dob": "19 JUL 1993",
-          "note": "SB",
-          "mark": "3:29.80"
+          "bib": 239,
+          "mark": "3:29.80",
+          "note": "SB"
         },
         {
           "rank": 3,
           "athlete": "WIGHTMAN Jake",
+          "athleteId": "14522654",
           "country": "GBR",
-          "dob": "11 JUL 1994",
-          "note": "SB",
-          "mark": "3:29.95"
+          "bib": 258,
+          "mark": "3:29.95",
+          "note": "SB"
         },
         {
           "rank": 4,
           "athlete": "ESSAYI Anass",
+          "athleteId": "14805620",
           "country": "MAR",
-          "dob": "18 MAY 2001",
-          "note": "PB",
-          "mark": "3:30.17"
+          "bib": 280,
+          "mark": "3:30.17",
+          "note": "PB"
         },
         {
           "rank": 5,
           "athlete": "CHERUIYOT Reynold",
+          "athleteId": "14997479",
           "country": "KEN",
-          "dob": "30 JUL 2004",
-          "note": "SB",
-          "mark": "3:30.28"
+          "bib": 268,
+          "mark": "3:30.28",
+          "note": "SB"
         },
         {
           "rank": 6,
           "athlete": "LAGTIY CHAOUDAR Anas",
+          "athleteId": "15032059",
           "country": "FRA",
-          "dob": "17 JAN 2004",
-          "note": "PB",
-          "mark": "3:30.31"
+          "bib": 242,
+          "mark": "3:30.31",
+          "note": "PB"
         },
         {
           "rank": 7,
           "athlete": "ANSELMINI Paul",
+          "athleteId": "14880182",
           "country": "FRA",
-          "dob": "2 AUG 2003",
-          "note": "PB",
-          "mark": "3:31.36"
+          "bib": 230,
+          "mark": "3:31.36",
+          "note": "PB"
         },
         {
           "rank": 8,
           "athlete": "le GRIX Titouan",
+          "athleteId": "14948015",
           "country": "FRA",
-          "dob": "16 JUN 2002",
-          "note": "PB",
-          "mark": "3:31.46"
+          "bib": 245,
+          "mark": "3:31.46",
+          "note": "PB"
         },
         {
           "rank": 9,
           "athlete": "SZOT Flavien",
+          "athleteId": "14851721",
           "country": "FRA",
-          "dob": "6 SEP 2001",
-          "note": "SB",
-          "mark": "3:31.81"
+          "bib": 249,
+          "mark": "3:31.81",
+          "note": "SB"
         },
         {
           "rank": 10,
           "athlete": "NORDÅS Narve Gilje",
+          "athleteId": "14705412",
           "country": "NOR",
-          "dob": "30 SEP 1998",
+          "bib": 290,
           "mark": "3:32.05"
         },
         {
           "rank": 11,
           "athlete": "MESSAOUDI Fouad",
+          "athleteId": "14793942",
           "country": "MAR",
-          "dob": "7 JAN 2001",
+          "bib": 281,
           "mark": "3:32.40"
         },
         {
           "rank": 12,
           "athlete": "NILLESSEN Stefan",
+          "athleteId": "14910032",
           "country": "NED",
-          "dob": "2 JAN 2003",
-          "note": "SB",
-          "mark": "3:32.45"
+          "bib": 285,
+          "mark": "3:32.45",
+          "note": "SB"
         },
         {
           "rank": 13,
           "athlete": "KIPSANG Abel",
+          "athleteId": "14909437",
           "country": "KEN",
-          "dob": "22 NOV 1996",
-          "note": "SB",
-          "mark": "3:33.52"
+          "bib": 272,
+          "mark": "3:33.52",
+          "note": "SB"
         },
         {
           "rank": 14,
           "athlete": "CIATTEI Vincent",
+          "athleteId": "14531160",
           "country": "USA",
-          "dob": "21 JAN 1995",
+          "bib": 307,
           "mark": "3:36.47"
         },
         {
           "rank": 15,
           "athlete": "COSCORAN Andrew",
+          "athleteId": "14595170",
           "country": "IRL",
-          "dob": "18 JUN 1996",
+          "bib": 262,
           "mark": "3:46.91"
         },
         {
           "rank": null,
           "athlete": "AKBACHE Mounir",
+          "athleteId": "14182819",
           "country": "FRA",
-          "dob": "14 MAR 1986",
+          "bib": 229,
           "mark": "DNF",
           "status": "DNF"
         },
         {
           "rank": null,
           "athlete": "RUDOLF Žan",
+          "athleteId": "14375002",
           "country": "SLO",
-          "dob": "9 MAY 1993",
+          "bib": 294,
           "mark": "DNF",
           "status": "DNF"
         },
         {
           "rank": null,
           "athlete": "VERHEYDEN Ruben",
+          "athleteId": "14754671",
           "country": "BEL",
-          "dob": "22 DEC 2000",
+          "bib": 207,
           "mark": "DNS",
           "status": "DNS"
         }
       ]
     },
     {
-      "id": "paris-5000m-men",
-      "discipline": "5000m",
-      "category": "distance",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "19:41",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "FISHER Grant",
-          "country": "USA",
-          "dob": "22 APR 1997",
-          "mark": "12:54.80"
-        },
-        {
-          "rank": 2,
-          "athlete": "KROP Jacob",
-          "country": "KEN",
-          "dob": "4 JUN 2001",
-          "note": "SB",
-          "mark": "12:55.22"
-        },
-        {
-          "rank": 3,
-          "athlete": "ALMGREN Andreas",
-          "country": "SWE",
-          "dob": "12 JUN 1995",
-          "mark": "12:55.38"
-        },
-        {
-          "rank": 4,
-          "athlete": "NTAKARUTIMANA Egide",
-          "country": "BDI",
-          "dob": "21 OCT 1997",
-          "note": "NR",
-          "mark": "12:56.06"
-        },
-        {
-          "rank": 5,
-          "athlete": "BALEW Birhanu",
-          "country": "BRN",
-          "dob": "27 FEB 1996",
-          "mark": "12:56.66"
-        },
-        {
-          "rank": 6,
-          "athlete": "BLANKS Graham",
-          "country": "USA",
-          "dob": "24 APR 2002",
-          "mark": "12:57.12"
-        },
-        {
-          "rank": 7,
-          "athlete": "GRESSIER Jimmy",
-          "country": "FRA",
-          "dob": "4 MAY 1997",
-          "mark": "12:57.79"
-        },
-        {
-          "rank": 8,
-          "athlete": "KEMBOI Cornelius",
-          "country": "KEN",
-          "dob": "29 FEB 2000",
-          "mark": "12:58.10"
-        },
-        {
-          "rank": 9,
-          "athlete": "KIPSANG Mathew Kipchumba",
-          "country": "KEN",
-          "dob": "16 NOV 1995",
-          "note": "SB",
-          "mark": "12:58.95"
-        },
-        {
-          "rank": 10,
-          "athlete": "AMANUEL Saymon",
-          "country": "ERI",
-          "dob": "27 MAY 2007",
-          "note": "PB",
-          "mark": "12:59.37"
-        },
-        {
-          "rank": 11,
-          "athlete": "CATROFE Santiago",
-          "country": "URU",
-          "dob": "13 FEB 1999",
-          "note": "SB",
-          "mark": "13:02.57"
-        },
-        {
-          "rank": 12,
-          "athlete": "YIHUNE Addisu",
-          "country": "ETH",
-          "dob": "17 MAR 2003",
-          "mark": "13:03.22"
-        },
-        {
-          "rank": 13,
-          "athlete": "KIBET Frankline",
-          "country": "KEN",
-          "dob": "28 JUL 2007",
-          "note": "PB",
-          "mark": "13:08.32"
-        },
-        {
-          "rank": 14,
-          "athlete": "BREMM Florian",
-          "country": "GER",
-          "dob": "14 AUG 2000",
-          "mark": "13:10.39"
-        },
-        {
-          "rank": 15,
-          "athlete": "BEJIGA Khairi",
-          "country": "ETH",
-          "dob": "27 APR 2006",
-          "mark": "13:15.41"
-        },
-        {
-          "rank": 16,
-          "athlete": "WALE Getnet",
-          "country": "ETH",
-          "dob": "16 JUL 2000",
-          "mark": "13:15.68"
-        },
-        {
-          "rank": 17,
-          "athlete": "HERRERA Eduardo",
-          "country": "MEX",
-          "dob": "23 SEP 1997",
-          "mark": "13:16.18"
-        },
-        {
-          "rank": 18,
-          "athlete": "SOCA Valentin",
-          "country": "URU",
-          "dob": "24 JUL 2002",
-          "mark": "13:19.69"
-        },
-        {
-          "rank": 19,
-          "athlete": "GIRMA Kuma",
-          "country": "ETH",
-          "dob": "24 NOV 2005",
-          "mark": "13:33.07"
-        },
-        {
-          "rank": null,
-          "athlete": "DAGUINOS Etienne",
-          "country": "FRA",
-          "dob": "15 FEB 2000",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "GIRMA Lamecha",
-          "country": "ETH",
-          "dob": "26 NOV 2000",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "MECHAAL Said",
-          "country": "ESP",
-          "dob": "23 MAY 1998",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "VERBAANDERT Tim",
-          "country": "NED",
-          "dob": "17 JUL 2000",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "paris-3000m-steeplechase-men",
-      "discipline": "3000m Steeplechase",
-      "category": "distance",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "19:13",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "BEBENDORF Karl",
-          "country": "GER",
-          "dob": "7 MAY 1996",
-          "note": "PB",
-          "mark": "8:05.55"
-        },
-        {
-          "rank": 2,
-          "athlete": "GODANA Gemechu",
-          "country": "ETH",
-          "dob": "30 SEP 2005",
-          "note": "PB",
-          "mark": "8:05.86"
-        },
-        {
-          "rank": 3,
-          "athlete": "SEREM Edmund",
-          "country": "KEN",
-          "dob": "27 DEC 2007",
-          "mark": "8:08.54"
-        },
-        {
-          "rank": 4,
-          "athlete": "FIREWU Samuel",
-          "country": "ETH",
-          "dob": "3 MAY 2004",
-          "note": "SB",
-          "mark": "8:09.13"
-        },
-        {
-          "rank": 5,
-          "athlete": "MIURA Ryuji",
-          "country": "JPN",
-          "dob": "11 FEB 2002",
-          "note": "SB",
-          "mark": "8:10.70"
-        },
-        {
-          "rank": 6,
-          "athlete": "WILKINSON Matthew",
-          "country": "USA",
-          "dob": "27 DEC 1998",
-          "mark": "8:11.35"
-        },
-        {
-          "rank": 7,
-          "athlete": "SIME Abrham",
-          "country": "ETH",
-          "dob": "7 NOV 2001",
-          "note": "SB",
-          "mark": "8:13.48"
-        },
-        {
-          "rank": 8,
-          "athlete": "DARU Nicolas-Marie",
-          "country": "FRA",
-          "dob": "21 OCT 1988",
-          "mark": "8:13.89"
-        },
-        {
-          "rank": 9,
-          "athlete": "KIBIWOT Abraham",
-          "country": "KEN",
-          "dob": "6 APR 1996",
-          "mark": "8:14.43"
-        },
-        {
-          "rank": 10,
-          "athlete": "FOURMONT Baptiste",
-          "country": "FRA",
-          "dob": "19 MAY 1999",
-          "mark": "8:14.87"
-        },
-        {
-          "rank": 11,
-          "athlete": "QUERINJEAN Ruben",
-          "country": "LUX",
-          "dob": "22 DEC 2001",
-          "mark": "8:15.45"
-        },
-        {
-          "rank": 12,
-          "athlete": "ZOGHLAMI Osama",
-          "country": "ITA",
-          "dob": "19 JUN 1994",
-          "mark": "8:17.23"
-        },
-        {
-          "rank": 13,
-          "athlete": "BOUDY Pierre",
-          "country": "FRA",
-          "dob": "9 AUG 2004",
-          "mark": "8:19.50"
-        },
-        {
-          "rank": 14,
-          "athlete": "le BARON Luc",
-          "country": "FRA",
-          "dob": "5 FEB 2002",
-          "mark": "8:20.06"
-        },
-        {
-          "rank": 15,
-          "athlete": "WILLIAMS Carson",
-          "country": "USA",
-          "dob": "12 FEB 2002",
-          "mark": "8:20.67"
-        },
-        {
-          "rank": 16,
-          "athlete": "ARCE Daniel",
-          "country": "ESP",
-          "dob": "22 APR 1992",
-          "mark": "8:20.99"
-        },
-        {
-          "rank": 17,
-          "athlete": "DESGAGNÉS Jean-Simon",
-          "country": "CAN",
-          "dob": "26 JUL 1998",
-          "mark": "8:23.50"
-        },
-        {
-          "rank": 18,
-          "athlete": "AMARE Hailemariyam",
-          "country": "ETH",
-          "dob": "22 FEB 1997",
-          "mark": "8:32.74"
-        },
-        {
-          "rank": 19,
-          "athlete": "THEBAUD Oscar",
-          "country": "FRA",
-          "dob": "7 JUL 2004",
-          "mark": "8:45.31"
-        },
-        {
-          "rank": null,
-          "athlete": "BOUASSEL Abderrafia",
-          "country": "MAR",
-          "dob": "18 FEB 2001",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "KONES Wilberforce Chemiat",
-          "country": "KEN",
-          "dob": "19 SEP 1993",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "TINDOUFT Mohamed",
-          "country": "MAR",
-          "dob": "12 MAR 1993",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "paris-110m-hurdles-men",
-      "discipline": "110m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "phase": "Round 1",
-      "isPrimary": false,
-      "startTime": "16:55",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "CUNNINGHAM Trey",
-          "country": "USA",
-          "dob": "26 AUG 1998",
-          "mark": "13.06"
-        },
-        {
-          "rank": 2,
-          "athlete": "SMALLWOOD Kendrick",
-          "country": "USA",
-          "dob": "7 APR 2004",
-          "mark": "13.09"
-        },
-        {
-          "rank": 3,
-          "athlete": "BRITT Jamal",
-          "country": "USA",
-          "dob": "28 DEC 1998",
-          "mark": "13.14"
-        },
-        {
-          "rank": 4,
-          "athlete": "MENÉNDEZ Kendry L.",
-          "country": "CUB",
-          "dob": "14 MAR 2006",
-          "mark": "13.15"
-        },
-        {
-          "rank": 5,
-          "athlete": "OBASUYI Michael",
-          "country": "BEL",
-          "dob": "12 AUG 1999",
-          "note": "NR",
-          "mark": "13.16"
-        },
-        {
-          "rank": 6,
-          "athlete": "IZUMIYA Shunsuke",
-          "country": "JPN",
-          "dob": "26 JAN 2000",
-          "mark": "13.22"
-        },
-        {
-          "rank": 7,
-          "athlete": "WILKES Thomas",
-          "country": "FRA",
-          "dob": "16 MAY 2004",
-          "note": "PB",
-          "mark": "13.27"
-        },
-        {
-          "rank": 8,
-          "athlete": "MURATAKE Rachid",
-          "country": "JPN",
-          "dob": "6 FEB 2002",
-          "mark": "13.30"
-        },
-        {
-          "rank": 9,
-          "athlete": "KWAOU-MATHEY Just",
-          "country": "FRA",
-          "dob": "4 DEC 1999",
-          "note": "SB",
-          "mark": "13.32"
-        },
-        {
-          "rank": 10,
-          "athlete": "LLOPIS Enrique",
-          "country": "ESP",
-          "dob": "15 OCT 2000",
-          "mark": "13.34"
-        },
-        {
-          "rank": 11,
-          "athlete": "MARTÍNEZ Asier",
-          "country": "ESP",
-          "dob": "22 APR 2000",
-          "mark": "13.39"
-        },
-        {
-          "rank": 12,
-          "athlete": "LECOEUR Romain",
-          "country": "FRA",
-          "dob": "9 AUG 1997",
-          "mark": "13.40"
-        },
-        {
-          "rank": 13,
-          "athlete": "BEARD Dylan",
-          "country": "USA",
-          "dob": "15 SEP 1998",
-          "mark": "13.42"
-        },
-        {
-          "rank": 14,
-          "athlete": "EDWARDS Eric",
-          "country": "USA",
-          "dob": "3 JAN 2000",
-          "mark": "13.57"
-        },
-        {
-          "rank": 15,
-          "athlete": "CRITTENDEN Freddie",
-          "country": "USA",
-          "dob": "3 AUG 1994",
-          "note": "SB",
-          "mark": "13.64"
-        },
-        {
-          "rank": 16,
-          "athlete": "CINNA Erwann",
-          "country": "FRA",
-          "dob": "26 SEP 2003",
-          "mark": "13.74"
-        }
-      ]
-    },
-    {
-      "id": "paris-110m-hurdles-men",
-      "discipline": "110m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "phase": "Heat 1",
-      "isPrimary": false,
-      "wind": "+0.2 m/s",
-      "startTime": "16:55",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "SMALLWOOD Kendrick",
-          "country": "USA",
-          "dob": "7 APR 2004",
-          "reaction": 0.158,
-          "mark": "13.09"
-        },
-        {
-          "rank": 2,
-          "athlete": "BRITT Jamal",
-          "country": "USA",
-          "dob": "28 DEC 1998",
-          "reaction": 0.143,
-          "mark": "13.14"
-        },
-        {
-          "rank": 3,
-          "athlete": "OBASUYI Michael",
-          "country": "BEL",
-          "dob": "12 AUG 1999",
-          "reaction": 0.144,
-          "note": "NR",
-          "mark": "13.16"
-        },
-        {
-          "rank": 4,
-          "athlete": "IZUMIYA Shunsuke",
-          "country": "JPN",
-          "dob": "26 JAN 2000",
-          "reaction": 0.143,
-          "mark": "13.22"
-        },
-        {
-          "rank": 5,
-          "athlete": "WILKES Thomas",
-          "country": "FRA",
-          "dob": "16 MAY 2004",
-          "reaction": 0.137,
-          "note": "PB",
-          "mark": "13.27"
-        },
-        {
-          "rank": 6,
-          "athlete": "LECOEUR Romain",
-          "country": "FRA",
-          "dob": "9 AUG 1997",
-          "reaction": 0.163,
-          "mark": "13.40"
-        },
-        {
-          "rank": 7,
-          "athlete": "BEARD Dylan",
-          "country": "USA",
-          "dob": "15 SEP 1998",
-          "reaction": 0.157,
-          "mark": "13.42"
-        },
-        {
-          "rank": 8,
-          "athlete": "CRITTENDEN Freddie",
-          "country": "USA",
-          "dob": "3 AUG 1994",
-          "reaction": 0.157,
-          "note": "SB",
-          "mark": "13.64"
-        }
-      ]
-    },
-    {
-      "id": "paris-110m-hurdles-men",
-      "discipline": "110m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "phase": "Heat 2",
-      "isPrimary": false,
-      "wind": "-0.8 m/s",
-      "startTime": "17:03",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "CUNNINGHAM Trey",
-          "country": "USA",
-          "dob": "26 AUG 1998",
-          "reaction": 0.138,
-          "mark": "13.06"
-        },
-        {
-          "rank": 2,
-          "athlete": "MENÉNDEZ Kendry L.",
-          "country": "CUB",
-          "dob": "14 MAR 2006",
-          "reaction": 0.143,
-          "mark": "13.15"
-        },
-        {
-          "rank": 3,
-          "athlete": "MURATAKE Rachid",
-          "country": "JPN",
-          "dob": "6 FEB 2002",
-          "reaction": 0.149,
-          "mark": "13.30"
-        },
-        {
-          "rank": 4,
-          "athlete": "KWAOU-MATHEY Just",
-          "country": "FRA",
-          "dob": "4 DEC 1999",
-          "reaction": 0.163,
-          "note": "SB",
-          "mark": "13.32"
-        },
-        {
-          "rank": 5,
-          "athlete": "LLOPIS Enrique",
-          "country": "ESP",
-          "dob": "15 OCT 2000",
-          "reaction": 0.142,
-          "mark": "13.34"
-        },
-        {
-          "rank": 6,
-          "athlete": "MARTÍNEZ Asier",
-          "country": "ESP",
-          "dob": "22 APR 2000",
-          "reaction": 0.138,
-          "mark": "13.39"
-        },
-        {
-          "rank": 7,
-          "athlete": "EDWARDS Eric",
-          "country": "USA",
-          "dob": "3 JAN 2000",
-          "reaction": 0.103,
-          "mark": "13.57"
-        },
-        {
-          "rank": 8,
-          "athlete": "CINNA Erwann",
-          "country": "FRA",
-          "dob": "26 SEP 2003",
-          "reaction": 0.135,
-          "mark": "13.74"
-        }
-      ]
-    },
-    {
-      "id": "paris-110m-hurdles-men",
-      "discipline": "110m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "phase": "Final",
-      "isPrimary": true,
-      "wind": "+0.8 m/s",
-      "startTime": "18:32",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "BRITT Jamal",
-          "country": "USA",
-          "dob": "28 DEC 1998",
-          "reaction": 0.123,
-          "note": "PB",
-          "mark": "12.89"
-        },
-        {
-          "rank": 2,
-          "athlete": "IZUMIYA Shunsuke",
-          "country": "JPN",
-          "dob": "26 JAN 2000",
-          "reaction": 0.132,
-          "mark": "13.01"
-        },
-        {
-          "rank": 3,
-          "athlete": "CUNNINGHAM Trey",
-          "country": "USA",
-          "dob": "26 AUG 1998",
-          "reaction": 0.123,
-          "mark": "13.07"
-        },
-        {
-          "rank": 4,
-          "athlete": "OBASUYI Michael",
-          "country": "BEL",
-          "dob": "12 AUG 1999",
-          "reaction": 0.127,
-          "note": "NR",
-          "mark": "13.10"
-        },
-        {
-          "rank": 5,
-          "athlete": "MURATAKE Rachid",
-          "country": "JPN",
-          "dob": "6 FEB 2002",
-          "reaction": 0.127,
-          "mark": "13.21"
-        },
-        {
-          "rank": 6,
-          "athlete": "MENÉNDEZ Kendry L.",
-          "country": "CUB",
-          "dob": "14 MAR 2006",
-          "reaction": 0.127,
-          "mark": "13.24"
-        },
-        {
-          "rank": 7,
-          "athlete": "WILKES Thomas",
-          "country": "FRA",
-          "dob": "16 MAY 2004",
-          "reaction": 0.143,
-          "mark": "13.32"
-        },
-        {
-          "rank": 8,
-          "athlete": "SMALLWOOD Kendrick",
-          "country": "USA",
-          "dob": "7 APR 2004",
-          "reaction": 0.132,
-          "mark": "13.46"
-        }
-      ]
-    },
-    {
-      "id": "paris-pole-vault-men",
-      "discipline": "Pole Vault",
-      "category": "jumps",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "17:00",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "DUPLANTIS Armand",
-          "country": "SWE",
-          "dob": "10 NOV 1999",
-          "note": "MR",
-          "mark": "6.13"
-        },
-        {
-          "rank": 2,
-          "athlete": "THIERY Baptiste",
-          "country": "FRA",
-          "dob": "29 JUN 2001",
-          "note": "PB",
-          "mark": "5.93"
-        },
-        {
-          "rank": 3,
-          "athlete": "KARALIS Emmanouil",
-          "country": "GRE",
-          "dob": "20 OCT 1999",
-          "mark": "5.83"
-        },
-        {
-          "rank": 4,
-          "athlete": "NILSEN Christopher",
-          "country": "USA",
-          "dob": "13 JAN 1998",
-          "mark": "5.83"
-        },
-        {
-          "rank": 5,
-          "athlete": "GUTTORMSEN Sondre",
-          "country": "NOR",
-          "dob": "1 JUN 1999",
-          "mark": "5.83"
-        },
-        {
-          "rank": 6,
-          "athlete": "BRADFORD Zachery",
-          "country": "USA",
-          "dob": "29 NOV 1999",
-          "mark": "5.83"
-        },
-        {
-          "rank": 7,
-          "athlete": "MARSCHALL Kurtis",
-          "country": "AUS",
-          "dob": "25 APR 1997",
-          "mark": "5.83"
-        },
-        {
-          "rank": 8,
-          "athlete": "KENDRICKS Sam",
-          "country": "USA",
-          "dob": "7 SEP 1992",
-          "mark": "5.73"
-        },
-        {
-          "rank": 9,
-          "athlete": "COLLET Thibaut",
-          "country": "FRA",
-          "dob": "17 JUN 1999",
-          "mark": "5.73"
-        },
-        {
-          "rank": 10,
-          "athlete": "DIA Zackaria",
-          "country": "FRA",
-          "dob": "24 MAY 2008",
-          "mark": "5.63"
-        },
-        {
-          "rank": 10,
-          "athlete": "LIGHTFOOT KC",
-          "country": "USA",
-          "dob": "11 NOV 1999",
-          "mark": "5.63"
-        },
-        {
-          "rank": 12,
-          "athlete": "LAVILLENIE Renaud",
-          "country": "FRA",
-          "dob": "18 SEP 1986",
-          "mark": "5.43"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-men",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "men",
-      "phase": "C",
-      "isPrimary": false,
-      "wind": "+0.2 m/s",
-      "startTime": "15:30",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "RANDAZZO Filippo",
-          "country": "ITA",
-          "dob": "27 APR 1996",
-          "reaction": 0.151,
-          "note": "=SB",
-          "mark": "10.30"
-        },
-        {
-          "rank": 2,
-          "athlete": "SNYDERS Antoine",
-          "country": "BEL",
-          "dob": "10 FEB 1997",
-          "reaction": 0.159,
-          "mark": "10.42"
-        },
-        {
-          "rank": 3,
-          "athlete": "IUS Christopher",
-          "country": "AUS",
-          "dob": "10 FEB 2000",
-          "reaction": 0.14,
-          "mark": "10.43(.422)"
-        },
-        {
-          "rank": 4,
-          "athlete": "REVIERRE Jozuah",
-          "country": "NED",
-          "dob": "20 APR 2006",
-          "reaction": 0.15,
-          "mark": "10.43(.425)"
-        },
-        {
-          "rank": 5,
-          "athlete": "BADRU Mohamed",
-          "country": "FRA",
-          "dob": "3 JUL 2003",
-          "reaction": 0.129,
-          "mark": "10.47"
-        },
-        {
-          "rank": 7,
-          "athlete": "HOORNAERT Valentijn",
-          "country": "BEL",
-          "dob": "25 OCT 2000",
-          "reaction": 0.147,
-          "mark": "10.54"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-men",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "men",
-      "phase": "B",
-      "isPrimary": false,
-      "wind": "+0.1 m/s",
-      "startTime": "15:44",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "AFRIFA Elvis",
-          "country": "NED",
-          "dob": "30 NOV 1997",
-          "reaction": 0.131,
-          "mark": "10.22"
-        },
-        {
-          "rank": 2,
-          "athlete": "BROWNING Rohan",
-          "country": "AUS",
-          "dob": "31 DEC 1997",
-          "reaction": 0.124,
-          "mark": "10.23"
-        },
-        {
-          "rank": 3,
-          "athlete": "GUSSMANN Heiko",
-          "country": "GER",
-          "dob": "11 MAR 2004",
-          "reaction": 0.156,
-          "mark": "10.27"
-        },
-        {
-          "rank": 4,
-          "athlete": "EKPO Nsikak",
-          "country": "NED",
-          "dob": "14 APR 2003",
-          "reaction": 0.138,
-          "mark": "10.32"
-        },
-        {
-          "rank": 5,
-          "athlete": "BIZASENE Ylann",
-          "country": "FRA",
-          "dob": "19 APR 2006",
-          "reaction": 0.147,
-          "mark": "10.33"
-        },
-        {
-          "rank": 6,
-          "athlete": "GANTER Robin",
-          "country": "GER",
-          "dob": "3 JAN 2001",
-          "reaction": 0.143,
-          "mark": "10.34"
-        },
-        {
-          "rank": 7,
-          "athlete": "SCHAUB Theo",
-          "country": "FRA",
-          "dob": "15 NOV 2000",
-          "reaction": 0.152,
-          "mark": "10.36"
-        },
-        {
-          "rank": 8,
-          "athlete": "ALMAS Deniz",
-          "country": "GER",
-          "dob": "17 JUL 1997",
-          "reaction": 0.146,
-          "mark": "10.53"
-        }
-      ]
-    },
-    {
-      "id": "paris-400m-women",
-      "discipline": "400m",
-      "category": "sprints",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:39",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "PAULINO Marileidy",
-          "country": "DOM",
-          "dob": "25 OCT 1996",
-          "reaction": 0.204,
-          "note": "DLR MR WL",
-          "mark": "48.48"
-        },
-        {
-          "rank": 2,
-          "athlete": "MANUEL Lurdes Gloria",
-          "country": "CZE",
-          "dob": "12 JUL 2005",
-          "reaction": 0.169,
-          "note": "PB",
-          "mark": "49.37"
-        },
-        {
-          "rank": 3,
-          "athlete": "WILLIAMS Stacey Ann",
-          "country": "JAM",
-          "dob": "8 MAR 1999",
-          "reaction": 0.143,
-          "mark": "49.51"
-        },
-        {
-          "rank": 4,
-          "athlete": "KLAVER Lieke",
-          "country": "NED",
-          "dob": "20 AUG 1998",
-          "reaction": 0.218,
-          "note": "SB",
-          "mark": "49.97"
-        },
-        {
-          "rank": 5,
-          "athlete": "MAWDSLEY Sharlene",
-          "country": "IRL",
-          "dob": "10 AUG 1998",
-          "reaction": 0.158,
-          "note": "PB",
-          "mark": "50.06"
-        },
-        {
-          "rank": 6,
-          "athlete": "GÓMEZ Roxana",
-          "country": "CUB",
-          "dob": "7 JAN 1999",
-          "reaction": 0.176,
-          "note": "SB",
-          "mark": "50.07"
-        },
-        {
-          "rank": 7,
-          "athlete": "BUKOWIECKA Natalia",
-          "country": "POL",
-          "dob": "17 JAN 1998",
-          "reaction": 0.175,
-          "mark": "50.81"
-        },
-        {
-          "rank": 8,
-          "athlete": "BLACK Isabelle",
-          "country": "FRA",
-          "dob": "8 FEB 2000",
-          "reaction": 0.192,
-          "note": "PB",
-          "mark": "51.15"
-        }
-      ]
-    },
-    {
-      "id": "paris-800m-women",
-      "discipline": "800m",
-      "category": "middle",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:13",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "WERRO Audrey",
-          "country": "SUI",
-          "dob": "27 MAR 2004",
-          "note": "DLR MR WL NR",
-          "mark": "1:53.80"
-        },
-        {
-          "rank": 2,
-          "athlete": "BROEDERS-BOL Femke",
-          "country": "NED",
-          "dob": "23 FEB 2000",
-          "note": "PB",
-          "mark": "1:55.60"
-        },
-        {
-          "rank": 3,
-          "athlete": "BOURGOIN Anaïs",
-          "country": "FRA",
-          "dob": "3 OCT 1996",
-          "note": "NR",
-          "mark": "1:55.65"
-        },
-        {
-          "rank": 4,
-          "athlete": "SEKGODISO Prudence",
-          "country": "RSA",
-          "dob": "5 JAN 2002",
-          "note": "PB",
-          "mark": "1:56.83"
-        },
-        {
-          "rank": 5,
-          "athlete": "LAMOTE Rénelle",
-          "country": "FRA",
-          "dob": "26 DEC 1993",
-          "note": "PB",
-          "mark": "1:56.93"
-        },
-        {
-          "rank": 6,
-          "athlete": "BILLINGS Sarah",
-          "country": "AUS",
-          "dob": "7 MAR 1998",
-          "note": "AR",
-          "mark": "1:57.01"
-        },
-        {
-          "rank": 7,
-          "athlete": "NOWE Oratile",
-          "country": "BOT",
-          "dob": "20 MAY 2000",
-          "mark": "1:57.46"
-        },
-        {
-          "rank": 8,
-          "athlete": "LIBERMAN Clara",
-          "country": "FRA",
-          "dob": "5 APR 2000",
-          "note": "PB",
-          "mark": "1:58.34"
-        },
-        {
-          "rank": 9,
-          "athlete": "WILLIS Roisin",
-          "country": "USA",
-          "dob": "6 AUG 2004",
-          "mark": "1:58.66"
-        },
-        {
-          "rank": 10,
-          "athlete": "ELHADDAD Souad",
-          "country": "MAR",
-          "dob": "10 MAR 2001",
-          "mark": "1:58.90"
-        },
-        {
-          "rank": null,
-          "athlete": "van der SCHOOT Myrte",
-          "country": "NED",
-          "dob": "16 APR 2004",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "paris-1500m-women",
-      "discipline": "1500m",
-      "category": "middle",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "19:27",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "HUNTER BELL Georgia",
-          "country": "GBR",
-          "dob": "17 OCT 1993",
-          "note": "SB",
-          "mark": "3:55.63"
-        },
-        {
-          "rank": 2,
-          "athlete": "HAILU Freweyni",
-          "country": "ETH",
-          "dob": "12 FEB 2001",
-          "note": "SB",
-          "mark": "3:55.92"
-        },
-        {
-          "rank": 3,
-          "athlete": "GUILLEMOT Agathe",
-          "country": "FRA",
-          "dob": "11 JUL 1999",
-          "note": "NR",
-          "mark": "3:56.24"
-        },
-        {
-          "rank": 4,
-          "athlete": "HULL Jessica",
-          "country": "AUS",
-          "dob": "22 OCT 1996",
-          "note": "SB",
-          "mark": "3:57.22"
-        },
-        {
-          "rank": 5,
-          "athlete": "CALDWELL Abbey",
-          "country": "AUS",
-          "dob": "3 JUL 2001",
-          "mark": "3:57.59"
-        },
-        {
-          "rank": 6,
-          "athlete": "JEPKOSGEI Nelly",
-          "country": "BRN",
-          "dob": "14 JUL 1991",
-          "note": "PB",
-          "mark": "3:57.61"
-        },
-        {
-          "rank": 7,
-          "athlete": "SILVA Patricia",
-          "country": "POR",
-          "dob": "9 DEC 1999",
-          "note": "PB",
-          "mark": "3:58.74"
-        },
-        {
-          "rank": 8,
-          "athlete": "HALL Linden",
-          "country": "AUS",
-          "dob": "20 JUN 1991",
-          "mark": "4:00.00"
-        },
-        {
-          "rank": 9,
-          "athlete": "HAJJI Soukaina",
-          "country": "MAR",
-          "dob": "4 FEB 1997",
-          "note": "PB",
-          "mark": "4:00.62"
-        },
-        {
-          "rank": 10,
-          "athlete": "SNOWDEN Katie",
-          "country": "GBR",
-          "dob": "9 MAR 1994",
-          "note": "SB",
-          "mark": "4:00.91"
-        },
-        {
-          "rank": 11,
-          "athlete": "HEALY Sarah",
-          "country": "IRL",
-          "dob": "13 FEB 2001",
-          "mark": "4:01.50"
-        },
-        {
-          "rank": 12,
-          "athlete": "KALAYU Haregeweyni",
-          "country": "ETH",
-          "dob": "29 MAY 2009",
-          "mark": "4:02.70(.692)"
-        },
-        {
-          "rank": 13,
-          "athlete": "ARERI Aster",
-          "country": "ETH",
-          "dob": "16 APR 2006",
-          "mark": "4:02.70(.695)"
-        },
-        {
-          "rank": 14,
-          "athlete": "GAY Adèle",
-          "country": "FRA",
-          "dob": "16 OCT 2004",
-          "note": "PB",
-          "mark": "4:03.13"
-        },
-        {
-          "rank": 15,
-          "athlete": "CLEYET-MERLE Bérénice",
-          "country": "FRA",
-          "dob": "24 OCT 1994",
-          "note": "PB",
-          "mark": "4:03.58"
-        },
-        {
-          "rank": 16,
-          "athlete": "AFONSO Salomé",
-          "country": "POR",
-          "dob": "19 NOV 1997",
-          "mark": "4:06.36"
-        },
-        {
-          "rank": null,
-          "athlete": "RODRÍGUEZ Andrea",
-          "country": "ESP",
-          "dob": "1 APR 2003",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-hurdles-women",
-      "discipline": "100m Hurdles",
-      "category": "hurdles",
-      "gender": "women",
-      "phase": "Round 1",
-      "isPrimary": false,
-      "startTime": "17:20",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "AMUSAN Tobi",
-          "country": "NGR",
-          "dob": "23 APR 1997",
-          "mark": "12.39"
-        },
-        {
-          "rank": 2,
-          "athlete": "JOHNSON Alaysha",
-          "country": "USA",
-          "dob": "20 JUL 1996",
-          "note": "SB",
-          "mark": "12.42"
-        },
-        {
-          "rank": 3,
-          "athlete": "VISSER Nadine",
-          "country": "NED",
-          "dob": "9 FEB 1995",
-          "note": "SB",
-          "mark": "12.44"
-        },
-        {
-          "rank": 4,
-          "athlete": "ROSWELL Demisha",
-          "country": "JAM",
-          "dob": "19 JUN 1998",
-          "mark": "12.46"
-        },
-        {
-          "rank": 5,
-          "athlete": "STARK Grace",
-          "country": "USA",
-          "dob": "6 MAY 2001",
-          "mark": "12.51"
-        },
-        {
-          "rank": 6,
-          "athlete": "JONES Rayniah",
-          "country": "USA",
-          "dob": "28 SEP 2001",
-          "mark": "12.52"
-        },
-        {
-          "rank": 7,
-          "athlete": "SKRZYSZOWSKA Pia",
-          "country": "POL",
-          "dob": "20 APR 2001",
-          "note": "SB",
-          "mark": "12.53(.527)"
-        },
-        {
-          "rank": 8,
-          "athlete": "SIMMONDS Megan",
-          "country": "JAM",
-          "dob": "18 MAR 1994",
-          "mark": "12.53(.528)"
-        },
-        {
-          "rank": 9,
-          "athlete": "CHARLTON Devynne",
-          "country": "BAH",
-          "dob": "26 NOV 1995",
-          "mark": "12.55"
-        },
-        {
-          "rank": 10,
-          "athlete": "ARMSTRONG Alia",
-          "country": "USA",
-          "dob": "28 DEC 2000",
-          "mark": "12.57"
-        },
-        {
-          "rank": 11,
-          "athlete": "HARRISON Kendra",
-          "country": "USA",
-          "dob": "18 SEP 1992",
-          "mark": "12.61"
-        },
-        {
-          "rank": 12,
-          "athlete": "FOURIE Marione",
-          "country": "RSA",
-          "dob": "30 APR 2002",
-          "mark": "12.66(.653)"
-        },
-        {
-          "rank": 13,
-          "athlete": "BAPTÉ Laeticia",
-          "country": "FRA",
-          "dob": "8 FEB 1999",
-          "note": "PB",
-          "mark": "12.66(.656)"
-        },
-        {
-          "rank": 14,
-          "athlete": "ALESSANDRINI Sacha",
-          "country": "FRA",
-          "dob": "7 JUN 1999",
-          "mark": "12.82"
-        },
-        {
-          "rank": null,
-          "athlete": "KAMBUNDJI Ditaji",
-          "country": "SUI",
-          "dob": "20 MAY 2002",
-          "mark": "DNS",
-          "status": "DNS"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-hurdles-women",
-      "discipline": "100m Hurdles",
-      "category": "hurdles",
-      "gender": "women",
-      "phase": "Heat 1",
-      "isPrimary": false,
-      "wind": "+0.4 m/s",
-      "startTime": "17:20",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "AMUSAN Tobi",
-          "country": "NGR",
-          "dob": "23 APR 1997",
-          "reaction": 0.15,
-          "mark": "12.39"
-        },
-        {
-          "rank": 2,
-          "athlete": "VISSER Nadine",
-          "country": "NED",
-          "dob": "9 FEB 1995",
-          "reaction": 0.152,
-          "note": "SB",
-          "mark": "12.44"
-        },
-        {
-          "rank": 3,
-          "athlete": "ROSWELL Demisha",
-          "country": "JAM",
-          "dob": "19 JUN 1998",
-          "reaction": 0.155,
-          "mark": "12.46"
-        },
-        {
-          "rank": 4,
-          "athlete": "JONES Rayniah",
-          "country": "USA",
-          "dob": "28 SEP 2001",
-          "reaction": 0.138,
-          "mark": "12.52"
-        },
-        {
-          "rank": 5,
-          "athlete": "SKRZYSZOWSKA Pia",
-          "country": "POL",
-          "dob": "20 APR 2001",
-          "reaction": 0.142,
-          "note": "SB",
-          "mark": "12.53"
-        },
-        {
-          "rank": 6,
-          "athlete": "ARMSTRONG Alia",
-          "country": "USA",
-          "dob": "28 DEC 2000",
-          "reaction": 0.159,
-          "mark": "12.57"
-        },
-        {
-          "rank": 7,
-          "athlete": "BAPTÉ Laeticia",
-          "country": "FRA",
-          "dob": "8 FEB 1999",
-          "reaction": 0.13,
-          "note": "PB",
-          "mark": "12.66"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-hurdles-women",
-      "discipline": "100m Hurdles",
-      "category": "hurdles",
-      "gender": "women",
-      "phase": "Heat 2",
-      "isPrimary": false,
-      "wind": "+0.6 m/s",
-      "startTime": "17:28",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "JOHNSON Alaysha",
-          "country": "USA",
-          "dob": "20 JUL 1996",
-          "reaction": 0.148,
-          "note": "SB",
-          "mark": "12.42"
-        },
-        {
-          "rank": 2,
-          "athlete": "STARK Grace",
-          "country": "USA",
-          "dob": "6 MAY 2001",
-          "reaction": 0.167,
-          "mark": "12.51"
-        },
-        {
-          "rank": 3,
-          "athlete": "SIMMONDS Megan",
-          "country": "JAM",
-          "dob": "18 MAR 1994",
-          "reaction": 0.135,
-          "mark": "12.53"
-        },
-        {
-          "rank": 4,
-          "athlete": "CHARLTON Devynne",
-          "country": "BAH",
-          "dob": "26 NOV 1995",
-          "reaction": 0.136,
-          "mark": "12.55"
-        },
-        {
-          "rank": 5,
-          "athlete": "HARRISON Kendra",
-          "country": "USA",
-          "dob": "18 SEP 1992",
-          "reaction": 0.153,
-          "mark": "12.61"
-        },
-        {
-          "rank": 6,
-          "athlete": "FOURIE Marione",
-          "country": "RSA",
-          "dob": "30 APR 2002",
-          "reaction": 0.157,
-          "mark": "12.66"
-        },
-        {
-          "rank": 7,
-          "athlete": "ALESSANDRINI Sacha",
-          "country": "FRA",
-          "dob": "7 JUN 1999",
-          "reaction": 0.147,
-          "mark": "12.82"
-        },
-        {
-          "rank": null,
-          "athlete": "KAMBUNDJI Ditaji",
-          "country": "SUI",
-          "dob": "20 MAY 2002",
-          "mark": "DNS",
-          "status": "DNS"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-hurdles-women",
-      "discipline": "100m Hurdles",
-      "category": "hurdles",
-      "gender": "women",
-      "phase": "Final",
-      "isPrimary": true,
-      "wind": "+0.7 m/s",
-      "startTime": "19:08",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "AMUSAN Tobi",
-          "country": "NGR",
-          "dob": "23 APR 1997",
-          "reaction": 0.135,
-          "note": "=SB",
-          "mark": "12.28"
-        },
-        {
-          "rank": 2,
-          "athlete": "STARK Grace",
-          "country": "USA",
-          "dob": "6 MAY 2001",
-          "reaction": 0.161,
-          "note": "SB",
-          "mark": "12.38"
-        },
-        {
-          "rank": 3,
-          "athlete": "JOHNSON Alaysha",
-          "country": "USA",
-          "dob": "20 JUL 1996",
-          "reaction": 0.148,
-          "note": "SB",
-          "mark": "12.39"
-        },
-        {
-          "rank": 4,
-          "athlete": "VISSER Nadine",
-          "country": "NED",
-          "dob": "9 FEB 1995",
-          "reaction": 0.137,
-          "note": "SB",
-          "mark": "12.41"
-        },
-        {
-          "rank": 5,
-          "athlete": "SKRZYSZOWSKA Pia",
-          "country": "POL",
-          "dob": "20 APR 2001",
-          "reaction": 0.141,
-          "note": "SB",
-          "mark": "12.46"
-        },
-        {
-          "rank": 6,
-          "athlete": "JONES Rayniah",
-          "country": "USA",
-          "dob": "28 SEP 2001",
-          "reaction": 0.149,
-          "mark": "12.60"
-        },
-        {
-          "rank": 7,
-          "athlete": "ROSWELL Demisha",
-          "country": "JAM",
-          "dob": "19 JUN 1998",
-          "reaction": 0.167,
-          "mark": "12.78"
-        },
-        {
-          "rank": 8,
-          "athlete": "SIMMONDS Megan",
-          "country": "JAM",
-          "dob": "18 MAR 1994",
-          "reaction": 0.149,
-          "mark": "12.92"
-        }
-      ]
-    },
-    {
-      "id": "paris-pole-vault-women",
-      "discipline": "Pole Vault",
-      "category": "jumps",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "17:07",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "MOSER Angelica",
-          "country": "SUI",
-          "dob": "9 OCT 1997",
-          "mark": "4.77"
-        },
-        {
-          "rank": 2,
-          "athlete": "McCARTNEY Eliza",
-          "country": "NZL",
-          "dob": "11 DEC 1996",
-          "mark": "4.70"
-        },
-        {
-          "rank": 3,
-          "athlete": "KENNEDY Nina",
-          "country": "AUS",
-          "dob": "5 APR 1997",
-          "mark": "4.70"
-        },
-        {
-          "rank": 4,
-          "athlete": "GROVE Emily",
-          "country": "USA",
-          "dob": "22 MAY 1993",
-          "mark": "4.60"
-        },
-        {
-          "rank": 4,
-          "athlete": "ŠUTEJ Tina",
-          "country": "SLO",
-          "dob": "7 NOV 1988",
-          "mark": "4.60"
-        },
-        {
-          "rank": 6,
-          "athlete": "LEON Gabriela",
-          "country": "USA",
-          "dob": "17 JUN 1999",
-          "mark": "4.60"
-        },
-        {
-          "rank": 7,
-          "athlete": "AYRIS Imogen",
-          "country": "NZL",
-          "dob": "12 DEC 2000",
-          "mark": "4.60"
-        },
-        {
-          "rank": 8,
-          "athlete": "McTAGGART Olivia",
-          "country": "NZL",
-          "dob": "9 JAN 2000",
-          "mark": "4.45"
-        },
-        {
-          "rank": 8,
-          "athlete": "PETIT Berenice",
-          "country": "FRA",
-          "dob": "23 NOV 1998",
-          "mark": "4.45"
-        },
-        {
-          "rank": 10,
-          "athlete": "KING Brynn",
-          "country": "USA",
-          "dob": "22 AUG 2000",
-          "mark": "4.45"
-        },
-        {
-          "rank": 11,
-          "athlete": "BONNIN Marie-Julie",
-          "country": "FRA",
-          "dob": "17 DEC 2001",
-          "mark": "4.45"
-        },
-        {
-          "rank": 11,
-          "athlete": "HELTELÄ Wilma",
-          "country": "FIN",
-          "dob": "11 JUN 1998",
-          "mark": "4.45"
-        }
-      ]
-    },
-    {
-      "id": "paris-shot-put-women",
-      "discipline": "Shot Put",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "17:11",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "MITTON Sarah",
-          "country": "CAN",
-          "dob": "20 JUN 1996",
-          "mark": "19.99"
-        },
-        {
-          "rank": 2,
-          "athlete": "MABRY Yemisi",
-          "country": "GER",
-          "dob": "3 OCT 1998",
-          "mark": "19.93"
-        },
-        {
-          "rank": 3,
-          "athlete": "SCHILDER Jessica",
-          "country": "NED",
-          "dob": "19 MAR 1999",
-          "mark": "19.89"
-        },
-        {
-          "rank": 4,
-          "athlete": "JOHANSSON Axelina",
-          "country": "SWE",
-          "dob": "20 APR 2000",
-          "mark": "19.25"
-        },
-        {
-          "rank": 5,
-          "athlete": "ROOS Fanny",
-          "country": "SWE",
-          "dob": "2 JAN 1995",
-          "mark": "19.17"
-        },
-        {
-          "rank": 6,
-          "athlete": "THOMAS-DODD Danniel",
-          "country": "JAM",
-          "dob": "11 NOV 1992",
-          "mark": "18.88"
-        },
-        {
-          "rank": 7,
-          "athlete": "SMITH Abria",
-          "country": "USA",
-          "dob": "25 JAN 2002",
-          "mark": "18.46"
-        },
-        {
-          "rank": 8,
-          "athlete": "ROSS Jaida",
-          "country": "USA",
-          "dob": "29 OCT 2001",
-          "mark": "18.18"
-        },
-        {
-          "rank": 9,
-          "athlete": "AQUILLA Adelaide",
-          "country": "USA",
-          "dob": "3 MAR 1999",
-          "mark": "18.09"
-        }
-      ]
-    },
-    {
-      "id": "paris-javelin-throw-women",
-      "discipline": "Javelin Throw",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:25",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "YAN Ziyi",
-          "country": "CHN",
-          "dob": "22 MAY 2008",
-          "mark": "67.44"
-        },
-        {
-          "rank": 2,
-          "athlete": "VILAGOŠ Adriana",
-          "country": "SRB",
-          "dob": "2 JAN 2004",
-          "note": "SB",
-          "mark": "63.83"
-        },
-        {
-          "rank": 3,
-          "athlete": "KITAGUCHI Haruka",
-          "country": "JPN",
-          "dob": "16 MAR 1998",
-          "note": "SB",
-          "mark": "63.01"
-        },
-        {
-          "rank": 4,
-          "athlete": "MINARD Alizée",
-          "country": "FRA",
-          "dob": "6 MAY 1997",
-          "note": "PB",
-          "mark": "61.51"
-        },
-        {
-          "rank": 6,
-          "athlete": "MARAVAL Jade",
-          "country": "FRA",
-          "dob": "6 JUN 2002",
-          "mark": "59.97"
-        },
-        {
-          "rank": 7,
-          "athlete": "ANDREJCZYK Maria",
-          "country": "POL",
-          "dob": "9 MAR 1996",
-          "mark": "59.58"
-        },
-        {
-          "rank": 8,
-          "athlete": "KOLAK Sara",
-          "country": "CRO",
-          "dob": "22 JUN 1995",
-          "mark": "58.35"
-        },
-        {
-          "rank": 9,
-          "athlete": "BORGE Sigrid",
-          "country": "NOR",
-          "dob": "3 DEC 1995",
-          "mark": "56.92"
-        },
-        {
-          "rank": 10,
-          "athlete": "MOORBY Tori",
-          "country": "NZL",
-          "dob": "17 MAY 1994",
-          "mark": "55.89"
-        },
-        {
-          "rank": 11,
-          "athlete": "TZENGKO Elina",
-          "country": "GRE",
-          "dob": "2 SEP 2002",
-          "mark": "54.35"
-        },
-        {
-          "rank": 12,
-          "athlete": "ANGULO Juleisy",
-          "country": "ECU",
-          "dob": "2 JAN 2001",
-          "mark": "52.91"
-        },
-        {
-          "rank": null,
-          "athlete": "SIETINA Anete",
-          "country": "LAT",
-          "dob": "5 FEB 1996",
-          "mark": "NM",
-          "status": "NM"
-        }
-      ]
-    },
-    {
-      "id": "paris-100m-women",
+      "id": "paris-100m-women-501-5010040",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
       "phase": "C",
       "isPrimary": false,
-      "wind": "+0.5 m/s",
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.5",
       "startTime": "15:37",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "10.49",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Indianapolis, IN",
+          "date": "1988-07-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "10.73",
+          "holder": "ARRON Christine",
+          "holderCountry": "FRA",
+          "location": "Budapest",
+          "date": "1998-08-19T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "10.63",
+          "holder": "HODGE Adaejah",
+          "holderCountry": "IVB",
+          "location": "Eugene, OR",
+          "date": "2026-06-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "10.54",
+          "holder": "THOMPSON-HERAH Elaine",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "10.67",
+          "holder": "FRASER-PRYCE Shelly-Ann",
+          "holderCountry": "JAM",
+          "location": "Paris",
+          "date": "2022-06-18T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "PAVESE Alessia",
+          "athleteId": "14625668",
           "country": "ITA",
-          "dob": "15 JUL 1998",
-          "reaction": 0.171,
-          "note": "PB",
-          "mark": "11.33(.322)"
+          "bib": 101,
+          "mark": "11.33",
+          "note": "PB"
         },
         {
           "rank": 2,
           "athlete": "GALET Chloe",
+          "athleteId": "14735943",
           "country": "FRA",
-          "dob": "30 AUG 2001",
-          "reaction": 0.142,
-          "note": "SB",
-          "mark": "11.33(.328)"
+          "bib": 91,
+          "mark": "11.33",
+          "note": "SB"
         },
         {
           "rank": 3,
           "athlete": "de NAEYER Janie",
+          "athleteId": "14681306",
           "country": "BEL",
-          "dob": "17 AUG 2001",
-          "reaction": 0.148,
+          "bib": 89,
           "mark": "11.47"
         },
         {
           "rank": 4,
           "athlete": "van den BERG Isabel",
+          "athleteId": "14823767",
           "country": "NED",
-          "dob": "2 FEB 2005",
-          "reaction": 0.161,
+          "bib": 105,
           "mark": "11.52"
         },
         {
           "rank": 5,
           "athlete": "RICHARD MENGAS Sarah",
+          "athleteId": "14627382",
           "country": "FRA",
-          "dob": "2 APR 1998",
-          "reaction": 0.176,
+          "bib": 94,
           "mark": "11.55"
         },
         {
           "rank": 6,
           "athlete": "RISKWAIT Naomi",
+          "athleteId": "14848951",
           "country": "FRA",
-          "dob": "28 AUG 2002",
-          "reaction": 0.165,
+          "bib": 95,
           "mark": "11.62"
         },
         {
           "rank": 7,
           "athlete": "THEVENIN Nina",
+          "athleteId": "14983453",
           "country": "FRA",
-          "dob": "21 DEC 2005",
-          "reaction": 0.16,
+          "bib": 96,
           "mark": "11.93"
         }
       ]
     },
     {
-      "id": "paris-100m-women",
+      "id": "paris-100m-men-601-6010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "phase": "B",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.1",
+      "startTime": "15:44",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.80",
+          "holder": "JACOBS Lamont Marcell",
+          "holderCountry": "ITA",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.93",
+          "holder": "JOHNSON Patrick",
+          "holderCountry": "AUS",
+          "location": "Mito",
+          "date": "2003-05-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.82",
+          "holder": "SEVILLE Oblique",
+          "holderCountry": "JAM",
+          "location": "Kingston",
+          "date": "2026-06-19T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.79",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Paris-St-Denis",
+          "date": "2009-07-17T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AFRIFA Elvis",
+          "athleteId": "14706194",
+          "country": "NED",
+          "bib": 328,
+          "mark": "10.22"
+        },
+        {
+          "rank": 2,
+          "athlete": "BROWNING Rohan",
+          "athleteId": "14575440",
+          "country": "AUS",
+          "bib": 342,
+          "mark": "10.23"
+        },
+        {
+          "rank": 3,
+          "athlete": "GUSSMANN Heiko",
+          "athleteId": "14909220",
+          "country": "GER",
+          "bib": 337,
+          "mark": "10.27"
+        },
+        {
+          "rank": 4,
+          "athlete": "EKPO Nsikak",
+          "athleteId": "14812104",
+          "country": "NED",
+          "bib": 330,
+          "mark": "10.32"
+        },
+        {
+          "rank": 5,
+          "athlete": "BIZASENE Ylann",
+          "athleteId": "14970169",
+          "country": "FRA",
+          "bib": 334,
+          "mark": "10.33"
+        },
+        {
+          "rank": 6,
+          "athlete": "GANTER Robin",
+          "athleteId": "14774667",
+          "country": "GER",
+          "bib": 338,
+          "mark": "10.34"
+        },
+        {
+          "rank": 7,
+          "athlete": "SCHAUB Theo",
+          "athleteId": "14758400",
+          "country": "FRA",
+          "bib": 335,
+          "mark": "10.36"
+        },
+        {
+          "rank": 8,
+          "athlete": "ALMAS Deniz",
+          "athleteId": "14586894",
+          "country": "GER",
+          "bib": 339,
+          "mark": "10.53"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-women-701-7010040",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
       "phase": "B",
       "isPrimary": false,
-      "wind": "+0.1 m/s",
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.1",
       "startTime": "15:51",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "10.49",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Indianapolis, IN",
+          "date": "1988-07-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "10.73",
+          "holder": "ARRON Christine",
+          "holderCountry": "FRA",
+          "location": "Budapest",
+          "date": "1998-08-19T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "10.94",
+          "holder": "HOBBS Zoe",
+          "holderCountry": "NZL",
+          "location": "Ostrava",
+          "date": "2025-06-24T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "10.63",
+          "holder": "HODGE Adaejah",
+          "holderCountry": "IVB",
+          "location": "Eugene, OR",
+          "date": "2026-06-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "10.54",
+          "holder": "THOMPSON-HERAH Elaine",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "10.67",
+          "holder": "FRASER-PRYCE Shelly-Ann",
+          "holderCountry": "JAM",
+          "location": "Paris",
+          "date": "2022-06-18T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "NKANSA Delphine",
+          "athleteId": "14779993",
           "country": "BEL",
-          "dob": "21 SEP 2001",
-          "reaction": 0.12,
+          "bib": 90,
           "mark": "11.21"
         },
         {
           "rank": 2,
           "athlete": "HOOPER Gloria",
+          "athleteId": "14381808",
           "country": "ITA",
-          "dob": "3 MAR 1992",
-          "reaction": 0.154,
+          "bib": 100,
           "mark": "11.30"
         },
         {
           "rank": 3,
           "athlete": "LÜCKENKEMPER Gina",
+          "athleteId": "14450088",
           "country": "GER",
-          "dob": "21 NOV 1996",
-          "reaction": 0.201,
+          "bib": 99,
           "mark": "11.39"
         },
         {
           "rank": 4,
           "athlete": "PARISOT Hélène",
+          "athleteId": "14389358",
           "country": "FRA",
-          "dob": "17 DEC 1992",
-          "reaction": 0.166,
+          "bib": 93,
           "mark": "11.59"
         },
         {
           "rank": 5,
           "athlete": "de BLAAUW Britt",
+          "athleteId": "14804824",
           "country": "NED",
-          "dob": "22 APR 2004",
-          "reaction": 0.206,
+          "bib": 104,
           "mark": "11.75"
         },
         {
           "rank": null,
           "athlete": "BISSCHOPS Minke",
+          "athleteId": "14773921",
           "country": "NED",
-          "dob": "2 SEP 2002",
+          "bib": 103,
           "mark": "DNS",
           "status": "DNS"
         },
         {
           "rank": null,
           "athlete": "HAGAN Zara",
+          "athleteId": "14920646",
           "country": "AUS",
-          "dob": "5 AUG 2007",
+          "bib": 87,
           "mark": "DNS",
           "status": "DNS"
         },
         {
           "rank": null,
           "athlete": "LEWIS Torrie",
+          "athleteId": "14778459",
           "country": "AUS",
-          "dob": "8 JAN 2005",
+          "bib": 88,
           "mark": "DNS",
           "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-400m-men-para-men-804-8040040",
+      "discipline": "400m Men Para",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:30",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "43.03",
+          "holder": "van NIEKERK Wayde",
+          "holderCountry": "RSA",
+          "location": "Rio de Janeiro",
+          "date": "2016-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.44",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "Paris",
+          "date": "2024-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.38",
+          "holder": "OGAZI Samuel",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2026-06-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.60",
+          "holder": "NORMAN Michael",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2022-05-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.86",
+          "holder": "WARINER Jeremy",
+          "holderCountry": "USA",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SADNI Ayoub",
+          "country": "FRA",
+          "bib": 346,
+          "mark": "48.14"
+        },
+        {
+          "rank": 2,
+          "athlete": "BOUJA Moncef",
+          "country": "FRA",
+          "bib": 345,
+          "mark": "48.48"
+        },
+        {
+          "rank": 3,
+          "athlete": "BAGAINI Ricardo",
+          "country": "FRA",
+          "bib": 349,
+          "mark": "49.95"
+        },
+        {
+          "rank": 4,
+          "athlete": "ADOLPHE Timothee",
+          "country": "FRA",
+          "bib": 347,
+          "mark": "51.42"
+        },
+        {
+          "rank": 5,
+          "athlete": "ATCHIBA Fayssal",
+          "country": "FRA",
+          "bib": 350,
+          "mark": "52.65"
+        },
+        {
+          "rank": null,
+          "athlete": "de WITASSE Kevin",
+          "country": "FRA",
+          "bib": 343,
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "LAMY Jeffrey",
+          "country": "FRA",
+          "bib": 348,
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-400m-women-para-women-904-9040040",
+      "discipline": "400m Women Para",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:38",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "47.60",
+          "holder": "KOCH Marita",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "48.79",
+          "holder": "OAKLEY Dejanea",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2026-06-13T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "48.57",
+          "holder": "PRYCE Nickisha",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.81",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2025-06-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "METAIS Alice",
+          "country": "FRA",
+          "bib": 109,
+          "mark": "1:01.12"
+        },
+        {
+          "rank": 2,
+          "athlete": "PACE Sofia",
+          "country": "FRA",
+          "bib": 108,
+          "mark": "1:02.35"
+        },
+        {
+          "rank": 3,
+          "athlete": "BOULAGHLEM Delya",
+          "country": "FRA",
+          "bib": 110,
+          "mark": "1:03.55"
+        },
+        {
+          "rank": 4,
+          "athlete": "CORBIN Cloe",
+          "country": "FRA",
+          "bib": 107,
+          "mark": "1:03.82"
+        },
+        {
+          "rank": null,
+          "athlete": "NILS CARLEN",
+          "country": "FRA",
+          "bib": 111,
+          "mark": "DNS",
+          "status": "DNS"
+        },
+        {
+          "rank": null,
+          "athlete": "TERKI Celia",
+          "country": "FRA",
+          "bib": 106,
+          "mark": "DNS",
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "paris-4x100m-relay-mixed-women-976-9760040",
+      "discipline": "4x100m Relay Mixed",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:41",
+      "startDate": "28 Jun 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "FRANCE",
+          "country": "FRA",
+          "bib": 505,
+          "mark": "40.99"
+        },
+        {
+          "rank": 2,
+          "athlete": "ITALY",
+          "country": "ITA",
+          "bib": 504,
+          "mark": "41.04"
+        },
+        {
+          "rank": 3,
+          "athlete": "AUSTRALIA",
+          "country": "AUS",
+          "bib": 507,
+          "mark": "41.09"
+        },
+        {
+          "rank": 4,
+          "athlete": "NETHERLANDS",
+          "country": "NED",
+          "bib": 503,
+          "mark": "41.20"
+        },
+        {
+          "rank": 5,
+          "athlete": "BELGIUM",
+          "country": "BEL",
+          "bib": 502,
+          "mark": "41.21"
+        },
+        {
+          "rank": 6,
+          "athlete": "France U23",
+          "country": "FRA",
+          "bib": 501,
+          "mark": "42.17"
+        },
+        {
+          "rank": null,
+          "athlete": "GERMANY",
+          "country": "GER",
+          "bib": 506,
+          "mark": "DQ",
+          "status": "DQ"
+        }
+      ]
+    },
+    {
+      "id": "paris-100m-men-001-0010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.1",
+      "startTime": "18:20",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.77",
+          "holder": "OMANYALA Ferdinand",
+          "holderCountry": "KEN",
+          "location": "Kasarani, Nairobi",
+          "date": "2021-09-18T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.80",
+          "holder": "JACOBS Lamont Marcell",
+          "holderCountry": "ITA",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.82",
+          "holder": "SEVILLE Oblique",
+          "holderCountry": "JAM",
+          "location": "Kingston",
+          "date": "2026-06-19T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.79",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Paris-St-Denis",
+          "date": "2009-07-17T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BROMELL Trayvon",
+          "athleteId": "14519911",
+          "country": "USA",
+          "bib": 306,
+          "mark": "9.91",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 2,
+          "athlete": "LYLES Noah",
+          "athleteId": "14536762",
+          "country": "USA",
+          "bib": 315,
+          "mark": "9.92",
+          "qualificationRank": 3,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 3,
+          "athlete": "JACOBS Lamont Marcell",
+          "athleteId": "14453864",
+          "country": "ITA",
+          "bib": 263,
+          "mark": "9.96",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 4,
+          "athlete": "SIMBINE Akani",
+          "athleteId": "14417763",
+          "country": "RSA",
+          "bib": 293,
+          "mark": "9.97",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 5,
+          "athlete": "ANTHONY Jordan",
+          "athleteId": "14961803",
+          "country": "USA",
+          "bib": 300,
+          "mark": "9.99",
+          "qualificationRank": 9,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 6,
+          "athlete": "OMANYALA Ferdinand",
+          "athleteId": "14747153",
+          "country": "KEN",
+          "bib": 276,
+          "mark": "10.02",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 7,
+          "athlete": "de GRASSE Andre",
+          "athleteId": "14535607",
+          "country": "CAN",
+          "bib": 211,
+          "mark": "10.02",
+          "qualificationRank": 13,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "AZU Jeremiah",
+          "athleteId": "14771648",
+          "country": "GBR",
+          "bib": 255,
+          "mark": "10.18",
+          "qualificationRank": 15,
+          "qualificationPoints": 1
+        }
+      ]
+    },
+    {
+      "id": "paris-400m-men-004-0040040",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:03",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "43.03",
+          "holder": "van NIEKERK Wayde",
+          "holderCountry": "RSA",
+          "location": "Rio de Janeiro",
+          "date": "2016-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.18",
+          "holder": "JOHNSON Michael",
+          "holderCountry": "USA",
+          "location": "Sevilla",
+          "date": "1999-08-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.44",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "Paris",
+          "date": "2024-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.38",
+          "holder": "OGAZI Samuel",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2026-06-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.54",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.60",
+          "holder": "NORMAN Michael",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2022-05-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.54",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.86",
+          "holder": "WARINER Jeremy",
+          "holderCountry": "USA",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KEBINATSHIPI Busang Collen",
+          "athleteId": "14935809",
+          "country": "BOT",
+          "bib": 208,
+          "mark": "43.54",
+          "note": "DLR,MR,SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "NENE Zakithi",
+          "athleteId": "14696997",
+          "country": "RSA",
+          "bib": 292,
+          "mark": "43.89",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 26
+        },
+        {
+          "rank": 3,
+          "athlete": "BAILEY Chris",
+          "athleteId": "14850487",
+          "country": "USA",
+          "bib": 301,
+          "mark": "44.06",
+          "note": "PB",
+          "qualificationRank": 6,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "HUDSON-SMITH Matthew",
+          "athleteId": "14407278",
+          "country": "GBR",
+          "bib": 256,
+          "mark": "44.09",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 5,
+          "athlete": "SAMUKONGA Muzala",
+          "athleteId": "14930603",
+          "country": "ZAM",
+          "bib": 321,
+          "mark": "44.29",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 6,
+          "athlete": "RICHARDS Jereem",
+          "athleteId": "14434521",
+          "country": "TTO",
+          "bib": 297,
+          "mark": "44.53",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 7,
+          "athlete": "KOUNTA Muhammad Abdallah",
+          "athleteId": "14679916",
+          "country": "FRA",
+          "bib": 240,
+          "mark": "44.88",
+          "qualificationRank": 14,
+          "qualificationPoints": 2
+        }
+      ]
+    },
+    {
+      "id": "paris-800m-men-011-0110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:45",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:40.91",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2012-08-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.11",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Köln",
+          "date": "1997-08-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.20",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2024-08-10T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:41.84",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:42.08",
+          "holder": "LUTKENHAUS Cooper",
+          "holderCountry": "USA",
+          "location": "Oslo",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:41.11",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "Lausanne",
+          "date": "2024-08-22T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:41.54",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "Paris-St-Denis",
+          "date": "2012-07-06T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AROP Marco",
+          "athleteId": "14755875",
+          "country": "CAN",
+          "bib": 210,
+          "mark": "1:41.84",
+          "note": "WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 21
+        },
+        {
+          "rank": 2,
+          "athlete": "LAROS Niels",
+          "athleteId": "14910035",
+          "country": "NED",
+          "bib": 284,
+          "mark": "1:43.60",
+          "note": "PB",
+          "qualificationRank": 13,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "GRØNSTAD Tobias",
+          "athleteId": "14855967",
+          "country": "NOR",
+          "bib": 288,
+          "mark": "1:43.63",
+          "qualificationRank": 6,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 4,
+          "athlete": "PATTISON Ben",
+          "athleteId": "14706169",
+          "country": "GBR",
+          "bib": 257,
+          "mark": "1:43.71",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 5,
+          "athlete": "CRESTAN Eliott",
+          "athleteId": "14634371",
+          "country": "BEL",
+          "bib": 205,
+          "mark": "1:44.23",
+          "qualificationRank": 8,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 6,
+          "athlete": "OUERRAT Louey",
+          "athleteId": "14953549",
+          "country": "FRA",
+          "bib": 248,
+          "mark": "1:44.40",
+          "qualificationRank": 18,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "MEZIANE Yanis",
+          "athleteId": "14893694",
+          "country": "FRA",
+          "bib": 247,
+          "mark": "1:44.40",
+          "qualificationRank": 14,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 8,
+          "athlete": "TUAL Gabriel",
+          "athleteId": "14646018",
+          "country": "FRA",
+          "bib": 252,
+          "mark": "1:44.92",
+          "qualificationRank": 7,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 9,
+          "athlete": "ATTAOUI Mohamed",
+          "athleteId": "14929058",
+          "country": "ESP",
+          "bib": 216,
+          "mark": "1:45.09",
+          "qualificationRank": 23,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": null,
+          "athlete": "MOULA Slimane",
+          "athleteId": "14747495",
+          "country": "ALG",
+          "bib": 201,
+          "mark": "DNF",
+          "qualificationRank": 5,
+          "qualificationPoints": 12,
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "SIERADZKI Patryk",
+          "athleteId": "14647295",
+          "country": "POL",
+          "bib": 291,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-5000m-men-017-0170040",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:41",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:44.09",
+          "holder": "FISHER Grant",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2025-02-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:44.27",
+          "holder": "ALMGREN Andreas",
+          "holderCountry": "SWE",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:47.73",
+          "holder": "BALEW Birhanu",
+          "holderCountry": "BRN",
+          "location": "Oslo",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12:59.26",
+          "holder": "CATROFE Santiago",
+          "holderCountry": "URU",
+          "location": "Paris",
+          "date": "2025-06-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12:47.62",
+          "holder": "YIHUNE Addisu",
+          "holderCountry": "ETH",
+          "location": "Oslo",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12:35.36",
+          "holder": "CHEPTEGEI Joshua",
+          "holderCountry": "UGA",
+          "location": "Monaco",
+          "date": "2020-08-14T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12:40.18",
+          "holder": "BEKELE Kenenisa",
+          "holderCountry": "ETH",
+          "location": "Paris-St-Denis",
+          "date": "2005-07-01T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "FISHER Grant",
+          "athleteId": "14591210",
+          "country": "USA",
+          "bib": 311,
+          "mark": "12:54.80",
+          "qualificationRank": 5,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 2,
+          "athlete": "KROP Jacob",
+          "athleteId": "14808798",
+          "country": "KEN",
+          "bib": 275,
+          "mark": "12:55.22",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 3,
+          "athlete": "ALMGREN Andreas",
+          "athleteId": "14460738",
+          "country": "SWE",
+          "bib": 295,
+          "mark": "12:55.38",
+          "qualificationRank": 1,
+          "qualificationPoints": 18
+        },
+        {
+          "rank": 4,
+          "athlete": "NTAKARUTIMANA Egide",
+          "athleteId": "14987250",
+          "country": "BDI",
+          "bib": 204,
+          "mark": "12:56.06",
+          "note": "NR",
+          "qualificationRank": 14,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "BALEW Birhanu",
+          "athleteId": "14695983",
+          "country": "BRN",
+          "bib": 209,
+          "mark": "12:56.66",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 6,
+          "athlete": "BLANKS Graham",
+          "athleteId": "14884807",
+          "country": "USA",
+          "bib": 303,
+          "mark": "12:57.12",
+          "qualificationRank": 10,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 7,
+          "athlete": "GRESSIER Jimmy",
+          "athleteId": "14694062",
+          "country": "FRA",
+          "bib": 238,
+          "mark": "12:57.79",
+          "qualificationRank": 19,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "KEMBOI Cornelius",
+          "athleteId": "14894347",
+          "country": "KEN",
+          "bib": 269,
+          "mark": "12:58.10",
+          "qualificationRank": 9,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 9,
+          "athlete": "KIPSANG Mathew Kipchumba",
+          "athleteId": "14909441",
+          "country": "KEN",
+          "bib": 273,
+          "mark": "12:58.95",
+          "note": "SB",
+          "qualificationRank": 16,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 10,
+          "athlete": "AMANUEL Saymon",
+          "athleteId": "15186316",
+          "country": "ERI",
+          "bib": 214,
+          "mark": "12:59.37",
+          "note": "PB"
+        },
+        {
+          "rank": 11,
+          "athlete": "CATROFE Santiago",
+          "athleteId": "14706109",
+          "country": "URU",
+          "bib": 298,
+          "mark": "13:02.57",
+          "note": "SB"
+        },
+        {
+          "rank": 12,
+          "athlete": "YIHUNE Addisu",
+          "athleteId": "14977660",
+          "country": "ETH",
+          "bib": 228,
+          "mark": "13:03.22",
+          "qualificationRank": 2,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 13,
+          "athlete": "KIBET Frankline",
+          "athleteId": "15223756",
+          "country": "KEN",
+          "bib": 270,
+          "mark": "13:08.32",
+          "note": "PB"
+        },
+        {
+          "rank": 14,
+          "athlete": "BREMM Florian",
+          "athleteId": "14755523",
+          "country": "GER",
+          "bib": 260,
+          "mark": "13:10.39"
+        },
+        {
+          "rank": 15,
+          "athlete": "BEJIGA Khairi",
+          "athleteId": "15156595",
+          "country": "ETH",
+          "bib": 221,
+          "mark": "13:15.41",
+          "qualificationRank": 17,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 16,
+          "athlete": "WALE Getnet",
+          "athleteId": "14760253",
+          "country": "ETH",
+          "bib": 227,
+          "mark": "13:15.68"
+        },
+        {
+          "rank": 17,
+          "athlete": "HERRERA Eduardo",
+          "athleteId": "14668389",
+          "country": "MEX",
+          "bib": 283,
+          "mark": "13:16.18",
+          "qualificationRank": 8,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 18,
+          "athlete": "SOCA Valentin",
+          "athleteId": "14887362",
+          "country": "URU",
+          "bib": 299,
+          "mark": "13:19.69"
+        },
+        {
+          "rank": 19,
+          "athlete": "GIRMA Kuma",
+          "athleteId": "14975226",
+          "country": "ETH",
+          "bib": 223,
+          "mark": "13:33.07"
+        },
+        {
+          "rank": null,
+          "athlete": "DAGUINOS Etienne",
+          "athleteId": "14756540",
+          "country": "FRA",
+          "bib": 234,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Lamecha",
+          "athleteId": "14848765",
+          "country": "ETH",
+          "bib": 224,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "MECHAAL Said",
+          "athleteId": "14708419",
+          "country": "ESP",
+          "bib": 219,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "VERBAANDERT Tim",
+          "athleteId": "14790169",
+          "country": "NED",
+          "bib": 286,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men-026-0260040",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "phase": "Finale",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.8",
+      "startTime": "18:32",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.88",
+          "holder": "LIU Xiang",
+          "holderCountry": "CHN",
+          "location": "Lausanne",
+          "date": "2006-07-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.88",
+          "holder": "ROBLES Dayron",
+          "holderCountry": "CUB",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BRITT Jamal",
+          "athleteId": "14769264",
+          "country": "USA",
+          "bib": 305,
+          "mark": "12.89",
+          "note": "PB",
+          "qualificationRank": 1,
+          "qualificationPoints": 25
+        },
+        {
+          "rank": 2,
+          "athlete": "IZUMIYA Shunsuke",
+          "athleteId": "14815041",
+          "country": "JPN",
+          "bib": 265,
+          "mark": "13.01",
+          "qualificationRank": 9,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "CUNNINGHAM Trey",
+          "athleteId": "14675757",
+          "country": "USA",
+          "bib": 309,
+          "mark": "13.07",
+          "qualificationRank": 5,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 4,
+          "athlete": "OBASUYI Michael",
+          "athleteId": "14634367",
+          "country": "BEL",
+          "bib": 206,
+          "mark": "13.10",
+          "note": "NR",
+          "qualificationRank": 14,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "MURATAKE Rachid",
+          "athleteId": "14854913",
+          "country": "JPN",
+          "bib": 267,
+          "mark": "13.21",
+          "qualificationRank": 2,
+          "qualificationPoints": 22
+        },
+        {
+          "rank": 6,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "athleteId": "15070256",
+          "country": "CUB",
+          "bib": 213,
+          "mark": "13.24",
+          "qualificationRank": 10,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "WILKES Thomas",
+          "athleteId": "14922463",
+          "country": "FRA",
+          "bib": 253,
+          "mark": "13.32",
+          "qualificationRank": 7,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 8,
+          "athlete": "SMALLWOOD Kendrick",
+          "athleteId": "14893424",
+          "country": "USA",
+          "bib": 317,
+          "mark": "13.46",
+          "qualificationRank": 18,
+          "qualificationPoints": 1
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men-026-0260061",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "phase": "1er tour",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+100.0",
+      "startTime": "16:55",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.88",
+          "holder": "LIU Xiang",
+          "holderCountry": "CHN",
+          "location": "Lausanne",
+          "date": "2006-07-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.88",
+          "holder": "ROBLES Dayron",
+          "holderCountry": "CUB",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CUNNINGHAM Trey",
+          "athleteId": "14675757",
+          "country": "USA",
+          "bib": 309,
+          "mark": "13.06",
+          "qualificationRank": 5,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 2,
+          "athlete": "SMALLWOOD Kendrick",
+          "athleteId": "14893424",
+          "country": "USA",
+          "bib": 317,
+          "mark": "13.09",
+          "qualificationRank": 18,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 3,
+          "athlete": "BRITT Jamal",
+          "athleteId": "14769264",
+          "country": "USA",
+          "bib": 305,
+          "mark": "13.14",
+          "qualificationRank": 1,
+          "qualificationPoints": 25
+        },
+        {
+          "rank": 4,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "athleteId": "15070256",
+          "country": "CUB",
+          "bib": 213,
+          "mark": "13.15",
+          "qualificationRank": 10,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 5,
+          "athlete": "OBASUYI Michael",
+          "athleteId": "14634367",
+          "country": "BEL",
+          "bib": 206,
+          "mark": "13.16",
+          "note": "NR",
+          "qualificationRank": 14,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 6,
+          "athlete": "IZUMIYA Shunsuke",
+          "athleteId": "14815041",
+          "country": "JPN",
+          "bib": 265,
+          "mark": "13.22",
+          "qualificationRank": 9,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "WILKES Thomas",
+          "athleteId": "14922463",
+          "country": "FRA",
+          "bib": 253,
+          "mark": "13.27",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 8,
+          "athlete": "MURATAKE Rachid",
+          "athleteId": "14854913",
+          "country": "JPN",
+          "bib": 267,
+          "mark": "13.30",
+          "qualificationRank": 2,
+          "qualificationPoints": 22
+        },
+        {
+          "rank": 9,
+          "athlete": "KWAOU-MATHEY Just",
+          "athleteId": "14734289",
+          "country": "FRA",
+          "bib": 241,
+          "mark": "13.32",
+          "note": "SB",
+          "qualificationRank": 16,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 10,
+          "athlete": "LLOPIS Enrique",
+          "athleteId": "14711683",
+          "country": "ESP",
+          "bib": 217,
+          "mark": "13.34",
+          "qualificationRank": 6,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 11,
+          "athlete": "MARTÍNEZ Asier",
+          "athleteId": "14734118",
+          "country": "ESP",
+          "bib": 218,
+          "mark": "13.39",
+          "qualificationRank": 11,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 12,
+          "athlete": "LECOEUR Romain",
+          "athleteId": "14656532",
+          "country": "FRA",
+          "bib": 246,
+          "mark": "13.40",
+          "qualificationRank": 15,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 13,
+          "athlete": "BEARD Dylan",
+          "athleteId": "14679485",
+          "country": "USA",
+          "bib": 302,
+          "mark": "13.42"
+        },
+        {
+          "rank": 14,
+          "athlete": "EDWARDS Eric",
+          "athleteId": "14716336",
+          "country": "USA",
+          "bib": 310,
+          "mark": "13.57"
+        },
+        {
+          "rank": 15,
+          "athlete": "CRITTENDEN Freddie",
+          "athleteId": "14491556",
+          "country": "USA",
+          "bib": 308,
+          "mark": "13.64",
+          "note": "SB"
+        },
+        {
+          "rank": 16,
+          "athlete": "CINNA Erwann",
+          "athleteId": "14905523",
+          "country": "FRA",
+          "bib": 232,
+          "mark": "13.74"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men-026-0260001",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "phase": "1ére série",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.2",
+      "startTime": "16:55",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.88",
+          "holder": "LIU Xiang",
+          "holderCountry": "CHN",
+          "location": "Lausanne",
+          "date": "2006-07-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.88",
+          "holder": "ROBLES Dayron",
+          "holderCountry": "CUB",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SMALLWOOD Kendrick",
+          "athleteId": "14893424",
+          "country": "USA",
+          "bib": 317,
+          "mark": "13.09",
+          "qualificationRank": 18,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 2,
+          "athlete": "BRITT Jamal",
+          "athleteId": "14769264",
+          "country": "USA",
+          "bib": 305,
+          "mark": "13.14",
+          "qualificationRank": 1,
+          "qualificationPoints": 25
+        },
+        {
+          "rank": 3,
+          "athlete": "OBASUYI Michael",
+          "athleteId": "14634367",
+          "country": "BEL",
+          "bib": 206,
+          "mark": "13.16",
+          "note": "NR",
+          "qualificationRank": 14,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 4,
+          "athlete": "IZUMIYA Shunsuke",
+          "athleteId": "14815041",
+          "country": "JPN",
+          "bib": 265,
+          "mark": "13.22",
+          "qualificationRank": 9,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 5,
+          "athlete": "WILKES Thomas",
+          "athleteId": "14922463",
+          "country": "FRA",
+          "bib": 253,
+          "mark": "13.27",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 6,
+          "athlete": "LECOEUR Romain",
+          "athleteId": "14656532",
+          "country": "FRA",
+          "bib": 246,
+          "mark": "13.40",
+          "qualificationRank": 15,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "BEARD Dylan",
+          "athleteId": "14679485",
+          "country": "USA",
+          "bib": 302,
+          "mark": "13.42"
+        },
+        {
+          "rank": 8,
+          "athlete": "CRITTENDEN Freddie",
+          "athleteId": "14491556",
+          "country": "USA",
+          "bib": 308,
+          "mark": "13.64",
+          "note": "SB"
+        }
+      ]
+    },
+    {
+      "id": "paris-110m-hurdles-men-026-0260002",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "phase": "2eme série",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "-0.8",
+      "startTime": "17:03",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.88",
+          "holder": "LIU Xiang",
+          "holderCountry": "CHN",
+          "location": "Lausanne",
+          "date": "2006-07-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.88",
+          "holder": "ROBLES Dayron",
+          "holderCountry": "CUB",
+          "location": "Paris-St-Denis",
+          "date": "2008-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "CUNNINGHAM Trey",
+          "athleteId": "14675757",
+          "country": "USA",
+          "bib": 309,
+          "mark": "13.06",
+          "qualificationRank": 5,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 2,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "athleteId": "15070256",
+          "country": "CUB",
+          "bib": 213,
+          "mark": "13.15",
+          "qualificationRank": 10,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "MURATAKE Rachid",
+          "athleteId": "14854913",
+          "country": "JPN",
+          "bib": 267,
+          "mark": "13.30",
+          "qualificationRank": 2,
+          "qualificationPoints": 22
+        },
+        {
+          "rank": 4,
+          "athlete": "KWAOU-MATHEY Just",
+          "athleteId": "14734289",
+          "country": "FRA",
+          "bib": 241,
+          "mark": "13.32",
+          "note": "SB",
+          "qualificationRank": 16,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 5,
+          "athlete": "LLOPIS Enrique",
+          "athleteId": "14711683",
+          "country": "ESP",
+          "bib": 217,
+          "mark": "13.34",
+          "qualificationRank": 6,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 6,
+          "athlete": "MARTÍNEZ Asier",
+          "athleteId": "14734118",
+          "country": "ESP",
+          "bib": 218,
+          "mark": "13.39",
+          "qualificationRank": 11,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "EDWARDS Eric",
+          "athleteId": "14716336",
+          "country": "USA",
+          "bib": 310,
+          "mark": "13.57"
+        },
+        {
+          "rank": 8,
+          "athlete": "CINNA Erwann",
+          "athleteId": "14905523",
+          "country": "FRA",
+          "bib": 232,
+          "mark": "13.74"
+        }
+      ]
+    },
+    {
+      "id": "paris-3000m-steeplechase-men-029-0290040",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "19:13",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "7:52.11",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7:53.63",
+          "holder": "SHAHEEN Saif Saaeed",
+          "holderCountry": "QAT",
+          "location": "Bruxelles",
+          "date": "2004-09-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7:57.80",
+          "holder": "RUPPERT Frederik",
+          "holderCountry": "GER",
+          "location": "Rabat",
+          "date": "2026-05-31T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:00.45",
+          "holder": "JAGER Evan",
+          "holderCountry": "USA",
+          "location": "Paris-St-Denis",
+          "date": "2015-07-04T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "7:57.25",
+          "holder": "EL BAKKALI Soufiane",
+          "holderCountry": "MAR",
+          "location": "Rabat",
+          "date": "2026-05-31T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "7:52.11",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "7:52.11",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BEBENDORF Karl",
+          "athleteId": "14597064",
+          "country": "GER",
+          "bib": 259,
+          "mark": "8:05.55",
+          "note": "PB",
+          "qualificationRank": 5,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 2,
+          "athlete": "GODANA Gemechu",
+          "athleteId": "15172861",
+          "country": "ETH",
+          "bib": 225,
+          "mark": "8:05.86",
+          "note": "PB",
+          "qualificationRank": 10,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "SEREM Edmund",
+          "athleteId": "15102091",
+          "country": "KEN",
+          "bib": 277,
+          "mark": "8:08.54",
+          "qualificationRank": 2,
+          "qualificationPoints": 18
+        },
+        {
+          "rank": 4,
+          "athlete": "FIREWU Samuel",
+          "athleteId": "14975231",
+          "country": "ETH",
+          "bib": 222,
+          "mark": "8:09.13",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 5,
+          "athlete": "MIURA Ryuji",
+          "athleteId": "14860379",
+          "country": "JPN",
+          "bib": 266,
+          "mark": "8:10.70",
+          "note": "SB",
+          "qualificationRank": 13,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "WILKINSON Matthew",
+          "athleteId": "14835741",
+          "country": "USA",
+          "bib": 318,
+          "mark": "8:11.35",
+          "qualificationRank": 7,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 7,
+          "athlete": "SIME Abrham",
+          "athleteId": "14852011",
+          "country": "ETH",
+          "bib": 226,
+          "mark": "8:13.48",
+          "note": "SB",
+          "qualificationRank": 12,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 8,
+          "athlete": "DARU Nicolas-Marie",
+          "athleteId": "15002385",
+          "country": "FRA",
+          "bib": 235,
+          "mark": "8:13.89",
+          "qualificationRank": 18,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "KIBIWOT Abraham",
+          "athleteId": "14657344",
+          "country": "KEN",
+          "bib": 271,
+          "mark": "8:14.43",
+          "qualificationRank": 4,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 10,
+          "athlete": "FOURMONT Baptiste",
+          "athleteId": "15005427",
+          "country": "FRA",
+          "bib": 237,
+          "mark": "8:14.87"
+        },
+        {
+          "rank": 11,
+          "athlete": "QUERINJEAN Ruben",
+          "athleteId": "14929147",
+          "country": "LUX",
+          "bib": 278,
+          "mark": "8:15.45"
+        },
+        {
+          "rank": 12,
+          "athlete": "ZOGHLAMI Osama",
+          "athleteId": "14530462",
+          "country": "ITA",
+          "bib": 264,
+          "mark": "8:17.23"
+        },
+        {
+          "rank": 13,
+          "athlete": "BOUDY Pierre",
+          "athleteId": "15010906",
+          "country": "FRA",
+          "bib": 231,
+          "mark": "8:19.50"
+        },
+        {
+          "rank": 14,
+          "athlete": "le BARON Luc",
+          "athleteId": "14847467",
+          "country": "FRA",
+          "bib": 244,
+          "mark": "8:20.06"
+        },
+        {
+          "rank": 15,
+          "athlete": "WILLIAMS Carson",
+          "athleteId": "14969083",
+          "country": "USA",
+          "bib": 319,
+          "mark": "8:20.67"
+        },
+        {
+          "rank": 16,
+          "athlete": "ARCE Daniel",
+          "athleteId": "14420300",
+          "country": "ESP",
+          "bib": 215,
+          "mark": "8:20.99",
+          "qualificationRank": 11,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 17,
+          "athlete": "DESGAGNÉS Jean-Simon",
+          "athleteId": "14687513",
+          "country": "CAN",
+          "bib": 212,
+          "mark": "8:23.50"
+        },
+        {
+          "rank": 18,
+          "athlete": "AMARE Hailemariyam",
+          "athleteId": "14657460",
+          "country": "ETH",
+          "bib": 220,
+          "mark": "8:32.74",
+          "qualificationRank": 17,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 19,
+          "athlete": "THEBAUD Oscar",
+          "athleteId": "14983386",
+          "country": "FRA",
+          "bib": 250,
+          "mark": "8:45.31"
+        },
+        {
+          "rank": null,
+          "athlete": "BOUASSEL Abderrafia",
+          "athleteId": "14843153",
+          "country": "MAR",
+          "bib": 279,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KONES Wilberforce Chemiat",
+          "athleteId": "14755096",
+          "country": "KEN",
+          "bib": 274,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "TINDOUFT Mohamed",
+          "athleteId": "14773269",
+          "country": "MAR",
+          "bib": 282,
+          "mark": "DNF",
+          "qualificationRank": 16,
+          "qualificationPoints": 2,
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "paris-pole-vault-men-082-0820040",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:00",
+      "startDate": "28 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.06",
+          "holder": "HOOKER Steven",
+          "holderCountry": "AUS",
+          "location": "Boston, MA",
+          "date": "2009-02-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.07",
+          "holder": "LIGHTFOOT KC",
+          "holderCountry": "USA",
+          "location": "Nashville, TN",
+          "date": "2023-06-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "6.28",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "6.01",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Paris",
+          "date": "2021-08-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "6.13",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "date": "2026-06-28T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "DUPLANTIS Armand",
+          "athleteId": "14679502",
+          "country": "SWE",
+          "bib": 296,
+          "mark": "6.13",
+          "note": "MR",
+          "qualificationRank": 2,
+          "qualificationPoints": 23
+        },
+        {
+          "rank": 2,
+          "athlete": "THIERY Baptiste",
+          "athleteId": "14780520",
+          "country": "FRA",
+          "bib": 251,
+          "mark": "5.93",
+          "note": "PB",
+          "qualificationRank": 6,
+          "qualificationPoints": 17
+        },
+        {
+          "rank": 3,
+          "athlete": "KARALIS Emmanouil",
+          "athleteId": "14669731",
+          "country": "GRE",
+          "bib": 261,
+          "mark": "5.83",
+          "qualificationRank": 4,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 4,
+          "athlete": "NILSEN Christopher",
+          "athleteId": "14709278",
+          "country": "USA",
+          "bib": 316,
+          "mark": "5.83",
+          "qualificationRank": 9,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 5,
+          "athlete": "GUTTORMSEN Sondre",
+          "athleteId": "14681630",
+          "country": "NOR",
+          "bib": 289,
+          "mark": "5.83",
+          "qualificationRank": 3,
+          "qualificationPoints": 20
+        },
+        {
+          "rank": 6,
+          "athlete": "BRADFORD Zachery",
+          "athleteId": "14717685",
+          "country": "USA",
+          "bib": 304,
+          "mark": "5.83",
+          "qualificationRank": 8,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 7,
+          "athlete": "MARSCHALL Kurtis",
+          "athleteId": "14565327",
+          "country": "AUS",
+          "bib": 202,
+          "mark": "5.83",
+          "qualificationRank": 1,
+          "qualificationPoints": 25
+        },
+        {
+          "rank": 8,
+          "athlete": "KENDRICKS Sam",
+          "athleteId": "14440868",
+          "country": "USA",
+          "bib": 313,
+          "mark": "5.73",
+          "qualificationRank": 5,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 9,
+          "athlete": "COLLET Thibaut",
+          "athleteId": "14733137",
+          "country": "FRA",
+          "bib": 233,
+          "mark": "5.73",
+          "qualificationRank": 10,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 10,
+          "athlete": "DIA Zackaria",
+          "athleteId": "15133094",
+          "country": "FRA",
+          "bib": 236,
+          "mark": "5.63"
+        },
+        {
+          "rank": 10,
+          "athlete": "LIGHTFOOT KC",
+          "athleteId": "14715264",
+          "country": "USA",
+          "bib": 314,
+          "mark": "5.63",
+          "qualificationRank": 11,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 12,
+          "athlete": "LAVILLENIE Renaud",
+          "athleteId": "14185853",
+          "country": "FRA",
+          "bib": 243,
+          "mark": "5.43",
+          "qualificationRank": 13,
+          "qualificationPoints": 3
         }
       ]
     }

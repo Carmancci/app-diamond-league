@@ -1,120 +1,81 @@
 import Link from 'next/link'
-import { Wind, Clock } from 'lucide-react'
+import { ChevronDown, Clock, ExternalLink, Wind } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { EventResult } from '@/lib/diamond-league/types'
+import type { TimeDisplayMode } from '@/lib/diamond-league/time'
+import { displayEventTime } from '@/lib/diamond-league/time'
+import { disciplinePtBr, listLabelPtBr, phasePtBr, recordPtBr } from '@/lib/diamond-league/i18n'
 import { CountryFlag } from '@/components/country-flag'
 import { athleteId } from '@/lib/diamond-league/athletes'
 import { displayName } from '@/lib/diamond-league/format'
 
 const NOTE_STYLES: Record<string, string> = {
-  WL: 'bg-primary/20 text-primary',
-  DLR: 'bg-primary/20 text-primary',
-  MR: 'bg-primary/20 text-primary',
-  AR: 'bg-chart-1/20 text-chart-1',
-  NR: 'bg-chart-1/20 text-chart-1',
-  PB: 'bg-chart-2/20 text-chart-2',
-  SB: 'bg-chart-4/20 text-chart-4',
+  WL: 'bg-primary/15 text-primary', DLR: 'bg-primary/15 text-primary', MR: 'bg-primary/15 text-primary',
+  AR: 'bg-chart-1/15 text-chart-1', NR: 'bg-chart-1/15 text-chart-1',
+  PB: 'bg-chart-2/15 text-chart-2', SB: 'bg-chart-4/15 text-chart-4',
 }
 
-const DNF_MARKS = new Set(['DNF', 'DNS', 'DQ', 'NM', 'DID NOT START'])
-
-const RANK_ACCENT: Record<number, string> = {
-  1: 'text-primary',
-  2: 'text-foreground',
-  3: 'text-chart-3',
+interface ResultTableProps {
+  event: EventResult
+  meetingDate: string
+  venueTimeZone: string
+  timeMode: TimeDisplayMode
+  defaultOpen?: boolean
 }
 
-export function ResultTable({ event }: { event: EventResult }) {
-  const hasResults = event.results.length > 0
+export function ResultTable({ event, meetingDate, venueTimeZone, timeMode, defaultOpen }: ResultTableProps) {
+  const isEntries = event.listType === 'inscritos' || event.listType === 'programa'
+  const displayedTime = event.startTime ? displayEventTime(meetingDate, event.startTime, venueTimeZone, timeMode) : null
+  const phase = phasePtBr(event.phase)
 
   return (
-    <div className="overflow-hidden rounded-xl border border-border bg-card">
-      <div className="flex items-center justify-between gap-3 border-b border-border px-4 py-3">
-        <div className="flex min-w-0 items-center gap-2">
-          <h3 className="truncate font-semibold text-foreground">{event.discipline}</h3>
-          {event.phase && !/^final$/i.test(event.phase) && (
-            <span className="shrink-0 rounded bg-muted px-1.5 py-0.5 font-mono text-[10px] uppercase tracking-wider text-muted-foreground">
-              {event.phase}
-            </span>
-          )}
+    <details open={defaultOpen || undefined} className="group overflow-hidden rounded-xl border border-border bg-card">
+      <summary className="flex cursor-pointer list-none items-center gap-3 px-4 py-4 transition-colors hover:bg-muted/50 [&::-webkit-details-marker]:hidden">
+        <div className="min-w-0 flex-1">
+          <div className="flex flex-wrap items-center gap-2">
+            <h3 className="text-base font-bold text-foreground">{disciplinePtBr(event.discipline)}</h3>
+            <span className="rounded-full bg-primary/15 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-primary">{event.gender === 'men' ? 'Masculino' : 'Feminino'}</span>
+            {phase && <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-semibold text-muted-foreground">{phase}</span>}
+          </div>
+          <p className="mt-1 text-xs text-muted-foreground">{listLabelPtBr(event.listLabel, event.listType)} · {event.results.length} atleta{event.results.length === 1 ? '' : 's'}</p>
         </div>
         <div className="flex shrink-0 items-center gap-3">
-          {event.startTime && (
-            <span className="flex items-center gap-1 font-mono text-xs text-muted-foreground">
-              <Clock className="size-3.5" />
-              {event.startTime}
-            </span>
-          )}
-          {event.wind && (
-            <span className="flex items-center gap-1 font-mono text-xs text-muted-foreground">
-              <Wind className="size-3.5" />
-              {event.wind}
-            </span>
-          )}
+          {displayedTime && <span className="flex items-center gap-1 font-mono text-xs font-semibold text-foreground"><Clock className="size-3.5 text-primary" />{displayedTime}</span>}
+          {event.wind && <span className="hidden items-center gap-1 font-mono text-xs text-muted-foreground sm:flex"><Wind className="size-3.5" />{event.wind}</span>}
+          <ChevronDown className="size-5 text-muted-foreground transition-transform group-open:rotate-180" />
         </div>
-      </div>
+      </summary>
 
-      {hasResults ? (
-        <div className="divide-y divide-border">
-          {event.results.map((r, i) => {
-            const isDnf = DNF_MARKS.has(r.mark.toUpperCase())
-            const id = athleteId(r.athlete, r.country)
-            return (
-              <div
-                key={`${r.rank ?? 'x'}-${r.athlete}-${i}`}
-                className={cn(
-                  'flex items-center gap-3 px-4 py-2.5',
-                  r.rank === 1 && 'bg-primary/[0.06]',
-                )}
-              >
-                <span
-                  className={cn(
-                    'w-6 text-center font-mono text-sm font-bold',
-                    r.rank && RANK_ACCENT[r.rank] ? RANK_ACCENT[r.rank] : 'text-muted-foreground',
-                  )}
-                >
-                  {r.rank ?? '–'}
-                </span>
-                <CountryFlag code={r.country} className="size-4 shrink-0" />
-                <Link
-                  href={`/athletes/${id}`}
-                  className="min-w-0 flex-1 transition-colors hover:text-primary"
-                >
-                  <span className="truncate font-medium">{displayName(r.athlete)}</span>
-                  <span className="ml-2 font-mono text-[10px] uppercase tracking-wider text-muted-foreground">
-                    {r.country}
-                  </span>
-                </Link>
-                {r.note && (
-                  <span
-                    className={cn(
-                      'rounded px-1.5 py-0.5 font-mono text-[10px] font-bold uppercase',
-                      NOTE_STYLES[r.note.replace('=', '')] ?? 'bg-muted text-muted-foreground',
-                    )}
-                  >
-                    {r.note}
-                  </span>
-                )}
-                <span
-                  className={cn(
-                    'w-16 text-right font-mono text-sm font-semibold tabular-nums',
-                    isDnf ? 'text-muted-foreground' : 'text-foreground',
-                  )}
-                >
-                  {r.mark}
-                </span>
-              </div>
-            )
-          })}
-        </div>
-      ) : (
-        <div className="px-4 py-8 text-center">
-          <p className="text-sm text-muted-foreground">Resultados ainda não disponíveis.</p>
-          <p className="mt-1 text-xs text-muted-foreground">
-            Serão publicados após a realização da prova.
-          </p>
-        </div>
-      )}
-    </div>
+      <div className="border-t border-border">
+        {!!event.records?.length && <div className="grid gap-px border-b border-border bg-border sm:grid-cols-2 lg:grid-cols-3">
+          {event.records.slice(0, 6).map((record, index) => <div key={`${record.name}-${index}`} className="bg-muted/40 p-3">
+            <div className="flex items-baseline justify-between gap-3"><span className="text-[10px] font-bold uppercase tracking-wide text-primary">{recordPtBr(record.name)}</span><span className="font-mono text-sm font-bold text-foreground">{record.performance}</span></div>
+            {record.holder && <p className="mt-1 truncate text-xs text-muted-foreground">{displayName(record.holder)}{record.holderCountry ? ` · ${record.holderCountry}` : ''}</p>}
+          </div>)}
+        </div>}
+
+        {event.results.length ? <div className="overflow-x-auto">
+          <div className="min-w-[680px]">
+            <div className="grid grid-cols-[44px_1fr_68px_68px_68px_72px] gap-2 border-b border-border bg-muted/40 px-4 py-2 text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
+              <span>{isEntries ? 'Pos.' : 'Col.'}</span><span>Atleta</span><span className="text-right">Class.</span><span className="text-right">Pontos</span><span className="text-right">SB</span><span className="text-right">{isEntries ? 'PB' : 'Marca'}</span>
+            </div>
+            <div className="divide-y divide-border">
+              {event.results.map((result, index) => {
+                const id = result.athleteId || athleteId(result.athlete, result.country)
+                return <div key={`${result.athlete}-${index}`} className={cn('grid grid-cols-[44px_1fr_68px_68px_68px_72px] items-center gap-2 px-4 py-2.5 text-sm', result.rank === 1 && !isEntries && 'bg-primary/[0.06]')}>
+                  <span className="font-mono text-center text-xs font-bold text-muted-foreground">{result.rank ?? index + 1}</span>
+                  <div className="flex min-w-0 items-center gap-2"><CountryFlag code={result.country} className="size-4 shrink-0" /><Link href={`/athletes/${id}`} className="min-w-0 truncate font-semibold text-foreground hover:text-primary hover:underline">{displayName(result.athlete)}</Link></div>
+                  <span className="text-right font-mono text-xs text-muted-foreground">{result.qualificationRank ?? '—'}</span>
+                  <span className="text-right font-mono text-xs text-muted-foreground">{result.qualificationPoints ?? '—'}</span>
+                  <span className="text-right font-mono text-xs text-muted-foreground">{result.seasonBest ?? '—'}</span>
+                  <div className="flex items-center justify-end gap-1"><span className="font-mono text-xs font-bold text-foreground">{isEntries ? result.personalBest ?? '—' : result.mark || '—'}</span>{result.note && <span className={cn('rounded px-1 py-0.5 font-mono text-[9px] font-bold', NOTE_STYLES[result.note.replace('=', '')] ?? 'bg-muted text-muted-foreground')}>{result.note}</span>}</div>
+                </div>
+              })}
+            </div>
+          </div>
+        </div> : <div className="px-4 py-8 text-center"><p className="text-sm font-medium text-foreground">Lista ainda não publicada pela fonte oficial.</p><p className="mt-1 text-xs text-muted-foreground">O programa permanece visível e será atualizado automaticamente quando houver dados.</p></div>}
+        <div className="flex justify-end border-t border-border px-4 py-2"><span className="flex items-center gap-1 text-[10px] text-muted-foreground">Fonte oficial Swiss Timing <ExternalLink className="size-3" /></span></div>
+      </div>
+    </details>
   )
 }

@@ -182,5 +182,9 @@
       "results": []
     }
   ],
-  "hasProgram": true
+  "hasProgram": true,
+  "timezone": "Europe/Warsaw",
+  "state": "aguardando_fonte",
+  "eventCount": 21,
+  "athleteCount": 0
 }

@@ -1,10 +1,11 @@
 {
   "season": 2026,
+  "generatedAt": "2026-07-13T13:02:33.122Z",
   "meetings": [
     {
       "slug": "shanghai",
       "round": 1,
-      "name": "Shanghai",
+      "name": "Xangai",
       "city": "Xangai",
       "country": "CHN",
       "countryName": "China",
@@ -12,8 +13,11 @@
       "date": "2026-05-16",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 21
+      "eventCount": 25,
+      "athleteCount": 254,
+      "updatedAt": "2026-07-13T13:01:51.233Z"
     },
     {
       "slug": "xiamen",
@@ -26,8 +30,11 @@
       "date": "2026-05-23",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 17
+      "eventCount": 19,
+      "athleteCount": 231,
+      "updatedAt": "2026-07-13T13:01:51.292Z"
     },
     {
       "slug": "rabat",
@@ -40,8 +47,11 @@
       "date": "2026-05-31",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 23
+      "eventCount": 23,
+      "athleteCount": 287,
+      "updatedAt": "2026-07-13T13:01:51.342Z"
     },
     {
       "slug": "rome",
@@ -54,8 +64,11 @@
       "date": "2026-06-04",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 16
+      "eventCount": 22,
+      "athleteCount": 215,
+      "updatedAt": "2026-07-13T13:01:51.731Z"
     },
     {
       "slug": "stockholm",
@@ -68,8 +81,11 @@
       "date": "2026-06-07",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 20
+      "eventCount": 24,
+      "athleteCount": 270,
+      "updatedAt": "2026-07-13T13:01:51.785Z"
     },
     {
       "slug": "oslo",
@@ -82,8 +98,11 @@
       "date": "2026-06-10",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 24
+      "eventCount": 26,
+      "athleteCount": 234,
+      "updatedAt": "2026-07-13T13:01:52.445Z"
     },
     {
       "slug": "doha",
@@ -96,8 +115,11 @@
       "date": "2026-06-19",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 16
+      "eventCount": 20,
+      "athleteCount": 191,
+      "updatedAt": "2026-07-13T13:01:52.498Z"
     },
     {
       "slug": "paris",
@@ -110,8 +132,11 @@
       "date": "2026-06-28",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 25
+      "eventCount": 28,
+      "athleteCount": 299,
+      "updatedAt": "2026-07-13T13:01:52.556Z"
     },
     {
       "slug": "eugene",
@@ -124,8 +149,11 @@
       "date": "2026-07-04",
       "endDate": null,
       "isFinal": false,
+      "state": "confirmado_oficial",
       "hasResults": true,
-      "eventCount": 23
+      "eventCount": 32,
+      "athleteCount": 376,
+      "updatedAt": "2026-07-13T13:01:52.611Z"
     },
     {
       "slug": "monaco",
@@ -138,8 +166,11 @@
       "date": "2026-07-10",
       "endDate": null,
       "isFinal": false,
-      "hasResults": false,
-      "eventCount": 0
+      "state": "confirmado_oficial",
+      "hasResults": true,
+      "eventCount": 17,
+      "athleteCount": 203,
+      "updatedAt": "2026-07-13T13:01:52.642Z"
     },
     {
       "slug": "london",
@@ -152,8 +183,11 @@
       "date": "2026-07-18",
       "endDate": null,
       "isFinal": false,
+      "state": "aguardando_fonte",
       "hasResults": false,
-      "eventCount": 0
+      "eventCount": 14,
+      "athleteCount": 0,
+      "updatedAt": "2026-07-10T12:51:58.861Z"
     },
     {
       "slug": "lausanne",
@@ -166,8 +200,11 @@
       "date": "2026-08-21",
       "endDate": null,
       "isFinal": false,
+      "state": "aguardando_fonte",
       "hasResults": false,
-      "eventCount": 0
+      "eventCount": 15,
+      "athleteCount": 0,
+      "updatedAt": "2026-07-10T12:51:59.172Z"
     },
     {
       "slug": "silesia",
@@ -180,8 +217,11 @@
       "date": "2026-08-23",
       "endDate": null,
       "isFinal": false,
+      "state": "aguardando_fonte",
       "hasResults": false,
-      "eventCount": 0
+      "eventCount": 21,
+      "athleteCount": 0,
+      "updatedAt": "2026-07-10T12:51:59.502Z"
     },
     {
       "slug": "zurich",
@@ -194,8 +234,11 @@
       "date": "2026-08-27",
       "endDate": null,
       "isFinal": false,
+      "state": "aguardando_fonte",
       "hasResults": false,
-      "eventCount": 0
+      "eventCount": 16,
+      "athleteCount": 0,
+      "updatedAt": "2026-07-10T12:51:59.797Z"
     },
     {
       "slug": "brussels",
@@ -208,8 +251,11 @@
       "date": "2026-09-04",
       "endDate": "2026-09-05",
       "isFinal": true,
+      "state": "aguardando_fonte",
       "hasResults": false,
-      "eventCount": 0
+      "eventCount": 32,
+      "athleteCount": 0,
+      "updatedAt": "2026-07-10T12:52:00.102Z"
     }
   ]
 }

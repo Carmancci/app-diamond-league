@@ -126,5 +126,9 @@
       "results": []
     }
   ],
-  "hasProgram": true
+  "hasProgram": true,
+  "timezone": "Europe/London",
+  "state": "aguardando_fonte",
+  "eventCount": 14,
+  "athleteCount": 0
 }

@@ -1,146 +1,82 @@
 'use client'
 
 import { useMemo, useState } from 'react'
+import { Clock3, MapPin, MonitorSmartphone } from 'lucide-react'
 import { ResultTable } from '@/components/result-table'
 import { cn } from '@/lib/utils'
 import type { EventCategory, EventResult, Gender } from '@/lib/diamond-league/types'
+import type { TimeDisplayMode } from '@/lib/diamond-league/time'
+import { userTimeZone } from '@/lib/diamond-league/time'
 import { CATEGORY_LABELS } from '@/lib/diamond-league/utils'
 
-const GENDER_TABS: { key: Gender | 'all'; label: string }[] = [
-  { key: 'all', label: 'Todos' },
-  { key: 'men', label: 'Masculino' },
-  { key: 'women', label: 'Feminino' },
+const GENDERS: { key: Gender | 'all'; label: string }[] = [
+  { key: 'all', label: 'Todas' }, { key: 'men', label: 'Masculino' }, { key: 'women', label: 'Feminino' },
 ]
 
-export function EventBrowser({ events }: { events: EventResult[] }) {
+interface EventBrowserProps {
+  events: EventResult[]
+  meetingDate: string
+  venueTimeZone: string
+  venueName: string
+}
+
+export function EventBrowser({ events, meetingDate, venueTimeZone, venueName }: EventBrowserProps) {
   const [gender, setGender] = useState<Gender | 'all'>('all')
   const [category, setCategory] = useState<EventCategory | 'all'>('all')
   const [showSecondary, setShowSecondary] = useState(false)
+  const [timeMode, setTimeMode] = useState<TimeDisplayMode>('venue')
 
-  const hasSecondary = useMemo(() => events.some((e) => !e.isPrimary), [events])
-
-  const categories = useMemo(() => {
-    const set = new Set<EventCategory>()
-    events.forEach((e) => set.add(e.category))
-    return [...set]
-  }, [events])
-
-  const filtered = useMemo(() => {
-    return events.filter(
-      (e) =>
-        (showSecondary || e.isPrimary) &&
-        (gender === 'all' || e.gender === gender) &&
-        (category === 'all' || e.category === category),
-    )
-  }, [events, gender, category, showSecondary])
-
-  const men = filtered.filter((e) => e.gender === 'men')
-  const women = filtered.filter((e) => e.gender === 'women')
+  const categories = useMemo(() => [...new Set(events.map((event) => event.category))], [events])
+  const hasSecondary = useMemo(() => events.some((event) => !event.isPrimary), [events])
+  const filtered = useMemo(() => events.filter((event) =>
+    (showSecondary || event.isPrimary) &&
+    (gender === 'all' || event.gender === gender) &&
+    (category === 'all' || event.category === category),
+  ), [events, showSecondary, gender, category])
 
   return (
-    <div>
-      {/* Filtros de gênero */}
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <div className="inline-flex rounded-lg border border-border bg-card p-1">
-          {GENDER_TABS.map((t) => (
-            <button
-              key={t.key}
-              type="button"
-              onClick={() => setGender(t.key)}
-              className={cn(
-                'rounded-md px-3 py-1.5 text-sm font-medium transition-colors',
-                gender === t.key
-                  ? 'bg-primary text-primary-foreground'
-                  : 'text-muted-foreground hover:text-foreground',
-              )}
-            >
-              {t.label}
-            </button>
-          ))}
+    <div className="flex flex-col gap-6">
+      <div className="flex flex-col gap-4 rounded-xl border border-border bg-card p-4 lg:flex-row lg:items-center lg:justify-between">
+        <div>
+          <p className="flex items-center gap-2 text-sm font-semibold text-foreground">
+            <Clock3 className="size-4 text-primary" /> Horário exibido
+          </p>
+          <p className="mt-1 text-xs text-muted-foreground">
+            {timeMode === 'venue' ? `${venueName} · ${venueTimeZone}` : `Seu dispositivo · ${userTimeZone()}`}
+          </p>
         </div>
-
-        {hasSecondary && (
-          <button
-            type="button"
-            onClick={() => setShowSecondary((v) => !v)}
-            className={cn(
-              'rounded-lg border px-3 py-1.5 text-xs font-medium transition-colors',
-              showSecondary
-                ? 'border-primary/50 bg-primary/15 text-primary'
-                : 'border-border text-muted-foreground hover:text-foreground',
-            )}
-          >
-            {showSecondary ? 'Ocultar eliminatórias e provas B/C' : 'Incluir eliminatórias e provas B/C'}
+        <div className="grid grid-cols-2 rounded-lg border border-border bg-muted p-1" aria-label="Escolher referência de horário">
+          <button type="button" onClick={() => setTimeMode('venue')} className={cn('flex items-center justify-center gap-2 rounded-md px-3 py-2 text-xs font-semibold transition-colors', timeMode === 'venue' ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:text-foreground')}>
+            <MapPin className="size-3.5" /> Horário da prova
           </button>
-        )}
+          <button type="button" onClick={() => setTimeMode('user')} className={cn('flex items-center justify-center gap-2 rounded-md px-3 py-2 text-xs font-semibold transition-colors', timeMode === 'user' ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:text-foreground')}>
+            <MonitorSmartphone className="size-3.5" /> Meu horário
+          </button>
+        </div>
       </div>
 
-      {/* Filtros de categoria */}
-      <div className="mt-3 flex flex-wrap gap-2">
-        <button
-          type="button"
-          onClick={() => setCategory('all')}
-          className={cn(
-            'rounded-full border px-3 py-1 text-xs font-medium transition-colors',
-            category === 'all'
-              ? 'border-primary/50 bg-primary/15 text-primary'
-              : 'border-border text-muted-foreground hover:text-foreground',
-          )}
-        >
-          Todas as modalidades
-        </button>
-        {categories.map((c) => (
-          <button
-            key={c}
-            type="button"
-            onClick={() => setCategory(c)}
-            className={cn(
-              'rounded-full border px-3 py-1 text-xs font-medium transition-colors',
-              category === c
-                ? 'border-primary/50 bg-primary/15 text-primary'
-                : 'border-border text-muted-foreground hover:text-foreground',
-            )}
-          >
-            {CATEGORY_LABELS[c]}
-          </button>
-        ))}
+      <div className="flex flex-col gap-3">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div className="inline-flex rounded-lg border border-border bg-card p-1">
+            {GENDERS.map((tab) => <button key={tab.key} type="button" onClick={() => setGender(tab.key)} className={cn('rounded-md px-3 py-1.5 text-sm font-medium transition-colors', gender === tab.key ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:text-foreground')}>{tab.label}</button>)}
+          </div>
+          {hasSecondary && <button type="button" onClick={() => setShowSecondary((value) => !value)} className={cn('rounded-lg border px-3 py-2 text-xs font-medium transition-colors', showSecondary ? 'border-primary/50 bg-primary/15 text-primary' : 'border-border text-muted-foreground hover:text-foreground')}>{showSecondary ? 'Ocultar séries e provas B/C' : 'Incluir séries e provas B/C'}</button>}
+        </div>
+        <div className="flex flex-wrap gap-2">
+          <FilterChip active={category === 'all'} onClick={() => setCategory('all')}>Todas as modalidades</FilterChip>
+          {categories.map((value) => <FilterChip key={value} active={category === value} onClick={() => setCategory(value)}>{CATEGORY_LABELS[value]}</FilterChip>)}
+        </div>
       </div>
 
-      {/* Resultados */}
-      {filtered.length === 0 ? (
-        <p className="mt-8 rounded-xl border border-border bg-card px-4 py-8 text-center text-sm text-muted-foreground">
-          Nenhuma modalidade encontrada para este filtro.
-        </p>
-      ) : gender === 'all' ? (
-        <div className="mt-6 grid gap-8 lg:grid-cols-2">
-          <GenderColumn title="Masculino" events={men} />
-          <GenderColumn title="Feminino" events={women} />
+      {filtered.length ? (
+        <div className="grid gap-3">
+          {filtered.map((event, index) => <ResultTable key={event.id} event={event} meetingDate={meetingDate} venueTimeZone={venueTimeZone} timeMode={timeMode} defaultOpen={index === 0} />)}
         </div>
-      ) : (
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
-          {filtered.map((e) => (
-            <ResultTable key={e.id} event={e} />
-          ))}
-        </div>
-      )}
+      ) : <p className="rounded-xl border border-border bg-card px-4 py-10 text-center text-sm text-muted-foreground">Nenhuma prova encontrada para estes filtros.</p>}
     </div>
   )
 }
 
-function GenderColumn({ title, events }: { title: string; events: EventResult[] }) {
-  if (events.length === 0) return null
-  return (
-    <div>
-      <h2 className="mb-4 flex items-center gap-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
-        <span className="h-px flex-1 bg-border" />
-        {title}
-        <span className="h-px flex-1 bg-border" />
-      </h2>
-      <div className="grid gap-4">
-        {events.map((e) => (
-          <ResultTable key={e.id} event={e} />
-        ))}
-      </div>
-    </div>
-  )
+function FilterChip({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
+  return <button type="button" onClick={onClick} className={cn('rounded-full border px-3 py-1 text-xs font-medium transition-colors', active ? 'border-primary/50 bg-primary/15 text-primary' : 'border-border text-muted-foreground hover:text-foreground')}>{children}</button>
 }

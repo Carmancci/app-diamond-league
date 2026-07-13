@@ -8,1985 +8,3852 @@
   "countryName": "Suécia",
   "stadium": "Olympic Stadium",
   "date": "2026-06-07",
+  "timezone": "Europe/Stockholm",
   "isFinal": false,
   "officialUrl": "https://stockholm.diamondleague.com",
+  "state": "confirmado_oficial",
   "source": {
-    "type": "pdf",
-    "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2026/PDF_ATH-------------------------------_MUL.PDF"
+    "type": "swiss_timing_json",
+    "url": "https://ath-wdl-archive.azureedge.net/2026/stockholm.json",
+    "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2026/PDF_ATH-------------------------------_MUL.PDF",
+    "checksum": "eab458f20615f055d5769765b10d7a25325e529e110f622083f2fe1f19173136",
+    "collectedAt": "2026-07-13T13:01:51.785Z",
+    "parserVersion": "2.0.0",
+    "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-10T12:51:55.052Z",
+  "updatedAt": "2026-07-13T13:01:51.785Z",
+  "eventCount": 24,
+  "athleteCount": 270,
   "events": [
     {
-      "id": "stockholm-200m-men",
-      "discipline": "200m",
+      "id": "stockholm-100m-women-101-1010040",
+      "discipline": "100m",
       "category": "sprints",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "wind": "+1.0 m/s",
-      "startTime": "18:30",
-      "results": [
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.8",
+      "startTime": "17:45",
+      "startDate": "7 Jun 2026",
+      "records": [
         {
-          "rank": 1,
-          "athlete": "BEDNAREK Kenneth",
-          "country": "USA",
-          "dob": "14 OCT 1998",
-          "reaction": 0.15,
-          "mark": "19.87"
+          "name": "World Record",
+          "performance": "10.49",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Indianapolis, IN",
+          "date": "1988-07-16T00:00:00"
         },
         {
-          "rank": 2,
-          "athlete": "DAMBILE Sinesipho",
-          "country": "RSA",
-          "dob": "2 MAR 2002",
-          "reaction": 0.132,
-          "mark": "20.10"
+          "name": "Area Record",
+          "performance": "10.73",
+          "holder": "ARRON Christine",
+          "holderCountry": "FRA",
+          "location": "Budapest",
+          "date": "1998-08-19T00:00:00"
         },
         {
-          "rank": 3,
-          "athlete": "LINDSEY Courtney",
-          "country": "USA",
-          "dob": "18 NOV 1998",
-          "reaction": 0.145,
-          "mark": "20.24"
+          "name": "World Lead",
+          "performance": "10.77",
+          "holder": "HODGE Adaejah",
+          "holderCountry": "IVB",
+          "location": "Gainesville, FL",
+          "date": "2026-04-18T00:00:00"
         },
         {
-          "rank": 4,
-          "athlete": "MENA Reynier",
-          "country": "CUB",
-          "dob": "21 NOV 1996",
-          "reaction": 0.132,
-          "mark": "20.53"
+          "name": "Diamond League Record",
+          "performance": "10.54",
+          "holder": "THOMPSON-HERAH Elaine",
+          "holderCountry": "JAM",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
         },
         {
-          "rank": 5,
-          "athlete": "MTHIMKULU Mthi",
-          "country": "RSA",
-          "dob": "30 APR 2003",
-          "reaction": 0.156,
-          "mark": "20.78"
+          "name": "Meeting Record",
+          "performance": "10.75",
+          "holder": "ALFRED Julien",
+          "holderCountry": "LCA",
+          "date": "2025-06-15T00:00:00"
         },
         {
-          "rank": 6,
-          "athlete": "PIHL Linus",
-          "country": "SWE",
-          "dob": "4 AUG 2003",
-          "reaction": 0.146,
-          "note": "=PB",
-          "mark": "20.90"
-        },
-        {
-          "rank": null,
-          "athlete": "AZU Jeremiah",
-          "country": "GBR",
-          "dob": "15 MAY 2001",
-          "reaction": 0.153,
-          "mark": "DQ",
-          "status": "DQ"
-        },
-        {
-          "rank": null,
-          "athlete": "MUMENTHALER Timothé",
-          "country": "SUI",
-          "dob": "12 DEC 2002",
-          "reaction": 0.135,
-          "mark": "DQ",
-          "status": "DQ"
+          "name": "Meeting Record",
+          "performance": "10.90",
+          "holder": "PRIVALOVA Irina",
+          "holderCountry": "RUS",
+          "date": "1994-07-12T00:00:00"
         }
-      ]
-    },
-    {
-      "id": "stockholm-400m-men",
-      "discipline": "400m",
-      "category": "sprints",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "17:04",
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "NENE Zakithi",
-          "country": "RSA",
-          "dob": "2 APR 1998",
-          "reaction": 0.154,
-          "mark": "44.48"
+          "athlete": "JEFFERSON-WOODEN M.",
+          "athleteId": "14756997",
+          "country": "USA",
+          "bib": 100,
+          "mark": "10.84",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 8
         },
         {
           "rank": 2,
-          "athlete": "PATTERSON Jacory",
-          "country": "USA",
-          "dob": "2 FEB 2000",
-          "reaction": 0.142,
-          "mark": "44.69"
+          "athlete": "HUNT Amy",
+          "athleteId": "14685108",
+          "country": "GBR",
+          "bib": 31,
+          "mark": "10.97",
+          "note": "PB",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
         },
         {
           "rank": 3,
-          "athlete": "RICHARDS Jereem",
-          "country": "TTO",
-          "dob": "13 JAN 1994",
-          "reaction": 0.169,
+          "athlete": "van der WEKEN Patrizia",
+          "athleteId": "14621598",
+          "country": "LUX",
+          "bib": 50,
+          "mark": "11.05",
           "note": "SB",
-          "mark": "44.87"
+          "qualificationRank": 1,
+          "qualificationPoints": 11
         },
         {
           "rank": 4,
-          "athlete": "McRAE Khaleb",
-          "country": "USA",
-          "dob": "9 SEP 2000",
-          "reaction": 0.181,
-          "mark": "44.94"
+          "athlete": "BISSCHOPS Minke",
+          "athleteId": "14773921",
+          "country": "NED",
+          "bib": 53,
+          "mark": "11.08",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 5
         },
         {
           "rank": 5,
-          "athlete": "DOBSON Charles",
-          "country": "GBR",
-          "dob": "20 OCT 1999",
-          "reaction": 0.158,
-          "note": "SB",
-          "mark": "45.15"
+          "athlete": "DOSSO Zaynab",
+          "athleteId": "14622202",
+          "country": "ITA",
+          "bib": 45,
+          "mark": "11.22",
+          "qualificationRank": 7,
+          "qualificationPoints": 6
         },
         {
           "rank": 6,
-          "athlete": "BENGTSTRÖM Carl",
-          "country": "SWE",
-          "dob": "13 JAN 2000",
-          "reaction": 0.227,
+          "athlete": "ASHER-SMITH Dina",
+          "athleteId": "14378282",
+          "country": "GBR",
+          "bib": 29,
+          "mark": "11.24",
           "note": "SB",
-          "mark": "45.89"
+          "qualificationRank": 11,
+          "qualificationPoints": 3
         },
         {
           "rank": 7,
-          "athlete": "SAMUKONGA Muzala",
-          "country": "ZAM",
-          "dob": "9 DEC 2002",
-          "reaction": 0.167,
-          "mark": "47.93"
+          "athlete": "McCREATH Sade",
+          "athleteId": "14464951",
+          "country": "CAN",
+          "bib": 2,
+          "mark": "11.29",
+          "qualificationRank": 12,
+          "qualificationPoints": 2
         },
         {
-          "rank": null,
-          "athlete": "HUDSON-SMITH Matthew",
-          "country": "GBR",
-          "dob": "26 OCT 1994",
-          "mark": "DNS",
-          "status": "DNS"
+          "rank": 8,
+          "athlete": "HENRIKSSON Julia",
+          "athleteId": "14654845",
+          "country": "SWE",
+          "bib": 79,
+          "mark": "11.48",
+          "note": "SB",
+          "qualificationRank": 14,
+          "qualificationPoints": 1
         }
       ]
     },
     {
-      "id": "stockholm-800m-men",
+      "id": "stockholm-800m-women-111-1110040",
       "discipline": "800m",
       "category": "middle",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "17:36",
-      "results": [
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:41",
+      "startDate": "7 Jun 2026",
+      "records": [
         {
-          "rank": 1,
-          "athlete": "LUTKENHAUS Cooper",
-          "country": "USA",
-          "dob": "19 DEC 2008",
-          "note": "SB",
-          "mark": "1:42.70"
+          "name": "World Record",
+          "performance": "1:53.28",
+          "holder": "KRATOCHVÍLOVÁ Jarmila",
+          "holderCountry": "TCH",
+          "location": "München",
+          "date": "1983-07-26T00:00:00"
         },
         {
-          "rank": 2,
-          "athlete": "AROP Marco",
-          "country": "CAN",
-          "dob": "20 SEP 1998",
-          "note": "SB",
-          "mark": "1:43.11"
+          "name": "Area Record",
+          "performance": "1:54.01",
+          "holder": "JELIMO Pamela",
+          "holderCountry": "KEN",
+          "location": "Zürich",
+          "date": "2008-08-29T00:00:00"
         },
         {
-          "rank": 3,
-          "athlete": "MOULA Slimane",
-          "country": "ALG",
-          "dob": "25 FEB 1999",
-          "note": "SB",
-          "mark": "1:43.41"
+          "name": "Area Record",
+          "performance": "1:54.44",
+          "holder": "QUIROT Ana Fidelia",
+          "holderCountry": "CUB",
+          "location": "Barcelona",
+          "date": "1989-09-09T00:00:00"
         },
         {
-          "rank": 4,
-          "athlete": "PATTISON Ben",
-          "country": "GBR",
-          "dob": "15 DEC 2001",
-          "note": "SB",
-          "mark": "1:43.70(.691)"
+          "name": "World Lead",
+          "performance": "1:53.98",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Stockholm",
+          "date": "2026-06-07T00:00:00"
         },
         {
-          "rank": 5,
-          "athlete": "BOL Peter",
-          "country": "AUS",
-          "dob": "22 FEB 1994",
-          "note": "SB",
-          "mark": "1:43.70(.700)"
+          "name": "World Lead",
+          "performance": "1:54.87",
+          "holder": "HODGKINSON Keely",
+          "holderCountry": "GBR",
+          "location": "Liévin",
+          "date": "2026-02-19T00:00:00"
         },
         {
-          "rank": 6,
-          "athlete": "TUAL Gabriel",
-          "country": "FRA",
-          "dob": "9 APR 1998",
-          "mark": "1:43.72"
+          "name": "Diamond League Record",
+          "performance": "1:53.98",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Stockholm",
+          "date": "2026-06-07T00:00:00"
         },
         {
-          "rank": 7,
-          "athlete": "WIGHTMAN Jake",
-          "country": "GBR",
-          "dob": "11 JUL 1994",
-          "note": "SB",
-          "mark": "1:44.39"
+          "name": "Diamond League Record",
+          "performance": "1:54.25",
+          "holder": "SEMENYA Caster",
+          "holderCountry": "RSA",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
         },
         {
-          "rank": 8,
-          "athlete": "HOPPEL Bryce",
-          "country": "USA",
-          "dob": "5 SEP 1997",
-          "mark": "1:44.66"
+          "name": "Meeting Record",
+          "performance": "1:53.98",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "date": "2026-06-07T00:00:00"
         },
         {
-          "rank": 9,
-          "athlete": "HAINGURA Kethobogile",
-          "country": "BOT",
-          "dob": "14 DEC 1998",
-          "mark": "1:45.58"
-        },
-        {
-          "rank": 10,
-          "athlete": "ATTAOUI Mohamed",
-          "country": "ESP",
-          "dob": "26 SEP 2001",
-          "mark": "1:46.92"
-        },
-        {
-          "rank": null,
-          "athlete": "SIERADZKI Patryk",
-          "country": "POL",
-          "dob": "6 OCT 1998",
-          "mark": "DNF",
-          "status": "DNF"
+          "name": "Meeting Record",
+          "performance": "1:56.28",
+          "holder": "ALMANZA Rose Mary",
+          "holderCountry": "CUB",
+          "date": "2021-07-04T00:00:00"
         }
-      ]
-    },
-    {
-      "id": "stockholm-1500m-men",
-      "discipline": "1500m",
-      "category": "middle",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "18:51",
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "NUGUSE Yared",
-          "country": "USA",
-          "dob": "1 JUN 1999",
-          "note": "SB",
-          "mark": "3:30.11"
+          "athlete": "WERRO Audrey",
+          "athleteId": "14856078",
+          "country": "SUI",
+          "bib": 69,
+          "mark": "1:53.98",
+          "note": "DLR,MR,WL,NR",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
         },
         {
           "rank": 2,
-          "athlete": "MYERS Cameron",
-          "country": "AUS",
-          "dob": "9 JUN 2006",
-          "mark": "3:30.32"
+          "athlete": "HODGKINSON Keely",
+          "athleteId": "14642894",
+          "country": "GBR",
+          "bib": 30,
+          "mark": "1:54.33",
+          "note": "NR",
+          "qualificationRank": 3,
+          "qualificationPoints": 7
         },
         {
           "rank": 3,
-          "athlete": "CHERUIYOT Timothy",
-          "country": "KEN",
-          "dob": "20 NOV 1995",
-          "note": "SB",
-          "mark": "3:30.67"
+          "athlete": "WILLIS Roisin",
+          "athleteId": "14761309",
+          "country": "USA",
+          "bib": 110,
+          "mark": "1:57.56",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 6
         },
         {
           "rank": 4,
-          "athlete": "CIATTEI Vincent",
-          "country": "USA",
-          "dob": "21 JAN 1995",
-          "mark": "3:31.63"
+          "athlete": "BOURGOIN Anaïs",
+          "athleteId": "14523787",
+          "country": "FRA",
+          "bib": 23,
+          "mark": "1:57.68",
+          "qualificationRank": 2,
+          "qualificationPoints": 9
         },
         {
           "rank": 5,
-          "athlete": "NORDÅS Narve Gilje",
-          "country": "NOR",
-          "dob": "30 SEP 1998",
-          "note": "SB",
-          "mark": "3:31.74"
+          "athlete": "SEKGODISO Prudence",
+          "athleteId": "14745817",
+          "country": "RSA",
+          "bib": 68,
+          "mark": "1:57.70",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
         },
         {
           "rank": 6,
-          "athlete": "KESSLER Hobbs",
-          "country": "USA",
-          "dob": "15 MAR 2003",
-          "note": "SB",
-          "mark": "3:31.76"
+          "athlete": "WIELGOSZ Anna",
+          "athleteId": "14388995",
+          "country": "POL",
+          "bib": 65,
+          "mark": "1:57.92",
+          "note": "PB",
+          "qualificationRank": 9,
+          "qualificationPoints": 3
         },
         {
           "rank": 7,
-          "athlete": "VERHEYDEN Ruben",
-          "country": "BEL",
-          "dob": "22 DEC 2000",
-          "mark": "3:32.91"
+          "athlete": "ROGERS Raevyn",
+          "athleteId": "14378260",
+          "country": "USA",
+          "bib": 104,
+          "mark": "1:57.94",
+          "note": "SB",
+          "qualificationRank": 11,
+          "qualificationPoints": 2
         },
         {
           "rank": 8,
-          "athlete": "FARKEN Robert",
-          "country": "GER",
-          "dob": "20 SEP 1997",
-          "note": "SB",
-          "mark": "3:32.99"
+          "athlete": "HURTA-KLECKER Sage",
+          "athleteId": "14478094",
+          "country": "USA",
+          "bib": 96,
+          "mark": "1:58.26",
+          "qualificationRank": 12,
+          "qualificationPoints": 2
         },
         {
           "rank": 9,
-          "athlete": "HABZ Azeddine",
-          "country": "FRA",
-          "dob": "19 JUL 1993",
-          "mark": "3:33.84"
+          "athlete": "GETACHEW Nigist",
+          "athleteId": "14774194",
+          "country": "ETH",
+          "bib": 15,
+          "mark": "1:58.59"
         },
         {
           "rank": 10,
-          "athlete": "SZOT Flavien",
-          "country": "FRA",
-          "dob": "6 SEP 2001",
-          "mark": "3:34.27"
+          "athlete": "ANTONSEN Pernille Karlsen",
+          "athleteId": "14708774",
+          "country": "NOR",
+          "bib": 57,
+          "mark": "1:58.82",
+          "note": "PB"
         },
         {
           "rank": 11,
-          "athlete": "PIHLSTRÖM Samuel",
-          "country": "SWE",
-          "dob": "8 MAR 2001",
-          "mark": "3:34.53"
-        },
-        {
-          "rank": 12,
-          "athlete": "GRESSIER Jimmy",
-          "country": "FRA",
-          "dob": "4 MAY 1997",
-          "note": "SB",
-          "mark": "3:34.63"
-        },
-        {
-          "rank": 13,
-          "athlete": "HEYWARD Jake",
-          "country": "GBR",
-          "dob": "26 APR 1999",
-          "mark": "3:35.53"
-        },
-        {
-          "rank": 14,
-          "athlete": "ALMGREN Andreas",
-          "country": "SWE",
-          "dob": "12 JUN 1995",
-          "note": "SB",
-          "mark": "3:36.81"
+          "athlete": "GAJANOVÁ Gabriela",
+          "athleteId": "14593394",
+          "country": "SVK",
+          "bib": 71,
+          "mark": "2:02.88"
         },
         {
           "rank": null,
-          "athlete": "CLARIDGE Ben",
-          "country": "GBR",
-          "dob": "12 NOV 1997",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "RUDOLF Žan",
-          "country": "SLO",
-          "dob": "9 MAY 1993",
+          "athlete": "KLOPFENSTEIN Rachel",
+          "athleteId": "14479308",
+          "country": "MRI",
+          "bib": 52,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "stockholm-3000m-steeplechase-men",
+      "id": "stockholm-3000m-steeplechase-women-129-1290040",
       "discipline": "3000m Steeplechase",
       "category": "distance",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "17:59",
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:17",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "8:44.32",
+          "holder": "CHEPKOECH Beatrice",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2018-07-20T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:57.77",
+          "holder": "FRERICHS Courtney",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2021-08-21T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:58.67",
+          "holder": "FINOT Alice",
+          "holderCountry": "FRA",
+          "location": "Paris",
+          "date": "2024-08-06T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8:51.06",
+          "holder": "CHEMUTAI Peruth",
+          "holderCountry": "UGA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "8:44.32",
+          "holder": "CHEPKOECH Beatrice",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2018-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8:59.28",
+          "holder": "BOUZAYANI Marwa",
+          "holderCountry": "TUN",
+          "date": "2026-06-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9:04.34",
+          "holder": "KIYENG Hyvin",
+          "holderCountry": "KEN",
+          "date": "2021-07-04T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "EL BAKKALI Soufiane",
-          "country": "MAR",
-          "dob": "7 JAN 1996",
-          "mark": "8:10.40"
+          "athlete": "BOUZAYANI Marwa",
+          "athleteId": "14595096",
+          "country": "TUN",
+          "bib": 90,
+          "mark": "8:59.28",
+          "note": "MR",
+          "qualificationRank": 1,
+          "qualificationPoints": 19
         },
         {
           "rank": 2,
-          "athlete": "SEREM Edmund",
-          "country": "KEN",
-          "dob": "27 DEC 2007",
-          "mark": "8:12.27"
+          "athlete": "THORNER Elise",
+          "athleteId": "14648621",
+          "country": "GBR",
+          "bib": 34,
+          "mark": "9:11.01",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
         },
         {
           "rank": 3,
-          "athlete": "KIBIWOT Abraham",
-          "country": "KEN",
-          "dob": "6 APR 1996",
-          "mark": "8:12.75"
+          "athlete": "JENNINGS Gabrielle",
+          "athleteId": "14490787",
+          "country": "USA",
+          "bib": 101,
+          "mark": "9:12.02",
+          "note": "SB",
+          "qualificationRank": 9,
+          "qualificationPoints": 6
         },
         {
           "rank": 4,
-          "athlete": "BEN YAZIDE Salah Eddine",
-          "country": "MAR",
-          "dob": "6 MAY 2003",
-          "mark": "8:13.02"
+          "athlete": "TUFA Kena",
+          "athleteId": "15024115",
+          "country": "ETH",
+          "bib": 19,
+          "mark": "9:12.42",
+          "qualificationRank": 3,
+          "qualificationPoints": 14
         },
         {
           "rank": 5,
-          "athlete": "BEAMISH Geordie",
-          "country": "NZL",
-          "dob": "24 OCT 1996",
+          "athlete": "MEYER Lea",
+          "athleteId": "14509240",
+          "country": "GER",
+          "bib": 39,
+          "mark": "9:13.67",
           "note": "SB",
-          "mark": "8:13.11"
+          "qualificationRank": 10,
+          "qualificationPoints": 4
         },
         {
           "rank": 6,
-          "athlete": "KOECH Simon Kiprop",
-          "country": "KEN",
-          "dob": "6 OCT 2003",
-          "mark": "8:13.40"
+          "athlete": "MONONEN Ilona",
+          "athleteId": "14914640",
+          "country": "FIN",
+          "bib": 22,
+          "mark": "9:15.18",
+          "note": "NR",
+          "qualificationRank": 12,
+          "qualificationPoints": 3
         },
         {
           "rank": 7,
-          "athlete": "BEBENDORF Karl",
-          "country": "GER",
-          "dob": "7 MAY 1996",
-          "note": "SB",
-          "mark": "8:14.13"
+          "athlete": "WALLE Alemnat",
+          "athleteId": "15024112",
+          "country": "ETH",
+          "bib": 20,
+          "mark": "9:15.33",
+          "qualificationRank": 6,
+          "qualificationPoints": 7
         },
         {
           "rank": 8,
-          "athlete": "WILKINSON Matthew",
+          "athlete": "HALLADAY Lexy",
+          "athleteId": "14741102",
           "country": "USA",
-          "dob": "27 DEC 1998",
-          "mark": "8:14.27"
+          "bib": 95,
+          "mark": "9:19.02",
+          "qualificationRank": 11,
+          "qualificationPoints": 4
         },
         {
-          "rank": null,
-          "athlete": "BETT Leonard Kipkemoi",
-          "country": "KEN",
-          "dob": "3 NOV 2000",
-          "note": "SB",
-          "mark": "8:18.70"
+          "rank": 9,
+          "athlete": "HYDE Gracie",
+          "athleteId": "14743329",
+          "country": "USA",
+          "bib": 97,
+          "mark": "9:24.19"
         },
         {
           "rank": 10,
-          "athlete": "ARCE Daniel",
-          "country": "ESP",
-          "dob": "22 APR 1992",
-          "mark": "8:20.02"
+          "athlete": "HVID Juliane",
+          "athleteId": "15023295",
+          "country": "DEN",
+          "bib": 8,
+          "mark": "9:25.46"
         },
         {
           "rank": 11,
-          "athlete": "SIME Abrham",
-          "country": "ETH",
-          "dob": "7 NOV 2001",
-          "mark": "8:22.94"
+          "athlete": "MARKEZICH Olivia",
+          "athleteId": "14846039",
+          "country": "USA",
+          "bib": 102,
+          "mark": "9:25.79"
         },
         {
           "rank": 12,
-          "athlete": "JOHANSSON Vidar",
-          "country": "SWE",
-          "dob": "8 OCT 1996",
-          "note": "SB",
-          "mark": "8:23.65"
+          "athlete": "WAYMENT Courtney",
+          "athleteId": "14617090",
+          "country": "USA",
+          "bib": 109,
+          "mark": "9:29.05"
         },
         {
           "rank": 13,
-          "athlete": "MIURA Ryuji",
-          "country": "JPN",
-          "dob": "11 FEB 2002",
-          "note": "SB",
-          "mark": "8:23.97"
+          "athlete": "FINOT Alice",
+          "athleteId": "14758606",
+          "country": "FRA",
+          "bib": 25,
+          "mark": "9:34.30",
+          "note": "SB"
         },
         {
           "rank": 14,
-          "athlete": "MAGNUSSON Leo",
-          "country": "SWE",
-          "dob": "4 FEB 1998",
-          "note": "SB",
-          "mark": "8:24.69"
+          "athlete": "KRÓLIK Kinga",
+          "athleteId": "14701702",
+          "country": "POL",
+          "bib": 64,
+          "mark": "9:35.47"
         },
         {
           "rank": 15,
-          "athlete": "WILLIAMS Carson",
-          "country": "USA",
-          "dob": "12 FEB 2002",
-          "note": "SB",
-          "mark": "8:25.55"
+          "athlete": "GÜRTH Olivia",
+          "athleteId": "14804796",
+          "country": "GER",
+          "bib": 37,
+          "mark": "9:42.35"
         },
         {
           "rank": 16,
-          "athlete": "SUNDSTRÖM Simon",
-          "country": "SWE",
-          "dob": "4 FEB 1998",
-          "mark": "8:25.99"
-        },
-        {
-          "rank": 17,
-          "athlete": "GIRMA Eisa",
+          "athlete": "YESHANEH Meseret",
+          "athleteId": "15024114",
           "country": "ETH",
-          "dob": "21 SEP 2007",
-          "mark": "8:26.33"
+          "bib": 21,
+          "mark": "10:12.27",
+          "note": "SB"
         },
         {
-          "rank": 18,
-          "athlete": "ROOKS Kenneth",
-          "country": "USA",
-          "dob": "21 OCT 1999",
-          "mark": "8:29.00"
-        },
-        {
-          "rank": 19,
-          "athlete": "AYALEW Hailu",
-          "country": "ETH",
-          "dob": "21 JAN 2008",
-          "mark": "8:37.96"
-        },
-        {
-          "rank": 20,
-          "athlete": "MEGIER Maciej",
+          "rank": null,
+          "athlete": "CHORZEPA Agnieszka",
+          "athleteId": "14829123",
           "country": "POL",
-          "dob": "26 APR 2003",
-          "note": "SB",
-          "mark": "8:44.20"
-        },
-        {
-          "rank": null,
-          "athlete": "BOUASSEL Abderrafia",
-          "country": "MAR",
-          "dob": "18 FEB 2001",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "GIRMA Lamecha",
-          "country": "ETH",
-          "dob": "26 NOV 2000",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "KONES Wilberforce C.",
-          "country": "KEN",
-          "dob": "19 SEP 1993",
-          "mark": "DNF",
-          "status": "DNF"
-        },
-        {
-          "rank": null,
-          "athlete": "LANGAT Wesley",
-          "country": "KEN",
-          "dob": "7 JUL 1994",
+          "bib": 61,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "stockholm-400m-hurdles-men",
-      "discipline": "400m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "18:19",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "dos SANTOS Alison",
-          "country": "BRA",
-          "dob": "3 JUN 2000",
-          "reaction": 0.169,
-          "mark": "47.11"
-        },
-        {
-          "rank": 2,
-          "athlete": "LIMA Matheus",
-          "country": "BRA",
-          "dob": "1 JUN 2003",
-          "reaction": 0.164,
-          "note": "PB",
-          "mark": "47.37"
-        },
-        {
-          "rank": 3,
-          "athlete": "AGYEKUM Emil",
-          "country": "GER",
-          "dob": "22 MAY 1999",
-          "reaction": 0.144,
-          "note": "PB",
-          "mark": "47.72"
-        },
-        {
-          "rank": 4,
-          "athlete": "TISANG Kemorena",
-          "country": "BOT",
-          "dob": "25 APR 1995",
-          "reaction": 0.152,
-          "note": "SB",
-          "mark": "48.43"
-        },
-        {
-          "rank": 5,
-          "athlete": "HEMEIDA Bassem",
-          "country": "QAT",
-          "dob": "28 MAR 2000",
-          "reaction": 0.142,
-          "note": "SB",
-          "mark": "48.52"
-        },
-        {
-          "rank": 6,
-          "athlete": "EDLUND Oskar",
-          "country": "SWE",
-          "dob": "16 NOV 2002",
-          "reaction": 0.182,
-          "note": "SB",
-          "mark": "48.81"
-        },
-        {
-          "rank": 7,
-          "athlete": "WILSON Assinie",
-          "country": "JAM",
-          "dob": "10 APR 2002",
-          "reaction": 0.156,
-          "mark": "49.13"
-        },
-        {
-          "rank": 8,
-          "athlete": "DONOVAN Tyri",
-          "country": "GBR",
-          "dob": "20 OCT 1998",
-          "reaction": 0.159,
-          "mark": "49.75"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-pole-vault-men",
-      "discipline": "Pole Vault",
+      "id": "stockholm-long-jump-women-183-1830040",
+      "discipline": "Long Jump",
       "category": "jumps",
-      "gender": "men",
+      "gender": "women",
       "isPrimary": true,
-      "startTime": "16:14",
-      "results": [
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:23",
+      "startDate": "7 Jun 2026",
+      "records": [
         {
-          "rank": 1,
-          "athlete": "MARSCHALL Kurtis",
-          "country": "AUS",
-          "dob": "25 APR 1997",
-          "mark": "5.90"
+          "name": "World Record",
+          "performance": "7.52",
+          "holder": "CHISTYAKOVA Galina",
+          "holderCountry": "URS",
+          "location": "Leningrad",
+          "date": "1988-06-11T00:00:00"
         },
         {
-          "rank": 2,
-          "athlete": "DUPLANTIS Armand",
-          "country": "SWE",
-          "dob": "10 NOV 1999",
-          "mark": "5.80"
+          "name": "Area Record",
+          "performance": "7.49",
+          "holder": "JOYNER-KERSEE Jackie",
+          "holderCountry": "USA",
+          "location": "New York, NY",
+          "date": "1994-05-22T00:00:00"
         },
         {
-          "rank": 3,
-          "athlete": "THIERY Baptiste",
-          "country": "FRA",
-          "dob": "29 JUN 2001",
-          "mark": "5.80"
+          "name": "Area Record",
+          "performance": "7.49",
+          "holder": "JOYNER-KERSEE Jackie",
+          "holderCountry": "USA",
+          "location": "Sestriere",
+          "date": "1994-07-31T00:00:00"
         },
         {
-          "rank": 4,
-          "athlete": "VLOON Menno",
-          "country": "NED",
-          "dob": "11 MAY 1994",
-          "mark": "5.80"
+          "name": "World Lead",
+          "performance": "7.09",
+          "holder": "JONES Alyssa",
+          "holderCountry": "USA",
+          "location": "Fayetteville, AR",
+          "date": "2026-05-28T00:00:00"
         },
         {
-          "rank": 5,
-          "athlete": "BRADFORD Zachery",
-          "country": "USA",
-          "dob": "29 NOV 1999",
-          "mark": "5.80"
+          "name": "Diamond League Record",
+          "performance": "7.25",
+          "holder": "REESE Brittney",
+          "holderCountry": "USA",
+          "location": "Doha",
+          "date": "2013-05-10T00:00:00"
         },
         {
-          "rank": 6,
-          "athlete": "GUTTORMSEN Sondre",
-          "country": "NOR",
-          "dob": "1 JUN 1999",
-          "mark": "5.70"
+          "name": "Meeting Record",
+          "performance": "7.05",
+          "holder": "CHISTYAKOVA Galina",
+          "holderCountry": "URS",
+          "date": "1989-07-03T00:00:00"
         },
         {
-          "rank": 6,
-          "athlete": "LAVILLENIE Renaud",
-          "country": "FRA",
-          "dob": "18 SEP 1986",
-          "note": "SB",
-          "mark": "5.70"
-        },
-        {
-          "rank": 8,
-          "athlete": "COLLET Thibaut",
-          "country": "FRA",
-          "dob": "17 JUN 1999",
-          "mark": "5.60"
-        },
-        {
-          "rank": 8,
-          "athlete": "KENDRICKS Sam",
-          "country": "USA",
-          "dob": "7 SEP 1992",
-          "mark": "5.60"
+          "name": "Meeting Record",
+          "performance": "7.05",
+          "holder": "DAVIS-WOODHALL Tara",
+          "holderCountry": "USA",
+          "date": "2025-06-15T00:00:00"
         }
-      ]
-    },
-    {
-      "id": "stockholm-discus-throw-men",
-      "discipline": "Discus Throw",
-      "category": "throws",
-      "gender": "men",
-      "isPrimary": true,
-      "startTime": "17:52",
+      ],
       "results": [
         {
           "rank": 1,
-          "athlete": "STÅHL Daniel",
-          "country": "SWE",
-          "dob": "27 AUG 1992",
-          "note": "SB",
-          "mark": "69.60"
+          "athlete": "KPATCHA Hilary",
+          "athleteId": "14576455",
+          "country": "FRA",
+          "bib": 27,
+          "mark": "6.85",
+          "qualificationRank": 3,
+          "qualificationPoints": 8
         },
         {
           "rank": 2,
-          "athlete": "DENNY Matthew",
-          "country": "AUS",
-          "dob": "2 JUN 1996",
-          "mark": "69.02"
+          "athlete": "IAPICHINO Larissa",
+          "athleteId": "14827877",
+          "country": "ITA",
+          "bib": 46,
+          "mark": "6.84",
+          "qualificationRank": 2,
+          "qualificationPoints": 11
         },
         {
           "rank": 3,
-          "athlete": "CEH Kristjan",
-          "country": "SLO",
-          "dob": "17 FEB 1999",
-          "mark": "67.67"
+          "athlete": "ROBINSON Nia",
+          "athleteId": "14693886",
+          "country": "JAM",
+          "bib": 48,
+          "mark": "6.80",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
         },
         {
           "rank": 4,
-          "athlete": "STONA Roje",
-          "country": "JAM",
-          "dob": "26 FEB 1999",
-          "mark": "66.42"
+          "athlete": "NICHOLS Monae'",
+          "athleteId": "14662524",
+          "country": "USA",
+          "bib": 103,
+          "mark": "6.74",
+          "qualificationRank": 1,
+          "qualificationPoints": 13
         },
         {
           "rank": 5,
-          "athlete": "MATTIS Sam",
-          "country": "USA",
-          "dob": "19 MAR 1994",
-          "mark": "66.03"
+          "athlete": "de SOUSA Agate",
+          "athleteId": "14816707",
+          "country": "POR",
+          "bib": 66,
+          "mark": "6.70",
+          "qualificationRank": 8,
+          "qualificationPoints": 4
         },
         {
           "rank": 6,
-          "athlete": "JANSSEN Henrik",
+          "athlete": "MIHAMBO Malaika",
+          "athleteId": "14377384",
           "country": "GER",
-          "dob": "19 MAY 1998",
-          "mark": "65.53"
+          "bib": 40,
+          "mark": "6.70",
+          "qualificationRank": 9,
+          "qualificationPoints": 3
         },
         {
           "rank": 7,
-          "athlete": "ROSE Alex",
-          "country": "SAM",
-          "dob": "17 NOV 1991",
-          "mark": "64.82"
+          "athlete": "BRYANT Claire",
+          "athleteId": "14716940",
+          "country": "USA",
+          "bib": 93,
+          "mark": "6.69",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
         },
         {
           "rank": 8,
-          "athlete": "OKOYE Lawrence",
-          "country": "GBR",
-          "dob": "6 OCT 1991",
-          "mark": "64.02"
+          "athlete": "HALLBERG HOSSAIN Ayla",
+          "athleteId": "14910025",
+          "country": "SWE",
+          "bib": 78,
+          "mark": "6.63",
+          "note": "PB*",
+          "qualificationRank": 12,
+          "qualificationPoints": 1
         },
         {
           "rank": 9,
-          "athlete": "DÍAZ Mario Alberto",
-          "country": "CUB",
-          "dob": "8 DEC 1999",
-          "mark": "61.45"
+          "athlete": "BROWN Alexis",
+          "athleteId": "14747974",
+          "country": "USA",
+          "bib": 92,
+          "mark": "6.62",
+          "qualificationRank": 7,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 10,
+          "athlete": "ÅSKAG Maja",
+          "athleteId": "14774822",
+          "country": "SWE",
+          "bib": 73,
+          "mark": "6.56"
         }
       ]
     },
     {
-      "id": "stockholm-100m-men",
+      "id": "stockholm-shot-put-women-185-1850040",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:17",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "22.63",
+          "holder": "LISOVSKAYA Natalya",
+          "holderCountry": "URS",
+          "location": "Moskva",
+          "date": "1987-06-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "20.96",
+          "holder": "LAZA Belsy",
+          "holderCountry": "CUB",
+          "location": "Ciudad de México",
+          "date": "1992-05-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "21.09",
+          "holder": "SCHILDER Jessica",
+          "holderCountry": "NED",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "21.09",
+          "holder": "SCHILDER Jessica",
+          "holderCountry": "NED",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "20.57",
+          "holder": "ADAMS Valerie",
+          "holderCountry": "NZL",
+          "date": "2011-07-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "20.89",
+          "holder": "SCHILDER Jessica",
+          "holderCountry": "NED",
+          "date": "2026-06-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SCHILDER Jessica",
+          "athleteId": "14688805",
+          "country": "NED",
+          "bib": 54,
+          "mark": "20.89",
+          "note": "MR",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "JACKSON Chase",
+          "athleteId": "14533525",
+          "country": "USA",
+          "bib": 98,
+          "mark": "19.91",
+          "qualificationRank": 2,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 3,
+          "athlete": "MITTON Sarah",
+          "athleteId": "14607093",
+          "country": "CAN",
+          "bib": 3,
+          "mark": "19.89",
+          "qualificationRank": 3,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 4,
+          "athlete": "ROOS Fanny",
+          "athleteId": "14429853",
+          "country": "SWE",
+          "bib": 87,
+          "mark": "18.90",
+          "qualificationRank": 4,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 5,
+          "athlete": "MABRY Yemisi",
+          "athleteId": "14565871",
+          "country": "GER",
+          "bib": 38,
+          "mark": "18.79",
+          "qualificationRank": 6,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 6,
+          "athlete": "THOMAS-DODD Danniel",
+          "athleteId": "14468647",
+          "country": "JAM",
+          "bib": 49,
+          "mark": "18.56",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "SMITH Abria",
+          "athleteId": "15008110",
+          "country": "USA",
+          "bib": 107,
+          "mark": "18.50",
+          "qualificationRank": 9,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "EWEN Maggie",
+          "athleteId": "14426023",
+          "country": "USA",
+          "bib": 94,
+          "mark": "17.93",
+          "qualificationRank": 10,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "ROSS Jaida",
+          "athleteId": "14850442",
+          "country": "USA",
+          "bib": 105,
+          "mark": "17.80",
+          "qualificationRank": 8,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 10,
+          "athlete": "DONGMO Auriol",
+          "athleteId": "14523980",
+          "country": "POR",
+          "bib": 67,
+          "mark": "17.45"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-discus-throw-women-186-1860040",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:04",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "76.80",
+          "holder": "REINSCH Gabriele",
+          "holderCountry": "GDR",
+          "location": "Neubrandenburg",
+          "date": "1988-07-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "71.68",
+          "holder": "XIAO Yanling",
+          "holderCountry": "CHN",
+          "location": "Beijing",
+          "date": "1992-03-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "73.52",
+          "holder": "ALLMAN Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2025-04-12T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "73.10",
+          "holder": "SION Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2026-04-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.38",
+          "holder": "PERKOVIC Sandra",
+          "holderCountry": "CRO",
+          "location": "Doha",
+          "date": "2018-05-04T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "68.77",
+          "holder": "PERKOVIC Sandra",
+          "holderCountry": "CRO",
+          "date": "2012-08-17T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SION Valarie",
+          "athleteId": "14479216",
+          "country": "USA",
+          "bib": 106,
+          "mark": "68.60",
+          "qualificationRank": 1,
+          "qualificationPoints": 24
+        },
+        {
+          "rank": 2,
+          "athlete": "van KLINKEN Jorinde",
+          "athleteId": "14676577",
+          "country": "NED",
+          "bib": 56,
+          "mark": "66.57",
+          "qualificationRank": 2,
+          "qualificationPoints": 20
+        },
+        {
+          "rank": 3,
+          "athlete": "TAUSAGA Laulauga",
+          "athleteId": "14647494",
+          "country": "USA",
+          "bib": 108,
+          "mark": "65.89",
+          "qualificationRank": 4,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 4,
+          "athlete": "FENG Bin",
+          "athleteId": "14430151",
+          "country": "CHN",
+          "bib": 5,
+          "mark": "64.15",
+          "qualificationRank": 3,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 5,
+          "athlete": "STEINACKER Marike",
+          "athleteId": "14373479",
+          "country": "GER",
+          "bib": 42,
+          "mark": "62.13",
+          "qualificationRank": 9,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "KAMGA Vanessa",
+          "athleteId": "14718533",
+          "country": "SWE",
+          "bib": 81,
+          "mark": "61.93",
+          "qualificationRank": 6,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 7,
+          "athlete": "CRAFT Shanice",
+          "athleteId": "14361931",
+          "country": "GER",
+          "bib": 36,
+          "mark": "61.88",
+          "qualificationRank": 7,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 8,
+          "athlete": "MORÁLES Silinda",
+          "athleteId": "14709137",
+          "country": "CUB",
+          "bib": 6,
+          "mark": "58.81",
+          "qualificationRank": 12,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "JACKSON Cierra",
+          "athleteId": "14839155",
+          "country": "USA",
+          "bib": 99,
+          "mark": "52.90",
+          "qualificationRank": 5,
+          "qualificationPoints": 7
+        }
+      ]
+    },
+    {
+      "id": "stockholm-100m-men-401-4010040",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
-      "phase": "promotional",
       "isPrimary": false,
-      "wind": "+0.5 m/s",
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.5",
       "startTime": "16:38",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.80",
+          "holder": "JACOBS Lamont Marcell",
+          "holderCountry": "ITA",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.84",
+          "holder": "AJAYI Kayinsola",
+          "holderCountry": "NGR",
+          "location": "Lexington, KY",
+          "date": "2026-05-29T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.84",
+          "holder": "GAY Tyson",
+          "holderCountry": "USA",
+          "location": "Stockholm",
+          "date": "2010-08-06T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "AZU Jeremiah",
+          "athleteId": "14771648",
           "country": "GBR",
-          "dob": "15 MAY 2001",
-          "reaction": 0.126,
-          "note": "SB",
-          "mark": "10.07"
+          "bib": 229,
+          "mark": "10.07",
+          "note": "SB"
         },
         {
           "rank": 2,
           "athlete": "BURNET Taymir",
+          "athleteId": "14530331",
           "country": "NED",
-          "dob": "1 OCT 1992",
-          "reaction": 0.138,
-          "note": "=PB",
-          "mark": "10.09"
+          "bib": 255,
+          "mark": "10.09",
+          "note": "=PB"
         },
         {
           "rank": 3,
           "athlete": "CURIN PRAPOTNIK Anej",
+          "athleteId": "14881323",
           "country": "SLO",
-          "dob": "23 MAY 2003",
-          "reaction": 0.156,
+          "bib": 273,
           "mark": "10.27"
         },
         {
           "rank": 4,
           "athlete": "MO-AJOK Xavi",
+          "athleteId": "14868549",
           "country": "NED",
-          "dob": "16 SEP 2002",
-          "reaction": 0.142,
-          "note": "SB",
-          "mark": "10.28"
+          "bib": 256,
+          "mark": "10.28",
+          "note": "SB"
         },
         {
           "rank": 5,
           "athlete": "PIHL Linus",
+          "athleteId": "15038403",
           "country": "SWE",
-          "dob": "4 AUG 2003",
-          "reaction": 0.15,
+          "bib": 298,
           "mark": "10.45"
         },
         {
           "rank": 6,
           "athlete": "OLSSON Filip",
+          "athleteId": "15014591",
           "country": "SWE",
-          "dob": "18 FEB 2006",
-          "reaction": 0.155,
-          "note": "=PB",
-          "mark": "10.53"
+          "bib": 333,
+          "mark": "10.53",
+          "note": "=PB"
         },
         {
           "rank": 7,
           "athlete": "THOR William",
+          "athleteId": "14804454",
           "country": "SWE",
-          "dob": "17 MAR 2000",
-          "reaction": 0.143,
-          "note": "SB",
-          "mark": "10.55"
+          "bib": 307,
+          "mark": "10.55",
+          "note": "SB"
         },
         {
           "rank": 8,
           "athlete": "SJÖLANDER Johan",
+          "athleteId": "14690391",
           "country": "SWE",
-          "dob": "12 FEB 1999",
-          "reaction": 0.158,
+          "bib": 300,
           "mark": "10.57"
         }
       ]
     },
     {
-      "id": "stockholm-800m-men",
-      "discipline": "800m",
-      "category": "middle",
+      "id": "stockholm-400m-hurdles-men-427-4270040",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
       "gender": "men",
-      "phase": "national",
       "isPrimary": false,
-      "startTime": "16:08",
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:19",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "45.94",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.17",
+          "holder": "BENJAMIN Rai",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.29",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Eugene, OR",
+          "date": "2022-07-19T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.98",
+          "holder": "SAMBA Abderrahman",
+          "holderCountry": "QAT",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "47.10",
+          "holder": "MATETE Samuel",
+          "holderCountry": "ZAM",
+          "location": "Zürich",
+          "date": "1991-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "46.72",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "46.28",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46.54",
+          "holder": "BENJAMIN Rai",
+          "holderCountry": "USA",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        }
+      ],
       "results": [
         {
+          "rank": 1,
+          "athlete": "dos SANTOS Alison",
+          "athleteId": "14755064",
+          "country": "BRA",
+          "bib": 209,
+          "mark": "47.11"
+        },
+        {
           "rank": 2,
-          "athlete": "SKOGLUND Erik",
-          "country": "SWE",
-          "dob": "27 MAY 2004",
-          "note": "PB",
-          "mark": "1:50.52"
+          "athlete": "LIMA Matheus",
+          "athleteId": "14918836",
+          "country": "BRA",
+          "bib": 210,
+          "mark": "47.37",
+          "note": "PB"
         },
         {
           "rank": 3,
-          "athlete": "WAHLGREN Victor",
-          "country": "SWE",
-          "dob": "20 JUN 2002",
-          "note": "SB",
-          "mark": "1:50.66"
+          "athlete": "AGYEKUM Emil",
+          "athleteId": "14679384",
+          "country": "GER",
+          "bib": 238,
+          "mark": "47.72",
+          "note": "PB"
         },
         {
           "rank": 4,
-          "athlete": "JOHANSSON HAUGE Lars",
-          "country": "NOR",
-          "dob": "12 JUN 2007",
-          "note": "PB",
-          "mark": "1:51.20"
+          "athlete": "TISANG Kemorena",
+          "athleteId": "14754324",
+          "country": "BOT",
+          "bib": 208,
+          "mark": "48.43",
+          "note": "SB"
         },
         {
           "rank": 5,
-          "athlete": "KARLSSON Vilmer",
-          "country": "SWE",
-          "dob": "11 JUN 2007",
-          "mark": "1:51.32"
+          "athlete": "HEMEIDA Bassem",
+          "athleteId": "14827001",
+          "country": "QAT",
+          "bib": 267,
+          "mark": "48.52",
+          "note": "SB"
         },
         {
           "rank": 6,
-          "athlete": "BODÉN Kevin",
+          "athlete": "EDLUND Oskar",
+          "athleteId": "14882511",
           "country": "SWE",
-          "dob": "16 OCT 2002",
-          "note": "SB",
-          "mark": "1:51.58"
+          "bib": 283,
+          "mark": "48.81",
+          "note": "SB"
         },
         {
           "rank": 7,
-          "athlete": "STEINER Noa",
-          "country": "SWE",
-          "dob": "16 MAY 2007",
-          "note": "PB",
-          "mark": "1:52.66"
+          "athlete": "WILSON Assinie",
+          "athleteId": "14836145",
+          "country": "JAM",
+          "bib": 243,
+          "mark": "49.13"
         },
         {
           "rank": 8,
-          "athlete": "ALNESS-BORG Axel",
+          "athlete": "DONOVAN Tyri",
+          "athleteId": "14769293",
+          "country": "GBR",
+          "bib": 232,
+          "mark": "49.75"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-women-511-5110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:27",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:53.28",
+          "holder": "KRATOCHVÍLOVÁ Jarmila",
+          "holderCountry": "TCH",
+          "location": "München",
+          "date": "1983-07-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:57.15",
+          "holder": "HULL Jessica",
+          "holderCountry": "AUS",
+          "location": "Tokyo",
+          "date": "2025-09-19T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:54.87",
+          "holder": "HODGKINSON Keely",
+          "holderCountry": "GBR",
+          "location": "Liévin",
+          "date": "2026-02-19T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:54.25",
+          "holder": "SEMENYA Caster",
+          "holderCountry": "RSA",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:56.28",
+          "holder": "ALMANZA Rose Mary",
+          "holderCountry": "CUB",
+          "date": "2021-07-04T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MITJANS Marta",
+          "athleteId": "14937005",
+          "country": "ESP",
+          "bib": 13,
+          "mark": "2:00.63",
+          "note": "SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "NYFORS Malin Ingeborg",
+          "athleteId": "14635501",
+          "country": "NOR",
+          "bib": 60,
+          "mark": "2:02.39"
+        },
+        {
+          "rank": 3,
+          "athlete": "CLEYET-MERLE Bérénice",
+          "athleteId": "14425535",
+          "country": "FRA",
+          "bib": 24,
+          "mark": "2:02.52",
+          "note": "SB"
+        },
+        {
+          "rank": 4,
+          "athlete": "HANCOCK-CAMERON J.",
+          "athleteId": "14764892",
+          "country": "AUS",
+          "bib": 1,
+          "mark": "2:02.66"
+        },
+        {
+          "rank": 5,
+          "athlete": "DESPOLLARI Georgia-Maria",
+          "athleteId": "14895318",
+          "country": "GRE",
+          "bib": 43,
+          "mark": "2:02.84"
+        },
+        {
+          "rank": 6,
+          "athlete": "ARMITAGE Lucy",
+          "athleteId": "15029436",
+          "country": "GBR",
+          "bib": 28,
+          "mark": "2:02.84"
+        },
+        {
+          "rank": 7,
+          "athlete": "LLOYD Ava",
+          "athleteId": "14843600",
+          "country": "GBR",
+          "bib": 32,
+          "mark": "2:02.85",
+          "note": "SB"
+        },
+        {
+          "rank": 8,
+          "athlete": "FREIJ Maria",
+          "athleteId": "14709499",
           "country": "SWE",
-          "dob": "25 AUG 1998",
-          "note": "SB",
-          "mark": "1:52.76"
+          "bib": 77,
+          "mark": "2:03.22",
+          "note": "SB"
+        },
+        {
+          "rank": 9,
+          "athlete": "NISSEN Annemarie",
+          "athleteId": "14651235",
+          "country": "DEN",
+          "bib": 10,
+          "mark": "2:03.85",
+          "note": "SB"
+        },
+        {
+          "rank": 10,
+          "athlete": "SCHMIDT Alica",
+          "athleteId": "14592274",
+          "country": "GER",
+          "bib": 41,
+          "mark": "2:04.33"
         },
         {
           "rank": null,
-          "athlete": "BÄCK John",
-          "country": "SWE",
-          "dob": "15 APR 2006",
+          "athlete": "GAJDA Sylwana",
+          "athleteId": "14902261",
+          "country": "POL",
+          "bib": 62,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "stockholm-1500m-men",
+      "id": "stockholm-1500m-women-513-5130040",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:47",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:51.95",
+          "holder": "HASSAN Sifan",
+          "holderCountry": "NED",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:54.99",
+          "holder": "HOULIHAN Shelby",
+          "holderCountry": "USA",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:55.56",
+          "holder": "HAYLOM Birke",
+          "holderCountry": "ETH",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:57.64",
+          "holder": "TSEGAY Gudaf",
+          "holderCountry": "ETH",
+          "location": "Stockholm",
+          "date": "2018-06-10T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HAYLOM Birke",
+          "athleteId": "15009582",
+          "country": "ETH",
+          "bib": 16,
+          "mark": "4:00.68"
+        },
+        {
+          "rank": 2,
+          "athlete": "STAFFORD Lucia",
+          "athleteId": "14464956",
+          "country": "CAN",
+          "bib": 4,
+          "mark": "4:01.93"
+        },
+        {
+          "rank": 3,
+          "athlete": "WALLACE Erin",
+          "athleteId": "14540786",
+          "country": "GBR",
+          "bib": 35,
+          "mark": "4:02.87",
+          "note": "SB"
+        },
+        {
+          "rank": 4,
+          "athlete": "KALAYU Haregeweyni",
+          "athleteId": "15285064",
+          "country": "ETH",
+          "bib": 17,
+          "mark": "4:03.86"
+        },
+        {
+          "rank": 5,
+          "athlete": "WIND Joceline",
+          "athleteId": "14843282",
+          "country": "SUI",
+          "bib": 70,
+          "mark": "4:04.66"
+        },
+        {
+          "rank": 6,
+          "athlete": "APPLETON Margot",
+          "athleteId": "14848160",
+          "country": "USA",
+          "bib": 91,
+          "mark": "4:04.92",
+          "note": "SB"
+        },
+        {
+          "rank": 7,
+          "athlete": "GAY Adèle",
+          "athleteId": "14924676",
+          "country": "FRA",
+          "bib": 26,
+          "mark": "4:05.11",
+          "note": "SB"
+        },
+        {
+          "rank": 8,
+          "athlete": "CAVALLI Ludovica",
+          "athleteId": "14752217",
+          "country": "ITA",
+          "bib": 44,
+          "mark": "4:05.15"
+        },
+        {
+          "rank": 9,
+          "athlete": "SABBATINI Gaia",
+          "athleteId": "14682711",
+          "country": "ITA",
+          "bib": 47,
+          "mark": "4:05.55",
+          "note": "SB"
+        },
+        {
+          "rank": 10,
+          "athlete": "BARNETT Mia",
+          "athleteId": "14806730",
+          "country": "SWE",
+          "bib": 74,
+          "mark": "4:06.00",
+          "note": "SB"
+        },
+        {
+          "rank": 11,
+          "athlete": "LØVNES Anne Gine",
+          "athleteId": "14797947",
+          "country": "NOR",
+          "bib": 59,
+          "mark": "4:06.30",
+          "note": "PB"
+        },
+        {
+          "rank": 12,
+          "athlete": "MESELE Worknesh",
+          "athleteId": "14852703",
+          "country": "ETH",
+          "bib": 18,
+          "mark": "4:06.51"
+        },
+        {
+          "rank": 13,
+          "athlete": "BERHE Saron",
+          "athleteId": "15009577",
+          "country": "ETH",
+          "bib": 14,
+          "mark": "4:06.64"
+        },
+        {
+          "rank": 14,
+          "athlete": "ELHADDAD Souad",
+          "athleteId": "15018745",
+          "country": "MAR",
+          "bib": 51,
+          "mark": "4:07.20",
+          "note": "PB"
+        },
+        {
+          "rank": 15,
+          "athlete": "PROVCI Saga",
+          "athleteId": "14907662",
+          "country": "SWE",
+          "bib": 85,
+          "mark": "4:09.95",
+          "note": "PB"
+        },
+        {
+          "rank": 16,
+          "athlete": "NIELSEN Julia",
+          "athleteId": "14653694",
+          "country": "SWE",
+          "bib": 82,
+          "mark": "4:10.13"
+        },
+        {
+          "rank": 17,
+          "athlete": "van ES Diane",
+          "athleteId": "14625026",
+          "country": "NED",
+          "bib": 55,
+          "mark": "4:12.64"
+        },
+        {
+          "rank": null,
+          "athlete": "JAGUSCIK Julia",
+          "athleteId": "14876743",
+          "country": "POL",
+          "bib": 63,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-men-611-6110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:08",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:40.91",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2012-08-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.11",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Köln",
+          "date": "1997-08-24T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:42.50",
+          "holder": "HOEY Josh",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2026-01-24T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:41.11",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "Lausanne",
+          "date": "2024-08-22T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:41.73",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Stockholm",
+          "date": "1997-07-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SÖDERQVIST Albert",
+          "athleteId": "15071184",
+          "country": "SWE",
+          "bib": 302,
+          "mark": "1:50.42",
+          "note": "PB"
+        },
+        {
+          "rank": 2,
+          "athlete": "SKOGLUND Erik",
+          "athleteId": "14994281",
+          "country": "SWE",
+          "bib": 301,
+          "mark": "1:50.52",
+          "note": "PB"
+        },
+        {
+          "rank": 3,
+          "athlete": "WAHLGREN Victor",
+          "athleteId": "14851978",
+          "country": "SWE",
+          "bib": 308,
+          "mark": "1:50.66",
+          "note": "SB"
+        },
+        {
+          "rank": 4,
+          "athlete": "JOHANSSON HAUGE Lars",
+          "athleteId": "15100914",
+          "country": "NOR",
+          "bib": 261,
+          "mark": "1:51.20",
+          "note": "PB"
+        },
+        {
+          "rank": 5,
+          "athlete": "KARLSSON Vilmer",
+          "athleteId": "15065164",
+          "country": "SWE",
+          "bib": 289,
+          "mark": "1:51.32"
+        },
+        {
+          "rank": 6,
+          "athlete": "BODÉN Kevin",
+          "athleteId": "14948981",
+          "country": "SWE",
+          "bib": 281,
+          "mark": "1:51.58",
+          "note": "SB"
+        },
+        {
+          "rank": 7,
+          "athlete": "STEINER Noa",
+          "athleteId": "15065183",
+          "country": "SWE",
+          "bib": 305,
+          "mark": "1:52.66",
+          "note": "PB"
+        },
+        {
+          "rank": 8,
+          "athlete": "ALNESS-BORG Axel",
+          "athleteId": "14715714",
+          "country": "SWE",
+          "bib": 278,
+          "mark": "1:52.76",
+          "note": "SB"
+        },
+        {
+          "rank": null,
+          "athlete": "BÄCK John",
+          "athleteId": "15110651",
+          "country": "SWE",
+          "bib": 279,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-men-613-6130040",
       "discipline": "1500m",
       "category": "middle",
       "gender": "men",
-      "phase": "national",
       "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
       "startTime": "15:20",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:26.00",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Roma",
+          "date": "1998-07-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:26.73",
+          "holder": "INGEBRIGTSEN Jakob",
+          "holderCountry": "NOR",
+          "location": "Monaco",
+          "date": "2024-07-12T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:29.85",
+          "holder": "MYERS Cameron",
+          "holderCountry": "AUS",
+          "location": "Sydney",
+          "date": "2026-04-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:26.69",
+          "holder": "KIPROP Asbel",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2015-07-17T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:29.30",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Stockholm",
+          "date": "1997-07-07T00:00:00"
+        }
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "BRHANE Yohannes Kiflay",
+          "athleteId": "14984651",
           "country": "ERI",
-          "dob": "24 APR 2002",
-          "note": "SB",
-          "mark": "3:45.40"
+          "bib": 215,
+          "mark": "3:45.40",
+          "note": "SB"
         },
         {
           "rank": 2,
           "athlete": "DYBWAD MATHIESEN S.",
+          "athleteId": "14951101",
           "country": "NOR",
-          "dob": "10 NOV 2003",
-          "note": "SB",
-          "mark": "3:45.52"
+          "bib": 259,
+          "mark": "3:45.52",
+          "note": "SB"
         },
         {
           "rank": 3,
           "athlete": "NILSSON Love",
+          "athleteId": "15174996",
           "country": "SWE",
-          "dob": "3 MAY 2007",
-          "note": "PB",
-          "mark": "3:46.18"
+          "bib": 294,
+          "mark": "3:46.18",
+          "note": "PB"
         },
         {
           "rank": 4,
           "athlete": "ÅBERG Benjamin",
+          "athleteId": "14600525",
           "country": "SWE",
-          "dob": "30 MAY 1995",
-          "note": "PB",
-          "mark": "3:46.56"
+          "bib": 276,
+          "mark": "3:46.56",
+          "note": "PB"
         },
         {
           "rank": 5,
           "athlete": "GRAHN Jonathan",
+          "athleteId": "14944276",
           "country": "SWE",
-          "dob": "30 DEC 2004",
-          "note": "SB",
-          "mark": "3:46.84"
+          "bib": 285,
+          "mark": "3:46.84",
+          "note": "SB"
         },
         {
           "rank": 6,
           "athlete": "NEDERHEIM Erik",
+          "athleteId": "15038264",
           "country": "SWE",
-          "dob": "22 MAY 2006",
-          "note": "SB",
-          "mark": "3:46.98"
+          "bib": 293,
+          "mark": "3:46.98",
+          "note": "SB"
+        },
+        {
+          "rank": 7,
+          "athlete": "HUMEUR August",
+          "athleteId": "15101579",
+          "country": "SWE",
+          "bib": 286,
+          "mark": "3:47.10",
+          "note": "PB"
         },
         {
           "rank": 8,
           "athlete": "NYSTRÖM Alexander",
+          "athleteId": "14830193",
           "country": "SWE",
-          "dob": "13 MAY 2003",
-          "note": "PB",
-          "mark": "3:47.63"
+          "bib": 296,
+          "mark": "3:47.63",
+          "note": "PB"
         },
         {
           "rank": 9,
           "athlete": "LÖFQVIST Oliver",
+          "athleteId": "14757485",
           "country": "SWE",
-          "dob": "5 MAY 1998",
-          "note": "SB",
-          "mark": "3:48.49"
+          "bib": 291,
+          "mark": "3:48.49",
+          "note": "SB"
         },
         {
           "rank": 10,
           "athlete": "da SILVA SVEEN August",
+          "athleteId": "14987572",
           "country": "NOR",
-          "dob": "3 AUG 2004",
-          "note": "SB",
-          "mark": "3:48.93"
+          "bib": 258,
+          "mark": "3:48.93",
+          "note": "SB"
         },
         {
           "rank": 11,
           "athlete": "YNGESJÖ Tim",
+          "athleteId": "14708942",
           "country": "SWE",
-          "dob": "11 FEB 1997",
-          "note": "PB",
-          "mark": "3:49.19"
+          "bib": 309,
+          "mark": "3:49.19",
+          "note": "PB"
         },
         {
           "rank": 12,
           "athlete": "OTTFALK Karl",
+          "athleteId": "14996742",
           "country": "SWE",
-          "dob": "3 JAN 2006",
-          "note": "SB",
-          "mark": "3:50.69"
+          "bib": 297,
+          "mark": "3:50.69",
+          "note": "SB"
         },
         {
           "rank": 13,
           "athlete": "NORD Jimmy",
+          "athleteId": "15131213",
           "country": "SWE",
-          "dob": "26 SEP 2006",
+          "bib": 295,
           "mark": "3:51.61"
         },
         {
           "rank": 14,
           "athlete": "KLINTH Jacob",
+          "athleteId": "14950812",
           "country": "SWE",
-          "dob": "25 AUG 2001",
+          "bib": 290,
           "mark": "3:52.98"
         },
         {
           "rank": 15,
           "athlete": "KÄLLMAN Eric",
+          "athleteId": "14762054",
           "country": "SWE",
-          "dob": "26 JUL 2000",
-          "note": "SB",
-          "mark": "3:55.44"
+          "bib": 288,
+          "mark": "3:55.44",
+          "note": "SB"
         },
         {
           "rank": null,
           "athlete": "EKNOR Tobias",
+          "athleteId": "14801233",
           "country": "SWE",
-          "dob": "4 JAN 2000",
+          "bib": 284,
           "mark": "DNF",
           "status": "DNF"
         },
         {
           "rank": null,
           "athlete": "SÖRQVIST Adam",
+          "athleteId": "15043645",
           "country": "SWE",
-          "dob": "22 JUL 2005",
+          "bib": 303,
           "mark": "DNF",
           "status": "DNF"
         }
       ]
     },
     {
-      "id": "stockholm-100m-women",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "women",
-      "isPrimary": true,
-      "wind": "+0.8 m/s",
-      "startTime": "17:45",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "JEFFERSON-WOODEN M.",
-          "country": "USA",
-          "dob": "21 FEB 2001",
-          "reaction": 0.133,
-          "note": "SB",
-          "mark": "10.84"
-        },
-        {
-          "rank": 2,
-          "athlete": "HUNT Amy",
-          "country": "GBR",
-          "dob": "15 MAY 2002",
-          "reaction": 0.129,
-          "note": "PB",
-          "mark": "10.97"
-        },
-        {
-          "rank": 3,
-          "athlete": "van der WEKEN Patrizia",
-          "country": "LUX",
-          "dob": "12 NOV 1999",
-          "reaction": 0.148,
-          "note": "SB",
-          "mark": "11.05"
-        },
-        {
-          "rank": 4,
-          "athlete": "BISSCHOPS Minke",
-          "country": "NED",
-          "dob": "2 SEP 2002",
-          "reaction": 0.139,
-          "note": "SB",
-          "mark": "11.08"
-        },
-        {
-          "rank": 5,
-          "athlete": "DOSSO Zaynab",
-          "country": "ITA",
-          "dob": "12 SEP 1999",
-          "reaction": 0.166,
-          "mark": "11.22"
-        },
-        {
-          "rank": 6,
-          "athlete": "ASHER-SMITH Dina",
-          "country": "GBR",
-          "dob": "4 DEC 1995",
-          "reaction": 0.161,
-          "note": "SB",
-          "mark": "11.24"
-        },
-        {
-          "rank": 7,
-          "athlete": "McCREATH Sade",
-          "country": "CAN",
-          "dob": "25 JUN 1996",
-          "reaction": 0.139,
-          "mark": "11.29"
-        },
-        {
-          "rank": 8,
-          "athlete": "HENRIKSSON Julia",
-          "country": "SWE",
-          "dob": "11 JUL 2000",
-          "reaction": 0.146,
-          "note": "SB",
-          "mark": "11.48"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-800m-women",
-      "discipline": "800m",
-      "category": "middle",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "18:41",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "WERRO Audrey",
-          "country": "SUI",
-          "dob": "27 MAR 2004",
-          "note": "DLR MR WL",
-          "mark": "1:53.98"
-        },
-        {
-          "rank": 2,
-          "athlete": "HODGKINSON Keely",
-          "country": "GBR",
-          "dob": "3 MAR 2002",
-          "note": "NR",
-          "mark": "1:54.33"
-        },
-        {
-          "rank": 3,
-          "athlete": "WILLIS Roisin",
-          "country": "USA",
-          "dob": "6 AUG 2004",
-          "note": "PB",
-          "mark": "1:57.56"
-        },
-        {
-          "rank": 4,
-          "athlete": "BOURGOIN Anaïs",
-          "country": "FRA",
-          "dob": "3 OCT 1996",
-          "mark": "1:57.68"
-        },
-        {
-          "rank": 5,
-          "athlete": "SEKGODISO Prudence",
-          "country": "RSA",
-          "dob": "5 JAN 2002",
-          "mark": "1:57.70"
-        },
-        {
-          "rank": 6,
-          "athlete": "WIELGOSZ Anna",
-          "country": "POL",
-          "dob": "9 NOV 1993",
-          "note": "PB",
-          "mark": "1:57.92"
-        },
-        {
-          "rank": 7,
-          "athlete": "ROGERS Raevyn",
-          "country": "USA",
-          "dob": "7 SEP 1996",
-          "note": "SB",
-          "mark": "1:57.94"
-        },
-        {
-          "rank": 8,
-          "athlete": "HURTA-KLECKER Sage",
-          "country": "USA",
-          "dob": "23 JUN 1998",
-          "mark": "1:58.26"
-        },
-        {
-          "rank": 9,
-          "athlete": "GETACHEW Nigist",
-          "country": "ETH",
-          "dob": "28 FEB 2002",
-          "mark": "1:58.59"
-        },
-        {
-          "rank": 10,
-          "athlete": "ANTONSEN Pernille Karlsen",
-          "country": "NOR",
-          "dob": "13 DEC 2002",
-          "note": "PB",
-          "mark": "1:58.82"
-        },
-        {
-          "rank": 11,
-          "athlete": "GAJANOVÁ Gabriela",
-          "country": "SVK",
-          "dob": "12 OCT 1999",
-          "mark": "2:02.88"
-        },
-        {
-          "rank": null,
-          "athlete": "KLOPFENSTEIN Rachel",
-          "country": "MRI",
-          "dob": "8 MAR 1995",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-1500m-women",
+      "id": "stockholm-1500m-women-713-7130040",
       "discipline": "1500m",
       "category": "middle",
       "gender": "women",
-      "isPrimary": true,
-      "startTime": "16:47",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "HAYLOM Birke",
-          "country": "ETH",
-          "dob": "6 JAN 2006",
-          "mark": "4:00.68"
-        },
-        {
-          "rank": 2,
-          "athlete": "STAFFORD Lucia",
-          "country": "CAN",
-          "dob": "17 AUG 1998",
-          "mark": "4:01.93"
-        },
-        {
-          "rank": 3,
-          "athlete": "WALLACE Erin",
-          "country": "GBR",
-          "dob": "18 MAY 2000",
-          "note": "SB",
-          "mark": "4:02.87"
-        },
-        {
-          "rank": 4,
-          "athlete": "KALAYU Haregeweyni",
-          "country": "ETH",
-          "dob": "29 MAY 2009",
-          "mark": "4:03.86"
-        },
-        {
-          "rank": 5,
-          "athlete": "WIND Joceline",
-          "country": "SUI",
-          "dob": "12 SEP 2000",
-          "mark": "4:04.66"
-        },
-        {
-          "rank": 6,
-          "athlete": "APPLETON Margot",
-          "country": "USA",
-          "dob": "30 SEP 2002",
-          "note": "SB",
-          "mark": "4:04.92"
-        },
-        {
-          "rank": 7,
-          "athlete": "GAY Adèle",
-          "country": "FRA",
-          "dob": "16 OCT 2004",
-          "note": "SB",
-          "mark": "4:05.11"
-        },
-        {
-          "rank": 8,
-          "athlete": "CAVALLI Ludovica",
-          "country": "ITA",
-          "dob": "20 DEC 2000",
-          "mark": "4:05.15"
-        },
-        {
-          "rank": 9,
-          "athlete": "SABBATINI Gaia",
-          "country": "ITA",
-          "dob": "10 JUN 1999",
-          "note": "SB",
-          "mark": "4:05.55"
-        },
-        {
-          "rank": 10,
-          "athlete": "BARNETT Mia",
-          "country": "SWE",
-          "dob": "4 SEP 2003",
-          "note": "SB",
-          "mark": "4:06.00"
-        },
-        {
-          "rank": 11,
-          "athlete": "LØVNES Anne Gine",
-          "country": "NOR",
-          "dob": "14 MAR 2003",
-          "note": "PB",
-          "mark": "4:06.30"
-        },
-        {
-          "rank": 12,
-          "athlete": "MESELE Worknesh",
-          "country": "ETH",
-          "dob": "11 JUN 2001",
-          "mark": "4:06.51"
-        },
-        {
-          "rank": 13,
-          "athlete": "BERHE Saron",
-          "country": "ETH",
-          "dob": "22 AUG 2007",
-          "mark": "4:06.64"
-        },
-        {
-          "rank": 14,
-          "athlete": "ELHADDAD Souad",
-          "country": "MAR",
-          "dob": "10 MAR 2001",
-          "note": "PB",
-          "mark": "4:07.20"
-        },
-        {
-          "rank": 15,
-          "athlete": "PROVCI Saga",
-          "country": "SWE",
-          "dob": "20 OCT 2004",
-          "note": "PB",
-          "mark": "4:09.95"
-        },
-        {
-          "rank": 16,
-          "athlete": "NIELSEN Julia",
-          "country": "SWE",
-          "dob": "2 JUN 2001",
-          "mark": "4:10.13"
-        },
-        {
-          "rank": 17,
-          "athlete": "van ES Diane",
-          "country": "NED",
-          "dob": "22 MAR 1999",
-          "mark": "4:12.64"
-        },
-        {
-          "rank": null,
-          "athlete": "JAGUSCIK Julia",
-          "country": "POL",
-          "dob": "16 DEC 2003",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-3000m-steeplechase-women",
-      "discipline": "3000m Steeplechase",
-      "category": "distance",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "17:17",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "BOUZAYANI Marwa",
-          "country": "TUN",
-          "dob": "26 MAR 1997",
-          "note": "MR",
-          "mark": "8:59.28"
-        },
-        {
-          "rank": 2,
-          "athlete": "THORNER Elise",
-          "country": "GBR",
-          "dob": "16 MAR 2001",
-          "mark": "9:11.01"
-        },
-        {
-          "rank": 3,
-          "athlete": "JENNINGS Gabrielle",
-          "country": "USA",
-          "dob": "15 SEP 1998",
-          "note": "SB",
-          "mark": "9:12.02"
-        },
-        {
-          "rank": 4,
-          "athlete": "TUFA Kena",
-          "country": "ETH",
-          "dob": "27 DEC 2005",
-          "mark": "9:12.42"
-        },
-        {
-          "rank": 5,
-          "athlete": "MEYER Lea",
-          "country": "GER",
-          "dob": "16 SEP 1997",
-          "note": "SB",
-          "mark": "9:13.67"
-        },
-        {
-          "rank": 6,
-          "athlete": "MONONEN Ilona",
-          "country": "FIN",
-          "dob": "18 DEC 2003",
-          "note": "NR",
-          "mark": "9:15.18"
-        },
-        {
-          "rank": 7,
-          "athlete": "WALLE Alemnat",
-          "country": "ETH",
-          "dob": "29 JAN 2006",
-          "mark": "9:15.33"
-        },
-        {
-          "rank": 8,
-          "athlete": "HALLADAY Lexy",
-          "country": "USA",
-          "dob": "23 JUL 2001",
-          "mark": "9:19.02"
-        },
-        {
-          "rank": 9,
-          "athlete": "HYDE Gracie",
-          "country": "USA",
-          "dob": "12 DEC 1999",
-          "mark": "9:24.19"
-        },
-        {
-          "rank": 10,
-          "athlete": "HVID Juliane",
-          "country": "DEN",
-          "dob": "8 APR 1998",
-          "mark": "9:25.46"
-        },
-        {
-          "rank": 11,
-          "athlete": "MARKEZICH Olivia",
-          "country": "USA",
-          "dob": "10 AUG 2000",
-          "mark": "9:25.79"
-        },
-        {
-          "rank": 12,
-          "athlete": "WAYMENT Courtney",
-          "country": "USA",
-          "dob": "4 AUG 1998",
-          "mark": "9:29.05"
-        },
-        {
-          "rank": 13,
-          "athlete": "FINOT Alice",
-          "country": "FRA",
-          "dob": "9 FEB 1991",
-          "note": "SB",
-          "mark": "9:34.30"
-        },
-        {
-          "rank": 14,
-          "athlete": "KRÓLIK Kinga",
-          "country": "POL",
-          "dob": "26 SEP 1999",
-          "mark": "9:35.47"
-        },
-        {
-          "rank": 15,
-          "athlete": "GÜRTH Olivia",
-          "country": "GER",
-          "dob": "31 MAY 2002",
-          "mark": "9:42.35"
-        },
-        {
-          "rank": 16,
-          "athlete": "YESHANEH Meseret",
-          "country": "ETH",
-          "dob": "12 MAY 2005",
-          "note": "SB",
-          "mark": "10:12.27"
-        },
-        {
-          "rank": null,
-          "athlete": "CHORZEPA Agnieszka",
-          "country": "POL",
-          "dob": "14 JAN 2001",
-          "mark": "DNF",
-          "status": "DNF"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-long-jump-women",
-      "discipline": "Long Jump",
-      "category": "jumps",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "17:23",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "KPATCHA Hilary",
-          "country": "FRA",
-          "dob": "5 MAY 1998",
-          "mark": "6.85"
-        },
-        {
-          "rank": 2,
-          "athlete": "IAPICHINO Larissa",
-          "country": "ITA",
-          "dob": "18 JUL 2002",
-          "mark": "6.84"
-        },
-        {
-          "rank": 3,
-          "athlete": "ROBINSON Nia",
-          "country": "JAM",
-          "dob": "8 NOV 2001",
-          "mark": "6.80"
-        },
-        {
-          "rank": 4,
-          "athlete": "NICHOLS Monae'",
-          "country": "USA",
-          "dob": "24 NOV 1998",
-          "mark": "6.74"
-        },
-        {
-          "rank": 5,
-          "athlete": "de SOUSA Agate",
-          "country": "POR",
-          "dob": "5 JUN 2000",
-          "mark": "6.70"
-        },
-        {
-          "rank": 6,
-          "athlete": "MIHAMBO Malaika",
-          "country": "GER",
-          "dob": "3 FEB 1994",
-          "mark": "6.70"
-        },
-        {
-          "rank": 7,
-          "athlete": "BRYANT Claire",
-          "country": "USA",
-          "dob": "25 AUG 2001",
-          "mark": "6.69"
-        },
-        {
-          "rank": 8,
-          "athlete": "HALLBERG HOSSAIN Ayla",
-          "country": "SWE",
-          "dob": "23 DEC 2006",
-          "note": "PB",
-          "mark": "6.63"
-        },
-        {
-          "rank": 9,
-          "athlete": "BROWN Alexis",
-          "country": "USA",
-          "dob": "26 APR 2001",
-          "mark": "6.62"
-        },
-        {
-          "rank": 10,
-          "athlete": "ÅSKAG Maja",
-          "country": "SWE",
-          "dob": "18 DEC 2002",
-          "mark": "6.56"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-shot-put-women",
-      "discipline": "Shot Put",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "16:17",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "SCHILDER Jessica",
-          "country": "NED",
-          "dob": "19 MAR 1999",
-          "note": "MR",
-          "mark": "20.89"
-        },
-        {
-          "rank": 2,
-          "athlete": "JACKSON Chase",
-          "country": "USA",
-          "dob": "20 JUL 1994",
-          "mark": "19.91"
-        },
-        {
-          "rank": 3,
-          "athlete": "MITTON Sarah",
-          "country": "CAN",
-          "dob": "20 JUN 1996",
-          "mark": "19.89"
-        },
-        {
-          "rank": 4,
-          "athlete": "ROOS Fanny",
-          "country": "SWE",
-          "dob": "2 JAN 1995",
-          "mark": "18.90"
-        },
-        {
-          "rank": 5,
-          "athlete": "MABRY Yemisi",
-          "country": "GER",
-          "dob": "3 OCT 1998",
-          "mark": "18.79"
-        },
-        {
-          "rank": 6,
-          "athlete": "THOMAS-DODD Danniel",
-          "country": "JAM",
-          "dob": "11 NOV 1992",
-          "mark": "18.56"
-        },
-        {
-          "rank": 7,
-          "athlete": "SMITH Abria",
-          "country": "USA",
-          "dob": "25 JAN 2002",
-          "mark": "18.50"
-        },
-        {
-          "rank": 8,
-          "athlete": "EWEN Maggie",
-          "country": "USA",
-          "dob": "23 SEP 1994",
-          "mark": "17.93"
-        },
-        {
-          "rank": 9,
-          "athlete": "ROSS Jaida",
-          "country": "USA",
-          "dob": "29 OCT 2001",
-          "mark": "17.80"
-        },
-        {
-          "rank": 10,
-          "athlete": "DONGMO Auriol",
-          "country": "POR",
-          "dob": "3 AUG 1990",
-          "mark": "17.45"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-discus-throw-women",
-      "discipline": "Discus Throw",
-      "category": "throws",
-      "gender": "women",
-      "isPrimary": true,
-      "startTime": "16:04",
-      "results": [
-        {
-          "rank": 1,
-          "athlete": "SION Valarie",
-          "country": "USA",
-          "dob": "23 FEB 1995",
-          "mark": "68.60"
-        },
-        {
-          "rank": 2,
-          "athlete": "van KLINKEN Jorinde",
-          "country": "NED",
-          "dob": "2 FEB 2000",
-          "mark": "66.57"
-        },
-        {
-          "rank": 3,
-          "athlete": "TAUSAGA Laulauga",
-          "country": "USA",
-          "dob": "22 MAY 1998",
-          "mark": "65.89"
-        },
-        {
-          "rank": 4,
-          "athlete": "FENG Bin",
-          "country": "CHN",
-          "dob": "3 APR 1994",
-          "mark": "64.15"
-        },
-        {
-          "rank": 5,
-          "athlete": "STEINACKER Marike",
-          "country": "GER",
-          "dob": "3 APR 1992",
-          "mark": "62.13"
-        },
-        {
-          "rank": 6,
-          "athlete": "KAMGA Vanessa",
-          "country": "SWE",
-          "dob": "19 NOV 1998",
-          "mark": "61.93"
-        },
-        {
-          "rank": 7,
-          "athlete": "CRAFT Shanice",
-          "country": "GER",
-          "dob": "15 MAY 1993",
-          "mark": "61.88"
-        },
-        {
-          "rank": 8,
-          "athlete": "MORÁLES Silinda",
-          "country": "CUB",
-          "dob": "30 AUG 2000",
-          "mark": "58.81"
-        },
-        {
-          "rank": 9,
-          "athlete": "JACKSON Cierra",
-          "country": "USA",
-          "dob": "28 AUG 2002",
-          "mark": "52.90"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-800m-women",
-      "discipline": "800m",
-      "category": "middle",
-      "gender": "women",
-      "phase": "promotional",
       "isPrimary": false,
-      "startTime": "16:27",
-      "results": [
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:35",
+      "startDate": "7 Jun 2026",
+      "records": [
         {
-          "rank": 1,
-          "athlete": "MITJANS Marta",
-          "country": "ESP",
-          "dob": "28 DEC 2006",
-          "note": "SB",
-          "mark": "2:00.63"
+          "name": "World Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
         },
         {
-          "rank": 2,
-          "athlete": "NYFORS Malin Ingeborg",
-          "country": "NOR",
-          "dob": "12 JUL 1997",
-          "mark": "2:02.39"
+          "name": "Area Record",
+          "performance": "3:51.95",
+          "holder": "HASSAN Sifan",
+          "holderCountry": "NED",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
         },
         {
-          "rank": 3,
-          "athlete": "CLEYET-MERLE Bérénice",
-          "country": "FRA",
-          "dob": "24 OCT 1994",
-          "note": "SB",
-          "mark": "2:02.52"
+          "name": "World Lead",
+          "performance": "3:55.56",
+          "holder": "HAYLOM Birke",
+          "holderCountry": "ETH",
+          "location": "Shaoxing/Keqiao",
+          "date": "2026-05-16T00:00:00"
         },
         {
-          "rank": 4,
-          "athlete": "HANCOCK-CAMERON J.",
-          "country": "AUS",
-          "dob": "28 MAY 2002",
-          "mark": "2:02.66"
+          "name": "Diamond League Record",
+          "performance": "3:48.68",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Eugene, OR",
+          "date": "2025-07-05T00:00:00"
         },
         {
-          "rank": 5,
-          "athlete": "DESPOLLARI Georgia-Maria",
-          "country": "GRE",
-          "dob": "19 SEP 2003",
-          "mark": "2:02.84(.834)"
-        },
-        {
-          "rank": 6,
-          "athlete": "ARMITAGE Lucy",
-          "country": "GBR",
-          "dob": "3 AUG 2004",
-          "mark": "2:02.84(.837)"
-        },
-        {
-          "rank": 7,
-          "athlete": "LLOYD Ava",
-          "country": "GBR",
-          "dob": "13 AUG 2005",
-          "note": "SB",
-          "mark": "2:02.85"
-        },
-        {
-          "rank": 8,
-          "athlete": "FREIJ Maria",
-          "country": "SWE",
-          "dob": "24 OCT 1998",
-          "note": "SB",
-          "mark": "2:03.22"
-        },
-        {
-          "rank": 9,
-          "athlete": "NISSEN Annemarie",
-          "country": "DEN",
-          "dob": "8 JUL 1994",
-          "note": "SB",
-          "mark": "2:03.85"
-        },
-        {
-          "rank": 10,
-          "athlete": "SCHMIDT Alica",
-          "country": "GER",
-          "dob": "8 NOV 1998",
-          "mark": "2:04.33"
-        },
-        {
-          "rank": null,
-          "athlete": "GAJDA Sylwana",
-          "country": "POL",
-          "dob": "10 NOV 1999",
-          "mark": "DNF",
-          "status": "DNF"
+          "name": "Meeting Record",
+          "performance": "3:57.64",
+          "holder": "TSEGAY Gudaf",
+          "holderCountry": "ETH",
+          "location": "Stockholm",
+          "date": "2018-06-10T00:00:00"
         }
-      ]
-    },
-    {
-      "id": "stockholm-1500m-women",
-      "discipline": "1500m",
-      "category": "middle",
-      "gender": "women",
-      "phase": "Calculated result",
-      "isPrimary": false,
-      "startTime": "15:10",
+      ],
       "results": [
         {
           "rank": 1,
           "athlete": "HELWIGH Anna Mark",
+          "athleteId": "14634709",
           "country": "DEN",
-          "dob": "12 MAR 2000",
-          "note": "SB",
-          "mark": "4:22.07"
+          "bib": 7,
+          "mark": "4:22.07",
+          "note": "SB"
         },
         {
           "rank": 2,
           "athlete": "THUNDAL Agnes",
+          "athleteId": "14907671",
           "country": "SWE",
-          "dob": "11 APR 2005",
-          "note": "PB",
-          "mark": "4:23.22"
+          "bib": 89,
+          "mark": "4:23.22",
+          "note": "PB"
         },
         {
           "rank": 3,
           "athlete": "THESTRUP Josephine",
+          "athleteId": "14486457",
           "country": "DEN",
-          "dob": "25 NOV 1996",
-          "note": "SB",
-          "mark": "4:23.23"
+          "bib": 12,
+          "mark": "4:23.23",
+          "note": "SB"
         },
         {
           "rank": 4,
           "athlete": "BJUVE Ebba-Stina",
+          "athleteId": "15062249",
           "country": "SWE",
-          "dob": "26 AUG 2007",
+          "bib": 76,
           "mark": "4:23.45"
         },
         {
           "rank": 5,
           "athlete": "PETTERSSON Stina",
+          "athleteId": "14948994",
           "country": "SWE",
-          "dob": "4 APR 2002",
+          "bib": 84,
           "mark": "4:24.49"
         },
         {
           "rank": 6,
           "athlete": "MØRCK Mia Helene",
+          "athleteId": "14572058",
           "country": "DEN",
-          "dob": "16 NOV 1999",
+          "bib": 9,
           "mark": "4:25.57"
         },
         {
           "rank": 7,
           "athlete": "HÖGARDH Caroline",
+          "athleteId": "14363230",
           "country": "SWE",
-          "dob": "16 NOV 1992",
-          "note": "SB",
-          "mark": "4:27.39"
+          "bib": 80,
+          "mark": "4:27.39",
+          "note": "SB"
         },
         {
           "rank": 8,
           "athlete": "SCHULZ Line Kalstrup",
+          "athleteId": "14429821",
           "country": "DEN",
-          "dob": "18 JUL 1996",
+          "bib": 11,
           "mark": "4:28.67"
+        },
+        {
+          "rank": 9,
+          "athlete": "ADOLFSSON Linn",
+          "athleteId": "15013816",
+          "country": "SWE",
+          "bib": 72,
+          "mark": "4:29.29",
+          "note": "PB"
         },
         {
           "rank": 10,
           "athlete": "RICHARDS Frederica",
+          "athleteId": "15058737",
           "country": "SWE",
-          "dob": "11 APR 1994",
+          "bib": 86,
           "mark": "4:33.19"
         },
         {
           "rank": 11,
           "athlete": "BJERSTRÖM Freja",
+          "athleteId": "15064395",
           "country": "SWE",
-          "dob": "24 JUL 2007",
+          "bib": 75,
           "mark": "4:38.66"
         },
         {
           "rank": null,
           "athlete": "HEIER Josefin Victoria",
+          "athleteId": "14943859",
           "country": "NOR",
-          "dob": "1 MAY 1996",
+          "bib": 58,
           "mark": "DNF",
           "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-4x200m-mixed-relay-women-935-9350040",
+      "discipline": "4x200m Mixed Relay",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:10",
+      "startDate": "7 Jun 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Latvia",
+          "country": "LAT",
+          "bib": 501,
+          "mark": "1:44.55"
+        },
+        {
+          "rank": 2,
+          "athlete": "Ukraine",
+          "country": "UKR",
+          "bib": 517,
+          "mark": "1:46.90"
+        },
+        {
+          "rank": 3,
+          "athlete": "IF Linnéa",
+          "country": "SWE",
+          "bib": 506,
+          "mark": "1:51.16"
+        },
+        {
+          "rank": 4,
+          "athlete": "IF Göta Karlstad",
+          "country": "SWE",
+          "bib": 505,
+          "mark": "1:52.87"
+        },
+        {
+          "rank": 5,
+          "athlete": "Turebergs FK 2",
+          "country": "SWE",
+          "bib": 515,
+          "mark": "1:53.68"
+        },
+        {
+          "rank": 6,
+          "athlete": "Spårvägens FK 1",
+          "country": "SWE",
+          "bib": 511,
+          "mark": "1:53.71"
+        },
+        {
+          "rank": 7,
+          "athlete": "Turebergs FK 1",
+          "country": "SWE",
+          "bib": 514,
+          "mark": "1:53.80"
+        },
+        {
+          "rank": 8,
+          "athlete": "Uppsala IF",
+          "country": "SWE",
+          "bib": 516,
+          "mark": "1:56.71"
+        },
+        {
+          "rank": 9,
+          "athlete": "Täby IS",
+          "country": "SWE",
+          "bib": 521,
+          "mark": "1:56.84"
+        },
+        {
+          "rank": 10,
+          "athlete": "Mälarhöjdens IK 1",
+          "country": "SWE",
+          "bib": 507,
+          "mark": "1:58.59"
+        },
+        {
+          "rank": 11,
+          "athlete": "Hammarby IF 1",
+          "country": "SWE",
+          "bib": 502,
+          "mark": "2:00.51"
+        },
+        {
+          "rank": 12,
+          "athlete": "Spårvägens FK 2",
+          "country": "SWE",
+          "bib": 512,
+          "mark": "2:02.87"
+        },
+        {
+          "rank": 13,
+          "athlete": "Hammarby IF 2",
+          "country": "SWE",
+          "bib": 503,
+          "mark": "2:04.66"
+        },
+        {
+          "rank": 14,
+          "athlete": "Mälarhöjdens IK 2",
+          "country": "SWE",
+          "bib": 508,
+          "mark": "2:06.20"
+        },
+        {
+          "rank": 15,
+          "athlete": "Hammarby IF 3",
+          "country": "SWE",
+          "bib": 504,
+          "mark": "2:11.10"
+        },
+        {
+          "rank": 16,
+          "athlete": "Mälarhöjdens IK 4",
+          "country": "SWE",
+          "bib": 510,
+          "mark": "2:14.19"
+        },
+        {
+          "rank": 17,
+          "athlete": "Tullinge FI",
+          "country": "SWE",
+          "bib": 513,
+          "mark": "2:16.55"
+        },
+        {
+          "rank": 18,
+          "athlete": "Mälarhöjdens IK 3",
+          "country": "SWE",
+          "bib": 509,
+          "mark": "2:16.85"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-4x200m-mixed-relay-women-935-9350041",
+      "discipline": "4x200m Mixed Relay",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:53",
+      "startDate": "7 Jun 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Turebergs FK 2",
+          "country": "SWE",
+          "bib": 515,
+          "mark": "1:53.68"
+        },
+        {
+          "rank": 2,
+          "athlete": "Täby IS",
+          "country": "SWE",
+          "bib": 521,
+          "mark": "1:56.84"
+        },
+        {
+          "rank": 3,
+          "athlete": "Spårvägens FK 2",
+          "country": "SWE",
+          "bib": 512,
+          "mark": "2:02.87"
+        },
+        {
+          "rank": 4,
+          "athlete": "Hammarby IF 3",
+          "country": "SWE",
+          "bib": 504,
+          "mark": "2:11.10"
+        },
+        {
+          "rank": 5,
+          "athlete": "Mälarhöjdens IK 4",
+          "country": "SWE",
+          "bib": 510,
+          "mark": "2:14.19"
+        },
+        {
+          "rank": 6,
+          "athlete": "Mälarhöjdens IK 3",
+          "country": "SWE",
+          "bib": 509,
+          "mark": "2:16.85"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-4x200m-mixed-relay-women-935-9350042",
+      "discipline": "4x200m Mixed Relay",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:01",
+      "startDate": "7 Jun 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "IF Linnéa",
+          "country": "SWE",
+          "bib": 506,
+          "mark": "1:51.16"
+        },
+        {
+          "rank": 2,
+          "athlete": "Spårvägens FK 1",
+          "country": "SWE",
+          "bib": 511,
+          "mark": "1:53.71"
+        },
+        {
+          "rank": 3,
+          "athlete": "Hammarby IF 2",
+          "country": "SWE",
+          "bib": 503,
+          "mark": "2:04.66"
+        },
+        {
+          "rank": 4,
+          "athlete": "Mälarhöjdens IK 2",
+          "country": "SWE",
+          "bib": 508,
+          "mark": "2:06.20"
+        },
+        {
+          "rank": 5,
+          "athlete": "Tullinge FI",
+          "country": "SWE",
+          "bib": 513,
+          "mark": "2:16.55"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-4x200m-mixed-relay-women-935-9350043",
+      "discipline": "4x200m Mixed Relay",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:09",
+      "startDate": "7 Jun 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Latvia",
+          "country": "LAT",
+          "bib": 501,
+          "mark": "1:44.55"
+        },
+        {
+          "rank": 2,
+          "athlete": "Ukraine",
+          "country": "UKR",
+          "bib": 517,
+          "mark": "1:46.90"
+        },
+        {
+          "rank": 3,
+          "athlete": "IF Göta Karlstad",
+          "country": "SWE",
+          "bib": 505,
+          "mark": "1:52.87"
+        },
+        {
+          "rank": 4,
+          "athlete": "Turebergs FK 1",
+          "country": "SWE",
+          "bib": 514,
+          "mark": "1:53.80"
+        },
+        {
+          "rank": 5,
+          "athlete": "Uppsala IF",
+          "country": "SWE",
+          "bib": 516,
+          "mark": "1:56.71"
+        },
+        {
+          "rank": 6,
+          "athlete": "Mälarhöjdens IK 1",
+          "country": "SWE",
+          "bib": 507,
+          "mark": "1:58.59"
+        },
+        {
+          "rank": 7,
+          "athlete": "Hammarby IF 1",
+          "country": "SWE",
+          "bib": 502,
+          "mark": "2:00.51"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-200m-men-002-0020040",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+1.0",
+      "startTime": "18:30",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "19.19",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-20T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "19.46",
+          "holder": "TEBOGO Letsile",
+          "holderCountry": "BOT",
+          "location": "Paris",
+          "date": "2024-08-08T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "19.72",
+          "holder": "MENNEA Pietro",
+          "holderCountry": "ITA",
+          "location": "Ciudad de México",
+          "date": "1979-09-12T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "19.67",
+          "holder": "GOUT Gout",
+          "holderCountry": "AUS",
+          "location": "Sydney",
+          "date": "2026-04-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "19.26",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Bruxelles",
+          "date": "2011-09-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "19.77",
+          "holder": "JOHNSON Michael",
+          "holderCountry": "USA",
+          "date": "1996-07-08T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BEDNAREK Kenneth",
+          "athleteId": "14715244",
+          "country": "USA",
+          "bib": 317,
+          "mark": "19.87",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "DAMBILE Sinesipho",
+          "athleteId": "14789650",
+          "country": "RSA",
+          "bib": 268,
+          "mark": "20.10",
+          "qualificationRank": 2,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 3,
+          "athlete": "LINDSEY Courtney",
+          "athleteId": "14845926",
+          "country": "USA",
+          "bib": 323,
+          "mark": "20.24",
+          "qualificationRank": 3,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 4,
+          "athlete": "MENA Reynier",
+          "athleteId": "14518308",
+          "country": "CUB",
+          "bib": 214,
+          "mark": "20.53",
+          "qualificationRank": 6,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "MTHIMKULU Mthi",
+          "athleteId": "14936548",
+          "country": "RSA",
+          "bib": 269,
+          "mark": "20.78",
+          "qualificationRank": 8,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "PIHL Linus",
+          "athleteId": "15038403",
+          "country": "SWE",
+          "bib": 298,
+          "mark": "20.90",
+          "note": "=PB",
+          "qualificationRank": 10,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": null,
+          "athlete": "AZU Jeremiah",
+          "athleteId": "14771648",
+          "country": "GBR",
+          "bib": 229,
+          "mark": "DQ",
+          "status": "DQ"
+        },
+        {
+          "rank": null,
+          "athlete": "MUMENTHALER Timothé",
+          "athleteId": "14778502",
+          "country": "SUI",
+          "bib": 275,
+          "mark": "DQ",
+          "status": "DQ"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-400m-men-004-0040040",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:04",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "43.03",
+          "holder": "van NIEKERK Wayde",
+          "holderCountry": "RSA",
+          "location": "Rio de Janeiro",
+          "date": "2016-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.18",
+          "holder": "JOHNSON Michael",
+          "holderCountry": "USA",
+          "location": "Sevilla",
+          "date": "1999-08-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.44",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "Paris",
+          "date": "2024-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.82",
+          "holder": "OGAZI Samuel",
+          "holderCountry": "NGR",
+          "location": "Lexington, KY",
+          "date": "2026-05-29T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.60",
+          "holder": "NORMAN Michael",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2022-05-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.50",
+          "holder": "WARINER Jeremy",
+          "holderCountry": "USA",
+          "date": "2007-08-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NENE Zakithi",
+          "athleteId": "14696997",
+          "country": "RSA",
+          "bib": 270,
+          "mark": "44.48",
+          "qualificationRank": 1,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 2,
+          "athlete": "PATTERSON Jacory",
+          "athleteId": "14715097",
+          "country": "USA",
+          "bib": 328,
+          "mark": "44.69",
+          "qualificationRank": 2,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 3,
+          "athlete": "RICHARDS Jereem",
+          "athleteId": "14434521",
+          "country": "TTO",
+          "bib": 316,
+          "mark": "44.87",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "McRAE Khaleb",
+          "athleteId": "14797010",
+          "country": "USA",
+          "bib": 326,
+          "mark": "44.94",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 5,
+          "athlete": "DOBSON Charles",
+          "athleteId": "14762871",
+          "country": "GBR",
+          "bib": 231,
+          "mark": "45.15",
+          "note": "SB",
+          "qualificationRank": 11,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "BENGTSTRÖM Carl",
+          "athleteId": "14713427",
+          "country": "SWE",
+          "bib": 280,
+          "mark": "45.89",
+          "note": "SB",
+          "qualificationRank": 13,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "SAMUKONGA Muzala",
+          "athleteId": "14930603",
+          "country": "ZAM",
+          "bib": 332,
+          "mark": "47.93",
+          "qualificationRank": 4,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": null,
+          "athlete": "HUDSON-SMITH Matthew",
+          "athleteId": "14407278",
+          "country": "GBR",
+          "bib": 234,
+          "mark": "DNS",
+          "qualificationRank": 7,
+          "qualificationPoints": 7,
+          "status": "DNS"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-800m-men-011-0110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:36",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:40.91",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2012-08-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.11",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Köln",
+          "date": "1997-08-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.20",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2024-08-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:42.55",
+          "holder": "BOL Peter",
+          "holderCountry": "AUS",
+          "location": "Monaco",
+          "date": "2025-07-11T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:42.50",
+          "holder": "HOEY Josh",
+          "holderCountry": "USA",
+          "location": "Boston, MA",
+          "date": "2026-01-24T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:41.11",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "Lausanne",
+          "date": "2024-08-22T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:41.73",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "date": "1997-07-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "LUTKENHAUS Cooper",
+          "athleteId": "15152457",
+          "country": "USA",
+          "bib": 324,
+          "mark": "1:42.70",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "AROP Marco",
+          "athleteId": "14755875",
+          "country": "CAN",
+          "bib": 211,
+          "mark": "1:43.11",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "MOULA Slimane",
+          "athleteId": "14747495",
+          "country": "ALG",
+          "bib": 201,
+          "mark": "1:43.41",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 4,
+          "athlete": "PATTISON Ben",
+          "athleteId": "14706169",
+          "country": "GBR",
+          "bib": 236,
+          "mark": "1:43.70",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 5,
+          "athlete": "BOL Peter",
+          "athleteId": "14456885",
+          "country": "AUS",
+          "bib": 202,
+          "mark": "1:43.70",
+          "note": "SB",
+          "qualificationRank": 13,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "TUAL Gabriel",
+          "athleteId": "14646018",
+          "country": "FRA",
+          "bib": 228,
+          "mark": "1:43.72",
+          "qualificationRank": 5,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 7,
+          "athlete": "WIGHTMAN Jake",
+          "athleteId": "14522654",
+          "country": "GBR",
+          "bib": 237,
+          "mark": "1:44.39",
+          "note": "SB",
+          "qualificationRank": 16,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "HOPPEL Bryce",
+          "athleteId": "14656699",
+          "country": "USA",
+          "bib": 320,
+          "mark": "1:44.66",
+          "qualificationRank": 19,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "HAINGURA Kethobogile",
+          "athleteId": "15015852",
+          "country": "BOT",
+          "bib": 207,
+          "mark": "1:45.58",
+          "qualificationRank": 2,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 10,
+          "athlete": "ATTAOUI Mohamed",
+          "athleteId": "14929058",
+          "country": "ESP",
+          "bib": 217,
+          "mark": "1:46.92"
+        },
+        {
+          "rank": null,
+          "athlete": "SIERADZKI Patryk",
+          "athleteId": "14647295",
+          "country": "POL",
+          "bib": 266,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-1500m-men-013-0130040",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "18:51",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:26.00",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Roma",
+          "date": "1998-07-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:26.73",
+          "holder": "INGEBRIGTSEN Jakob",
+          "holderCountry": "NOR",
+          "location": "Monaco",
+          "date": "2024-07-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:27.65",
+          "holder": "HOCKER Cole",
+          "holderCountry": "USA",
+          "location": "Paris",
+          "date": "2024-08-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:29.41",
+          "holder": "HOARE Oliver",
+          "holderCountry": "AUS",
+          "location": "Oslo",
+          "date": "2023-06-15T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:29.85",
+          "holder": "MYERS Cameron",
+          "holderCountry": "AUS",
+          "location": "Sydney",
+          "date": "2026-04-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:26.69",
+          "holder": "KIPROP Asbel",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2015-07-17T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:29.30",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "date": "1997-07-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NUGUSE Yared",
+          "athleteId": "14798735",
+          "country": "USA",
+          "bib": 327,
+          "mark": "3:30.11",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "MYERS Cameron",
+          "athleteId": "14962470",
+          "country": "AUS",
+          "bib": 205,
+          "mark": "3:30.32",
+          "qualificationRank": 2,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 3,
+          "athlete": "CHERUIYOT Timothy",
+          "athleteId": "14643526",
+          "country": "KEN",
+          "bib": 246,
+          "mark": "3:30.67",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "CIATTEI Vincent",
+          "athleteId": "14531160",
+          "country": "USA",
+          "bib": 319,
+          "mark": "3:31.63",
+          "qualificationRank": 4,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "NORDÅS Narve Gilje",
+          "athleteId": "14705412",
+          "country": "NOR",
+          "bib": 263,
+          "mark": "3:31.74",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "KESSLER Hobbs",
+          "athleteId": "14970747",
+          "country": "USA",
+          "bib": 322,
+          "mark": "3:31.76",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "VERHEYDEN Ruben",
+          "athleteId": "14754671",
+          "country": "BEL",
+          "bib": 206,
+          "mark": "3:32.91",
+          "qualificationRank": 7,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "FARKEN Robert",
+          "athleteId": "14597052",
+          "country": "GER",
+          "bib": 240,
+          "mark": "3:32.99",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "HABZ Azeddine",
+          "athleteId": "14640588",
+          "country": "FRA",
+          "bib": 224,
+          "mark": "3:33.84"
+        },
+        {
+          "rank": 10,
+          "athlete": "SZOT Flavien",
+          "athleteId": "14851721",
+          "country": "FRA",
+          "bib": 226,
+          "mark": "3:34.27"
+        },
+        {
+          "rank": 11,
+          "athlete": "PIHLSTRÖM Samuel",
+          "athleteId": "14930461",
+          "country": "SWE",
+          "bib": 299,
+          "mark": "3:34.53"
+        },
+        {
+          "rank": 12,
+          "athlete": "GRESSIER Jimmy",
+          "athleteId": "14694062",
+          "country": "FRA",
+          "bib": 223,
+          "mark": "3:34.63",
+          "note": "SB"
+        },
+        {
+          "rank": 13,
+          "athlete": "HEYWARD Jake",
+          "athleteId": "14597392",
+          "country": "GBR",
+          "bib": 233,
+          "mark": "3:35.53"
+        },
+        {
+          "rank": 14,
+          "athlete": "ALMGREN Andreas",
+          "athleteId": "14460738",
+          "country": "SWE",
+          "bib": 277,
+          "mark": "3:36.81",
+          "note": "SB"
+        },
+        {
+          "rank": null,
+          "athlete": "CLARIDGE Ben",
+          "athleteId": "14595545",
+          "country": "GBR",
+          "bib": 230,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "RUDOLF Žan",
+          "athleteId": "14375002",
+          "country": "SLO",
+          "bib": 274,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-3000m-steeplechase-men-029-0290040",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:59",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "7:52.11",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7:53.63",
+          "holder": "SHAHEEN Saif Saaeed",
+          "holderCountry": "QAT",
+          "location": "Bruxelles",
+          "date": "2004-09-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7:57.80",
+          "holder": "RUPPERT Frederik",
+          "holderCountry": "GER",
+          "location": "Rabat",
+          "date": "2026-05-31T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:00.45",
+          "holder": "JAGER Evan",
+          "holderCountry": "USA",
+          "location": "Paris-St-Denis",
+          "date": "2015-07-04T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:09.64",
+          "holder": "BEAMISH Geordie",
+          "holderCountry": "NZL",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "7:57.25",
+          "holder": "EL BAKKALI Soufiane",
+          "holderCountry": "MAR",
+          "location": "Rabat",
+          "date": "2026-05-31T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "7:52.11",
+          "holder": "GIRMA Lamecha",
+          "holderCountry": "ETH",
+          "location": "Paris",
+          "date": "2023-06-09T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "7:59.42",
+          "holder": "KOECH Paul Kipsiele",
+          "holderCountry": "KEN",
+          "date": "2007-08-07T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "EL BAKKALI Soufiane",
+          "athleteId": "14590424",
+          "country": "MAR",
+          "bib": 254,
+          "mark": "8:10.40",
+          "qualificationRank": 1,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": 2,
+          "athlete": "SEREM Edmund",
+          "athleteId": "15102091",
+          "country": "KEN",
+          "bib": 251,
+          "mark": "8:12.27",
+          "qualificationRank": 2,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 3,
+          "athlete": "KIBIWOT Abraham",
+          "athleteId": "14657344",
+          "country": "KEN",
+          "bib": 247,
+          "mark": "8:12.75",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "BEN YAZIDE Salah Eddine",
+          "athleteId": "14977838",
+          "country": "MAR",
+          "bib": 252,
+          "mark": "8:13.02",
+          "qualificationRank": 4,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 5,
+          "athlete": "BEAMISH Geordie",
+          "athleteId": "14578186",
+          "country": "NZL",
+          "bib": 264,
+          "mark": "8:13.11",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "KOECH Simon Kiprop",
+          "athleteId": "14989901",
+          "country": "KEN",
+          "bib": 248,
+          "mark": "8:13.40",
+          "qualificationRank": 3,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 7,
+          "athlete": "BEBENDORF Karl",
+          "athleteId": "14597064",
+          "country": "GER",
+          "bib": 239,
+          "mark": "8:14.13",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "WILKINSON Matthew",
+          "athleteId": "14835741",
+          "country": "USA",
+          "bib": 334,
+          "mark": "8:14.27",
+          "qualificationRank": 7,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 9,
+          "athlete": "BETT Leonard Kipkemoi",
+          "athleteId": "14802643",
+          "country": "KEN",
+          "bib": 245,
+          "mark": "8:18.70",
+          "note": "SB"
+        },
+        {
+          "rank": 10,
+          "athlete": "ARCE Daniel",
+          "athleteId": "14420300",
+          "country": "ESP",
+          "bib": 216,
+          "mark": "8:20.02",
+          "qualificationRank": 11,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 11,
+          "athlete": "SIME Abrham",
+          "athleteId": "14852011",
+          "country": "ETH",
+          "bib": 221,
+          "mark": "8:22.94"
+        },
+        {
+          "rank": 12,
+          "athlete": "JOHANSSON Vidar",
+          "athleteId": "14535353",
+          "country": "SWE",
+          "bib": 287,
+          "mark": "8:23.65",
+          "note": "SB"
+        },
+        {
+          "rank": 13,
+          "athlete": "MIURA Ryuji",
+          "athleteId": "14860379",
+          "country": "JPN",
+          "bib": 244,
+          "mark": "8:23.97",
+          "note": "SB"
+        },
+        {
+          "rank": 14,
+          "athlete": "MAGNUSSON Leo",
+          "athleteId": "14635539",
+          "country": "SWE",
+          "bib": 292,
+          "mark": "8:24.69",
+          "note": "SB"
+        },
+        {
+          "rank": 15,
+          "athlete": "WILLIAMS Carson",
+          "athleteId": "14969083",
+          "country": "USA",
+          "bib": 331,
+          "mark": "8:25.55",
+          "note": "SB"
+        },
+        {
+          "rank": 16,
+          "athlete": "SUNDSTRÖM Simon",
+          "athleteId": "14653682",
+          "country": "SWE",
+          "bib": 306,
+          "mark": "8:25.99"
+        },
+        {
+          "rank": 17,
+          "athlete": "GIRMA Eisa",
+          "athleteId": "15241817",
+          "country": "ETH",
+          "bib": 219,
+          "mark": "8:26.33"
+        },
+        {
+          "rank": 18,
+          "athlete": "ROOKS Kenneth",
+          "athleteId": "14877563",
+          "country": "USA",
+          "bib": 329,
+          "mark": "8:29.00"
+        },
+        {
+          "rank": 19,
+          "athlete": "AYALEW Hailu",
+          "athleteId": "15173652",
+          "country": "ETH",
+          "bib": 218,
+          "mark": "8:37.96"
+        },
+        {
+          "rank": 20,
+          "athlete": "MEGIER Maciej",
+          "athleteId": "14944552",
+          "country": "POL",
+          "bib": 265,
+          "mark": "8:44.20",
+          "note": "SB"
+        },
+        {
+          "rank": null,
+          "athlete": "BOUASSEL Abderrafia",
+          "athleteId": "14843153",
+          "country": "MAR",
+          "bib": 253,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "GIRMA Lamecha",
+          "athleteId": "14848765",
+          "country": "ETH",
+          "bib": 220,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KONES Wilberforce C.",
+          "athleteId": "14755096",
+          "country": "KEN",
+          "bib": 249,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "LANGAT Wesley",
+          "athleteId": "14746631",
+          "country": "KEN",
+          "bib": 250,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-pole-vault-men-082-0820040",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "16:14",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.06",
+          "holder": "HOOKER Steven",
+          "holderCountry": "AUS",
+          "location": "Boston, MA",
+          "date": "2009-02-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.07",
+          "holder": "LIGHTFOOT KC",
+          "holderCountry": "USA",
+          "location": "Nashville, TN",
+          "date": "2023-06-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "6.28",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "6.16",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "date": "2022-06-30T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "6.28",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "date": "2025-06-15T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MARSCHALL Kurtis",
+          "athleteId": "14565327",
+          "country": "AUS",
+          "bib": 204,
+          "mark": "5.90",
+          "qualificationRank": 2,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 2,
+          "athlete": "DUPLANTIS Armand",
+          "athleteId": "14679502",
+          "country": "SWE",
+          "bib": 282,
+          "mark": "5.80",
+          "qualificationRank": 1,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 3,
+          "athlete": "THIERY Baptiste",
+          "athleteId": "14780520",
+          "country": "FRA",
+          "bib": 227,
+          "mark": "5.80",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 4,
+          "athlete": "VLOON Menno",
+          "athleteId": "14482223",
+          "country": "NED",
+          "bib": 257,
+          "mark": "5.80",
+          "qualificationRank": 3,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 5,
+          "athlete": "BRADFORD Zachery",
+          "athleteId": "14717685",
+          "country": "USA",
+          "bib": 318,
+          "mark": "5.80",
+          "qualificationRank": 7,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "GUTTORMSEN Sondre",
+          "athleteId": "14681630",
+          "country": "NOR",
+          "bib": 260,
+          "mark": "5.70",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 6,
+          "athlete": "LAVILLENIE Renaud",
+          "athleteId": "14185853",
+          "country": "FRA",
+          "bib": 225,
+          "mark": "5.70",
+          "note": "SB",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 8,
+          "athlete": "COLLET Thibaut",
+          "athleteId": "14733137",
+          "country": "FRA",
+          "bib": 222,
+          "mark": "5.60",
+          "qualificationRank": 4,
+          "qualificationPoints": 7
+        },
+        {
+          "rank": 8,
+          "athlete": "KENDRICKS Sam",
+          "athleteId": "14440868",
+          "country": "USA",
+          "bib": 321,
+          "mark": "5.60",
+          "qualificationRank": 4,
+          "qualificationPoints": 7
+        }
+      ]
+    },
+    {
+      "id": "stockholm-discus-throw-men-086-0860040",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "17:52",
+      "startDate": "7 Jun 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "75.56",
+          "holder": "ALEKNA Mykolas",
+          "holderCountry": "LTU",
+          "location": "Ramona, OK",
+          "date": "2025-04-13T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "72.45",
+          "holder": "MATTIS Sam",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2026-04-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "74.78",
+          "holder": "DENNY Matthew",
+          "holderCountry": "AUS",
+          "location": "Ramona, OK",
+          "date": "2025-04-13T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "74.04",
+          "holder": "DENNY Matthew",
+          "holderCountry": "AUS",
+          "location": "Ramona, OK",
+          "date": "2026-04-09T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.70",
+          "holder": "ALEKNA Mykolas",
+          "holderCountry": "LTU",
+          "location": "London",
+          "date": "2025-07-19T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "70.02",
+          "holder": "CEH Kristjan",
+          "holderCountry": "SLO",
+          "date": "2022-06-30T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "STÅHL Daniel",
+          "athleteId": "14375325",
+          "country": "SWE",
+          "bib": 304,
+          "mark": "69.60",
+          "note": "SB",
+          "qualificationRank": 2,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 2,
+          "athlete": "DENNY Matthew",
+          "athleteId": "14436890",
+          "country": "AUS",
+          "bib": 203,
+          "mark": "69.02",
+          "qualificationRank": 3,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 3,
+          "athlete": "CEH Kristjan",
+          "athleteId": "14666860",
+          "country": "SLO",
+          "bib": 272,
+          "mark": "67.67",
+          "qualificationRank": 1,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 4,
+          "athlete": "STONA Roje",
+          "athleteId": "14744385",
+          "country": "JAM",
+          "bib": 242,
+          "mark": "66.42",
+          "qualificationRank": 4,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 5,
+          "athlete": "MATTIS Sam",
+          "athleteId": "14416979",
+          "country": "USA",
+          "bib": 325,
+          "mark": "66.03",
+          "qualificationRank": 5,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 6,
+          "athlete": "JANSSEN Henrik",
+          "athleteId": "14626440",
+          "country": "GER",
+          "bib": 241,
+          "mark": "65.53",
+          "qualificationRank": 8,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "ROSE Alex",
+          "athleteId": "14389747",
+          "country": "SAM",
+          "bib": 271,
+          "mark": "64.82",
+          "qualificationRank": 9,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "OKOYE Lawrence",
+          "athleteId": "14425340",
+          "country": "GBR",
+          "bib": 235,
+          "mark": "64.02",
+          "qualificationRank": 6,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 9,
+          "athlete": "DÍAZ Mario Alberto",
+          "athleteId": "14663422",
+          "country": "CUB",
+          "bib": 213,
+          "mark": "61.45"
         }
       ]
     }

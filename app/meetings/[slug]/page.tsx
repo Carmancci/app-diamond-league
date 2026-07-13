@@ -13,6 +13,8 @@ import {
   getMeetingStatus,
 } from '@/lib/diamond-league/utils'
 import { CountryFlag } from '@/components/country-flag'
+import { dataStatePtBr } from '@/lib/diamond-league/i18n'
+import { venueDateTimeToUtc } from '@/lib/diamond-league/time'
 
 export function generateStaticParams() {
   return MEETINGS.map((m) => ({ slug: m.slug }))
@@ -42,7 +44,12 @@ export default async function MeetingPage({
   if (!meeting) notFound()
 
   const status = getMeetingStatus(meeting)
-  const disciplineCount = meeting.events.filter((e) => e.isPrimary).length
+  const disciplineCount = meeting.events.filter((event) => event.isPrimary).length
+  const firstStartTime = meeting.events.map((event) => event.startTime).filter(Boolean).sort()[0]
+  const countdownTarget = firstStartTime && meeting.timezone
+    ? venueDateTimeToUtc(meeting.date, firstStartTime, meeting.timezone)?.toISOString()
+    : undefined
+  const officialSource = typeof meeting.source === 'object' && meeting.source ? meeting.source : null
 
   return (
     <main className="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
@@ -88,28 +95,31 @@ export default async function MeetingPage({
             </div>
           </div>
 
-          {status !== 'completed' && (
+          {status !== 'completed' && countdownTarget && (
             <div className="lg:text-right">
               <p className="mb-2 font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
-                {status === 'live' ? 'Sessão em andamento' : 'Contagem regressiva'}
+                {status === 'live' ? 'Sessão em andamento' : 'Até a primeira prova'}
               </p>
-              <Countdown target={`${meeting.date}T18:00:00Z`} />
+              <Countdown target={countdownTarget} />
             </div>
           )}
         </div>
 
         <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-2 border-t border-border pt-5 text-sm">
           <span className="text-muted-foreground">
-            <span className="font-semibold text-foreground">{disciplineCount}</span> modalidades
-            no programa
+            <span className="font-semibold text-foreground">{disciplineCount}</span> listas/provas publicadas
           </span>
+          <span className="rounded-full bg-chart-4/15 px-2.5 py-1 text-xs font-semibold text-chart-4">
+            {dataStatePtBr(meeting.state)}
+          </span>
+          {meeting.updatedAt && <span className="text-xs text-muted-foreground">Atualizado em {new Intl.DateTimeFormat('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }).format(new Date(meeting.updatedAt))} (Brasília)</span>}
           <a
-            href={meeting.officialUrl}
+            href={officialSource?.url ?? meeting.officialUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1 font-medium text-primary hover:underline"
           >
-            Programa oficial e PDFs
+            Consultar fonte oficial
             <ArrowUpRight className="size-3.5" />
           </a>
         </div>
@@ -120,7 +130,12 @@ export default async function MeetingPage({
         <h2 className="mb-4 text-xl font-bold tracking-tight sm:text-2xl">
           {status === 'completed' ? 'Resultados' : 'Programa'}
         </h2>
-        <EventBrowser events={meeting.events} />
+        <EventBrowser
+          events={meeting.events}
+          meetingDate={meeting.date}
+          venueTimeZone={meeting.timezone ?? 'UTC'}
+          venueName={`${meeting.stadium}, ${meeting.city}`}
+        />
       </section>
 
       {status === 'completed' && (

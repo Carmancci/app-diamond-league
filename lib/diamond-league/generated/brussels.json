@@ -271,5 +271,9 @@
       "results": []
     }
   ],
-  "hasProgram": true
+  "hasProgram": true,
+  "timezone": "Europe/Brussels",
+  "state": "aguardando_fonte",
+  "eventCount": 32,
+  "athleteCount": 0
 }

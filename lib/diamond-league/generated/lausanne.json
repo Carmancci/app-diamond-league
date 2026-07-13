@@ -134,5 +134,9 @@
       "results": []
     }
   ],
-  "hasProgram": true
+  "hasProgram": true,
+  "timezone": "Europe/Zurich",
+  "state": "aguardando_fonte",
+  "eventCount": 15,
+  "athleteCount": 0
 }

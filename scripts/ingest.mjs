@@ -75,7 +75,19 @@ for (const entry of entries) {
   const response = await fetchOfficialJson(url)
 
   if (response.kind === 'not-published') {
-    if (!previous && !checkOnly) writeJsonAtomic(destination, awaitingMeeting(entry))
+    if (!checkOnly) {
+      const fallback = previous ?? awaitingMeeting(entry)
+      writeJsonAtomic(destination, {
+        ...fallback,
+        timezone: fallback.timezone ?? entry.timezone,
+        state: fallback.events?.some((event) => event.results?.length)
+          ? fallback.state ?? 'parcial'
+          : 'aguardando_fonte',
+        eventCount: fallback.events?.length ?? 0,
+        athleteCount:
+          fallback.events?.reduce((total, event) => total + (event.results?.length ?? 0), 0) ?? 0,
+      })
+    }
     console.log('aguardando publicação oficial; último dado válido preservado')
     continue
   }

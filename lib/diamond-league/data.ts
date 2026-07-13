@@ -31,7 +31,7 @@ const POINTS_BY_RANK = [8, 7, 6, 5, 4, 3, 2, 1]
 const FINAL_POINTS_BY_RANK = [8, 7, 6, 5, 4, 3, 2, 1]
 
 function withPoints(event: EventResult, isFinal: boolean): EventResult {
-  if (!event.isPrimary) return event
+  if (!event.isPrimary || !event.listType?.startsWith('resultados')) return event
   const table = isFinal ? FINAL_POINTS_BY_RANK : POINTS_BY_RANK
   const results: AthleteResult[] = event.results.map((r) => {
     if (r.rank && r.rank >= 1 && r.rank <= table.length) {
