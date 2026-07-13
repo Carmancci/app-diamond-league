@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { useState } from 'react'
 import { cn } from '@/lib/utils'
 import { athletePhoto } from '@/lib/diamond-league/athlete-photos'
@@ -23,13 +24,14 @@ export function AthleteAvatar({ id, name, country, className, showFlag = false }
   return (
     <span className={cn('relative inline-grid shrink-0 place-items-center overflow-hidden rounded-full bg-secondary', className)}>
       {showPhoto ? (
-        <img
+        <Image
           src={photo}
           alt={name}
-          loading="lazy"
+          fill
+          sizes="(max-width: 768px) 64px, 96px"
           crossOrigin="anonymous"
           onError={() => setErrored(true)}
-          className="size-full object-cover"
+          className="object-cover"
         />
       ) : (
         <span className="font-mono text-[0.7em] font-bold uppercase text-muted-foreground">

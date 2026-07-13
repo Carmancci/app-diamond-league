@@ -20,23 +20,23 @@ function diff(target: Date) {
 }
 
 export function Countdown({ target }: CountdownProps) {
-  const targetDate = new Date(target)
-  const [time, setTime] = useState(() => diff(targetDate))
-  const [mounted, setMounted] = useState(false)
+  const [time, setTime] = useState<ReturnType<typeof diff> | null>(null)
 
   useEffect(() => {
-    setMounted(true)
-    setTime(diff(targetDate))
-    const id = setInterval(() => setTime(diff(targetDate)), 1000)
-    return () => clearInterval(id)
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    const update = () => setTime(diff(new Date(target)))
+    const initial = window.setTimeout(update, 0)
+    const interval = window.setInterval(update, 1000)
+    return () => {
+      window.clearTimeout(initial)
+      window.clearInterval(interval)
+    }
   }, [target])
 
   const units = [
-    { label: 'Dias', value: time.days },
-    { label: 'Horas', value: time.hours },
-    { label: 'Min', value: time.minutes },
-    { label: 'Seg', value: time.seconds },
+    { label: 'Dias', value: time?.days },
+    { label: 'Horas', value: time?.hours },
+    { label: 'Min', value: time?.minutes },
+    { label: 'Seg', value: time?.seconds },
   ]
 
   return (
@@ -47,7 +47,7 @@ export function Countdown({ target }: CountdownProps) {
           className="flex min-w-14 flex-1 flex-col items-center rounded-lg border border-border bg-card px-2 py-3 sm:min-w-16"
         >
           <span className="font-mono text-2xl font-bold tabular-nums text-foreground sm:text-3xl">
-            {mounted ? String(u.value).padStart(2, '0') : '--'}
+            {u.value === undefined ? '--' : String(u.value).padStart(2, '0')}
           </span>
           <span className="mt-1 font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
             {u.label}

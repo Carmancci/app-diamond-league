@@ -2,10 +2,12 @@
 
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
+import useSWR from 'swr'
 import { Search, X, User, CalendarDays, BarChart3 } from 'lucide-react'
-import { cn } from '@/lib/utils'
 import { CountryFlag } from '@/components/country-flag'
 import type { SearchIndexItem } from '@/app/api/search-index/route'
+
+const EMPTY_INDEX: SearchIndexItem[] = []
 
 const TYPE_META = {
   athlete: { icon: User, label: 'Atletas' },
@@ -17,13 +19,19 @@ function normalize(s: string) {
   return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
 }
 
+const fetcher = (url: string) =>
+  fetch(url).then(async (response) => {
+    if (!response.ok) throw new Error('Não foi possível carregar a busca.')
+    return (await response.json()) as { items: SearchIndexItem[] }
+  })
+
 export function SearchDialog() {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState('')
-  const [index, setIndex] = useState<SearchIndexItem[] | null>(null)
-  const [loading, setLoading] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
   const router = useRouter()
+  const { data, isLoading } = useSWR(open ? '/api/search-index' : null, fetcher)
+  const index = data?.items ?? EMPTY_INDEX
 
   // Atalho de teclado Cmd/Ctrl+K
   useEffect(() => {
@@ -38,21 +46,14 @@ export function SearchDialog() {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Carrega o índice na primeira abertura
   useEffect(() => {
-    if (open && !index && !loading) {
-      setLoading(true)
-      fetch('/api/search-index')
-        .then((r) => r.json())
-        .then((d) => setIndex(d.items ?? []))
-        .catch(() => setIndex([]))
-        .finally(() => setLoading(false))
-    }
-    if (open) setTimeout(() => inputRef.current?.focus(), 50)
-  }, [open, index, loading])
+    if (!open) return
+    const focusTimer = window.setTimeout(() => inputRef.current?.focus(), 50)
+    return () => window.clearTimeout(focusTimer)
+  }, [open])
 
   const results = useMemo(() => {
-    if (!index || query.trim().length < 2) return []
+    if (query.trim().length < 2) return []
     const q = normalize(query)
     return index
       .filter((it) => normalize(it.label).includes(q) || normalize(it.sub).includes(q))
@@ -119,7 +120,7 @@ export function SearchDialog() {
                 <p className="px-3 py-8 text-center text-sm text-muted-foreground">
                   Digite ao menos 2 caracteres para buscar.
                 </p>
-              ) : loading ? (
+              ) : isLoading ? (
                 <p className="px-3 py-8 text-center text-sm text-muted-foreground">Carregando…</p>
               ) : results.length === 0 ? (
                 <p className="px-3 py-8 text-center text-sm text-muted-foreground">

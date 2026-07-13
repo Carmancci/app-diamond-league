@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { cn } from '@/lib/utils'
 import { countryIso2, countryName } from '@/lib/diamond-league/countries'
 
@@ -21,13 +22,12 @@ export function CountryFlag({ code, className }: { code: string; className?: str
   }
 
   return (
-    <img
-      src={`https://flagcdn.com/w40/${iso2}.png`}
-      srcSet={`https://flagcdn.com/w80/${iso2}.png 2x`}
-      width={40}
-      height={30}
+    <Image
+      src={`https://flagcdn.com/w80/${iso2}.png`}
+      width={80}
+      height={60}
+      sizes="40px"
       alt={name}
-      loading="lazy"
       className={cn('rounded-sm object-cover', className)}
     />
   )
