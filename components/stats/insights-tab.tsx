@@ -1,8 +1,8 @@
 'use client'
 
-import Link from 'next/link'
 import { Trophy, Globe, Users, Zap, Award, Cake } from 'lucide-react'
 import { CountryFlag } from '@/components/country-flag'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { displayName } from '@/lib/diamond-league/format'
 
 interface PerfLite {
@@ -128,20 +128,17 @@ function HighlightCard({
   icon: React.ReactNode
 }) {
   return (
-    <Link
-      href={`/athletes/${athleteId}`}
-      className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/40"
-    >
+    <AthleteDisclosure athleteId={athleteId} className="rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/40" triggerClassName="items-start gap-4">
       <div className="grid size-11 place-items-center rounded-full bg-muted">{icon}</div>
       <div className="min-w-0 flex-1">
         <p className="text-xs uppercase tracking-wide text-muted-foreground">{title}</p>
-        <p className="flex items-center gap-2 truncate text-base font-semibold text-foreground">
+        <p className="flex flex-wrap items-center gap-2 break-words text-base font-semibold leading-snug text-foreground">
           <CountryFlag code={country} className="size-4 shrink-0" />
           {displayName(name)}
         </p>
-        {sub && <p className="truncate text-xs text-muted-foreground">{sub}</p>}
+        {sub && <p className="break-words text-xs leading-relaxed text-muted-foreground">{sub}</p>}
       </div>
       <span className="shrink-0 font-mono text-sm font-bold text-primary">{value}</span>
-    </Link>
+    </AthleteDisclosure>
   )
 }

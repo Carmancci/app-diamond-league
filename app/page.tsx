@@ -1,8 +1,9 @@
 import Link from 'next/link'
-import { ArrowUpRight, ChevronRight } from 'lucide-react'
+import { ArrowUpRight } from 'lucide-react'
 import { MeetingCard } from '@/components/meeting-card'
 import { NextMeeting } from '@/components/next-meeting'
 import { CountryFlag } from '@/components/country-flag'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { athleteId } from '@/lib/diamond-league/athletes'
 import { displayName } from '@/lib/diamond-league/format'
 import { SEASON_YEAR } from '@/lib/diamond-league/data'
@@ -114,26 +115,26 @@ export default function HomePage() {
 
         <div className="mt-6 overflow-hidden rounded-xl border border-border">
           {topAthletes.map((row, i) => (
-            <Link
+            <AthleteDisclosure
               key={`${row.athlete}-${row.discipline}`}
-              href={`/athletes/${athleteId(row.athlete, row.country)}`}
-              className="group flex items-center gap-4 border-b border-border bg-card px-4 py-3 transition-colors last:border-b-0 hover:bg-muted/50"
+              athleteId={athleteId(row.athlete, row.country)}
+              className="border-b border-border bg-card px-4 py-3 last:border-b-0"
+              triggerClassName="group items-center gap-4"
             >
               <span className="w-6 font-mono text-sm font-bold text-primary">{i + 1}</span>
               <CountryFlag code={row.country} className="size-5 shrink-0" />
               <div className="min-w-0 flex-1">
-                <div className="truncate font-medium text-foreground group-hover:text-primary">
+                <div className="break-words font-medium leading-snug text-foreground group-hover:text-primary">
                   {displayName(row.athlete)}
                 </div>
-                <div className="truncate text-xs text-muted-foreground">
+                <div className="break-words text-xs leading-relaxed text-muted-foreground">
                   {row.discipline} · {row.gender === 'men' ? 'Masculino' : 'Feminino'}
                 </div>
               </div>
               <span className="font-mono text-sm font-semibold tabular-nums text-foreground">
                 {row.points} pts
               </span>
-              <ChevronRight className="size-4 shrink-0 text-muted-foreground/40 group-hover:text-primary" />
-            </Link>
+            </AthleteDisclosure>
           ))}
         </div>
       </section>

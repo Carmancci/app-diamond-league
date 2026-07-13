@@ -1,9 +1,9 @@
 'use client'
 
-import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import useSWR from 'swr'
 import { CountryFlag } from '@/components/country-flag'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { displayName } from '@/lib/diamond-league/format'
 import { cn } from '@/lib/utils'
 
@@ -143,10 +143,7 @@ function ScoreSide({
   lead: boolean
 }) {
   return (
-    <Link
-      href={`/athletes/${id}`}
-      className="group flex flex-1 flex-col items-center gap-1 text-center"
-    >
+    <AthleteDisclosure athleteId={id} className="min-w-0 flex-1" triggerClassName="group flex-col items-center gap-1 text-center">
       <CountryFlag code={country} className="size-7 rounded" />
       <p
         className={cn(
@@ -156,7 +153,7 @@ function ScoreSide({
       >
         {displayName(name)}
       </p>
-    </Link>
+    </AthleteDisclosure>
   )
 }
 

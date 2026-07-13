@@ -1,10 +1,10 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import Link from 'next/link'
 import { Search } from 'lucide-react'
 import { CountryFlag } from '@/components/country-flag'
 import { AthleteAvatar } from '@/components/athlete-avatar'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { displayName } from '@/lib/diamond-league/format'
 import { cn } from '@/lib/utils'
 import type { Gender } from '@/lib/diamond-league/types'
@@ -87,9 +87,10 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
       <ol className="mt-3 divide-y divide-border overflow-hidden rounded-xl border border-border bg-card">
         {shown.map((a, i) => (
           <li key={a.id}>
-            <Link
-              href={`/athletes/${a.id}`}
-              className="flex items-center gap-3 px-4 py-3 transition-colors hover:bg-muted/40"
+            <AthleteDisclosure
+              athleteId={a.id}
+              className="px-4 py-3 transition-colors hover:bg-muted/40"
+              triggerClassName="items-start gap-3"
             >
               <span className="w-5 shrink-0 text-center font-mono text-xs text-muted-foreground">
                 {i + 1}
@@ -101,8 +102,8 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
                 className="size-10 shrink-0"
               />
               <div className="min-w-0 flex-1">
-                <p className="truncate font-medium">{displayName(a.name)}</p>
-                <p className="flex items-center gap-1.5 truncate text-xs text-muted-foreground">
+                <p className="break-words font-medium leading-snug">{displayName(a.name)}</p>
+                <p className="flex flex-wrap items-center gap-1.5 text-xs leading-relaxed text-muted-foreground">
                   <CountryFlag code={a.country} className="size-3.5" />
                   {a.country} · {a.topDiscipline}
                 </p>
@@ -113,7 +114,7 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
                   pts
                 </p>
               </div>
-            </Link>
+            </AthleteDisclosure>
           </li>
         ))}
       </ol>

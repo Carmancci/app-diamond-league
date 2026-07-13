@@ -1,8 +1,8 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import Link from 'next/link'
 import { CountryFlag } from '@/components/country-flag'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { displayName } from '@/lib/diamond-league/format'
 import { cn } from '@/lib/utils'
 
@@ -79,10 +79,7 @@ export function RecordsTab({ records }: Props) {
       <ul className="grid gap-2 sm:grid-cols-2">
         {filtered.map((r, i) => (
           <li key={`${r.athleteId}-${r.discipline}-${r.code}-${i}`}>
-            <Link
-              href={`/athletes/${r.athleteId}`}
-              className="flex items-center gap-3 rounded-lg border border-border bg-card px-4 py-3 transition-colors hover:border-primary/40"
-            >
+            <AthleteDisclosure athleteId={r.athleteId} className="rounded-lg border border-border bg-card px-4 py-3 transition-colors hover:border-primary/40" triggerClassName="items-start gap-3">
               <span
                 className={cn(
                   'grid min-w-10 place-items-center rounded px-2 py-1 font-mono text-xs font-bold',
@@ -93,15 +90,15 @@ export function RecordsTab({ records }: Props) {
               </span>
               <CountryFlag code={r.country} className="size-5 shrink-0" />
               <div className="min-w-0 flex-1">
-                <p className="truncate text-sm font-semibold text-foreground">
+                <p className="break-words text-sm font-semibold leading-snug text-foreground">
                   {displayName(r.athlete)}
                 </p>
-                <p className="truncate text-xs text-muted-foreground">
+                <p className="break-words text-xs leading-relaxed text-muted-foreground">
                   {r.discipline} · {r.gender === 'men' ? 'M' : 'F'} · {r.meetingName}
                 </p>
               </div>
               <span className="font-mono text-sm font-bold text-foreground">{r.mark}</span>
-            </Link>
+            </AthleteDisclosure>
           </li>
         ))}
       </ul>

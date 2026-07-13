@@ -4,7 +4,6 @@ import { Geist, Geist_Mono } from 'next/font/google'
 import { SiteHeader } from '@/components/site-header'
 import { BottomNav } from '@/components/bottom-nav'
 import { ThemeProvider } from '@/components/theme-provider'
-import { AthleteQuickView } from '@/components/athlete-quick-view'
 import './globals.css'
 
 const geistSans = Geist({
@@ -47,7 +46,6 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <SiteHeader />
           {children}
-          <AthleteQuickView />
           <BottomNav />
           {process.env.NODE_ENV === 'production' && <Analytics />}
         </ThemeProvider>

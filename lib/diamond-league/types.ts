@@ -67,6 +67,7 @@ export interface EventRecord {
   performance: string
   holder?: string
   holderCountry?: string
+  meeting?: string
   location?: string
   date?: string
 }

@@ -63,6 +63,7 @@ function normalizeRecords(records) {
     performance: String(record.Performance ?? ''),
     holder: record.Holder,
     holderCountry: record.Holder_Nation,
+    meeting: record.Meeting ?? record.MeetingName ?? record.Competition,
     location: record.Location,
     date: record.IsoDate ?? record.Date,
   })).filter((record) => record.name && record.performance)

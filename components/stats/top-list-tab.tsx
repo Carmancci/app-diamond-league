@@ -1,10 +1,10 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import Link from 'next/link'
 import useSWR from 'swr'
 import { Wind } from 'lucide-react'
 import { CountryFlag } from '@/components/country-flag'
+import { AthleteDisclosure } from '@/components/athlete-disclosure'
 import { displayName } from '@/lib/diamond-league/format'
 import { CATEGORY_LABELS } from '@/lib/diamond-league/utils'
 import { windMatters } from '@/lib/diamond-league/marks'
@@ -134,13 +134,10 @@ export function TopListTab({ disciplines }: { disciplines: DisciplineKey[] }) {
               {r.rank}
             </span>
             <CountryFlag code={r.country} className="size-4 shrink-0" />
-            <Link
-              href={`/athletes/${r.athleteId}`}
-              className="min-w-0 flex-1 truncate font-medium transition-colors hover:text-primary"
-            >
-              {displayName(r.athlete)}
-              <span className="ml-2 text-xs text-muted-foreground">{r.meetingName}</span>
-            </Link>
+            <AthleteDisclosure athleteId={r.athleteId} className="min-w-0 flex-1" triggerClassName="font-medium hover:text-primary">
+              <span className="block break-words leading-snug">{displayName(r.athlete)}</span>
+              <span className="mt-0.5 block break-words text-xs leading-relaxed text-muted-foreground">{r.meetingName}</span>
+            </AthleteDisclosure>
             {r.wind !== null && (
               <span className="hidden font-mono text-[11px] text-muted-foreground sm:inline">
                 {r.wind > 0 ? `+${r.wind.toFixed(1)}` : r.wind.toFixed(1)}
