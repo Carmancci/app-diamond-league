@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowLeft, ArrowUpRight, CalendarDays, MapPin } from 'lucide-react'
@@ -130,12 +131,14 @@ export default async function MeetingPage({
         <h2 className="mb-4 text-xl font-bold tracking-tight sm:text-2xl">
           {status === 'completed' ? 'Resultados' : 'Programa'}
         </h2>
-        <EventBrowser
-          events={meeting.events}
-          meetingDate={meeting.date}
-          venueTimeZone={meeting.timezone ?? 'UTC'}
-          venueName={`${meeting.stadium}, ${meeting.city}`}
-        />
+        <Suspense fallback={<div className="h-40 rounded-xl border border-border bg-card" aria-label="Carregando programa" />}>
+          <EventBrowser
+            events={meeting.events}
+            meetingDate={meeting.date}
+            venueTimeZone={meeting.timezone ?? 'UTC'}
+            venueName={`${meeting.stadium}, ${meeting.city}`}
+          />
+        </Suspense>
       </section>
 
       {status === 'completed' && (

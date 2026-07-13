@@ -64,7 +64,7 @@ export function ResultTable({ event, meetingDate, venueTimeZone, timeMode, defau
                 const id = result.athleteId || athleteId(result.athlete, result.country)
                 return <div key={`${result.athlete}-${index}`} className={cn('grid grid-cols-[44px_1fr_68px_68px_68px_72px] items-center gap-2 px-4 py-2.5 text-sm', result.rank === 1 && !isEntries && 'bg-primary/[0.06]')}>
                   <span className="font-mono text-center text-xs font-bold text-muted-foreground">{result.rank ?? index + 1}</span>
-                  <div className="flex min-w-0 items-center gap-2"><CountryFlag code={result.country} className="size-4 shrink-0" /><Link href={`/athletes/${id}`} className="min-w-0 truncate font-semibold text-foreground hover:text-primary hover:underline">{displayName(result.athlete)}</Link></div>
+                  <div className="flex min-w-0 items-center gap-2"><CountryFlag code={result.country} className="size-4 shrink-0" /><Link href={`/athletes/${id}`} data-athlete-quick-view className="min-w-0 truncate font-semibold text-foreground hover:text-primary hover:underline">{displayName(result.athlete)}</Link></div>
                   <span className="text-right font-mono text-xs text-muted-foreground">{result.qualificationRank ?? '—'}</span>
                   <span className="text-right font-mono text-xs text-muted-foreground">{result.qualificationPoints ?? '—'}</span>
                   <span className="text-right font-mono text-xs text-muted-foreground">{result.seasonBest ?? '—'}</span>

@@ -29,14 +29,21 @@ function eventPhase(info) {
   return info?.IsFinal ? 'Final' : undefined
 }
 
+function athleteSlug(name, country) {
+  const slug = name.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+  return `${slug}-${String(country).toLowerCase()}`
+}
+
 function normalizeAthlete(row) {
   const status = row.Status ?? row.ResultStatus ?? (STATUS_VALUES.has(row.BestPerformance) ? row.BestPerformance : undefined)
   const notes = [row.RecordFlag, row.QualificationMark, row.Note].filter(Boolean).join(',') || undefined
+  const athlete = row.Athlete ?? [row.Lastname, row.Firstname].filter(Boolean).join(' ')
+  const country = row.Nation ?? row.Country ?? ''
   return {
     rank: Number.isFinite(Number(row.Rank)) ? Number(row.Rank) : null,
-    athlete: row.Athlete ?? [row.Lastname, row.Firstname].filter(Boolean).join(' '),
-    athleteId: row.DL_ID ? String(row.DL_ID) : undefined,
-    country: row.Nation ?? row.Country ?? '',
+    athlete,
+    athleteId: athleteSlug(athlete, country),
+    country,
     dob: row.DateOfBirth ?? row.BirthDate,
     bib: row.Bib,
     mark: String(row.BestPerformance ?? row.Performance ?? row.Result ?? status ?? ''),

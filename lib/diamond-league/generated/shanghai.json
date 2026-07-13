@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/shanghai.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SHANGHAI_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "526f02eaa34067da5b338cbac680f2bed845f7683c10dc407dbc0e0f58f668f6",
-    "collectedAt": "2026-07-13T13:01:51.233Z",
+    "collectedAt": "2026-07-13T13:18:15.812Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-13T13:01:51.233Z",
+  "updatedAt": "2026-07-13T13:18:15.812Z",
   "eventCount": 25,
   "athleteCount": 254,
   "events": [
@@ -98,7 +98,7 @@
         {
           "rank": 1,
           "athlete": "JACKSON Shericka",
-          "athleteId": "14325599",
+          "athleteId": "jackson-shericka-jam",
           "country": "JAM",
           "bib": 139,
           "mark": "22.07",
@@ -109,7 +109,7 @@
         {
           "rank": 2,
           "athlete": "MILLER-UIBO Shaunae",
-          "athleteId": "14368116",
+          "athleteId": "miller-uibo-shaunae-bah",
           "country": "BAH",
           "bib": 18,
           "mark": "22.26",
@@ -120,7 +120,7 @@
         {
           "rank": 3,
           "athlete": "BATTLE Anavia",
-          "athleteId": "14715397",
+          "athleteId": "battle-anavia-usa",
           "country": "USA",
           "bib": 192,
           "mark": "22.40",
@@ -131,7 +131,7 @@
         {
           "rank": 4,
           "athlete": "RICHARDSON Sha'Carri",
-          "athleteId": "14717691",
+          "athleteId": "richardson-sha-carri-usa",
           "country": "USA",
           "bib": 228,
           "mark": "22.42",
@@ -142,7 +142,7 @@
         {
           "rank": 5,
           "athlete": "HUNT Amy",
-          "athleteId": "14685108",
+          "athleteId": "hunt-amy-gbr",
           "country": "GBR",
           "bib": 112,
           "mark": "22.48",
@@ -153,7 +153,7 @@
         {
           "rank": 6,
           "athlete": "PRANDINI Jenna",
-          "athleteId": "14329068",
+          "athleteId": "prandini-jenna-usa",
           "country": "USA",
           "bib": 227,
           "mark": "22.68",
@@ -163,7 +163,7 @@
         {
           "rank": 7,
           "athlete": "CHEN Yujie",
-          "athleteId": "15138450",
+          "athleteId": "chen-yujie-chn",
           "country": "CHN",
           "bib": 36,
           "mark": "22.84",
@@ -174,7 +174,7 @@
         {
           "rank": 8,
           "athlete": "LONG Mckenzie",
-          "athleteId": "14723890",
+          "athleteId": "long-mckenzie-usa",
           "country": "USA",
           "bib": 216,
           "mark": "22.85",
@@ -184,7 +184,7 @@
         {
           "rank": 9,
           "athlete": "LEWIS Torrie",
-          "athleteId": "14778459",
+          "athleteId": "lewis-torrie-aus",
           "country": "AUS",
           "bib": 11,
           "mark": "23.25"
@@ -263,7 +263,7 @@
         {
           "rank": 1,
           "athlete": "PRYCE Nickisha",
-          "athleteId": "14685519",
+          "athleteId": "pryce-nickisha-jam",
           "country": "JAM",
           "bib": 142,
           "mark": "49.75",
@@ -274,7 +274,7 @@
         {
           "rank": 2,
           "athlete": "BUTLER Aaliyah",
-          "athleteId": "14715880",
+          "athleteId": "butler-aaliyah-usa",
           "country": "USA",
           "bib": 197,
           "mark": "49.78",
@@ -285,7 +285,7 @@
         {
           "rank": 3,
           "athlete": "GÓMEZ Roxana",
-          "athleteId": "14637147",
+          "athleteId": "gomez-roxana-cub",
           "country": "CUB",
           "bib": 63,
           "mark": "50.24",
@@ -296,7 +296,7 @@
         {
           "rank": 4,
           "athlete": "WILLIAMS Stacey Ann",
-          "athleteId": "14630564",
+          "athleteId": "williams-stacey-ann-jam",
           "country": "JAM",
           "bib": 148,
           "mark": "50.59",
@@ -307,7 +307,7 @@
         {
           "rank": 5,
           "athlete": "WILLIAMS Sada",
-          "athleteId": "14592846",
+          "athleteId": "williams-sada-bar",
           "country": "BAR",
           "bib": 19,
           "mark": "50.60",
@@ -318,7 +318,7 @@
         {
           "rank": 6,
           "athlete": "WEIL Martina",
-          "athleteId": "14748703",
+          "athleteId": "weil-martina-chi",
           "country": "CHI",
           "bib": 31,
           "mark": "51.06",
@@ -329,7 +329,7 @@
         {
           "rank": 7,
           "athlete": "NASER Salwa Eid",
-          "athleteId": "14643442",
+          "athleteId": "naser-salwa-eid-brn",
           "country": "BRN",
           "bib": 27,
           "mark": "51.56",
@@ -340,7 +340,7 @@
         {
           "rank": 8,
           "athlete": "PEOPLES Paris",
-          "athleteId": "14596391",
+          "athleteId": "peoples-paris-usa",
           "country": "USA",
           "bib": 226,
           "mark": "52.25",
@@ -350,7 +350,7 @@
         {
           "rank": 9,
           "athlete": "DAVIS Kenondra",
-          "athleteId": "14807005",
+          "athleteId": "davis-kenondra-usa",
           "country": "USA",
           "bib": 201,
           "mark": "53.19"
@@ -452,7 +452,7 @@
         {
           "rank": 1,
           "athlete": "HAYLOM Birke",
-          "athleteId": "15009582",
+          "athleteId": "haylom-birke-eth",
           "country": "ETH",
           "bib": 84,
           "mark": "3:55.56",
@@ -463,7 +463,7 @@
         {
           "rank": 2,
           "athlete": "DUGUMA Tsige",
-          "athleteId": "14774192",
+          "athleteId": "duguma-tsige-eth",
           "country": "ETH",
           "bib": 77,
           "mark": "3:55.71",
@@ -474,7 +474,7 @@
         {
           "rank": 3,
           "athlete": "CALDWELL Abbey",
-          "athleteId": "14636659",
+          "athleteId": "caldwell-abbey-aus",
           "country": "AUS",
           "bib": 5,
           "mark": "3:56.12",
@@ -485,7 +485,7 @@
         {
           "rank": 4,
           "athlete": "MESELE Worknesh",
-          "athleteId": "14852703",
+          "athleteId": "mesele-worknesh-eth",
           "country": "ETH",
           "bib": 89,
           "mark": "3:57.56",
@@ -496,7 +496,7 @@
         {
           "rank": 5,
           "athlete": "EWOI Dorcus",
-          "athleteId": "14878719",
+          "athleteId": "ewoi-dorcus-ken",
           "country": "KEN",
           "bib": 158,
           "mark": "3:57.74",
@@ -507,7 +507,7 @@
         {
           "rank": 6,
           "athlete": "HULL Jessica",
-          "athleteId": "14464506",
+          "athleteId": "hull-jessica-aus",
           "country": "AUS",
           "bib": 10,
           "mark": "3:57.91",
@@ -518,7 +518,7 @@
         {
           "rank": 7,
           "athlete": "MACKAY Emily",
-          "athleteId": "14667572",
+          "athleteId": "mackay-emily-usa",
           "country": "USA",
           "bib": 217,
           "mark": "3:58.54",
@@ -529,7 +529,7 @@
         {
           "rank": 8,
           "athlete": "BILLINGS Sarah",
-          "athleteId": "14464575",
+          "athleteId": "billings-sarah-aus",
           "country": "AUS",
           "bib": 4,
           "mark": "3:58.81",
@@ -540,7 +540,7 @@
         {
           "rank": 9,
           "athlete": "HOLLINGSWORTH Claudia",
-          "athleteId": "14922448",
+          "athleteId": "hollingsworth-claudia-aus",
           "country": "AUS",
           "bib": 9,
           "mark": "3:58.84"
@@ -548,7 +548,7 @@
         {
           "rank": 10,
           "athlete": "HALL Linden",
-          "athleteId": "14272002",
+          "athleteId": "hall-linden-aus",
           "country": "AUS",
           "bib": 8,
           "mark": "3:58.96",
@@ -557,7 +557,7 @@
         {
           "rank": 11,
           "athlete": "GALVYDYTE Gabija",
-          "athleteId": "14675493",
+          "athleteId": "galvydyte-gabija-ltu",
           "country": "LTU",
           "bib": 162,
           "mark": "3:59.74",
@@ -566,7 +566,7 @@
         {
           "rank": 12,
           "athlete": "MORRIS Gracie",
-          "athleteId": "14715821",
+          "athleteId": "morris-gracie-usa",
           "country": "USA",
           "bib": 223,
           "mark": "4:00.29",
@@ -575,7 +575,7 @@
         {
           "rank": 13,
           "athlete": "BERHE Saron",
-          "athleteId": "15009577",
+          "athleteId": "berhe-saron-eth",
           "country": "ETH",
           "bib": 74,
           "mark": "4:02.75"
@@ -583,7 +583,7 @@
         {
           "rank": 14,
           "athlete": "WIND Joceline",
-          "athleteId": "14843282",
+          "athleteId": "wind-joceline-sui",
           "country": "SUI",
           "bib": 179,
           "mark": "4:07.04"
@@ -591,7 +591,7 @@
         {
           "rank": 15,
           "athlete": "LI Chunhui",
-          "athleteId": "14803753",
+          "athleteId": "li-chunhui-chn",
           "country": "CHN",
           "bib": 40,
           "mark": "4:11.67",
@@ -600,7 +600,7 @@
         {
           "rank": null,
           "athlete": "PARKS Taryn",
-          "athleteId": "14783168",
+          "athleteId": "parks-taryn-usa",
           "country": "USA",
           "bib": 225,
           "mark": "DNF",
@@ -703,7 +703,7 @@
         {
           "rank": 1,
           "athlete": "RUSSELL Masai",
-          "athleteId": "14659011",
+          "athleteId": "russell-masai-usa",
           "country": "USA",
           "bib": 230,
           "mark": "12.25",
@@ -714,7 +714,7 @@
         {
           "rank": 2,
           "athlete": "CHARLTON Devynne",
-          "athleteId": "14414505",
+          "athleteId": "charlton-devynne-bah",
           "country": "BAH",
           "bib": 17,
           "mark": "12.38",
@@ -725,7 +725,7 @@
         {
           "rank": 3,
           "athlete": "AMUSAN Tobi",
-          "athleteId": "14579526",
+          "athleteId": "amusan-tobi-ngr",
           "country": "NGR",
           "bib": 167,
           "mark": "12.41",
@@ -736,7 +736,7 @@
         {
           "rank": 4,
           "athlete": "SIMMONDS Megan",
-          "athleteId": "14413569",
+          "athleteId": "simmonds-megan-jam",
           "country": "JAM",
           "bib": 143,
           "mark": "12.73",
@@ -746,7 +746,7 @@
         {
           "rank": 5,
           "athlete": "KAMBUNDJI Ditaji",
-          "athleteId": "14739461",
+          "athleteId": "kambundji-ditaji-sui",
           "country": "SUI",
           "bib": 178,
           "mark": "12.82",
@@ -757,7 +757,7 @@
         {
           "rank": 6,
           "athlete": "NUGENT Ackera",
-          "athleteId": "14685249",
+          "athleteId": "nugent-ackera-jam",
           "country": "JAM",
           "bib": 141,
           "mark": "12.98",
@@ -768,7 +768,7 @@
         {
           "rank": 7,
           "athlete": "WU Yanni",
-          "athleteId": "14585472",
+          "athleteId": "wu-yanni-chn",
           "country": "CHN",
           "bib": 53,
           "mark": "13.16",
@@ -779,7 +779,7 @@
         {
           "rank": null,
           "athlete": "MARSHALL Tonea",
-          "athleteId": "14564128",
+          "athleteId": "marshall-tonea-usa",
           "country": "USA",
           "bib": 219,
           "mark": "DNF",
@@ -788,7 +788,7 @@
         {
           "rank": null,
           "athlete": "WILLIAMS Danielle",
-          "athleteId": "14450995",
+          "athleteId": "williams-danielle-jam",
           "country": "JAM",
           "bib": 146,
           "mark": "DNF",
@@ -891,7 +891,7 @@
         {
           "rank": 1,
           "athlete": "CHEMUTAI Peruth",
-          "athleteId": "14707661",
+          "athleteId": "chemutai-peruth-uga",
           "country": "UGA",
           "bib": 188,
           "mark": "8:51.47",
@@ -902,7 +902,7 @@
         {
           "rank": 2,
           "athlete": "CHEROTICH Faith",
-          "athleteId": "14989893",
+          "athleteId": "cherotich-faith-ken",
           "country": "KEN",
           "bib": 157,
           "mark": "8:51.48",
@@ -913,7 +913,7 @@
         {
           "rank": 3,
           "athlete": "BOUZAYANI Marwa",
-          "athleteId": "14595096",
+          "athleteId": "bouzayani-marwa-tun",
           "country": "TUN",
           "bib": 183,
           "mark": "8:58.09",
@@ -924,7 +924,7 @@
         {
           "rank": 4,
           "athlete": "TUFA Kena",
-          "athleteId": "15024115",
+          "athleteId": "tufa-kena-eth",
           "country": "ETH",
           "bib": 100,
           "mark": "8:59.66",
@@ -935,7 +935,7 @@
         {
           "rank": 5,
           "athlete": "WALLE Alemnat",
-          "athleteId": "15024112",
+          "athleteId": "walle-alemnat-eth",
           "country": "ETH",
           "bib": 101,
           "mark": "9:10.05",
@@ -946,7 +946,7 @@
         {
           "rank": 6,
           "athlete": "JERUTO Norah",
-          "athleteId": "14479154",
+          "athleteId": "jeruto-norah-kaz",
           "country": "KAZ",
           "bib": 152,
           "mark": "9:10.90",
@@ -957,7 +957,7 @@
         {
           "rank": 7,
           "athlete": "CHAUDHARY Parul",
-          "athleteId": "14497992",
+          "athleteId": "chaudhary-parul-ind",
           "country": "IND",
           "bib": 129,
           "mark": "9:12.84",
@@ -968,7 +968,7 @@
         {
           "rank": 8,
           "athlete": "HALLADAY Lexy",
-          "athleteId": "14741102",
+          "athleteId": "halladay-lexy-usa",
           "country": "USA",
           "bib": 207,
           "mark": "9:13.99",
@@ -979,7 +979,7 @@
         {
           "rank": 9,
           "athlete": "ELLIS Angelina",
-          "athleteId": "14820700",
+          "athleteId": "ellis-angelina-usa",
           "country": "USA",
           "bib": 205,
           "mark": "9:20.53",
@@ -988,7 +988,7 @@
         {
           "rank": 10,
           "athlete": "FEAIN-RYAN Cara",
-          "athleteId": "14608674",
+          "athleteId": "feain-ryan-cara-aus",
           "country": "AUS",
           "bib": 7,
           "mark": "9:21.35",
@@ -997,7 +997,7 @@
         {
           "rank": 11,
           "athlete": "MARKEZICH Olivia",
-          "athleteId": "14846039",
+          "athleteId": "markezich-olivia-usa",
           "country": "USA",
           "bib": 218,
           "mark": "9:22.15",
@@ -1006,7 +1006,7 @@
         {
           "rank": 12,
           "athlete": "MITCHELL Kaylee",
-          "athleteId": "14874875",
+          "athleteId": "mitchell-kaylee-usa",
           "country": "USA",
           "bib": 221,
           "mark": "9:24.26",
@@ -1015,7 +1015,7 @@
         {
           "rank": 13,
           "athlete": "GESESE Firehiwot",
-          "athleteId": "15009736",
+          "athleteId": "gesese-firehiwot-eth",
           "country": "ETH",
           "bib": 81,
           "mark": "9:25.13",
@@ -1024,7 +1024,7 @@
         {
           "rank": 14,
           "athlete": "WAYMENT Courtney",
-          "athleteId": "14617090",
+          "athleteId": "wayment-courtney-usa",
           "country": "USA",
           "bib": 234,
           "mark": "9:27.96",
@@ -1033,7 +1033,7 @@
         {
           "rank": 15,
           "athlete": "COHEN Adva",
-          "athleteId": "14699069",
+          "athleteId": "cohen-adva-isr",
           "country": "ISR",
           "bib": 133,
           "mark": "9:29.94",
@@ -1042,7 +1042,7 @@
         {
           "rank": 16,
           "athlete": "LUO Xia",
-          "athleteId": "14892675",
+          "athleteId": "luo-xia-chn",
           "country": "CHN",
           "bib": 46,
           "mark": "9:47.04",
@@ -1051,7 +1051,7 @@
         {
           "rank": 17,
           "athlete": "BAKKER Veerle",
-          "athleteId": "14513285",
+          "athleteId": "bakker-veerle-ned",
           "country": "NED",
           "bib": 164,
           "mark": "10:05.26",
@@ -1060,7 +1060,7 @@
         {
           "rank": null,
           "athlete": "GÜRTH Olivia",
-          "athleteId": "14804796",
+          "athleteId": "gurth-olivia-ger",
           "country": "GER",
           "bib": 120,
           "mark": "DNF",
@@ -1148,7 +1148,7 @@
         {
           "rank": 1,
           "athlete": "NICHOLS Monae'",
-          "athleteId": "14662524",
+          "athleteId": "nichols-monae-usa",
           "country": "USA",
           "bib": 224,
           "mark": "6.89",
@@ -1158,7 +1158,7 @@
         {
           "rank": 2,
           "athlete": "LINARES Natalia",
-          "athleteId": "14841613",
+          "athleteId": "linares-natalia-col",
           "country": "COL",
           "bib": 62,
           "mark": "6.78",
@@ -1168,7 +1168,7 @@
         {
           "rank": 3,
           "athlete": "BROWN Alexis",
-          "athleteId": "14747974",
+          "athleteId": "brown-alexis-usa",
           "country": "USA",
           "bib": 194,
           "mark": "6.75",
@@ -1178,7 +1178,7 @@
         {
           "rank": 4,
           "athlete": "BRYANT Claire",
-          "athleteId": "14716940",
+          "athleteId": "bryant-claire-usa",
           "country": "USA",
           "bib": 195,
           "mark": "6.70",
@@ -1188,7 +1188,7 @@
         {
           "rank": 5,
           "athlete": "IAPICHINO Larissa",
-          "athleteId": "14827877",
+          "athleteId": "iapichino-larissa-ita",
           "country": "ITA",
           "bib": 135,
           "mark": "6.69",
@@ -1198,7 +1198,7 @@
         {
           "rank": 6,
           "athlete": "XIONG Shiqi",
-          "athleteId": "15024650",
+          "athleteId": "xiong-shiqi-chn",
           "country": "CHN",
           "bib": 54,
           "mark": "6.65",
@@ -1209,7 +1209,7 @@
         {
           "rank": 7,
           "athlete": "HONDEMA Pauline",
-          "athleteId": "14740867",
+          "athleteId": "hondema-pauline-ned",
           "country": "NED",
           "bib": 165,
           "mark": "6.63",
@@ -1220,7 +1220,7 @@
         {
           "rank": 8,
           "athlete": "TAN Mengyi",
-          "athleteId": "14857849",
+          "athleteId": "tan-mengyi-chn",
           "country": "CHN",
           "bib": 49,
           "mark": "6.46",
@@ -1230,7 +1230,7 @@
         {
           "rank": 9,
           "athlete": "BURKS Quanesha",
-          "athleteId": "14490255",
+          "athleteId": "burks-quanesha-usa",
           "country": "USA",
           "bib": 196,
           "mark": "6.26",
@@ -1332,7 +1332,7 @@
         {
           "rank": 1,
           "athlete": "SCHILDER Jessica",
-          "athleteId": "14688805",
+          "athleteId": "schilder-jessica-ned",
           "country": "NED",
           "bib": 166,
           "mark": "21.09",
@@ -1343,7 +1343,7 @@
         {
           "rank": 2,
           "athlete": "JACKSON Chase",
-          "athleteId": "14533525",
+          "athleteId": "jackson-chase-usa",
           "country": "USA",
           "bib": 212,
           "mark": "20.46",
@@ -1354,7 +1354,7 @@
         {
           "rank": 3,
           "athlete": "MITTON Sarah",
-          "athleteId": "14607093",
+          "athleteId": "mitton-sarah-can",
           "country": "CAN",
           "bib": 29,
           "mark": "20.42",
@@ -1365,7 +1365,7 @@
         {
           "rank": 4,
           "athlete": "ROOS Fanny",
-          "athleteId": "14429853",
+          "athleteId": "roos-fanny-swe",
           "country": "SWE",
           "bib": 180,
           "mark": "19.26",
@@ -1375,7 +1375,7 @@
         {
           "rank": 5,
           "athlete": "THOMAS-DODD Danniel",
-          "athleteId": "14468647",
+          "athleteId": "thomas-dodd-danniel-jam",
           "country": "JAM",
           "bib": 145,
           "mark": "19.12",
@@ -1385,7 +1385,7 @@
         {
           "rank": 6,
           "athlete": "SONG Jiayuan",
-          "athleteId": "14668306",
+          "athleteId": "song-jiayuan-chn",
           "country": "CHN",
           "bib": 48,
           "mark": "18.85",
@@ -1395,7 +1395,7 @@
         {
           "rank": 7,
           "athlete": "ROSS Jaida",
-          "athleteId": "14850442",
+          "athleteId": "ross-jaida-usa",
           "country": "USA",
           "bib": 229,
           "mark": "18.79",
@@ -1405,7 +1405,7 @@
         {
           "rank": 8,
           "athlete": "MABRY Yemisi",
-          "athleteId": "14565871",
+          "athleteId": "mabry-yemisi-ger",
           "country": "GER",
           "bib": 123,
           "mark": "18.55",
@@ -1415,7 +1415,7 @@
         {
           "rank": 9,
           "athlete": "ZHANG Linru",
-          "athleteId": "14745178",
+          "athleteId": "zhang-linru-chn",
           "country": "CHN",
           "bib": 58,
           "mark": "18.17",
@@ -1424,7 +1424,7 @@
         {
           "rank": 10,
           "athlete": "EWEN Maggie",
-          "athleteId": "14426023",
+          "athleteId": "ewen-maggie-usa",
           "country": "USA",
           "bib": 206,
           "mark": "17.95",
@@ -1513,7 +1513,7 @@
         {
           "rank": 1,
           "athlete": "FURLANI Mattia",
-          "athleteId": "14905216",
+          "athleteId": "furlani-mattia-ita",
           "country": "ITA",
           "bib": 442,
           "mark": "8.43",
@@ -1522,7 +1522,7 @@
         {
           "rank": 2,
           "athlete": "SARÂBOYUKOV Bozhidar",
-          "athleteId": "14927349",
+          "athleteId": "saraboyukov-bozhidar-bul",
           "country": "BUL",
           "bib": 323,
           "mark": "8.07"
@@ -1530,7 +1530,7 @@
         {
           "rank": 3,
           "athlete": "ANVAROV Anvar",
-          "athleteId": "14934300",
+          "athleteId": "anvarov-anvar-uzb",
           "country": "UZB",
           "bib": 567,
           "mark": "8.01",
@@ -1539,7 +1539,7 @@
         {
           "rank": 4,
           "athlete": "ADCOCK Liam",
-          "athleteId": "14572123",
+          "athleteId": "adcock-liam-aus",
           "country": "AUS",
           "bib": 302,
           "mark": "8.00"
@@ -1547,7 +1547,7 @@
         {
           "rank": 5,
           "athlete": "ZHANG Mingkun",
-          "athleteId": "14884079",
+          "athleteId": "zhang-mingkun-chn",
           "country": "CHN",
           "bib": 364,
           "mark": "7.94"
@@ -1555,7 +1555,7 @@
         {
           "rank": 6,
           "athlete": "GAYLE Tajay",
-          "athleteId": "14631861",
+          "athleteId": "gayle-tajay-jam",
           "country": "JAM",
           "bib": 446,
           "mark": "7.93"
@@ -1563,7 +1563,7 @@
         {
           "rank": 7,
           "athlete": "PINNOCK Wayne",
-          "athleteId": "14693852",
+          "athleteId": "pinnock-wayne-jam",
           "country": "JAM",
           "bib": 450,
           "mark": "7.93"
@@ -1571,7 +1571,7 @@
         {
           "rank": 8,
           "athlete": "DAVIS Jeremiah",
-          "athleteId": "14926128",
+          "athleteId": "davis-jeremiah-usa",
           "country": "USA",
           "bib": 543,
           "mark": "7.92"
@@ -1579,7 +1579,7 @@
         {
           "rank": 9,
           "athlete": "MANDROS José",
-          "athleteId": "14674295",
+          "athleteId": "mandros-jose-per",
           "country": "PER",
           "bib": 499,
           "mark": "7.35"
@@ -1587,7 +1587,7 @@
         {
           "rank": null,
           "athlete": "SHI Yuhao",
-          "athleteId": "14714402",
+          "athleteId": "shi-yuhao-chn",
           "country": "CHN",
           "bib": 344,
           "mark": "NM",
@@ -1667,7 +1667,7 @@
         {
           "rank": 1,
           "athlete": "KIPYEGON Faith",
-          "athleteId": "14413305",
+          "athleteId": "kipyegon-faith-ken",
           "country": "KEN",
           "bib": 160,
           "mark": "14:24.14",
@@ -1676,7 +1676,7 @@
         {
           "rank": 2,
           "athlete": "AMEBAW Likina",
-          "athleteId": "14877871",
+          "athleteId": "amebaw-likina-eth",
           "country": "ETH",
           "bib": 71,
           "mark": "14:24.21",
@@ -1685,7 +1685,7 @@
         {
           "rank": 3,
           "athlete": "GETACHEW Senayet",
-          "athleteId": "15046190",
+          "athleteId": "getachew-senayet-eth",
           "country": "ETH",
           "bib": 82,
           "mark": "14:24.71",
@@ -1694,7 +1694,7 @@
         {
           "rank": 4,
           "athlete": "EISA Medina",
-          "athleteId": "14985841",
+          "athleteId": "eisa-medina-eth",
           "country": "ETH",
           "bib": 78,
           "mark": "14:24.76"
@@ -1702,7 +1702,7 @@
         {
           "rank": 5,
           "athlete": "AYICHEW Asayech",
-          "athleteId": "15041291",
+          "athleteId": "ayichew-asayech-eth",
           "country": "ETH",
           "bib": 73,
           "mark": "14:26.41",
@@ -1711,7 +1711,7 @@
         {
           "rank": 6,
           "athlete": "ALEM Mizan",
-          "athleteId": "14848748",
+          "athleteId": "alem-mizan-eth",
           "country": "ETH",
           "bib": 68,
           "mark": "14:29.97",
@@ -1720,7 +1720,7 @@
         {
           "rank": 7,
           "athlete": "ALEMAYO Marta",
-          "athleteId": "15131346",
+          "athleteId": "alemayo-marta-eth",
           "country": "ETH",
           "bib": 69,
           "mark": "14:32.84",
@@ -1729,7 +1729,7 @@
         {
           "rank": 8,
           "athlete": "ABERA Hawi",
-          "athleteId": "15058804",
+          "athleteId": "abera-hawi-eth",
           "country": "ETH",
           "bib": 67,
           "mark": "14:35.96",
@@ -1738,7 +1738,7 @@
         {
           "rank": 9,
           "athlete": "NYAGA Caroline",
-          "athleteId": "14814043",
+          "athleteId": "nyaga-caroline-ken",
           "country": "KEN",
           "bib": 161,
           "mark": "14:36.55"
@@ -1746,7 +1746,7 @@
         {
           "rank": 10,
           "athlete": "MEHABAW Mastewal",
-          "athleteId": "15308109",
+          "athleteId": "mehabaw-mastewal-eth",
           "country": "ETH",
           "bib": 87,
           "mark": "14:38.66",
@@ -1755,7 +1755,7 @@
         {
           "rank": 11,
           "athlete": "CHEBOR Maurine Jepkoech",
-          "athleteId": "14989691",
+          "athleteId": "chebor-maurine-jepkoech-ken",
           "country": "KEN",
           "bib": 153,
           "mark": "14:39.31",
@@ -1764,7 +1764,7 @@
         {
           "rank": 12,
           "athlete": "CHEROP Charity",
-          "athleteId": "15058751",
+          "athleteId": "cherop-charity-uga",
           "country": "UGA",
           "bib": 189,
           "mark": "14:39.38",
@@ -1773,7 +1773,7 @@
         {
           "rank": 13,
           "athlete": "SHIMEKET Yenenesh",
-          "athleteId": "15043002",
+          "athleteId": "shimeket-yenenesh-eth",
           "country": "ETH",
           "bib": 97,
           "mark": "14:48.02",
@@ -1782,7 +1782,7 @@
         {
           "rank": 14,
           "athlete": "DAVIES Rose",
-          "athleteId": "14517594",
+          "athleteId": "davies-rose-aus",
           "country": "AUS",
           "bib": 6,
           "mark": "14:53.28",
@@ -1791,7 +1791,7 @@
         {
           "rank": 15,
           "athlete": "NIYOMUKUNZI Francine",
-          "athleteId": "14786755",
+          "athleteId": "niyomukunzi-francine-bdi",
           "country": "BDI",
           "bib": 20,
           "mark": "14:58.77",
@@ -1800,7 +1800,7 @@
         {
           "rank": 16,
           "athlete": "SKYRING Maudie",
-          "athleteId": "14609597",
+          "athleteId": "skyring-maudie-aus",
           "country": "AUS",
           "bib": 13,
           "mark": "15:10.82",
@@ -1809,7 +1809,7 @@
         {
           "rank": 17,
           "athlete": "COURTNEY-BRYANT Melissa",
-          "athleteId": "14274781",
+          "athleteId": "courtney-bryant-melissa-gbr",
           "country": "GBR",
           "bib": 110,
           "mark": "15:10.93"
@@ -1817,7 +1817,7 @@
         {
           "rank": 18,
           "athlete": "TILAYE Alemnesh",
-          "athleteId": "15266171",
+          "athleteId": "tilaye-alemnesh-eth",
           "country": "ETH",
           "bib": 98,
           "mark": "15:22.40",
@@ -1826,7 +1826,7 @@
         {
           "rank": null,
           "athlete": "DIDA Chaltu",
-          "athleteId": "15119269",
+          "athleteId": "dida-chaltu-eth",
           "country": "ETH",
           "bib": 76,
           "mark": "DNF",
@@ -1835,7 +1835,7 @@
         {
           "rank": null,
           "athlete": "MEBRATU Aynadis",
-          "athleteId": "14923883",
+          "athleteId": "mebratu-aynadis-eth",
           "country": "ETH",
           "bib": 86,
           "mark": "DNF",
@@ -1844,7 +1844,7 @@
         {
           "rank": null,
           "athlete": "MESHESHA Hirut",
-          "athleteId": "14805826",
+          "athleteId": "meshesha-hirut-eth",
           "country": "ETH",
           "bib": 90,
           "mark": "DNF",
@@ -1853,7 +1853,7 @@
         {
           "rank": null,
           "athlete": "WALCOTT-NOLAN Revee",
-          "athleteId": "14471539",
+          "athleteId": "walcott-nolan-revee-gbr",
           "country": "GBR",
           "bib": 118,
           "mark": "DNF",
@@ -1919,6 +1919,7 @@
         {
           "rank": 1,
           "athlete": "YAN Xufeng",
+          "athleteId": "yan-xufeng-chn",
           "country": "CHN",
           "bib": 358,
           "mark": "10.73"
@@ -1926,6 +1927,7 @@
         {
           "rank": 2,
           "athlete": "WANG Haorui",
+          "athleteId": "wang-haorui-chn",
           "country": "CHN",
           "bib": 348,
           "mark": "10.83"
@@ -1933,6 +1935,7 @@
         {
           "rank": 3,
           "athlete": "XU Zhengyang",
+          "athleteId": "xu-zhengyang-chn",
           "country": "CHN",
           "bib": 356,
           "mark": "11.09"
@@ -1940,6 +1943,7 @@
         {
           "rank": 4,
           "athlete": "WANG Xin",
+          "athleteId": "wang-xin-chn",
           "country": "CHN",
           "bib": 349,
           "mark": "11.15"
@@ -1947,6 +1951,7 @@
         {
           "rank": 5,
           "athlete": "SUN Yu",
+          "athleteId": "sun-yu-chn",
           "country": "CHN",
           "bib": 346,
           "mark": "11.17"
@@ -1954,6 +1959,7 @@
         {
           "rank": 6,
           "athlete": "CHENG Yufei",
+          "athleteId": "cheng-yufei-chn",
           "country": "CHN",
           "bib": 334,
           "mark": "11.19"
@@ -1961,6 +1967,7 @@
         {
           "rank": null,
           "athlete": "YI Kaibin",
+          "athleteId": "yi-kaibin-chn",
           "country": "CHN",
           "bib": 362,
           "mark": "DNS",
@@ -1969,6 +1976,7 @@
         {
           "rank": null,
           "athlete": "ZHUO Junpeng",
+          "athleteId": "zhuo-junpeng-chn",
           "country": "CHN",
           "bib": 367,
           "mark": "DNS",
@@ -2034,6 +2042,7 @@
         {
           "rank": 1,
           "athlete": "SUN Jiaming",
+          "athleteId": "sun-jiaming-chn",
           "country": "CHN",
           "bib": 345,
           "mark": "22.07"
@@ -2041,6 +2050,7 @@
         {
           "rank": 2,
           "athlete": "ZOU Qijin",
+          "athleteId": "zou-qijin-chn",
           "country": "CHN",
           "bib": 368,
           "mark": "22.49"
@@ -2048,6 +2058,7 @@
         {
           "rank": 3,
           "athlete": "JIANG Minyang",
+          "athleteId": "jiang-minyang-chn",
           "country": "CHN",
           "bib": 338,
           "mark": "22.68"
@@ -2055,6 +2066,7 @@
         {
           "rank": 4,
           "athlete": "YANG Haoran",
+          "athleteId": "yang-haoran-chn",
           "country": "CHN",
           "bib": 359,
           "mark": "23.83"
@@ -2062,6 +2074,7 @@
         {
           "rank": 5,
           "athlete": "WANG Yuanjie",
+          "athleteId": "wang-yuanjie-chn",
           "country": "CHN",
           "bib": 350,
           "mark": "24.34"
@@ -2069,6 +2082,7 @@
         {
           "rank": null,
           "athlete": "ZHONG Chenyu",
+          "athleteId": "zhong-chenyu-chn",
           "country": "CHN",
           "bib": 365,
           "mark": "DQ",
@@ -2077,6 +2091,7 @@
         {
           "rank": null,
           "athlete": "TAO Yixuan",
+          "athleteId": "tao-yixuan-chn",
           "country": "CHN",
           "bib": 347,
           "mark": "DNS",
@@ -2149,6 +2164,7 @@
         {
           "rank": 1,
           "athlete": "XU Wenle",
+          "athleteId": "xu-wenle-chn",
           "country": "CHN",
           "bib": 355,
           "mark": "48.23"
@@ -2156,6 +2172,7 @@
         {
           "rank": 2,
           "athlete": "HU Jialuo",
+          "athleteId": "hu-jialuo-chn",
           "country": "CHN",
           "bib": 336,
           "mark": "48.51"
@@ -2163,6 +2180,7 @@
         {
           "rank": 3,
           "athlete": "GAO Linda",
+          "athleteId": "gao-linda-chn",
           "country": "CHN",
           "bib": 335,
           "mark": "49.30"
@@ -2170,6 +2188,7 @@
         {
           "rank": 4,
           "athlete": "YE Zhenyu",
+          "athleteId": "ye-zhenyu-chn",
           "country": "CHN",
           "bib": 361,
           "mark": "49.47"
@@ -2177,6 +2196,7 @@
         {
           "rank": 5,
           "athlete": "CHEN Bingrui",
+          "athleteId": "chen-bingrui-chn",
           "country": "CHN",
           "bib": 330,
           "mark": "49.80"
@@ -2184,6 +2204,7 @@
         {
           "rank": 6,
           "athlete": "CHENG Aocheng",
+          "athleteId": "cheng-aocheng-chn",
           "country": "CHN",
           "bib": 333,
           "mark": "52.49"
@@ -2191,6 +2212,7 @@
         {
           "rank": 7,
           "athlete": "LIU Quanhui",
+          "athleteId": "liu-quanhui-chn",
           "country": "CHN",
           "bib": 343,
           "mark": "52.89"
@@ -2198,6 +2220,7 @@
         {
           "rank": null,
           "athlete": "YANG Yize",
+          "athleteId": "yang-yize-chn",
           "country": "CHN",
           "bib": 360,
           "mark": "DNS",
@@ -2262,6 +2285,7 @@
         {
           "rank": 1,
           "athlete": "Wenzhou Chaofan Sports",
+          "athleteId": "wenzhou-chaofan-sports-chn",
           "country": "CHN",
           "bib": 1013,
           "mark": "40.77"
@@ -2269,6 +2293,7 @@
         {
           "rank": 2,
           "athlete": "Team Jinhua",
+          "athleteId": "team-jinhua-chn",
           "country": "CHN",
           "bib": 1011,
           "mark": "41.02"
@@ -2276,6 +2301,7 @@
         {
           "rank": 3,
           "athlete": "Hangzhou Fast",
+          "athleteId": "hangzhou-fast-chn",
           "country": "CHN",
           "bib": 1002,
           "mark": "41.13"
@@ -2283,6 +2309,7 @@
         {
           "rank": 4,
           "athlete": "Hangzhou Juli T&f Club",
+          "athleteId": "hangzhou-juli-t-f-club-chn",
           "country": "CHN",
           "bib": 1004,
           "mark": "41.45"
@@ -2290,6 +2317,7 @@
         {
           "rank": 5,
           "athlete": "Second Team Zhejiang",
+          "athleteId": "second-team-zhejiang-chn",
           "country": "CHN",
           "bib": 1008,
           "mark": "42.01"
@@ -2297,6 +2325,7 @@
         {
           "rank": null,
           "athlete": "Team Hangzhou",
+          "athleteId": "team-hangzhou-chn",
           "country": "CHN",
           "bib": 1009,
           "mark": "DQ",
@@ -2305,6 +2334,7 @@
         {
           "rank": null,
           "athlete": "First Team Zhejiang",
+          "athleteId": "first-team-zhejiang-chn",
           "country": "CHN",
           "bib": 1001,
           "mark": "DNS",
@@ -2353,6 +2383,7 @@
         {
           "rank": 1,
           "athlete": "Hangzhou Juli T&f Club",
+          "athleteId": "hangzhou-juli-t-f-club-chn",
           "country": "CHN",
           "bib": 1016,
           "mark": "43.91"
@@ -2360,6 +2391,7 @@
         {
           "rank": 2,
           "athlete": "Wenzhou Chaofan Sports",
+          "athleteId": "wenzhou-chaofan-sports-chn",
           "country": "CHN",
           "bib": 1015,
           "mark": "45.00"
@@ -2367,6 +2399,7 @@
         {
           "rank": 3,
           "athlete": "Hangzhou Fast",
+          "athleteId": "hangzhou-fast-chn",
           "country": "CHN",
           "bib": 1017,
           "mark": "47.07"
@@ -2374,6 +2407,7 @@
         {
           "rank": null,
           "athlete": "Hangzhou Xiaoshan No.2 Secondary Vo",
+          "athleteId": "hangzhou-xiaoshan-no-2-secondary-vo-chn",
           "country": "CHN",
           "bib": 1005,
           "mark": "DNS",
@@ -2439,6 +2473,7 @@
         {
           "rank": 1,
           "athlete": "CHEN Kexin",
+          "athleteId": "chen-kexin-chn",
           "country": "CHN",
           "bib": 35,
           "mark": "11.78"
@@ -2446,6 +2481,7 @@
         {
           "rank": 2,
           "athlete": "ZHANG Hanyi",
+          "athleteId": "zhang-hanyi-chn",
           "country": "CHN",
           "bib": 57,
           "mark": "12.10"
@@ -2453,6 +2489,7 @@
         {
           "rank": 3,
           "athlete": "WANG Jingyi",
+          "athleteId": "wang-jingyi-chn",
           "country": "CHN",
           "bib": 50,
           "mark": "12.35"
@@ -2460,6 +2497,7 @@
         {
           "rank": 4,
           "athlete": "LIU Jiabei",
+          "athleteId": "liu-jiabei-chn",
           "country": "CHN",
           "bib": 43,
           "mark": "12.60"
@@ -2467,6 +2505,7 @@
         {
           "rank": 5,
           "athlete": "LI Sitong",
+          "athleteId": "li-sitong-chn",
           "country": "CHN",
           "bib": 41,
           "mark": "12.89"
@@ -2474,6 +2513,7 @@
         {
           "rank": 6,
           "athlete": "LIU Haozi",
+          "athleteId": "liu-haozi-chn",
           "country": "CHN",
           "bib": 42,
           "mark": "13.04"
@@ -2481,6 +2521,7 @@
         {
           "rank": 7,
           "athlete": "ZHU Jiahui",
+          "athleteId": "zhu-jiahui-chn",
           "country": "CHN",
           "bib": 59,
           "mark": "43.80"
@@ -2488,6 +2529,7 @@
         {
           "rank": null,
           "athlete": "HAN Shangxiu",
+          "athleteId": "han-shangxiu-chn",
           "country": "CHN",
           "bib": 37,
           "mark": "DNS",
@@ -2553,6 +2595,7 @@
         {
           "rank": 1,
           "athlete": "ZHANG Aoli",
+          "athleteId": "zhang-aoli-chn",
           "country": "CHN",
           "bib": 55,
           "mark": "25.35"
@@ -2560,6 +2603,7 @@
         {
           "rank": 2,
           "athlete": "LI Sitong",
+          "athleteId": "li-sitong-chn",
           "country": "CHN",
           "bib": 41,
           "mark": "26.71"
@@ -2567,6 +2611,7 @@
         {
           "rank": 3,
           "athlete": "LIU Haozi",
+          "athleteId": "liu-haozi-chn",
           "country": "CHN",
           "bib": 42,
           "mark": "26.94"
@@ -2574,6 +2619,7 @@
         {
           "rank": 4,
           "athlete": "HUANG Yufei",
+          "athleteId": "huang-yufei-chn",
           "country": "CHN",
           "bib": 38,
           "mark": "27.57"
@@ -2581,6 +2627,7 @@
         {
           "rank": 5,
           "athlete": "ZHU Jiahui",
+          "athleteId": "zhu-jiahui-chn",
           "country": "CHN",
           "bib": 59,
           "mark": "34.26"
@@ -2588,6 +2635,7 @@
         {
           "rank": 6,
           "athlete": "ZHANG Hanyi",
+          "athleteId": "zhang-hanyi-chn",
           "country": "CHN",
           "bib": 57,
           "mark": "34.46"
@@ -2595,6 +2643,7 @@
         {
           "rank": null,
           "athlete": "CHEN Kexin",
+          "athleteId": "chen-kexin-chn",
           "country": "CHN",
           "bib": 35,
           "mark": "DNF",
@@ -2603,6 +2652,7 @@
         {
           "rank": null,
           "athlete": "WANG Jingyi",
+          "athleteId": "wang-jingyi-chn",
           "country": "CHN",
           "bib": 50,
           "mark": "DNS",
@@ -2667,6 +2717,7 @@
         {
           "rank": 1,
           "athlete": "WANG Ying",
+          "athleteId": "wang-ying-chn",
           "country": "CHN",
           "bib": 52,
           "mark": "57.87"
@@ -2674,6 +2725,7 @@
         {
           "rank": 2,
           "athlete": "WANG Qiuhui",
+          "athleteId": "wang-qiuhui-chn",
           "country": "CHN",
           "bib": 51,
           "mark": "59.01"
@@ -2681,6 +2733,7 @@
         {
           "rank": 3,
           "athlete": "BI Kejin",
+          "athleteId": "bi-kejin-chn",
           "country": "CHN",
           "bib": 32,
           "mark": "59.55"
@@ -2688,6 +2741,7 @@
         {
           "rank": 4,
           "athlete": "HUANG Yulin",
+          "athleteId": "huang-yulin-chn",
           "country": "CHN",
           "bib": 39,
           "mark": "1:12.21"
@@ -2695,6 +2749,7 @@
         {
           "rank": 5,
           "athlete": "CAO Yiqing",
+          "athleteId": "cao-yiqing-chn",
           "country": "CHN",
           "bib": 34,
           "mark": "1:12.26"
@@ -2702,6 +2757,7 @@
         {
           "rank": null,
           "athlete": "CAI Yutong",
+          "athleteId": "cai-yutong-chn",
           "country": "CHN",
           "bib": 33,
           "mark": "DNS",
@@ -2710,6 +2766,7 @@
         {
           "rank": null,
           "athlete": "ZHANG Fengxuan",
+          "athleteId": "zhang-fengxuan-chn",
           "country": "CHN",
           "bib": 56,
           "mark": "DNS",
@@ -2774,6 +2831,7 @@
         {
           "rank": 1,
           "athlete": "Team Hangzhou",
+          "athleteId": "team-hangzhou-chn",
           "country": "CHN",
           "bib": 1010,
           "mark": "47.90"
@@ -2781,6 +2839,7 @@
         {
           "rank": 2,
           "athlete": "Team Shaoxing",
+          "athleteId": "team-shaoxing-chn",
           "country": "CHN",
           "bib": 1012,
           "mark": "48.43"
@@ -2788,6 +2847,7 @@
         {
           "rank": 3,
           "athlete": "Hangzhou Guokang Sports",
+          "athleteId": "hangzhou-guokang-sports-chn",
           "country": "CHN",
           "bib": 1003,
           "mark": "48.72"
@@ -2795,6 +2855,7 @@
         {
           "rank": 4,
           "athlete": "Ouarter Hour Movement",
+          "athleteId": "ouarter-hour-movement-chn",
           "country": "CHN",
           "bib": 1007,
           "mark": "54.09"
@@ -2802,6 +2863,7 @@
         {
           "rank": null,
           "athlete": "Hangzhou Xiaoshan No.2 Secondary Vocational School",
+          "athleteId": "hangzhou-xiaoshan-no-2-secondary-vocational-school-chn",
           "country": "CHN",
           "bib": 1006,
           "mark": "DNF",
@@ -2882,7 +2944,7 @@
         {
           "rank": 1,
           "athlete": "LEOTLELA Gift",
-          "athleteId": "14578589",
+          "athleteId": "leotlela-gift-rsa",
           "country": "RSA",
           "bib": 511,
           "mark": "9.97",
@@ -2893,7 +2955,7 @@
         {
           "rank": 2,
           "athlete": "OMANYALA Ferdinand",
-          "athleteId": "14747153",
+          "athleteId": "omanyala-ferdinand-ken",
           "country": "KEN",
           "bib": 485,
           "mark": "9.98",
@@ -2903,7 +2965,7 @@
         {
           "rank": 3,
           "athlete": "BEDNAREK Kenneth",
-          "athleteId": "14715244",
+          "athleteId": "bednarek-kenneth-usa",
           "country": "USA",
           "bib": 536,
           "mark": "9.98",
@@ -2914,7 +2976,7 @@
         {
           "rank": 4,
           "athlete": "BROMELL Trayvon",
-          "athleteId": "14519911",
+          "athleteId": "bromell-trayvon-usa",
           "country": "USA",
           "bib": 539,
           "mark": "10.01",
@@ -2925,7 +2987,7 @@
         {
           "rank": 5,
           "athlete": "KENNEDY Lachlan",
-          "athleteId": "14970569",
+          "athleteId": "kennedy-lachlan-aus",
           "country": "AUS",
           "bib": 306,
           "mark": "10.01",
@@ -2935,7 +2997,7 @@
         {
           "rank": 6,
           "athlete": "SIMBINE Akani",
-          "athleteId": "14417763",
+          "athleteId": "simbine-akani-rsa",
           "country": "RSA",
           "bib": 515,
           "mark": "10.05",
@@ -2945,7 +3007,7 @@
         {
           "rank": 7,
           "athlete": "TEBOGO Letsile",
-          "athleteId": "14883897",
+          "athleteId": "tebogo-letsile-bot",
           "country": "BOT",
           "bib": 317,
           "mark": "10.12",
@@ -2956,7 +3018,7 @@
         {
           "rank": 8,
           "athlete": "COLEMAN Christian",
-          "athleteId": "14541956",
+          "athleteId": "coleman-christian-usa",
           "country": "USA",
           "bib": 541,
           "mark": "10.19",
@@ -2967,7 +3029,7 @@
         {
           "rank": 9,
           "athlete": "XIE Zhenye",
-          "athleteId": "14376449",
+          "athleteId": "xie-zhenye-chn",
           "country": "CHN",
           "bib": 353,
           "mark": "10.27",
@@ -3062,7 +3124,7 @@
         {
           "rank": 1,
           "athlete": "ENGLISH Mark",
-          "athleteId": "14377494",
+          "athleteId": "english-mark-irl",
           "country": "IRL",
           "bib": 438,
           "mark": "1:43.85",
@@ -3073,7 +3135,7 @@
         {
           "rank": 2,
           "athlete": "HAINGURA Kethobogile",
-          "athleteId": "15015852",
+          "athleteId": "haingura-kethobogile-bot",
           "country": "BOT",
           "bib": 316,
           "mark": "1:43.89",
@@ -3084,7 +3146,7 @@
         {
           "rank": 3,
           "athlete": "MILLER Brandon",
-          "athleteId": "14939097",
+          "athleteId": "miller-brandon-usa",
           "country": "USA",
           "bib": 557,
           "mark": "1:44.00",
@@ -3095,7 +3157,7 @@
         {
           "rank": 4,
           "athlete": "BOYES Luke",
-          "athleteId": "14935280",
+          "athleteId": "boyes-luke-aus",
           "country": "AUS",
           "bib": 304,
           "mark": "1:44.16",
@@ -3106,7 +3168,7 @@
         {
           "rank": 5,
           "athlete": "MEZIANE Yanis",
-          "athleteId": "14893694",
+          "athleteId": "meziane-yanis-fra",
           "country": "FRA",
           "bib": 419,
           "mark": "1:44.17",
@@ -3117,7 +3179,7 @@
         {
           "rank": 6,
           "athlete": "PATTISON Ben",
-          "athleteId": "14706169",
+          "athleteId": "pattison-ben-gbr",
           "country": "GBR",
           "bib": 427,
           "mark": "1:44.19",
@@ -3128,7 +3190,7 @@
         {
           "rank": 7,
           "athlete": "BEN Adrián",
-          "athleteId": "14645137",
+          "athleteId": "ben-adrian-esp",
           "country": "ESP",
           "bib": 386,
           "mark": "1:44.45",
@@ -3139,7 +3201,7 @@
         {
           "rank": 8,
           "athlete": "KINYAMAL Wyclife",
-          "athleteId": "14746603",
+          "athleteId": "kinyamal-wyclife-ken",
           "country": "KEN",
           "bib": 476,
           "mark": "1:44.61",
@@ -3150,7 +3212,7 @@
         {
           "rank": 9,
           "athlete": "BLOUDEK Marino",
-          "athleteId": "14666850",
+          "athleteId": "bloudek-marino-cro",
           "country": "CRO",
           "bib": 373,
           "mark": "1:45.02",
@@ -3159,7 +3221,7 @@
         {
           "rank": 10,
           "athlete": "XI Xiaoheng",
-          "athleteId": "14750659",
+          "athleteId": "xi-xiaoheng-chn",
           "country": "CHN",
           "bib": 352,
           "mark": "1:45.62",
@@ -3168,7 +3230,7 @@
         {
           "rank": 11,
           "athlete": "LIU Dezhu",
-          "athleteId": "14811434",
+          "athleteId": "liu-dezhu-chn",
           "country": "CHN",
           "bib": 341,
           "mark": "1:45.79",
@@ -3177,7 +3239,7 @@
         {
           "rank": null,
           "athlete": "SIERADZKI Patryk",
-          "athleteId": "14647295",
+          "athleteId": "sieradzki-patryk-pol",
           "country": "POL",
           "bib": 504,
           "mark": "DNF",
@@ -3304,7 +3366,7 @@
         {
           "rank": 1,
           "athlete": "ABDILAAHI Mohamed",
-          "athleteId": "14753471",
+          "athleteId": "abdilaahi-mohamed-ger",
           "country": "GER",
           "bib": 428,
           "mark": "7:25.77",
@@ -3315,7 +3377,7 @@
         {
           "rank": 2,
           "athlete": "CHERUIYOT Reynold",
-          "athleteId": "14997479",
+          "athleteId": "cheruiyot-reynold-ken",
           "country": "KEN",
           "bib": 470,
           "mark": "7:26.11",
@@ -3326,7 +3388,7 @@
         {
           "rank": 3,
           "athlete": "ALMGREN Andreas",
-          "athleteId": "14460738",
+          "athleteId": "almgren-andreas-swe",
           "country": "SWE",
           "bib": 521,
           "mark": "7:26.48",
@@ -3337,7 +3399,7 @@
         {
           "rank": 4,
           "athlete": "CHERUIYOT Timothy",
-          "athleteId": "14643526",
+          "athleteId": "cheruiyot-timothy-ken",
           "country": "KEN",
           "bib": 471,
           "mark": "7:27.24",
@@ -3348,7 +3410,7 @@
         {
           "rank": 5,
           "athlete": "KEMBOI Cornelius",
-          "athleteId": "14894347",
+          "athleteId": "kemboi-cornelius-ken",
           "country": "KEN",
           "bib": 473,
           "mark": "7:27.46",
@@ -3359,7 +3421,7 @@
         {
           "rank": 6,
           "athlete": "KIPSANG Mathew Kipchumba",
-          "athleteId": "14909441",
+          "athleteId": "kipsang-mathew-kipchumba-ken",
           "country": "KEN",
           "bib": 481,
           "mark": "7:27.58",
@@ -3370,7 +3432,7 @@
         {
           "rank": 7,
           "athlete": "HERRERA Eduardo",
-          "athleteId": "14668389",
+          "athleteId": "herrera-eduardo-mex",
           "country": "MEX",
           "bib": 490,
           "mark": "7:27.63",
@@ -3381,7 +3443,7 @@
         {
           "rank": 8,
           "athlete": "KROP Jacob",
-          "athleteId": "14808798",
+          "athleteId": "krop-jacob-ken",
           "country": "KEN",
           "bib": 482,
           "mark": "7:28.72",
@@ -3392,7 +3454,7 @@
         {
           "rank": 9,
           "athlete": "GIRMA Kuma",
-          "athleteId": "14975226",
+          "athleteId": "girma-kuma-eth",
           "country": "ETH",
           "bib": 402,
           "mark": "7:29.20",
@@ -3401,7 +3463,7 @@
         {
           "rank": 10,
           "athlete": "KIPKURUI Ishmael Rokitto",
-          "athleteId": "14935332",
+          "athleteId": "kipkurui-ishmael-rokitto-ken",
           "country": "KEN",
           "bib": 478,
           "mark": "7:29.31",
@@ -3410,7 +3472,7 @@
         {
           "rank": 11,
           "athlete": "O'DONNELL Seth",
-          "athleteId": "14928262",
+          "athleteId": "o-donnell-seth-aus",
           "country": "AUS",
           "bib": 308,
           "mark": "7:29.49",
@@ -3419,7 +3481,7 @@
         {
           "rank": 12,
           "athlete": "BALEW Birhanu",
-          "athleteId": "14695983",
+          "athleteId": "balew-birhanu-brn",
           "country": "BRN",
           "bib": 322,
           "mark": "7:29.60",
@@ -3428,7 +3490,7 @@
         {
           "rank": 13,
           "athlete": "CATROFE Santiago",
-          "athleteId": "14706109",
+          "athleteId": "catrofe-santiago-uru",
           "country": "URU",
           "bib": 528,
           "mark": "7:29.72",
@@ -3437,7 +3499,7 @@
         {
           "rank": 14,
           "athlete": "WALE Getnet",
-          "athleteId": "14760253",
+          "athleteId": "wale-getnet-eth",
           "country": "ETH",
           "bib": 411,
           "mark": "7:29.98",
@@ -3446,7 +3508,7 @@
         {
           "rank": 15,
           "athlete": "VERBAANDERT Tim",
-          "athleteId": "14790169",
+          "athleteId": "verbaandert-tim-ned",
           "country": "NED",
           "bib": 495,
           "mark": "7:30.42",
@@ -3455,7 +3517,7 @@
         {
           "rank": 16,
           "athlete": "KIPROP Keneth",
-          "athleteId": "15041078",
+          "athleteId": "kiprop-keneth-uga",
           "country": "UGA",
           "bib": 527,
           "mark": "7:33.70",
@@ -3464,7 +3526,7 @@
         {
           "rank": 17,
           "athlete": "KURGAT Edwin",
-          "athleteId": "14401023",
+          "athleteId": "kurgat-edwin-ken",
           "country": "KEN",
           "bib": 483,
           "mark": "7:33.91",
@@ -3473,7 +3535,7 @@
         {
           "rank": 18,
           "athlete": "KINDE Nibret",
-          "athleteId": "15058748",
+          "athleteId": "kinde-nibret-eth",
           "country": "ETH",
           "bib": 404,
           "mark": "7:34.61",
@@ -3482,7 +3544,7 @@
         {
           "rank": 19,
           "athlete": "FAYISA Abdisa",
-          "athleteId": "15042281",
+          "athleteId": "fayisa-abdisa-eth",
           "country": "ETH",
           "bib": 398,
           "mark": "7:36.73",
@@ -3491,7 +3553,7 @@
         {
           "rank": null,
           "athlete": "KIPRUGUT Boaz",
-          "athleteId": "14695615",
+          "athleteId": "kiprugut-boaz-ken",
           "country": "KEN",
           "bib": 480,
           "mark": "DNF",
@@ -3500,7 +3562,7 @@
         {
           "rank": null,
           "athlete": "SASÍNEK Filip",
-          "athleteId": "14474319",
+          "athleteId": "sasinek-filip-cze",
           "country": "CZE",
           "bib": 381,
           "mark": "DNF",
@@ -3580,7 +3642,7 @@
         {
           "rank": 1,
           "athlete": "BRITT Jamal",
-          "athleteId": "14769264",
+          "athleteId": "britt-jamal-usa",
           "country": "USA",
           "bib": 538,
           "mark": "13.07",
@@ -3591,7 +3653,7 @@
         {
           "rank": 2,
           "athlete": "TINCH Cordell",
-          "athleteId": "14719972",
+          "athleteId": "tinch-cordell-usa",
           "country": "USA",
           "bib": 564,
           "mark": "13.10",
@@ -3602,7 +3664,7 @@
         {
           "rank": 3,
           "athlete": "MURATAKE Rachid",
-          "athleteId": "14854913",
+          "athleteId": "muratake-rachid-jpn",
           "country": "JPN",
           "bib": 460,
           "mark": "13.18",
@@ -3612,7 +3674,7 @@
         {
           "rank": 4,
           "athlete": "BENNETT Orlando",
-          "athleteId": "14739873",
+          "athleteId": "bennett-orlando-jam",
           "country": "JAM",
           "bib": 444,
           "mark": "13.20",
@@ -3623,7 +3685,7 @@
         {
           "rank": 5,
           "athlete": "LIU Junxi",
-          "athleteId": "14977766",
+          "athleteId": "liu-junxi-chn",
           "country": "CHN",
           "bib": 342,
           "mark": "13.22",
@@ -3634,7 +3696,7 @@
         {
           "rank": 6,
           "athlete": "XU Zhuoyi",
-          "athleteId": "14885102",
+          "athleteId": "xu-zhuoyi-chn",
           "country": "CHN",
           "bib": 357,
           "mark": "13.39",
@@ -3645,7 +3707,7 @@
         {
           "rank": 7,
           "athlete": "LLOPIS Enrique",
-          "athleteId": "14711683",
+          "athleteId": "llopis-enrique-esp",
           "country": "ESP",
           "bib": 388,
           "mark": "13.43",
@@ -3656,7 +3718,7 @@
         {
           "rank": 8,
           "athlete": "JOSEPH Jason",
-          "athleteId": "14680682",
+          "athleteId": "joseph-jason-sui",
           "country": "SUI",
           "bib": 520,
           "mark": "13.51",
@@ -3667,7 +3729,7 @@
         {
           "rank": 9,
           "athlete": "DIESSL Enzo",
-          "athleteId": "14915048",
+          "athleteId": "diessl-enzo-aut",
           "country": "AUT",
           "bib": 310,
           "mark": "13.57",
@@ -3724,7 +3786,7 @@
         {
           "rank": 1,
           "athlete": "dos SANTOS Alison",
-          "athleteId": "14755064",
+          "athleteId": "dos-santos-alison-bra",
           "country": "BRA",
           "bib": 318,
           "mark": "33.01",
@@ -3735,7 +3797,7 @@
         {
           "rank": 2,
           "athlete": "WARHOLM Karsten",
-          "athleteId": "14479487",
+          "athleteId": "warholm-karsten-nor",
           "country": "NOR",
           "bib": 497,
           "mark": "33.05",
@@ -3746,7 +3808,7 @@
         {
           "rank": 3,
           "athlete": "LIMA Matheus",
-          "athleteId": "14918836",
+          "athleteId": "lima-matheus-bra",
           "country": "BRA",
           "bib": 319,
           "mark": "33.75",
@@ -3757,7 +3819,7 @@
         {
           "rank": 4,
           "athlete": "BASSITT Trevor",
-          "athleteId": "14719193",
+          "athleteId": "bassitt-trevor-usa",
           "country": "USA",
           "bib": 535,
           "mark": "34.02",
@@ -3768,7 +3830,7 @@
         {
           "rank": 5,
           "athlete": "GUCEK Matic Ian",
-          "athleteId": "14874438",
+          "athleteId": "gucek-matic-ian-slo",
           "country": "SLO",
           "bib": 519,
           "mark": "34.14",
@@ -3779,7 +3841,7 @@
         {
           "rank": 6,
           "athlete": "DEAN Caleb",
-          "athleteId": "14865900",
+          "athleteId": "dean-caleb-usa",
           "country": "USA",
           "bib": 544,
           "mark": "34.51",
@@ -3790,7 +3852,7 @@
         {
           "rank": 7,
           "athlete": "ALLEN CJ",
-          "athleteId": "14627624",
+          "athleteId": "allen-cj-usa",
           "country": "USA",
           "bib": 531,
           "mark": "34.53",
@@ -3801,7 +3863,7 @@
         {
           "rank": 8,
           "athlete": "XIE Zhiyu",
-          "athleteId": "14885717",
+          "athleteId": "xie-zhiyu-chn",
           "country": "CHN",
           "bib": 354,
           "mark": "35.58",
@@ -3812,7 +3874,7 @@
         {
           "rank": 9,
           "athlete": "McMASTER Kyron",
-          "athleteId": "14532760",
+          "athleteId": "mcmaster-kyron-ivb",
           "country": "IVB",
           "bib": 443,
           "mark": "35.72",
@@ -3921,7 +3983,7 @@
         {
           "rank": 1,
           "athlete": "DUPLANTIS Armand",
-          "athleteId": "14679502",
+          "athleteId": "duplantis-armand-swe",
           "country": "SWE",
           "bib": 522,
           "mark": "6.12",
@@ -3932,7 +3994,7 @@
         {
           "rank": 2,
           "athlete": "MARSCHALL Kurtis",
-          "athleteId": "14565327",
+          "athleteId": "marschall-kurtis-aus",
           "country": "AUS",
           "bib": 307,
           "mark": "5.80",
@@ -3942,7 +4004,7 @@
         {
           "rank": 3,
           "athlete": "COLLET Thibaut",
-          "athleteId": "14733137",
+          "athleteId": "collet-thibaut-fra",
           "country": "FRA",
           "bib": 414,
           "mark": "5.70",
@@ -3952,7 +4014,7 @@
         {
           "rank": 3,
           "athlete": "KENDRICKS Sam",
-          "athleteId": "14440868",
+          "athleteId": "kendricks-sam-usa",
           "country": "USA",
           "bib": 552,
           "mark": "5.70",
@@ -3962,7 +4024,7 @@
         {
           "rank": 3,
           "athlete": "VLOON Menno",
-          "athleteId": "14482223",
+          "athleteId": "vloon-menno-ned",
           "country": "NED",
           "bib": 496,
           "mark": "5.70",
@@ -3972,7 +4034,7 @@
         {
           "rank": 6,
           "athlete": "HUANG Bokai",
-          "athleteId": "14534938",
+          "athleteId": "huang-bokai-chn",
           "country": "CHN",
           "bib": 337,
           "mark": "5.70",
@@ -3983,7 +4045,7 @@
         {
           "rank": 7,
           "athlete": "KARALIS Emmanouil",
-          "athleteId": "14669731",
+          "athleteId": "karalis-emmanouil-gre",
           "country": "GRE",
           "bib": 436,
           "mark": "5.70",
@@ -3993,7 +4055,7 @@
         {
           "rank": 8,
           "athlete": "LI Chenyang",
-          "athleteId": "14974804",
+          "athleteId": "li-chenyang-chn",
           "country": "CHN",
           "bib": 339,
           "mark": "5.70",
@@ -4003,7 +4065,7 @@
         {
           "rank": 9,
           "athlete": "BRADFORD Zachery",
-          "athleteId": "14717685",
+          "athleteId": "bradford-zachery-usa",
           "country": "USA",
           "bib": 537,
           "mark": "5.60"
@@ -4081,7 +4143,7 @@
         {
           "rank": 1,
           "athlete": "CEH Kristjan",
-          "athleteId": "14666860",
+          "athleteId": "ceh-kristjan-slo",
           "country": "SLO",
           "bib": 518,
           "mark": "70.58",
@@ -4092,7 +4154,7 @@
         {
           "rank": 2,
           "athlete": "DENNY Matthew",
-          "athleteId": "14436890",
+          "athleteId": "denny-matthew-aus",
           "country": "AUS",
           "bib": 305,
           "mark": "67.54",
@@ -4102,7 +4164,7 @@
         {
           "rank": 3,
           "athlete": "STÅHL Daniel",
-          "athleteId": "14375325",
+          "athleteId": "stahl-daniel-swe",
           "country": "SWE",
           "bib": 523,
           "mark": "66.71",
@@ -4113,7 +4175,7 @@
         {
           "rank": 4,
           "athlete": "OKOYE Lawrence",
-          "athleteId": "14425340",
+          "athleteId": "okoye-lawrence-gbr",
           "country": "GBR",
           "bib": 426,
           "mark": "66.03",
@@ -4123,7 +4185,7 @@
         {
           "rank": 5,
           "athlete": "RICHTER Steven",
-          "athleteId": "14828356",
+          "athleteId": "richter-steven-ger",
           "country": "GER",
           "bib": 435,
           "mark": "65.49",
@@ -4133,7 +4195,7 @@
         {
           "rank": 6,
           "athlete": "STONA Roje",
-          "athleteId": "14744385",
+          "athleteId": "stona-roje-jam",
           "country": "JAM",
           "bib": 451,
           "mark": "64.92",
@@ -4143,7 +4205,7 @@
         {
           "rank": 7,
           "athlete": "MATTIS Sam",
-          "athleteId": "14416979",
+          "athleteId": "mattis-sam-usa",
           "country": "USA",
           "bib": 555,
           "mark": "64.83",
@@ -4153,7 +4215,7 @@
         {
           "rank": 8,
           "athlete": "WEIßHAIDINGER Lukas",
-          "athleteId": "14363774",
+          "athleteId": "wei-haidinger-lukas-aut",
           "country": "AUT",
           "bib": 311,
           "mark": "63.95",
@@ -4163,7 +4225,7 @@
         {
           "rank": 9,
           "athlete": "ALEKNA Martynas",
-          "athleteId": "14751795",
+          "athleteId": "alekna-martynas-ltu",
           "country": "LTU",
           "bib": 488,
           "mark": "59.89"
@@ -4171,7 +4233,7 @@
         {
           "rank": 10,
           "athlete": "ROSE Alex",
-          "athleteId": "14389747",
+          "athleteId": "rose-alex-sam",
           "country": "SAM",
           "bib": 517,
           "mark": "59.13"
@@ -4179,7 +4241,7 @@
         {
           "rank": 11,
           "athlete": "DÍAZ Mario Alberto",
-          "athleteId": "14663422",
+          "athleteId": "diaz-mario-alberto-cub",
           "country": "CUB",
           "bib": 375,
           "mark": "58.73"
