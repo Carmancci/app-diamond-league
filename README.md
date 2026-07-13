@@ -1,33 +1,36 @@
-# app-diamond-league
+# Diamond League 2026
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Aplicação editorial em português do Brasil para acompanhar calendário, programas, inscritos, resultados e estatísticas da Wanda Diamond League 2026.
 
-## Built with v0
+## Fonte e veracidade
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+A fonte primária é o JSON estruturado oficial publicado pelo sistema Swiss Timing. Cada etapa registra URL, horário de coleta, checksum, versão do normalizador e estado de confiança. PDFs e páginas da Diamond League são referências secundárias; dados antigos são preservados quando a fonte ainda não foi publicada ou falha, e uma regressão anormal bloqueia a atualização.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_Qb3PS0wi7HCC9UHHuxwVRCGXNk5I)
+Estados exibidos: `aguardando_fonte`, `coletado`, `validando`, `confirmado_oficial`, `parcial`, `divergente`, `falha_coleta` e `desatualizado`. Programas preservados de etapas ainda não publicadas não são apresentados como listas oficiais de inscritos.
 
-## Getting Started
-
-First, run the development server:
+## Atualização
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm ingest          # coleta e grava atomicamente
+pnpm ingest:check    # verifica se existem mudanças, sem gravar
+pnpm validate:data   # valida todos os arquivos gerados
+pnpm test
+pnpm typecheck
+pnpm lint
+pnpm build
+```
+
+O workflow `.github/workflows/update-official-data.yml` executa a cada seis horas e também pode ser disparado manualmente. Ele cria ou atualiza a branch `automation/official-data` e abre um PR somente depois de todas as validações; nunca publica diretamente na `main`. O Preview da Vercel associado ao PR é a etapa de revisão visual antes do merge.
+
+## Horários e idioma
+
+A interface usa `pt-BR`. Termos oficiais sem tradução segura permanecem no idioma da fonte. Cada horário do programa pode ser exibido como **horário da prova**, no fuso IANA da sede, ou **seu horário**, calculado pelo navegador; a indicação do fuso fica sempre visível.
+
+## Desenvolvimento
+
+```bash
+pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+O projeto usa Next.js 16, React 19, Tailwind CSS 4 e componentes shadcn/Base UI. O repositório está conectado ao projeto v0 e à Vercel.

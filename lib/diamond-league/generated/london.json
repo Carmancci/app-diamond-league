@@ -12,5 +12,123 @@
   "officialUrl": "https://london.diamondleague.com",
   "source": null,
   "updatedAt": "2026-07-10T12:51:58.861Z",
-  "events": []
+  "events": [
+    {
+      "id": "london-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-800m-men",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-1-mile-men",
+      "discipline": "1 Mile",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-pole-vault-men",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-200m-women",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-400m-women",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-3000m-women",
+      "discipline": "3000m",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-high-jump-women",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-long-jump-women",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "london-discus-throw-women",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    }
+  ],
+  "hasProgram": true,
+  "timezone": "Europe/London",
+  "state": "aguardando_fonte",
+  "eventCount": 14,
+  "athleteCount": 0
 }

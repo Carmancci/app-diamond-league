@@ -12,5 +12,139 @@
   "officialUrl": "https://zurich.diamondleague.com",
   "source": null,
   "updatedAt": "2026-07-10T12:51:59.797Z",
-  "events": []
+  "events": [
+    {
+      "id": "zurich-200m-men",
+      "discipline": "200m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-1500m-men",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-3000m-men",
+      "discipline": "3000m",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-pole-vault-men",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-long-jump-men",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-shot-put-men",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-javelin-throw-men",
+      "discipline": "Javelin Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-800m-women",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-400m-hurdles-women",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-3000m-steeplechase-women",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-high-jump-women",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "zurich-pole-vault-women",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    }
+  ],
+  "hasProgram": true,
+  "timezone": "Europe/Zurich",
+  "state": "aguardando_fonte",
+  "eventCount": 16,
+  "athleteCount": 0
 }

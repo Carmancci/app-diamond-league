@@ -4,14 +4,44 @@ export type EventCategory = 'sprints' | 'middle' | 'distance' | 'hurdles' | 'jum
 
 export type MeetingStatus = 'completed' | 'live' | 'upcoming'
 
+export type DataState =
+  | 'aguardando_fonte'
+  | 'coletado'
+  | 'validando'
+  | 'confirmado_oficial'
+  | 'parcial'
+  | 'divergente'
+  | 'falha_coleta'
+  | 'desatualizado'
+
+export type ListType = 'programa' | 'inscritos' | 'resultados_parciais' | 'resultados_finais'
+
+export interface SourceMetadata {
+  type: 'swiss_timing_json' | 'swiss_timing_pdf' | 'diamond_league_official'
+  url: string
+  pdfUrl?: string
+  checksum?: string
+  collectedAt?: string
+  parserVersion?: string
+  state?: DataState
+  diagnosis?: string
+}
+
 export interface AthleteResult {
-  rank: number | null // null para DNF/DNS/DQ/NM
+  rank: number | null
   athlete: string
-  country: string // ISO-3 code
-  dob?: string // data de nascimento (quando disponível no PDF)
-  mark: string // tempo / distância / altura, ou DNF/DNS/DQ
-  note?: string // WL, MR, PB, SB, NR, AR, DLR, etc.
-  points?: number // pontos Diamond League (calculados)
+  athleteId?: string
+  country: string
+  dob?: string
+  bib?: number | string
+  mark: string
+  note?: string
+  points?: number
+  qualificationRank?: number
+  qualificationPoints?: number
+  seasonBest?: string
+  personalBest?: string
+  status?: string
 }
 
 export interface EventResult {
@@ -19,11 +49,27 @@ export interface EventResult {
   discipline: string // e.g. "100m", "Salto em Distância"
   category: EventCategory
   gender: Gender
-  phase?: string // "Final", "Heat 1", "B", "C"...
-  isPrimary: boolean // prova principal da Diamond League
+  phase?: string
+  isPrimary: boolean
+  isDiamondRace?: boolean
+  listType?: ListType
+  listLabel?: string
   wind?: string
   startTime?: string
+  startDate?: string
+  startDateTimeUtc?: string
+  records?: EventRecord[]
   results: AthleteResult[]
+}
+
+export interface EventRecord {
+  name: string
+  performance: string
+  holder?: string
+  holderCountry?: string
+  meeting?: string
+  location?: string
+  date?: string
 }
 
 export interface Meeting {
@@ -39,8 +85,12 @@ export interface Meeting {
   endDate?: string // ISO for multi-day (final)
   isFinal?: boolean
   officialUrl: string
-  source?: string | null // URL do PDF oficial de origem
-  updatedAt?: string | null // quando os dados foram ingeridos
+  timezone?: string
+  state?: DataState
+  source?: SourceMetadata | string | null
+  updatedAt?: string | null
+  eventCount?: number
+  athleteCount?: number
   events: EventResult[]
 }
 

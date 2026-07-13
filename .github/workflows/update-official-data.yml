@@ -1,0 +1,60 @@
+name: Atualizar dados oficiais
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: official-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Instalar dependências
+        run: pnpm install --frozen-lockfile
+
+      - name: Atualizar fontes oficiais
+        run: pnpm ingest
+
+      - name: Validar dataset e aplicação
+        run: |
+          pnpm validate:data
+          pnpm test
+          pnpm typecheck
+          pnpm lint
+          pnpm build
+
+      - name: Criar ou atualizar PR de dados
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/official-data
+          delete-branch: true
+          commit-message: 'data: atualizar fontes oficiais da Diamond League'
+          title: 'data: atualização oficial automatizada'
+          body: |
+            Atualização gerada a partir do feed oficial estruturado do Swiss Timing.
+
+            O PR só é criado após validação semântica, testes, lint, TypeScript e build. A publicação continua condicionada à revisão e ao Preview da Vercel.
+          labels: data, automated

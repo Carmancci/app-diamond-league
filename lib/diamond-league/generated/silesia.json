@@ -12,5 +12,179 @@
   "officialUrl": "https://silesia.diamondleague.com",
   "source": null,
   "updatedAt": "2026-07-10T12:51:59.502Z",
-  "events": []
+  "events": [
+    {
+      "id": "silesia-100m-men",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-400m-men",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-1500m-men",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-110m-hurdles-men",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-400m-hurdles-men",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-3000m-steeplechase-men",
+      "discipline": "3000m Steeplechase",
+      "category": "distance",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-high-jump-men",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-pole-vault-men",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-shot-put-men",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-discus-throw-men",
+      "discipline": "Discus Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-hammer-throw-men",
+      "discipline": "Hammer Throw",
+      "category": "throws",
+      "gender": "men",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-100m-women",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-400m-women",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-1500m-women",
+      "discipline": "1500m",
+      "category": "middle",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-5000m-women",
+      "discipline": "5000m",
+      "category": "distance",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-100m-hurdles-women",
+      "discipline": "100m Hurdles",
+      "category": "hurdles",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-high-jump-women",
+      "discipline": "High Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-long-jump-women",
+      "discipline": "Long Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-triple-jump-women",
+      "discipline": "Triple Jump",
+      "category": "jumps",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-shot-put-women",
+      "discipline": "Shot Put",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    },
+    {
+      "id": "silesia-hammer-throw-women",
+      "discipline": "Hammer Throw",
+      "category": "throws",
+      "gender": "women",
+      "isPrimary": true,
+      "results": []
+    }
+  ],
+  "hasProgram": true,
+  "timezone": "Europe/Warsaw",
+  "state": "aguardando_fonte",
+  "eventCount": 21,
+  "athleteCount": 0
 }

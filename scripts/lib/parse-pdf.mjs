@@ -1,4 +1,3 @@
-// @ts-nocheck
 /**
  * Parser dos PDFs oficiais de resultados da Wanda Diamond League
  * (serviço de cronometragem Swiss Timing / ps-cache).
@@ -71,8 +70,6 @@ const NOTE_TOKENS = new Set([
   'PB', 'SB', 'WL', 'ML', 'MR', 'DLR', 'CR', 'GR', '=PB', '=SB',
   '=NR', '=MR', '=CR', '=WR', '=AR', 'EL', 'WBP',
 ])
-
-const NON_RESULT_STATUS = new Set(['DNF', 'DNS', 'DQ', 'NM', 'DID NOT START', 'NR', 'r'])
 
 const NOISE_PREFIXES = [
   'Wanda Diamond League',
@@ -215,9 +212,6 @@ export function parseResultsText(text) {
       pushCurrent()
       const disciplineRaw = headerMatch[1]
       const gender = headerMatch[2].toLowerCase() === 'men' ? 'men' : 'women'
-      const discipline = normalizeDiscipline(
-        disciplineRaw.replace(/\b\w/g, (c) => c.toUpperCase()).replace(/\bM\b/i, 'm'),
-      )
       // Preserva capitalização original das disciplinas com "m" minúsculo.
       const disciplineClean = normalizeDiscipline(disciplineRaw.trim())
       current = {

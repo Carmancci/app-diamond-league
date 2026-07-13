@@ -31,7 +31,7 @@ const POINTS_BY_RANK = [8, 7, 6, 5, 4, 3, 2, 1]
 const FINAL_POINTS_BY_RANK = [8, 7, 6, 5, 4, 3, 2, 1]
 
 function withPoints(event: EventResult, isFinal: boolean): EventResult {
-  if (!event.isPrimary) return event
+  if (!event.isPrimary || !event.listType?.startsWith('resultados')) return event
   const table = isFinal ? FINAL_POINTS_BY_RANK : POINTS_BY_RANK
   const results: AthleteResult[] = event.results.map((r) => {
     if (r.rank && r.rank >= 1 && r.rank <= table.length) {
@@ -42,18 +42,31 @@ function withPoints(event: EventResult, isFinal: boolean): EventResult {
   return { ...event, results }
 }
 
-function hydrate(raw: unknown): Meeting {
-  const m = raw as Meeting
-  return {
-    ...m,
-    events: (m.events ?? []).map((e) => withPoints(e, Boolean(m.isFinal))),
-  }
-}
-
 const RAW_MEETINGS = [
   shanghai, xiamen, rabat, rome, stockholm, oslo, doha, paris, eugene,
   monaco, london, lausanne, silesia, zurich, brussels,
-]
+] as unknown as Meeting[]
+
+function disciplineKey(event: EventResult) {
+  return `${event.discipline.toLowerCase()}::${event.gender}`
+}
+
+function referenceRecords(event: EventResult, meetingDate: string) {
+  return RAW_MEETINGS.flatMap((meeting) => meeting.events ?? [])
+    .filter((candidate) => disciplineKey(candidate) === disciplineKey(event))
+    .flatMap((candidate) => candidate.records ?? [])
+    .filter((record) => !record.date || record.date.slice(0, 10) <= meetingDate)
+}
+
+function hydrate(raw: Meeting): Meeting {
+  return {
+    ...raw,
+    events: (raw.events ?? []).map((event) => withPoints({
+      ...event,
+      records: event.records?.length ? event.records : referenceRecords(event, raw.date),
+    }, Boolean(raw.isFinal))),
+  }
+}
 
 export const MEETINGS: Meeting[] = RAW_MEETINGS.map(hydrate).sort((a, b) => a.round - b.round)
 
