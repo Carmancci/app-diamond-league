@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-13T12:17:42.356Z",
+  "updatedAt": "2026-07-10T12:51:55.052Z",
   "events": [
     {
       "id": "stockholm-200m-men",
@@ -895,7 +895,7 @@
       ]
     },
     {
-      "id": "stockholm-800m-men-2",
+      "id": "stockholm-800m-men",
       "discipline": "800m",
       "category": "middle",
       "gender": "men",
@@ -969,7 +969,7 @@
       ]
     },
     {
-      "id": "stockholm-1500m-men-2",
+      "id": "stockholm-1500m-men",
       "discipline": "1500m",
       "category": "middle",
       "gender": "men",
@@ -1804,7 +1804,7 @@
       ]
     },
     {
-      "id": "stockholm-800m-women-2",
+      "id": "stockholm-800m-women",
       "discipline": "800m",
       "category": "middle",
       "gender": "women",
@@ -1898,7 +1898,7 @@
       ]
     },
     {
-      "id": "stockholm-1500m-women-2",
+      "id": "stockholm-1500m-women",
       "discipline": "1500m",
       "category": "middle",
       "gender": "women",

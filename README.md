@@ -24,32 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Dados da Diamond League
-
-Os resultados são extraídos dos PDFs oficiais publicados pelo serviço de cronometragem Swiss Timing e ficam versionados em `lib/diamond-league/generated/`. O calendário e os metadados das 15 etapas de 2026 são mantidos no registro do projeto; a automação atualiza somente os resultados.
-
-Para atualizar todas as etapas e validar os arquivos gerados:
-
-```bash
-pnpm ingest
-pnpm validate:data
-```
-
-Também é possível atualizar apenas uma etapa pelo slug:
-
-```bash
-pnpm ingest paris
-pnpm validate:data
-```
-
-A ingestão é idempotente: quando o PDF não está disponível, o download falha ou nenhum resultado é reconhecido, os dados válidos existentes são preservados. O campo `updatedAt` só muda quando a fonte ou os resultados da etapa realmente mudam.
-
-## Atualização automática
-
-O workflow `.github/workflows/update-results.yml` executa diariamente às 09:17 UTC e também pode ser iniciado manualmente pela aba **Actions** do GitHub. Ele instala as dependências, executa a ingestão, valida os 15 arquivos e o índice, roda lint e build e só cria um commit na branch `atualizacao-automatica-de-dados` quando existem mudanças reais em `lib/diamond-league/generated/`.
-
-O agendamento do GitHub passa a funcionar depois que o arquivo do workflow estiver presente na branch padrão. Para uma execução sob demanda, abra **Actions**, selecione **Atualizar resultados** e use **Run workflow**.
-
 ## Learn More
 
 To learn more, take a look at the following resources:

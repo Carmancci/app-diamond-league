@@ -138,8 +138,8 @@
       "date": "2026-07-10",
       "endDate": null,
       "isFinal": false,
-      "hasResults": true,
-      "eventCount": 17
+      "hasResults": false,
+      "eventCount": 0
     },
     {
       "slug": "london",

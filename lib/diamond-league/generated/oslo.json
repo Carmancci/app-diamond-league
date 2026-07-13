@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/OSLO_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-13T12:17:43.205Z",
+  "updatedAt": "2026-07-10T12:51:55.831Z",
   "events": [
     {
       "id": "oslo-200m-men",
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "id": "oslo-800m-men-2",
+      "id": "oslo-800m-men",
       "discipline": "800m",
       "category": "middle",
       "gender": "men",
@@ -2033,7 +2033,7 @@
       ]
     },
     {
-      "id": "oslo-400m-women-2",
+      "id": "oslo-400m-women",
       "discipline": "400m",
       "category": "sprints",
       "gender": "women",
@@ -2111,7 +2111,7 @@
       ]
     },
     {
-      "id": "oslo-100m-women-2",
+      "id": "oslo-100m-women",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",

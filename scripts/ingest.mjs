@@ -67,19 +67,8 @@ async function extractText(buf) {
   return res.text
 }
 
-function readExistingMeeting(slug) {
-  const filePath = path.join(OUT_DIR, `${slug}.json`)
-  if (!fs.existsSync(filePath)) return null
-
-  try {
-    return JSON.parse(fs.readFileSync(filePath, 'utf8'))
-  } catch (err) {
-    throw new Error(`JSON existente inválido para ${slug}: ${err.message}`)
-  }
-}
-
-function createBaseMeeting(entry, existing) {
-  return {
+async function ingestMeeting(entry) {
+  const base = {
     id: entry.slug,
     slug: entry.slug,
     round: entry.round,
@@ -92,19 +81,10 @@ function createBaseMeeting(entry, existing) {
     endDate: entry.endDate,
     isFinal: entry.isFinal ?? false,
     officialUrl: `https://${entry.slug}.diamondleague.com`,
-    source: existing?.source ?? null,
-    updatedAt: existing?.updatedAt ?? null,
-    events: existing?.events ?? [],
+    source: null,
+    updatedAt: new Date().toISOString(),
+    events: [],
   }
-}
-
-function comparableResults(meeting) {
-  return JSON.stringify({ source: meeting.source, events: meeting.events })
-}
-
-async function ingestMeeting(entry) {
-  const existing = readExistingMeeting(entry.slug)
-  const base = createBaseMeeting(entry, existing)
 
   if (!entry.code) return base
 
@@ -113,52 +93,34 @@ async function ingestMeeting(entry) {
   try {
     buf = await downloadPdf(entry.code)
   } catch (err) {
-    console.log(`falha no download; dados anteriores preservados (${err.message})`)
+    console.log(`falha no download (${err.message})`)
     return base
   }
 
   if (!buf) {
-    console.log('sem PDF publicado; dados anteriores preservados')
+    console.log('sem PDF publicado (etapa futura ou indisponível)')
     return base
   }
 
   try {
     const text = await extractText(buf)
-    const eventIdCounts = new Map()
-    const events = parseResultsText(text).map((event) => {
-      const baseId = `${entry.slug}-${event.discipline}-${event.gender}`
+    const events = parseResultsText(text)
+    // adiciona id estável a cada evento
+    base.events = events.map((e, idx) => ({
+      id: `${entry.slug}-${e.discipline}-${e.gender}`
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, '-')
-        .replace(/(^-|-$)/g, '')
-      const occurrence = (eventIdCounts.get(baseId) ?? 0) + 1
-      eventIdCounts.set(baseId, occurrence)
-
-      return {
-        id: occurrence === 1 ? baseId : `${baseId}-${occurrence}`,
-        ...event,
-      }
-    })
-
-    if (events.length === 0) {
-      console.log('PDF sem resultados reconhecidos; dados anteriores preservados')
-      return base
-    }
-
-    const candidate = {
-      ...base,
-      source: { type: 'pdf', url: pdfUrl(entry.code) },
-      events,
-    }
-    const changed = comparableResults(candidate) !== comparableResults(base)
-    candidate.updatedAt = changed ? new Date().toISOString() : base.updatedAt
-
-    const athletes = events.reduce((total, event) => total + event.results.length, 0)
-    console.log(`${changed ? 'atualizado' : 'sem alterações'} — ${events.length} provas, ${athletes} resultados`)
-    return candidate
+        .replace(/(^-|-$)/g, ''),
+      ...e,
+    }))
+    base.source = { type: 'pdf', url: pdfUrl(entry.code) }
+    const athletes = events.reduce((n, e) => n + e.results.length, 0)
+    console.log(`OK — ${events.length} provas, ${athletes} resultados`)
   } catch (err) {
-    console.log(`falha ao converter PDF; dados anteriores preservados (${err.message})`)
-    return base
+    console.log(`falha ao converter PDF (${err.message})`)
   }
+
+  return base
 }
 
 async function main() {

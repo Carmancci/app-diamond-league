@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/EUGENE_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-13T12:17:44.195Z",
+  "updatedAt": "2026-07-10T12:51:57.652Z",
   "events": [
     {
       "id": "eugene-hammer-throw-men",
@@ -1420,7 +1420,7 @@
       ]
     },
     {
-      "id": "eugene-100m-women-2",
+      "id": "eugene-100m-women",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
@@ -1587,7 +1587,7 @@
       ]
     },
     {
-      "id": "eugene-100m-women-3",
+      "id": "eugene-100m-women",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
@@ -2080,7 +2080,7 @@
       ]
     },
     {
-      "id": "eugene-100m-men-2",
+      "id": "eugene-100m-men",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
@@ -2635,7 +2635,7 @@
       ]
     },
     {
-      "id": "eugene-100m-women-4",
+      "id": "eugene-100m-women",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
