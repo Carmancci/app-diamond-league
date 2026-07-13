@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/ROME_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-10T12:51:54.151Z",
+  "updatedAt": "2026-07-13T12:17:41.327Z",
   "events": [
     {
       "id": "rome-100m-men",
@@ -685,7 +685,7 @@
       ]
     },
     {
-      "id": "rome-100m-men",
+      "id": "rome-100m-men-2",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",

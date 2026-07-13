@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/RABAT_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-10T12:51:53.413Z",
+  "updatedAt": "2026-07-13T12:17:41.152Z",
   "events": [
     {
       "id": "rabat-200m-men",
@@ -744,7 +744,7 @@
       ]
     },
     {
-      "id": "rabat-200m-men",
+      "id": "rabat-200m-men-2",
       "discipline": "200m",
       "category": "sprints",
       "gender": "men",
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "id": "rabat-400m-men",
+      "id": "rabat-400m-men-2",
       "discipline": "400m",
       "category": "sprints",
       "gender": "men",
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "id": "rabat-800m-men",
+      "id": "rabat-800m-men-2",
       "discipline": "800m",
       "category": "middle",
       "gender": "men",
@@ -1120,7 +1120,7 @@
       ]
     },
     {
-      "id": "rabat-1500m-men",
+      "id": "rabat-1500m-men-2",
       "discipline": "1500m",
       "category": "middle",
       "gender": "men",
@@ -2148,7 +2148,7 @@
       ]
     },
     {
-      "id": "rabat-200m-women",
+      "id": "rabat-200m-women-2",
       "discipline": "200m",
       "category": "sprints",
       "gender": "women",
@@ -2238,7 +2238,7 @@
       ]
     },
     {
-      "id": "rabat-800m-women",
+      "id": "rabat-800m-women-2",
       "discipline": "800m",
       "category": "middle",
       "gender": "women",
@@ -2358,7 +2358,7 @@
       ]
     },
     {
-      "id": "rabat-1500m-women",
+      "id": "rabat-1500m-women-2",
       "discipline": "1500m",
       "category": "middle",
       "gender": "women",

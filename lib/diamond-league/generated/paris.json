@@ -14,7 +14,7 @@
     "type": "pdf",
     "url": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF"
   },
-  "updatedAt": "2026-07-10T12:51:57.531Z",
+  "updatedAt": "2026-07-13T12:17:44.057Z",
   "events": [
     {
       "id": "paris-100m-men",
@@ -887,7 +887,7 @@
       ]
     },
     {
-      "id": "paris-110m-hurdles-men",
+      "id": "paris-110m-hurdles-men-2",
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
@@ -966,7 +966,7 @@
       ]
     },
     {
-      "id": "paris-110m-hurdles-men",
+      "id": "paris-110m-hurdles-men-3",
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
@@ -1043,7 +1043,7 @@
       ]
     },
     {
-      "id": "paris-110m-hurdles-men",
+      "id": "paris-110m-hurdles-men-4",
       "discipline": "110m Hurdles",
       "category": "hurdles",
       "gender": "men",
@@ -1217,7 +1217,7 @@
       ]
     },
     {
-      "id": "paris-100m-men",
+      "id": "paris-100m-men-2",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
@@ -1278,7 +1278,7 @@
       ]
     },
     {
-      "id": "paris-100m-men",
+      "id": "paris-100m-men-3",
       "discipline": "100m",
       "category": "sprints",
       "gender": "men",
@@ -1790,7 +1790,7 @@
       ]
     },
     {
-      "id": "paris-100m-hurdles-women",
+      "id": "paris-100m-hurdles-women-2",
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
@@ -1861,7 +1861,7 @@
       ]
     },
     {
-      "id": "paris-100m-hurdles-women",
+      "id": "paris-100m-hurdles-women-3",
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
@@ -1938,7 +1938,7 @@
       ]
     },
     {
-      "id": "paris-100m-hurdles-women",
+      "id": "paris-100m-hurdles-women-4",
       "discipline": "100m Hurdles",
       "category": "hurdles",
       "gender": "women",
@@ -2354,7 +2354,7 @@
       ]
     },
     {
-      "id": "paris-100m-women",
+      "id": "paris-100m-women-2",
       "discipline": "100m",
       "category": "sprints",
       "gender": "women",
