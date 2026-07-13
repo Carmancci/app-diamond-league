@@ -50,8 +50,8 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
 
   return (
     <div>
-      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <div className="inline-flex rounded-lg border border-border bg-card p-1">
+      <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+        <div className="grid grid-cols-3 rounded-lg border border-border bg-card p-1">
           {GENDER_TABS.map((t) => (
             <button
               key={t.key}
@@ -68,7 +68,7 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
             </button>
           ))}
         </div>
-        <div className="relative sm:w-72">
+        <div className="relative w-full lg:w-72">
           <Search className="pointer-events-none absolute left-3 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
           <input
             type="search"

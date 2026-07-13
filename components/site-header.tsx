@@ -34,7 +34,7 @@ export function SiteHeader() {
           </span>
         </Link>
 
-        <nav className="hidden items-center gap-1 md:flex">
+        <nav className="hidden items-center gap-1 lg:flex">
           {NAV.map((item) => {
             const active =
               item.href === '/' ? pathname === '/' : pathname.startsWith(item.href)
@@ -60,7 +60,7 @@ export function SiteHeader() {
           <ThemeToggle />
           <button
             type="button"
-            className="grid size-9 place-items-center rounded-md border border-border text-foreground md:hidden"
+            className="grid size-9 place-items-center rounded-md border border-border text-foreground lg:hidden"
             onClick={() => setOpen((v) => !v)}
             aria-label="Abrir menu"
             aria-expanded={open}
@@ -71,7 +71,7 @@ export function SiteHeader() {
       </div>
 
       {open && (
-        <nav className="border-t border-border md:hidden">
+        <nav className="border-t border-border lg:hidden">
           {NAV.map((item) => {
             const active =
               item.href === '/' ? pathname === '/' : pathname.startsWith(item.href)

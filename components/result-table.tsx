@@ -50,13 +50,15 @@ export function ResultTable({ event, meetingDate, venueTimeZone, timeMode, defau
 
       <div className="border-t border-border">
         {!!referenceRecords.length && <section className="border-b border-border bg-muted/20 p-4" aria-label="Marcas de referência da modalidade">
-          <p className="mb-3 font-mono text-[10px] font-bold uppercase tracking-widest text-muted-foreground">Marcas a serem batidas</p>
+          <p className="font-mono text-[10px] font-bold uppercase tracking-widest text-muted-foreground">Marcas a serem batidas</p>
+          <p className="mb-3 mt-1 text-xs leading-relaxed text-muted-foreground">Recordes Mundial, Diamond League e da Etapa vigentes antes da prova.</p>
           <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
             {referenceRecords.map((record, index) => <article key={`${record.name}-${index}`} className="rounded-lg border border-border bg-background p-3">
               <div className="flex flex-wrap items-baseline justify-between gap-2"><span className="text-[10px] font-bold uppercase tracking-wide text-primary">{recordPtBr(record.name)}</span><span className="font-mono text-base font-bold text-foreground">{record.performance}</span></div>
               {record.holder && <p className="mt-2 break-words text-sm font-semibold leading-relaxed text-foreground">{displayName(record.holder)}{record.holderCountry ? ` · ${record.holderCountry}` : ''}</p>}
               <dl className="mt-2 grid gap-1 text-xs leading-relaxed text-muted-foreground">
                 <div><dt className="inline font-semibold text-foreground">Meeting: </dt><dd className="inline break-words">{recordMeeting(record)}</dd></div>
+                {record.location && <div><dt className="inline font-semibold text-foreground">Local: </dt><dd className="inline break-words">{record.location}</dd></div>}
                 <div><dt className="inline font-semibold text-foreground">Data: </dt><dd className="inline">{formatRecordDate(record.date)}</dd></div>
               </dl>
             </article>)}

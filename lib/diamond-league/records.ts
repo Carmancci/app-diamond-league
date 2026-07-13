@@ -20,6 +20,7 @@ export function prioritizeRecords(records: EventRecord[] = [], eventDate?: strin
   }
 
   return [...grouped.entries()]
+    .filter(([name]) => (PRIORITY[name] ?? 99) <= 2)
     .sort(([left], [right]) => (PRIORITY[left] ?? 99) - (PRIORITY[right] ?? 99))
     .flatMap(([, candidates]) => {
       const establishedBeforeEvent = candidates.filter((record) => {
@@ -40,5 +41,5 @@ export function formatRecordDate(date?: string) {
 }
 
 export function recordMeeting(record: EventRecord) {
-  return record.meeting || record.location || 'Meeting não informado pela fonte'
+  return record.meeting || 'Meeting não informado pela fonte'
 }

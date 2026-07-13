@@ -15,7 +15,8 @@ import { cn } from '@/lib/utils'
 const fetcher = async (url: string) => {
   const response = await fetch(url)
   if (!response.ok) throw new Error('Perfil indisponível')
-  return (await response.json()) as AthleteProfile
+  const payload = (await response.json()) as { athlete: AthleteProfile }
+  return payload.athlete
 }
 
 interface AthleteDisclosureProps {
@@ -62,7 +63,7 @@ export function AthleteDisclosure({
       {open && (
         <div
           id={panelId}
-          className={cn('mt-2 w-full rounded-lg border border-border bg-muted/30 p-4 text-left', panelClassName)}
+          className={cn('col-span-full mt-2 w-full min-w-0 break-words rounded-lg border border-border bg-muted/30 p-4 text-left', panelClassName)}
         >
           {isLoading && <DisclosureSkeleton />}
           {error && (
