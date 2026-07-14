@@ -9,6 +9,17 @@ import { NOTE_LABELS } from '@/components/note-legend'
 import { ProgressionChart, type ProgressionPoint } from '@/components/progression-chart'
 import { cn } from '@/lib/utils'
 
+function BestMarkCard({ label, value }: { label: string; value?: string }) {
+  return (
+    <div className="rounded-xl border border-border bg-card p-4">
+      <p className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">{label}</p>
+      <p className="mt-1 break-words text-xl font-bold tabular-nums text-primary">
+        {value ?? 'Não informado pela fonte'}
+      </p>
+    </div>
+  )
+}
+
 export function AthleteDisciplines({ athlete }: { athlete: AthleteProfile }) {
   const [active, setActive] = useState(athlete.byDiscipline[0]?.discipline ?? '')
 
@@ -53,17 +64,9 @@ export function AthleteDisciplines({ athlete }: { athlete: AthleteProfile }) {
       )}
 
       {/* Resumo da disciplina */}
-      <div className="grid gap-4 sm:grid-cols-3">
-        <div className="rounded-xl border border-border bg-card p-4">
-          <p className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
-            Melhor marca do ano
-          </p>
-          <p className="mt-1 text-2xl font-bold tabular-nums text-primary">{summary.best.mark}</p>
-          <p className="mt-0.5 text-xs text-muted-foreground">
-            {summary.best.meetingName}
-            {summary.best.note ? ` · ${summary.best.note}` : ''}
-          </p>
-        </div>
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <BestMarkCard label="Season Best (SB)" value={summary.seasonBest} />
+        <BestMarkCard label="Personal Best (PB)" value={summary.personalBest} />
         <div className="rounded-xl border border-border bg-card p-4">
           <p className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
             Modalidade

@@ -15,6 +15,9 @@ export interface AthleteListItem {
   country: string
   gender: Gender
   topDiscipline: string
+  age: number | null
+  seasonBest?: string
+  personalBest?: string
   points: number
   wins: number
 }
@@ -105,7 +108,11 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
                 <p className="break-words font-medium leading-snug">{displayName(a.name)}</p>
                 <p className="flex flex-wrap items-center gap-1.5 text-xs leading-relaxed text-muted-foreground">
                   <CountryFlag code={a.country} className="size-3.5" />
-                  {a.country} · {a.topDiscipline}
+                  {a.country} · {a.topDiscipline} · {a.age !== null ? `${a.age} anos` : 'Idade não informada'}
+                </p>
+                <p className="mt-1 flex flex-wrap gap-x-3 gap-y-1 font-mono text-[11px] leading-relaxed text-muted-foreground">
+                  <span>SB: <strong className="text-foreground">{a.seasonBest ?? 'Não informado'}</strong></span>
+                  <span>PB: <strong className="text-foreground">{a.personalBest ?? 'Não informado'}</strong></span>
                 </p>
               </div>
               <div className="shrink-0 text-right">

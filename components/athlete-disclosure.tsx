@@ -9,7 +9,7 @@ import { CountryFlag } from '@/components/country-flag'
 import { Skeleton } from '@/components/ui/skeleton'
 import { displayName } from '@/lib/diamond-league/format'
 import { disciplinePtBr } from '@/lib/diamond-league/i18n'
-import type { AthleteProfile } from '@/lib/diamond-league/athletes'
+import { ageFromDob, type AthleteProfile } from '@/lib/diamond-league/athletes'
 import { cn } from '@/lib/utils'
 
 const fetcher = async (url: string) => {
@@ -85,6 +85,8 @@ export function AthleteDisclosure({
                     <span>{athlete.country}</span>
                     <span aria-hidden="true">·</span>
                     <span>{athlete.gender === 'men' ? 'Masculino' : 'Feminino'}</span>
+                    <span aria-hidden="true">·</span>
+                    <span>{ageFromDob(athlete.dob) !== null ? `${ageFromDob(athlete.dob)} anos` : 'Idade não informada pela fonte'}</span>
                   </p>
                 </div>
               </div>
@@ -97,12 +99,16 @@ export function AthleteDisclosure({
               </div>
 
               <div>
-                <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">Modalidades</p>
-                <div className="mt-2 flex flex-wrap gap-2">
-                  {athlete.disciplines.map((discipline) => (
-                    <span key={discipline} className="rounded-md bg-background px-2 py-1 text-xs leading-relaxed text-foreground">
-                      {disciplinePtBr(discipline)}
-                    </span>
+                <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">Modalidades e melhores marcas</p>
+                <div className="mt-2 grid gap-2">
+                  {athlete.byDiscipline.map((summary) => (
+                    <div key={summary.discipline} className="rounded-md bg-background p-3">
+                      <p className="break-words text-sm font-semibold text-foreground">{disciplinePtBr(summary.discipline)}</p>
+                      <dl className="mt-2 grid grid-cols-2 gap-2">
+                        <Mark label="Season Best (SB)" value={summary.seasonBest} />
+                        <Mark label="Personal Best (PB)" value={summary.personalBest} />
+                      </dl>
+                    </div>
                   ))}
                 </div>
               </div>
@@ -118,6 +124,17 @@ export function AthleteDisclosure({
           )}
         </div>
       )}
+    </div>
+  )
+}
+
+function Mark({ label, value }: { label: string; value?: string }) {
+  return (
+    <div>
+      <dt className="font-mono text-[10px] uppercase tracking-wide text-muted-foreground">{label}</dt>
+      <dd className="mt-0.5 break-words font-mono text-sm font-bold text-foreground">
+        {value ?? 'Não informado pela fonte'}
+      </dd>
     </div>
   )
 }
