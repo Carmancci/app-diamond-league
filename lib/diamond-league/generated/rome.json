@@ -3277,7 +3277,8 @@
           "bib": 307,
           "mark": "21.87",
           "qualificationRank": 3,
-          "qualificationPoints": 15
+          "qualificationPoints": 15,
+          "dob": "1989-06-28"
         },
         {
           "rank": 3,
@@ -3557,7 +3558,8 @@
           "bib": 213,
           "mark": "78.28",
           "qualificationRank": 8,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1990-10-10"
         },
         {
           "rank": 10,

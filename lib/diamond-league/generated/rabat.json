@@ -3804,7 +3804,8 @@
           "country": "FRA",
           "bib": 214,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "1986-03-14"
         },
         {
           "rank": null,
@@ -4209,7 +4210,8 @@
           "mark": "22.58",
           "note": "MR,WL",
           "qualificationRank": 5,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1989-06-28"
         },
         {
           "rank": 2,
@@ -4449,7 +4451,8 @@
           "bib": 211,
           "mark": "77.75",
           "qualificationRank": 7,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1990-10-10"
         },
         {
           "rank": 8,
