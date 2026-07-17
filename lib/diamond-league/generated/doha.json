@@ -272,7 +272,10 @@
           "mark": "48.91",
           "note": "MR,SB",
           "qualificationRank": 8,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1994-05-02",
+          "personalBest": "48.36",
+          "seasonBest": "48.48"
         },
         {
           "rank": 2,

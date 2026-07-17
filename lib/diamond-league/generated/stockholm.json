@@ -734,7 +734,10 @@
           "bib": 40,
           "mark": "6.70",
           "qualificationRank": 9,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1994-02-24",
+          "personalBest": "7.30m",
+          "seasonBest": "6.98m"
         },
         {
           "rank": 7,
@@ -3154,7 +3157,10 @@
           "mark": "3:30.67",
           "note": "SB",
           "qualificationRank": 3,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "1996-01-27",
+          "personalBest": "3:29.23",
+          "seasonBest": "3:32.40"
         },
         {
           "rank": 4,
@@ -3717,7 +3723,10 @@
           "mark": "5.70",
           "note": "SB",
           "qualificationRank": 8,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1986-09-18",
+          "personalBest": "6.16m",
+          "seasonBest": "5.91m"
         },
         {
           "rank": 8,

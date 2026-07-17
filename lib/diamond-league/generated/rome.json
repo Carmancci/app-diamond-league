@@ -96,7 +96,10 @@
           "bib": 69,
           "mark": "21.93",
           "qualificationRank": 6,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1999-05-17",
+          "personalBest": "19.84",
+          "seasonBest": "21.51"
         },
         {
           "rank": 2,
@@ -2318,7 +2321,10 @@
           "bib": 293,
           "mark": "10.03",
           "qualificationRank": 5,
-          "qualificationPoints": 10
+          "qualificationPoints": 10,
+          "dob": "1994-09-16",
+          "personalBest": "9.82",
+          "seasonBest": "9.95"
         },
         {
           "rank": 7,

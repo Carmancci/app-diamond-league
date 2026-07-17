@@ -1,0 +1,104 @@
+{
+  "totalAthletes": 2437,
+  "enrichedAthletes": 28,
+  "dobFound": 13,
+  "pbFound": 10,
+  "meetings": {
+    "brussels": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "doha": {
+      "athletesTotal": 182,
+      "athletesEnriched": 1,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "eugene": {
+      "athletesTotal": 346,
+      "athletesEnriched": 4,
+      "dobAdded": 1,
+      "pbAdded": 0
+    },
+    "index": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "lausanne": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "london": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "monaco": {
+      "athletesTotal": 203,
+      "athletesEnriched": 7,
+      "dobAdded": 1,
+      "pbAdded": 1
+    },
+    "oslo": {
+      "athletesTotal": 233,
+      "athletesEnriched": 3,
+      "dobAdded": 2,
+      "pbAdded": 1
+    },
+    "paris": {
+      "athletesTotal": 252,
+      "athletesEnriched": 3,
+      "dobAdded": 2,
+      "pbAdded": 2
+    },
+    "rabat": {
+      "athletesTotal": 283,
+      "athletesEnriched": 1,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "rome": {
+      "athletesTotal": 215,
+      "athletesEnriched": 2,
+      "dobAdded": 1,
+      "pbAdded": 1
+    },
+    "shanghai": {
+      "athletesTotal": 244,
+      "athletesEnriched": 2,
+      "dobAdded": 2,
+      "pbAdded": 1
+    },
+    "silesia": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    },
+    "stockholm": {
+      "athletesTotal": 250,
+      "athletesEnriched": 3,
+      "dobAdded": 2,
+      "pbAdded": 2
+    },
+    "xiamen": {
+      "athletesTotal": 229,
+      "athletesEnriched": 2,
+      "dobAdded": 2,
+      "pbAdded": 2
+    },
+    "zurich": {
+      "athletesTotal": 0,
+      "athletesEnriched": 0,
+      "dobAdded": 0,
+      "pbAdded": 0
+    }
+  }
+}

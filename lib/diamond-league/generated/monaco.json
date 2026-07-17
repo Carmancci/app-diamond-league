@@ -104,7 +104,10 @@
           "mark": "21.51",
           "note": "MR,WL,NR",
           "qualificationRank": 3,
-          "qualificationPoints": 16
+          "qualificationPoints": 16,
+          "dob": "1999-05-17",
+          "personalBest": "19.84",
+          "seasonBest": "21.51"
         },
         {
           "rank": 2,
@@ -114,7 +117,10 @@
           "bib": 76,
           "mark": "21.76",
           "qualificationRank": 10,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "2001-11-14",
+          "personalBest": "22.26",
+          "seasonBest": "21.76"
         },
         {
           "rank": 3,
@@ -124,7 +130,10 @@
           "bib": 133,
           "mark": "21.84",
           "qualificationRank": 13,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "1996-06-07",
+          "personalBest": "21.61",
+          "seasonBest": "21.84"
         },
         {
           "rank": 4,
@@ -135,7 +144,10 @@
           "mark": "22.04",
           "note": "SB",
           "qualificationRank": 5,
-          "qualificationPoints": 12
+          "qualificationPoints": 12,
+          "dob": "1997-04-12",
+          "personalBest": "21.88",
+          "seasonBest": "22.04"
         },
         {
           "rank": 5,
@@ -248,7 +260,10 @@
           "mark": "48.67",
           "note": "MR",
           "qualificationRank": 2,
-          "qualificationPoints": 24
+          "qualificationPoints": 24,
+          "dob": "1994-05-02",
+          "personalBest": "48.36",
+          "seasonBest": "48.48"
         },
         {
           "rank": 2,
@@ -1342,7 +1357,10 @@
           "country": "FRA",
           "bib": 256,
           "mark": "5.70",
-          "note": "=SB"
+          "note": "=SB",
+          "dob": "1986-09-18",
+          "personalBest": "6.16m",
+          "seasonBest": "5.91m"
         },
         {
           "rank": 6,
@@ -3109,7 +3127,10 @@
           "mark": "2.23",
           "note": "SB",
           "qualificationRank": 14,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1994-06-01",
+          "personalBest": "2.37m",
+          "seasonBest": "2.30m"
         },
         {
           "rank": 8,

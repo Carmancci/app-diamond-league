@@ -263,7 +263,10 @@
           "mark": "22.28",
           "note": "SB",
           "qualificationRank": 7,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "1997-04-12",
+          "personalBest": "21.88",
+          "seasonBest": "22.04"
         },
         {
           "rank": 3,
