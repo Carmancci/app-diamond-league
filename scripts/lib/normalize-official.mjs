@@ -43,6 +43,7 @@ function normalizeAthlete(row) {
     rank: Number.isFinite(Number(row.Rank)) ? Number(row.Rank) : null,
     athlete,
     athleteId: athleteSlug(athlete, country),
+    dlId: row.DL_ID ? String(row.DL_ID) : undefined,
     country,
     dob: row.DateOfBirth ?? row.BirthDate,
     bib: row.Bib,
