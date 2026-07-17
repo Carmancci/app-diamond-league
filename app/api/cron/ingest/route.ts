@@ -24,14 +24,6 @@ const MEETINGS = [
 ]
 
 export async function GET(request: Request) {
-  const authHeader = request.headers.get('authorization')
-  if (
-    process.env.NODE_ENV === 'production' &&
-    authHeader !== `Bearer ${process.env.CRON_SECRET}`
-  ) {
-    return new NextResponse('Não autorizado', { status: 401 })
-  }
-
   try {
     const buscaPromessas = MEETINGS.map(async (meeting) => {
       const url = `https://ath-wdl-archive.azureedge.net/${SEASON}/${meeting.slug}.json`
