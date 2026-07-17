@@ -71,12 +71,8 @@ export default async function AthletePage({
               </span>
               <span aria-hidden="true">•</span>
               <span>{GENDER_LABELS[athlete.gender]}</span>
-              {age !== null && (
-                <>
-                  <span aria-hidden="true">•</span>
-                  <span>{age} anos</span>
-                </>
-              )}
+              <span aria-hidden="true">•</span>
+              <span>{age !== null ? `${age} anos` : 'Idade não informada pela fonte'}</span>
             </div>
             <div className="mt-3 flex flex-wrap gap-2">
               {athlete.disciplines.slice(0, 4).map((d) => (

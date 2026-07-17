@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { getAthletes } from '@/lib/diamond-league/athletes'
+import { ageFromDob, getAthletes } from '@/lib/diamond-league/athletes'
 import { AthleteList, type AthleteListItem } from '@/components/athlete-list'
 
 export const metadata: Metadata = {
@@ -15,6 +15,9 @@ export default function AthletesPage() {
     country: a.country,
     gender: a.gender,
     topDiscipline: a.disciplines[0] ?? '—',
+    age: ageFromDob(a.dob),
+    seasonBest: a.byDiscipline[0]?.seasonBest,
+    personalBest: a.byDiscipline[0]?.personalBest,
     points: a.totalPoints,
     wins: a.wins,
   }))

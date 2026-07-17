@@ -15,6 +15,8 @@ export interface Performance {
   rank: number | null
   mark: string
   markValue: number | null
+  seasonBest?: string
+  personalBest?: string
   note?: string
   points: number
   wind: number | null
@@ -29,7 +31,9 @@ export interface DisciplineSummary {
   discipline: string
   category: EventCategory
   gender: Gender
-  best: Performance // melhor marca da temporada (SB)
+  best: Performance
+  seasonBest?: string
+  personalBest?: string
   appearances: number
   wins: number
   points: number
@@ -84,6 +88,8 @@ export function getAllPerformances(): Performance[] {
           rank: r.rank,
           mark: r.mark,
           markValue: parseMark(r.mark),
+          seasonBest: r.seasonBest,
+          personalBest: r.personalBest,
           note: r.note,
           points: r.points ?? 0,
           wind,
@@ -101,6 +107,17 @@ export function getAllPerformances(): Performance[] {
 }
 
 let _athletes: Map<string, AthleteProfile> | null = null
+
+function bestOfficialMark(values: Array<string | undefined>, category: EventCategory): string | undefined {
+  const valid = values
+    .filter((value): value is string => Boolean(value))
+    .map((value) => ({ value, parsed: parseMark(value) }))
+    .filter((item): item is { value: string; parsed: number } => item.parsed !== null)
+  if (!valid.length) return undefined
+  return valid.reduce((best, item) =>
+    compareMarks(item.parsed, best.parsed, category) < 0 ? item : best,
+  ).value
+}
 
 function buildAthletes(): Map<string, AthleteProfile> {
   if (_athletes) return _athletes
@@ -148,11 +165,15 @@ function buildAthletes(): Map<string, AthleteProfile> {
         if (bestP.markValue === null) return p
         return compareMarks(p.markValue, bestP.markValue, p.category) < 0 ? p : bestP
       }, list[0])
+      const officialSeasonBest = bestOfficialMark(list.map((performance) => performance.seasonBest), list[0].category)
+      const officialPersonalBest = bestOfficialMark(list.map((performance) => performance.personalBest), list[0].category)
       summaries.push({
         discipline,
         category: list[0].category,
         gender: list[0].gender,
         best,
+        seasonBest: officialSeasonBest ?? (best.markValue !== null ? best.mark : undefined),
+        personalBest: officialPersonalBest,
         appearances: list.length,
         wins: list.filter((p) => p.rank === 1 && p.isPrimary).length,
         points: list.reduce((s, p) => s + p.points, 0),
