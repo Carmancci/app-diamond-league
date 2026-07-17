@@ -3321,7 +3321,8 @@
           "bib": 610,
           "mark": "80.38",
           "qualificationRank": 10,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1990-10-10"
         },
         {
           "rank": 9,
