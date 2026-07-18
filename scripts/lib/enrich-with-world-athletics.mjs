@@ -1,5 +1,4 @@
 const WORLD_ATHLETICS_API = 'https://api.worldathletics.org'
-const CACHE_DIR = '.wa-cache'
 
 // Criar cache local para não sobrecarregar a API
 const cacheMap = new Map()

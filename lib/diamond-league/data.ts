@@ -25,6 +25,10 @@ import brussels from './generated/brussels.json'
  */
 export const SEASON_YEAR: number = (indexJson as { season: number }).season ?? 2026
 
+/** Momento da última coleta validada que foi publicada com este build. */
+export const DATA_GENERATED_AT: string | null =
+  (indexJson as { generatedAt?: string }).generatedAt ?? null
+
 /** Pontuação Diamond League por colocação em provas regulares (top 8). */
 const POINTS_BY_RANK = [8, 7, 6, 5, 4, 3, 2, 1]
 /** Final: pontuação em dobro para o campeão de cada disciplina. */
