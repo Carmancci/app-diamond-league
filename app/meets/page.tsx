@@ -1,44 +1,8 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { Badge } from '@/components/ui/badge'
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { ChevronRight } from 'lucide-react'
-import { CountryFlag } from '@/components/country-flag'
 
-interface Athlete {
-  Lastname: string
-  Firstname: string
-  DL_ID: string
-  Athlete: string
-  DR_Points: number
-  DR_Rank: number
-  Rank: number
-  Bib: number
-  Nation: string
-  BestPerformance: string
-  RecordFlag?: string
-}
-
-interface EventData {
-  Info: {
-    Event_Name: string
-    Date: string
-    Time: string
-    Heat_Count: number
-    Diamond_Race: boolean
-    Wind?: string
-  }
-  Results: Athlete[]
-}
-
-interface DisciplineData {
-  Name: string
-  Gender: string
-  IsDiamondRace: boolean
-  Data: Record<string, EventData>
-}
+// ─── Tipos ────────────────────────────────────────────────────────────────────
 
 interface Meeting {
   round: number
@@ -46,11 +10,7 @@ interface Meeting {
   name: string
   city: string
   state: 'confirmado_oficial' | 'aguardando_publicacao' | 'erro_coleta'
-  events: {
-    Data: {
-      ResultData: Record<string, DisciplineData>
-    }
-  }
+  events: unknown
 }
 
 interface LiveData {
@@ -58,357 +18,258 @@ interface LiveData {
   meetings: Meeting[]
 }
 
-// Mock data para atleta quando não encontrado no JSON
-const mockAthleteDetails = {
-  dob: '1999-05-17',
-  pb: 19.84,
-  sb: 21.51,
-  avatar: 'https://api.dicebear.com/7.x/avataaars/svg?seed=athlete',
+// ─── Helpers ──────────────────────────────────────────────────────────────────
+
+const STATUS_LABEL: Record<Meeting['state'], string> = {
+  confirmado_oficial: 'Oficial',
+  aguardando_publicacao: 'Em breve',
+  erro_coleta: 'Erro',
 }
 
-// Componente de Modal do Atleta
-function AthleteModal({
-  athlete,
-  discipline,
-  open,
-  onOpenChange,
-}: {
-  athlete: Athlete | null
-  discipline: string
-  open: boolean
-  onOpenChange: (open: boolean) => void
-}) {
-  if (!athlete) return null
-
-  return (
-    <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-w-md">
-        <DialogHeader>
-          <DialogTitle className="flex items-center gap-2">
-            <span className="text-lg">{athlete.Athlete}</span>
-          </DialogTitle>
-        </DialogHeader>
-
-        <div className="space-y-6">
-          {/* Avatar e Info Básica */}
-          <div className="flex items-center gap-4">
-            <img
-              src={`https://api.dicebear.com/7.x/avataaars/svg?seed=${athlete.DL_ID}`}
-              alt={athlete.Athlete}
-              className="size-16 rounded-full bg-muted"
-            />
-            <div className="flex-1">
-              <p className="flex items-center gap-2 text-sm font-medium text-muted-foreground">
-                <CountryFlag code={athlete.Nation} className="size-4" />
-                {athlete.Nation}
-              </p>
-              <p className="text-xs text-muted-foreground">ID: {athlete.DL_ID}</p>
-            </div>
-          </div>
-
-          {/* Dados Pessoais */}
-          <div className="grid grid-cols-2 gap-3 rounded-lg bg-card p-3">
-            <div>
-              <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-                Idade
-              </p>
-              <p className="mt-1 text-sm font-semibold">{mockAthleteDetails.dob}</p>
-            </div>
-            <div>
-              <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-                Nacionalidade
-              </p>
-              <p className="mt-1 text-sm font-semibold">{athlete.Nation}</p>
-            </div>
-          </div>
-
-          {/* Marcas - PB e SB */}
-          <div className="space-y-3">
-            <h3 className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-              Melhores Marcas em {discipline}
-            </h3>
-            <div className="grid grid-cols-2 gap-2">
-              <div className="rounded-lg border border-border bg-background p-3">
-                <p className="text-xs text-muted-foreground">Personal Best</p>
-                <p className="mt-1 text-lg font-bold text-primary">{mockAthleteDetails.pb}</p>
-              </div>
-              <div className="rounded-lg border border-border bg-background p-3">
-                <p className="text-xs text-muted-foreground">Season Best</p>
-                <p className="mt-1 text-lg font-bold text-accent">{mockAthleteDetails.sb}</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Performance Atual */}
-          <div className="rounded-lg bg-muted p-3">
-            <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-              Posição Nesta Etapa
-            </p>
-            <div className="mt-2 flex items-baseline gap-2">
-              <span className="text-2xl font-bold text-foreground">{athlete.Rank}º</span>
-              <span className="text-sm font-medium text-muted-foreground">
-                {athlete.BestPerformance}
-              </span>
-              {athlete.RecordFlag && (
-                <Badge variant="outline" className="ml-auto">
-                  {athlete.RecordFlag}
-                </Badge>
-              )}
-            </div>
-          </div>
-
-          {/* Botão Ver Perfil */}
-          <button className="w-full rounded-lg bg-accent px-4 py-2.5 font-semibold text-accent-foreground transition-colors hover:bg-accent/90">
-            Ver Perfil Completo
-          </button>
-        </div>
-      </DialogContent>
-    </Dialog>
-  )
+const STATUS_DOT: Record<Meeting['state'], string> = {
+  confirmado_oficial: 'bg-chart-4',        // verde
+  aguardando_publicacao: 'bg-chart-5',     // âmbar
+  erro_coleta: 'bg-destructive',           // vermelho
 }
 
-// Componente Lista de Atletas
-function AthleteList({
-  athletes,
-  onSelectAthlete,
-  disciplineName,
-}: {
-  athletes: Athlete[]
-  onSelectAthlete: (athlete: Athlete) => void
-  disciplineName: string
-}) {
+const STATUS_BADGE: Record<Meeting['state'], string> = {
+  confirmado_oficial: 'text-chart-4 bg-chart-4/10',
+  aguardando_publicacao: 'text-chart-5 bg-chart-5/10',
+  erro_coleta: 'text-destructive bg-destructive/10',
+}
+
+// ─── Skeleton ─────────────────────────────────────────────────────────────────
+
+function MeetingSkeleton() {
   return (
-    <div className="space-y-2">
-      {athletes.map((athlete) => (
-        <button
-          key={athlete.DL_ID}
-          onClick={() => onSelectAthlete(athlete)}
-          className="flex w-full items-center gap-3 rounded-lg border border-border bg-card p-3 transition-colors hover:bg-muted"
-        >
-          {/* Ranking */}
-          <div className="flex w-8 items-center justify-center font-bold text-accent">
-            {athlete.Rank}
-          </div>
-
-          {/* Info Atleta */}
-          <div className="flex-1">
-            <p className="font-semibold leading-tight">{athlete.Athlete}</p>
-            <p className="text-xs text-muted-foreground">{athlete.Nation}</p>
-          </div>
-
-          {/* Marca e Record Flag */}
-          <div className="flex items-center gap-2">
-            <span className="font-mono font-bold text-primary">{athlete.BestPerformance}</span>
-            {athlete.RecordFlag && (
-              <Badge variant="outline" className="text-xs">
-                {athlete.RecordFlag}
-              </Badge>
-            )}
-          </div>
-
-          <ChevronRight className="size-4 text-muted-foreground" />
-        </button>
+    <div className="space-y-1.5 p-2">
+      {Array.from({ length: 10 }).map((_, i) => (
+        <div
+          key={i}
+          className="h-14 animate-pulse rounded-md bg-muted"
+          style={{ animationDelay: `${i * 60}ms` }}
+        />
       ))}
     </div>
   )
 }
 
-// Componente Recordes
-function RecordsDisplay() {
+// ─── Menu lateral ─────────────────────────────────────────────────────────────
+
+function MeetingListItem({
+  meeting,
+  isSelected,
+  onClick,
+}: {
+  meeting: Meeting
+  isSelected: boolean
+  onClick: () => void
+}) {
   return (
-    <div className="grid gap-2 rounded-lg bg-card p-4 sm:grid-cols-3">
-      <div className="space-y-1">
-        <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-          WR - World Record
-        </p>
-        <p className="font-mono text-sm font-bold text-primary">10.49</p>
+    <button
+      onClick={onClick}
+      aria-pressed={isSelected}
+      className={[
+        'group w-full rounded-md px-3 py-2.5 text-left transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring',
+        isSelected
+          ? 'bg-primary text-primary-foreground'
+          : 'text-foreground hover:bg-muted',
+      ].join(' ')}
+    >
+      <div className="flex items-center gap-2.5">
+        {/* Número da etapa */}
+        <span
+          className={[
+            'flex h-5 w-5 shrink-0 items-center justify-center rounded text-[11px] font-bold tabular-nums',
+            isSelected
+              ? 'bg-primary-foreground/20 text-primary-foreground'
+              : 'bg-primary/10 text-primary',
+          ].join(' ')}
+        >
+          {meeting.round}
+        </span>
+
+        {/* Nome */}
+        <span className="flex-1 truncate text-sm font-semibold leading-tight">
+          {meeting.name}
+        </span>
+
+        {/* Indicador de estado */}
+        <span
+          className={[
+            'size-2 shrink-0 rounded-full',
+            STATUS_DOT[meeting.state],
+          ].join(' ')}
+          aria-label={STATUS_LABEL[meeting.state]}
+        />
       </div>
-      <div className="space-y-1">
-        <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-          MR - Meet Record
-        </p>
-        <p className="font-mono text-sm font-bold text-accent">10.61</p>
+
+      {/* Cidade */}
+      <p
+        className={[
+          'mt-0.5 ml-7 text-xs leading-tight',
+          isSelected ? 'text-primary-foreground/70' : 'text-muted-foreground',
+        ].join(' ')}
+      >
+        {meeting.city}
+      </p>
+    </button>
+  )
+}
+
+// ─── Painel principal ─────────────────────────────────────────────────────────
+
+function MeetingDetail({ meeting }: { meeting: Meeting }) {
+  return (
+    <div className="flex flex-col gap-6">
+      {/* Cabeçalho */}
+      <div className="rounded-xl border border-border bg-card p-6">
+        <div className="flex flex-wrap items-start justify-between gap-4">
+          <div>
+            <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+              Etapa {meeting.round} · Temporada 2026
+            </p>
+            <h2 className="mt-1 text-3xl font-bold tracking-tight text-balance text-foreground sm:text-4xl">
+              {meeting.name}
+            </h2>
+            <p className="mt-1 text-base text-muted-foreground">{meeting.city}</p>
+          </div>
+
+          {/* Badge de status */}
+          <span
+            className={[
+              'mt-1 inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold',
+              STATUS_BADGE[meeting.state],
+            ].join(' ')}
+          >
+            <span className={['size-1.5 rounded-full', STATUS_DOT[meeting.state]].join(' ')} />
+            {STATUS_LABEL[meeting.state]}
+          </span>
+        </div>
       </div>
-      <div className="space-y-1">
-        <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-          WL - World Lead
-        </p>
-        <p className="font-mono text-sm font-bold">10.72</p>
+
+      {/* Placeholder para os próximos níveis */}
+      <div className="flex items-center justify-center rounded-xl border border-dashed border-border bg-card/50 py-20 text-center">
+        <div>
+          <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+            Próxima etapa de desenvolvimento
+          </p>
+          <p className="mt-2 text-sm text-muted-foreground">
+            Modalidades e atletas serão carregados aqui
+          </p>
+        </div>
       </div>
     </div>
   )
 }
 
-// Componente Principal
+// ─── Página principal ─────────────────────────────────────────────────────────
+
+const LIVE_DATA_URL =
+  'https://7xjypg3bbjvaaipt.public.blob.vercel-storage.com/diamond-league/live-data-Ty5Ewc8BS5Jb1PROi4OIxYzEj3kkCQ.json'
+
 export default function MeetsPage() {
   const [liveData, setLiveData] = useState<LiveData | null>(null)
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
   const [selectedMeeting, setSelectedMeeting] = useState<Meeting | null>(null)
-  const [selectedAthleteModal, setSelectedAthleteModal] = useState<Athlete | null>(null)
-  const [selectedDiscipline, setSelectedDiscipline] = useState<string>('')
-  const [isModalOpen, setIsModalOpen] = useState(false)
 
   useEffect(() => {
-    const fetchData = async () => {
+    const controller = new AbortController()
+
+    async function fetchLiveData() {
       try {
-        const response = await fetch(
-          'https://7xjypg3bbjvaaipt.public.blob.vercel-storage.com/diamond-league/live-data-Ty5Ewc8BS5Jb1PROi4OIxYzEj3kkCQ.json'
-        )
-        const data: LiveData = await response.json()
+        const res = await fetch(LIVE_DATA_URL, { signal: controller.signal })
+        if (!res.ok) throw new Error(`HTTP ${res.status}`)
+        const data: LiveData = await res.json()
         setLiveData(data)
-        if (data.meetings.length > 0) {
-          setSelectedMeeting(data.meetings[0])
+        setSelectedMeeting(data.meetings[0] ?? null)
+      } catch (err) {
+        if (err instanceof Error && err.name !== 'AbortError') {
+          setError('Não foi possível carregar os dados. Tente novamente.')
         }
-        setLoading(false)
-      } catch (error) {
-        console.error('Erro ao buscar dados:', error)
+      } finally {
         setLoading(false)
       }
     }
 
-    fetchData()
+    fetchLiveData()
+    return () => controller.abort()
   }, [])
 
-  const handleSelectAthlete = (athlete: Athlete) => {
-    setSelectedAthleteModal(athlete)
-    setIsModalOpen(true)
-  }
-
-  // Extrair disciplinas do meeting selecionado
-  const disciplines = selectedMeeting
-    ? Object.entries(selectedMeeting.events.Data.ResultData).map(([key, value]) => ({
-        id: key,
-        name: value.Name,
-        data: value,
-      }))
-    : []
-
-  // Definir primeira disciplina quando meeting mudar
-  useEffect(() => {
-    if (disciplines.length > 0 && !selectedDiscipline) {
-      setSelectedDiscipline(disciplines[0].id)
-    }
-  }, [disciplines, selectedDiscipline])
-
-  const currentDiscipline = disciplines.find((d) => d.id === selectedDiscipline)
-
-  if (loading) {
-    return (
-      <main className="mx-auto max-w-6xl px-4 py-12">
-        <div className="text-center">
-          <p className="text-muted-foreground">Carregando dados...</p>
-        </div>
-      </main>
-    )
-  }
-
   return (
-    <main className="mx-auto max-w-6xl px-4 py-6 pb-20 sm:py-12">
+    <main className="mx-auto max-w-7xl px-4 py-6 pb-24 sm:py-10">
+      {/* Cabeçalho da seção */}
       <section className="mb-8">
-        <div className="flex items-center gap-2 font-mono text-xs uppercase tracking-widest text-primary">
-          <span className="size-1.5 rounded-full bg-primary" />
-          Etapas 2026
-        </div>
-        <h1 className="mt-4 text-4xl font-bold tracking-tight text-balance sm:text-5xl">
-          Programação das Etapas
+        <p className="flex items-center gap-1.5 font-mono text-xs uppercase tracking-widest text-primary">
+          <span className="size-1.5 rounded-full bg-primary" aria-hidden="true" />
+          {liveData ? `Temporada ${liveData.season}` : 'Diamond League'}
+        </p>
+        <h1 className="mt-3 text-4xl font-bold tracking-tight text-balance sm:text-5xl">
+          Etapas
         </h1>
-        <p className="mt-2 text-sm text-muted-foreground">
-          Navegue pelos eventos, veja os atletas e suas marcas em tempo real
+        <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+          Selecione uma etapa para ver o calendário de modalidades e os atletas inscritos.
         </p>
       </section>
 
-      <div className="grid gap-6 lg:grid-cols-4">
-        {/* NÍVEL 1: Menu Lateral de Etapas */}
-        <div className="lg:col-span-1">
-          <div className="sticky top-24 space-y-2">
-            <p className="text-xs font-mono uppercase tracking-widest text-muted-foreground">
-              Selecione uma Etapa
+      {/* Erro global */}
+      {error && (
+        <div
+          role="alert"
+          className="mb-8 rounded-xl border border-destructive/30 bg-destructive/10 px-5 py-4 text-sm text-destructive"
+        >
+          {error}
+        </div>
+      )}
+
+      {/* Layout dividido: menu lateral + painel principal */}
+      <div className="grid gap-6 lg:grid-cols-[280px_1fr]">
+        {/* ── NÍVEL 1: Menu lateral de etapas ── */}
+        <aside aria-label="Lista de etapas">
+          <div className="sticky top-20">
+            <p className="mb-2 px-1 font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
+              Etapas {liveData?.season ?? '2026'}
             </p>
-            <div className="space-y-1 rounded-lg border border-border bg-card p-2">
-              {liveData?.meetings.map((meeting) => (
-                <button
-                  key={meeting.slug}
-                  onClick={() => {
-                    setSelectedMeeting(meeting)
-                    setSelectedDiscipline('')
-                  }}
-                  className={`w-full rounded-md px-3 py-2 text-left text-sm font-medium transition-colors ${
-                    selectedMeeting?.slug === meeting.slug
-                      ? 'bg-accent text-accent-foreground'
-                      : 'text-foreground hover:bg-muted'
-                  }`}
-                >
-                  <div className="flex items-center gap-2">
-                    <span className="flex h-5 w-5 items-center justify-center rounded bg-primary/10 text-xs font-bold text-primary">
-                      {meeting.round}
-                    </span>
-                    <span>{meeting.name}</span>
-                  </div>
-                  <p className="ml-7 text-xs text-muted-foreground">{meeting.city}</p>
-                </button>
-              ))}
+
+            <div className="rounded-xl border border-border bg-card p-2">
+              {loading ? (
+                <MeetingSkeleton />
+              ) : (
+                <nav className="space-y-0.5">
+                  {liveData?.meetings
+                    .filter((m) => m.name)
+                    .map((meeting) => (
+                      <MeetingListItem
+                        key={meeting.slug}
+                        meeting={meeting}
+                        isSelected={selectedMeeting?.slug === meeting.slug}
+                        onClick={() => setSelectedMeeting(meeting)}
+                      />
+                    ))}
+                </nav>
+              )}
             </div>
           </div>
-        </div>
+        </aside>
 
-        {/* NÍVEIS 2, 3, 4: Conteúdo Principal */}
-        <div className="lg:col-span-3 space-y-6">
-          {selectedMeeting && currentDiscipline && (
-            <>
-              {/* NÍVEL 2: Tabs de Modalidades */}
-              <div>
-                <Tabs
-                  value={selectedDiscipline}
-                  onValueChange={setSelectedDiscipline}
-                  className="w-full"
-                >
-                  <TabsList className="grid w-full auto-cols-max grid-flow-col overflow-x-auto">
-                    {disciplines.map((discipline) => (
-                      <TabsTrigger key={discipline.id} value={discipline.id} className="text-xs">
-                        {discipline.name}
-                      </TabsTrigger>
-                    ))}
-                  </TabsList>
-
-                  {disciplines.map((discipline) => (
-                    <TabsContent key={discipline.id} value={discipline.id} className="space-y-6">
-                      {/* NÍVEL 3: Recordes */}
-                      <div>
-                        <h2 className="mb-3 text-xs font-mono uppercase tracking-widest text-muted-foreground">
-                          Recordes da Modalidade
-                        </h2>
-                        <RecordsDisplay />
-                      </div>
-
-                      {/* NÍVEL 4: Lista de Atletas */}
-                      <div>
-                        <h2 className="mb-3 text-xs font-mono uppercase tracking-widest text-muted-foreground">
-                          Escalação
-                        </h2>
-                        <AthleteList
-                          athletes={Object.values(discipline.data.Data).flatMap(
-                            (event) => event.Results || []
-                          )}
-                          onSelectAthlete={handleSelectAthlete}
-                          disciplineName={discipline.name}
-                        />
-                      </div>
-                    </TabsContent>
-                  ))}
-                </Tabs>
-              </div>
-            </>
+        {/* ── Painel principal ── */}
+        <section aria-label="Detalhes da etapa selecionada">
+          {loading ? (
+            // Skeleton do painel
+            <div className="space-y-4">
+              <div className="h-40 animate-pulse rounded-xl bg-muted" />
+              <div className="h-64 animate-pulse rounded-xl bg-muted" style={{ animationDelay: '80ms' }} />
+            </div>
+          ) : selectedMeeting ? (
+            <MeetingDetail meeting={selectedMeeting} />
+          ) : (
+            <div className="flex items-center justify-center rounded-xl border border-dashed border-border py-32">
+              <p className="text-sm text-muted-foreground">Nenhuma etapa disponível.</p>
+            </div>
           )}
-        </div>
+        </section>
       </div>
-
-      {/* Modal de Atleta */}
-      <AthleteModal
-        athlete={selectedAthleteModal}
-        discipline={selectedDiscipline}
-        open={isModalOpen}
-        onOpenChange={setIsModalOpen}
-      />
     </main>
   )
 }
