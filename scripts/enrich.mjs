@@ -10,7 +10,7 @@
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
-import { enrichResultWithVerifiedData, getVerifiedAthlete } from './lib/verified-athletes-db.mjs'
+import { getVerifiedAthlete } from './lib/verified-athletes-db.mjs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const GENERATED_DIR = path.join(__dirname, '../lib/diamond-league/generated')

@@ -26,7 +26,7 @@ if (fs.existsSync(CACHE_DIR)) {
       const dlId = file.replace('.json', '')
       const data = JSON.parse(fs.readFileSync(path.join(CACHE_DIR, file), 'utf-8'))
       cache.set(dlId, data)
-    } catch (e) {
+    } catch {
       // Ignorar erros de parse
     }
   }
