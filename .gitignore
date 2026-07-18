@@ -14,3 +14,9 @@ node_modules
 .next/
 .DS_Store
 tsconfig.tsbuildinfo
+
+# Xcode: arquivos pessoais e temporários
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
