@@ -1,11 +1,11 @@
 {
   "dlId": "14261735",
   "athleteId": "diez-marta-esp",
-  "athlete": "- Wanda Diamond League",
+  "athlete": "DIEZ Marta",
   "country": "ESP",
-  "dob": null,
-  "pb": {},
-  "sb": {},
-  "scrapedAt": "2026-07-17T21:38:24.304Z",
-  "source": "diamondleague.com"
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14261735",
+  "scrapedAt": "2026-07-20T14:46:48.859Z",
+  "source": "diamondleague.com",
+  "status": "permanent_error",
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB"
 }

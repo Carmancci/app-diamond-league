@@ -1,0 +1,16 @@
+{
+  "dlId": "14407278",
+  "athleteId": "hudson-smith-matthew-gbr",
+  "athlete": "Matthew HUDSON-SMITH",
+  "country": "GBR",
+  "dob": "1994-10-26",
+  "pb": {
+    "300 Metres": "32.74",
+    "400 Metres": "43.44"
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14407278",
+  "scrapedAt": "2026-07-20T14:47:26.064Z",
+  "source": "diamondleague.com",
+  "status": "success"
+}
