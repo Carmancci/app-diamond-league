@@ -1,11 +1,11 @@
 {
   "dlId": "14285156",
   "athleteId": "rosati-martina-ita",
-  "athlete": "- Wanda Diamond League",
+  "athlete": "ROSATI Martina",
   "country": "ITA",
-  "dob": null,
-  "pb": {},
-  "sb": {},
-  "scrapedAt": "2026-07-17T21:38:37.340Z",
-  "source": "diamondleague.com"
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14285156",
+  "scrapedAt": "2026-07-20T14:46:52.290Z",
+  "source": "diamondleague.com",
+  "status": "permanent_error",
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB"
 }
