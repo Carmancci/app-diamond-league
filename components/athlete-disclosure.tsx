@@ -77,7 +77,7 @@ export function AthleteDisclosure({
           {athlete && (
             <div className="flex flex-col gap-4">
               <div className="flex items-start gap-3">
-                <AthleteAvatar id={athlete.id} name={athlete.name} country={athlete.country} className="size-14 shrink-0" />
+                <AthleteAvatar id={athlete.legacyId} name={athlete.name} country={athlete.country} className="size-14 shrink-0" />
                 <div className="min-w-0 flex-1">
                   <p className="text-base font-bold leading-snug text-foreground">{displayName(athlete.name)}</p>
                   <p className="mt-1 flex flex-wrap items-center gap-1.5 text-sm text-muted-foreground">

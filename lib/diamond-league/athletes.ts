@@ -1,9 +1,11 @@
 import { MEETINGS } from './data'
 import { compareMarks, parseMark, parseWind } from './marks'
-import type { EventCategory, Gender } from './types'
+import type { AthleteMarkDetails, EventCategory, Gender } from './types'
 
 export interface Performance {
   athleteId: string
+  legacyAthleteId: string
+  dlId?: string
   athlete: string
   country: string
   gender: Gender
@@ -17,6 +19,8 @@ export interface Performance {
   markValue: number | null
   seasonBest?: string
   personalBest?: string
+  seasonBestDetails?: AthleteMarkDetails
+  personalBestDetails?: AthleteMarkDetails
   note?: string
   points: number
   wind: number | null
@@ -34,6 +38,8 @@ export interface DisciplineSummary {
   best: Performance
   seasonBest?: string
   personalBest?: string
+  seasonBestDetails?: AthleteMarkDetails
+  personalBestDetails?: AthleteMarkDetails
   appearances: number
   wins: number
   points: number
@@ -41,6 +47,9 @@ export interface DisciplineSummary {
 
 export interface AthleteProfile {
   id: string
+  legacyId: string
+  dlId?: string
+  officialProfileUrl?: string
   name: string
   country: string
   gender: Gender
@@ -75,8 +84,11 @@ export function getAllPerformances(): Performance[] {
     for (const event of meeting.events) {
       const wind = parseWind(event.wind)
       for (const r of event.results) {
+        const legacyAthleteId = r.athleteId ?? athleteId(r.athlete, r.country)
         out.push({
-          athleteId: athleteId(r.athlete, r.country),
+          athleteId: r.dlId ?? legacyAthleteId,
+          legacyAthleteId,
+          dlId: r.dlId,
           athlete: r.athlete,
           country: r.country,
           gender: event.gender,
@@ -90,6 +102,8 @@ export function getAllPerformances(): Performance[] {
           markValue: parseMark(r.mark),
           seasonBest: r.seasonBest,
           personalBest: r.personalBest,
+          seasonBestDetails: r.seasonBestDetails,
+          personalBestDetails: r.personalBestDetails,
           note: r.note,
           points: r.points ?? 0,
           wind,
@@ -101,6 +115,10 @@ export function getAllPerformances(): Performance[] {
         })
       }
     }
+  }
+  const officialIds = new Map(out.filter((performance) => performance.dlId).map((performance) => [performance.legacyAthleteId, performance.dlId as string]))
+  for (const performance of out) {
+    performance.athleteId = performance.dlId ?? officialIds.get(performance.legacyAthleteId) ?? performance.legacyAthleteId
   }
   _performances = out
   return out
@@ -129,6 +147,9 @@ function buildAthletes(): Map<string, AthleteProfile> {
     if (!a) {
       a = {
         id: p.athleteId,
+        legacyId: p.legacyAthleteId,
+        dlId: p.dlId,
+        officialProfileUrl: p.dlId ? `https://www.diamondleague.com/athlete/${p.dlId}` : undefined,
         name: p.athlete,
         country: p.country,
         gender: p.gender,
@@ -167,6 +188,8 @@ function buildAthletes(): Map<string, AthleteProfile> {
       }, list[0])
       const officialSeasonBest = bestOfficialMark(list.map((performance) => performance.seasonBest), list[0].category)
       const officialPersonalBest = bestOfficialMark(list.map((performance) => performance.personalBest), list[0].category)
+      const seasonBestDetails = list.find((performance) => performance.seasonBestDetails?.mark === officialSeasonBest)?.seasonBestDetails
+      const personalBestDetails = list.find((performance) => performance.personalBestDetails?.mark === officialPersonalBest)?.personalBestDetails
       summaries.push({
         discipline,
         category: list[0].category,
@@ -174,6 +197,8 @@ function buildAthletes(): Map<string, AthleteProfile> {
         best,
         seasonBest: officialSeasonBest ?? (best.markValue !== null ? best.mark : undefined),
         personalBest: officialPersonalBest,
+        seasonBestDetails,
+        personalBestDetails,
         appearances: list.length,
         wins: list.filter((p) => p.rank === 1 && p.isPrimary).length,
         points: list.reduce((s, p) => s + p.points, 0),
@@ -202,7 +227,8 @@ export function getAthletes(): AthleteProfile[] {
 }
 
 export function getAthleteById(id: string): AthleteProfile | undefined {
-  return buildAthletes().get(id)
+  const athletes = buildAthletes()
+  return athletes.get(id) ?? [...athletes.values()].find((athlete) => athlete.legacyId === id)
 }
 
 /** Idade a partir da data de nascimento (formato "30 Oct 1993" ou ISO). */

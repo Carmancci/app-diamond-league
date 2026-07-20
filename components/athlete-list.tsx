@@ -11,6 +11,7 @@ import type { Gender } from '@/lib/diamond-league/types'
 
 export interface AthleteListItem {
   id: string
+  avatarId?: string
   name: string
   country: string
   gender: Gender
@@ -99,7 +100,7 @@ export function AthleteList({ athletes }: { athletes: AthleteListItem[] }) {
                 {i + 1}
               </span>
               <AthleteAvatar
-                id={a.id}
+                id={a.avatarId ?? a.id}
                 name={a.name}
                 country={a.country}
                 className="size-10 shrink-0"

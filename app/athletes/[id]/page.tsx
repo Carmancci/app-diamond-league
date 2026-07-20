@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { ArrowLeft } from 'lucide-react'
+import { ArrowLeft, ExternalLink } from 'lucide-react'
 import { getAthleteById, ageFromDob } from '@/lib/diamond-league/athletes'
 import { countryName } from '@/lib/diamond-league/countries'
 import { displayName } from '@/lib/diamond-league/format'
@@ -57,7 +57,7 @@ export default async function AthletePage({
       <header className="overflow-hidden rounded-2xl border border-border bg-card">
         <div className="flex flex-col gap-5 p-6 sm:flex-row sm:items-center">
           <AthleteAvatar
-            id={athlete.id}
+            id={athlete.legacyId}
             name={athlete.name}
             country={athlete.country}
             className="size-24 shrink-0 text-2xl"
@@ -84,6 +84,17 @@ export default async function AthletePage({
                 </span>
               ))}
             </div>
+            {athlete.officialProfileUrl && (
+              <a
+                href={athlete.officialProfileUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:underline"
+              >
+                Perfil oficial Diamond League
+                <ExternalLink className="size-3.5" />
+              </a>
+            )}
           </div>
         </div>
 
