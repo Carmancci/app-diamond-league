@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14424718",
+  "athleteId": "lamote-renelle-fra",
+  "athlete": "LAMOTE Rénelle",
+  "country": "FRA",
+  "dob": "1993-12-26",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.93",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:34.48",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "18 AUG 2018"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.93",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14424718",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14424718",
+  "scrapedAt": "2026-07-20T15:45:38.585Z",
+  "source": "diamondleague.com"
+}

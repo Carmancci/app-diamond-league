@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "dlId": "14422111",
+  "athleteId": "muir-laura-gbr",
+  "athlete": "MUIR Laura",
+  "country": "GBR",
+  "dob": "1993-05-09",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.73",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "09 JUL 2021"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:30.82",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "14 AUG 2020"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:53.37",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "10 AUG 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:15.24",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "21 JUL 2023"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:48.14",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "09 JUN 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.77",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:22.31",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:31.77",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:07.02",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14422111",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14422111",
+  "scrapedAt": "2026-07-20T15:45:13.885Z",
+  "source": "diamondleague.com"
+}

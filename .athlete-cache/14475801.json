@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14475801",
+  "athleteId": "smith-barnett-destiny-lbr",
+  "athlete": "SMITH-BARNETT Destiny",
+  "country": "LBR",
+  "dob": "1996-07-26",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.99",
+      "venue": "Notre Dame HS, Sherman Oaks, CA (USA)",
+      "date": "07 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.27",
+      "venue": "Notre Dame HS, Sherman Oaks, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14475801",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14475801",
+  "scrapedAt": "2026-07-20T15:49:55.690Z",
+  "source": "diamondleague.com"
+}

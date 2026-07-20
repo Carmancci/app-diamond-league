@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14451249",
+  "athleteId": "visser-nadine-ned",
+  "athlete": "VISSER Nadine",
+  "country": "NED",
+  "dob": "1995-02-09",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.28",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.41",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14451249",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14451249",
+  "scrapedAt": "2026-07-20T15:47:39.437Z",
+  "source": "diamondleague.com"
+}

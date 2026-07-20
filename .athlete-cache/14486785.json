@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14486785",
+  "athleteId": "cunningham-vashti-usa",
+  "athlete": "CUNNINGHAM Vashti",
+  "country": "USA",
+  "dob": "1998-01-18",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.02",
+      "venue": "Chula Vista, CA (USA)",
+      "date": "29 MAY 2021"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.93",
+      "venue": "Ocean Breeze Athl. Complex, New York, NY (USA) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14486785",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14486785",
+  "scrapedAt": "2026-07-20T15:51:32.518Z",
+  "source": "diamondleague.com"
+}

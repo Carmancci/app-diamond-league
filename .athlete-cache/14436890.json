@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14436890",
+  "athleteId": "denny-matthew-aus",
+  "athlete": "DENNY Matthew",
+  "country": "AUS",
+  "dob": "1996-06-02",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "74.78",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "13 APR 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "74.04",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14436890",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14436890",
+  "scrapedAt": "2026-07-20T15:47:01.607Z",
+  "source": "diamondleague.com"
+}

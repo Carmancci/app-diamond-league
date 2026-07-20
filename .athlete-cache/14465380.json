@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14465380",
+  "athleteId": "moorby-tori-nzl",
+  "athlete": "MOORBY Tori",
+  "country": "NZL",
+  "dob": "1994-05-17",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.26",
+      "venue": "International Stadium, Yokohama (JPN)",
+      "date": "21 MAY 2023"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "60.40",
+      "venue": "Arafura Stadium, Darwin (AUS)",
+      "date": "18 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14465380",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14465380",
+  "scrapedAt": "2026-07-20T15:49:11.370Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14481078",
+  "athleteId": "potye-tobias-ger",
+  "athlete": "POTYE Tobias",
+  "country": "GER",
+  "dob": "1995-03-16",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.34",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 JUL 2023"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.30",
+      "venue": "Kennedyplatz, Essen (GER)",
+      "date": "20 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14481078",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14481078",
+  "scrapedAt": "2026-07-20T15:50:30.934Z",
+  "source": "diamondleague.com"
+}

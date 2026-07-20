@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14430151",
+  "athleteId": "feng-bin-chn",
+  "athlete": "FENG Bin",
+  "country": "CHN",
+  "dob": "1994-04-03",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "69.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "20 JUL 2022"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "65.03",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14430151",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14430151",
+  "scrapedAt": "2026-07-20T15:46:45.194Z",
+  "source": "diamondleague.com"
+}

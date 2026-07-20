@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14411267",
+  "athleteId": "patterson-eleanor-aus",
+  "athlete": "PATTERSON Eleanor",
+  "country": "AUS",
+  "dob": "1996-05-22",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.02",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "19 JUL 2022"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.00",
+      "venue": "Kennedyplatz, Essen (GER)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14411267",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14411267",
+  "scrapedAt": "2026-07-20T15:44:11.398Z",
+  "source": "diamondleague.com"
+}

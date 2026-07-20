@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14431159",
+  "athleteId": "nakaayi-halimah-uga",
+  "athlete": "NAKAAYI Halimah",
+  "country": "UGA",
+  "dob": "1994-10-16",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.26",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:31.67",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:50.53",
+      "venue": "Rovereto (ITA)",
+      "date": "06 SEP 2016"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.41",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:09.66",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14431159",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14431159",
+  "scrapedAt": "2026-07-20T15:46:49.192Z",
+  "source": "diamondleague.com"
+}

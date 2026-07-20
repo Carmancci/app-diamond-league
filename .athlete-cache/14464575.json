@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14464575",
+  "athleteId": "billings-sarah-aus",
+  "athlete": "BILLINGS Sarah",
+  "country": "AUS",
+  "dob": "1998-03-07",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.01",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:33.17",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.81",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:47.11",
+      "venue": "ES Marks Athletics Field, Sydney (AUS)",
+      "date": "23 MAR 2024"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:41.41",
+      "venue": "Lakeside Stadium, Melbourne (AUS)",
+      "date": "15 FEB 2024"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.01",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.81",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14464575",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14464575",
+  "scrapedAt": "2026-07-20T15:48:31.750Z",
+  "source": "diamondleague.com"
+}

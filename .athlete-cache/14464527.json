@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14464527",
+  "athleteId": "little-mackenzie-aus",
+  "athlete": "LITTLE Mackenzie",
+  "country": "AUS",
+  "dob": "1996-12-22",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "66.27",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "60.18",
+      "venue": "Arafura Stadium, Darwin (AUS)",
+      "date": "18 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14464527",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14464527",
+  "scrapedAt": "2026-07-20T15:48:27.766Z",
+  "source": "diamondleague.com"
+}

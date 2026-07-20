@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14463876",
+  "athleteId": "enekwechi-chukwuebuka-ngr",
+  "athlete": "ENEKWECHI Chukwuebuka",
+  "country": "NGR",
+  "dob": "1993-01-28",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.10",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.74",
+      "venue": "Drake Stadium, Des Moines, IA (USA)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14463876",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14463876",
+  "scrapedAt": "2026-07-20T15:48:15.549Z",
+  "source": "diamondleague.com"
+}

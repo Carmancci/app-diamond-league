@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14481209",
+  "athleteId": "borge-sigrid-nor",
+  "athlete": "BORGE Sigrid",
+  "country": "NOR",
+  "dob": "1995-12-03",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "66.50",
+      "venue": "Werferzentrum Brandberge, Halle (GER)",
+      "date": "20 MAY 2023"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "65.00",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14481209",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14481209",
+  "scrapedAt": "2026-07-20T15:50:38.980Z",
+  "source": "diamondleague.com"
+}

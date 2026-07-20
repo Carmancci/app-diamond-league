@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14450088",
+  "athleteId": "luckenkemper-gina-ger",
+  "athlete": "LÜCKENKEMPER Gina",
+  "country": "GER",
+  "dob": "1996-11-21",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.93",
+      "venue": "Olympiastadion, Berlin (GER)",
+      "date": "01 SEP 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.67",
+      "venue": "Regensburg (GER)",
+      "date": "05 JUN 2016"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.21",
+      "venue": "Paul-Greifzu-Stadion, Dessau (GER)",
+      "date": "19 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.84",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14450088",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14450088",
+  "scrapedAt": "2026-07-20T15:47:27.214Z",
+  "source": "diamondleague.com"
+}

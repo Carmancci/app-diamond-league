@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14414524",
+  "athleteId": "hughes-zharnel-gbr",
+  "athlete": "HUGHES Zharnel",
+  "country": "GBR",
+  "dob": "1995-07-13",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.83",
+      "venue": "Icahn Stadium, New York, NY (USA)",
+      "date": "24 JUN 2023"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.73",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "23 JUL 2023"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.01",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "20 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.04",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14414524",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14414524",
+  "scrapedAt": "2026-07-20T15:44:40.328Z",
+  "source": "diamondleague.com"
+}
