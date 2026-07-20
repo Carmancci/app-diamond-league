@@ -80,7 +80,104 @@ export function parseAthleteProfileHtml(html) {
     name: nameMatch ? textContent(nameMatch[1]) : undefined,
     dob: dateToIso(bornBlock?.[1]),
     pb: parseMarkTable(sectionTable(html, />\s*Personal Best\s*</i)),
-    sb: parseMarkTable(sectionTable(html, />\s*Season(?:’|&rsquo;|')s Best\s*</i)),
+    sb: parseMarkTable(sectionTable(html, />\s*Season(?:'|&rsquo;|')s Best\s*</i)),
     worldAthleticsUrl: worldAthleticsMatch?.[1],
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Classificação de status de fetch e helpers de cache
+// ---------------------------------------------------------------------------
+
+/** Valores canónicos de status para entradas de cache. */
+export const STATUS = /** @type {const} */ ({
+  SUCCESS: 'success',
+  PERMANENT_ERROR: 'permanent_error',
+  TEMPORARY_ERROR: 'temporary_error',
+  SKIPPED_CACHE: 'skipped_cache',
+})
+
+/**
+ * Classifica um código HTTP em SUCCESS, PERMANENT_ERROR ou TEMPORARY_ERROR.
+ * null/undefined (timeout, fetch failed) é considerado TEMPORARY_ERROR.
+ *
+ * @param {number | null | undefined} httpStatus
+ * @returns {'success' | 'permanent_error' | 'temporary_error'}
+ */
+export function classifyHttpStatus(httpStatus) {
+  if (httpStatus == null) return STATUS.TEMPORARY_ERROR
+  if (httpStatus === 200) return STATUS.SUCCESS
+  if (httpStatus === 429 || httpStatus >= 500) return STATUS.TEMPORARY_ERROR
+  // 4xx exceto 429
+  if (httpStatus >= 400 && httpStatus < 500) return STATUS.PERMANENT_ERROR
+  // 3xx e outros inesperados
+  return STATUS.TEMPORARY_ERROR
+}
+
+/**
+ * Verifica se uma entrada de cache deve ser ignorada (skip) numa nova execução.
+ * Compatível com caches legados que não têm campo `status`.
+ *
+ * @param {object | null} cached
+ * @returns {boolean}
+ */
+export function shouldSkipCache(cached) {
+  if (!cached) return false
+  // Cache novo: respeitar o campo status
+  if (cached.status === STATUS.SUCCESS) return true
+  if (cached.status === STATUS.PERMANENT_ERROR) return true
+  if (cached.status === STATUS.TEMPORARY_ERROR) return false
+  // Cache legado sem campo status: skip se tiver dados úteis
+  const hasDob = Boolean(cached.dob)
+  const hasPb = Object.keys(cached.pb ?? {}).length > 0
+  const hasSb = Object.keys(cached.sb ?? {}).length > 0
+  return hasDob || hasPb || hasSb
+}
+
+/**
+ * Constrói uma entrada de cache para status = success.
+ *
+ * @param {{ dlId: string, athleteId: string, athlete: string, country: string,
+ *           parsed: ReturnType<typeof parseAthleteProfileHtml>,
+ *           officialProfileUrl: string }} opts
+ */
+export function buildSuccessCache({ dlId, athleteId, athlete, country, parsed, officialProfileUrl }) {
+  return {
+    status: STATUS.SUCCESS,
+    dlId,
+    athleteId,
+    athlete: parsed.name || athlete,
+    country,
+    dob: parsed.dob ?? null,
+    pb: parsed.pb,
+    sb: parsed.sb,
+    officialProfileUrl,
+    worldAthleticsUrl: parsed.worldAthleticsUrl ?? null,
+    scrapedAt: new Date().toISOString(),
+    source: 'diamondleague.com',
+  }
+}
+
+/**
+ * Constrói uma entrada de cache para status = permanent_error.
+ *
+ * @param {{ dlId: string, athleteId: string, athlete: string, country: string,
+ *           errorMessage: string, officialProfileUrl: string }} opts
+ */
+export function buildPermanentErrorCache({ dlId, athleteId, athlete, country, errorMessage, officialProfileUrl }) {
+  return {
+    status: STATUS.PERMANENT_ERROR,
+    dlId,
+    athleteId,
+    athlete,
+    country,
+    dob: null,
+    pb: {},
+    sb: {},
+    officialProfileUrl,
+    worldAthleticsUrl: null,
+    error: errorMessage,
+    scrapedAt: new Date().toISOString(),
+    source: 'diamondleague.com',
   }
 }
