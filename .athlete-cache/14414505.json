@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14414505",
+  "athleteId": "charlton-devynne-bah",
+  "athlete": "CHARLTON Devynne",
+  "country": "BAH",
+  "dob": "1995-11-26",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.37",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.37",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14414505",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14414505",
+  "scrapedAt": "2026-07-20T15:44:36.165Z",
+  "source": "diamondleague.com"
+}

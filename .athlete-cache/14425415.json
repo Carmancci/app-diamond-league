@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14425415",
+  "athleteId": "harrison-kendra-usa",
+  "athlete": "HARRISON Kendra",
+  "country": "USA",
+  "dob": "1992-09-18",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.20",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "22 JUL 2016"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.53",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14425415",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14425415",
+  "scrapedAt": "2026-07-20T15:45:50.705Z",
+  "source": "diamondleague.com"
+}

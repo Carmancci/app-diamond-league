@@ -160,7 +160,12 @@
           "bib": 517,
           "mark": "11.23",
           "qualificationRank": 19,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1993-03-01",
+          "personalBest": "11.07",
+          "personalBestDetails": {
+            "mark": "11.07"
+          }
         },
         {
           "rank": 7,
@@ -171,7 +176,24 @@
           "bib": 559,
           "mark": "11.46",
           "qualificationRank": 21,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1996-07-26",
+          "personalBest": "10.99",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.99",
+            "venue": "Notre Dame HS, Sherman Oaks, CA (USA)",
+            "date": "07 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14475801"
+          },
+          "seasonBest": "11.27",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "11.27",
+            "venue": "Notre Dame HS, Sherman Oaks, CA (USA)",
+            "date": "13 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14475801"
+          }
         },
         {
           "rank": 8,
@@ -460,7 +482,24 @@
           "mark": "1:58.41",
           "note": "SB",
           "qualificationRank": 10,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "1994-10-16",
+          "personalBest": "1:57.26",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:57.26",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14431159"
+          },
+          "seasonBest": "1:58.41",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:58.41",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14431159"
+          }
         },
         {
           "rank": 4,
@@ -505,7 +544,24 @@
           "mark": "1:59.21",
           "note": "SB",
           "qualificationRank": 16,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1993-12-26",
+          "personalBest": "1:56.93",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:56.93",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14424718"
+          },
+          "seasonBest": "1:56.93",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:56.93",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14424718"
+          }
         },
         {
           "rank": 8,
@@ -526,7 +582,24 @@
           "country": "ESP",
           "bib": 514,
           "mark": "1:59.84",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1994-11-07",
+          "personalBest": "1:59.60",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:59.60",
+            "venue": "Estadio Vallehermoso, Madrid (ESP)",
+            "date": "19 JUL 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14427311"
+          },
+          "seasonBest": "1:59.84",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:59.84",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14427311"
+          }
         },
         {
           "rank": 10,
@@ -544,7 +617,16 @@
           "dlId": "14457538",
           "country": "SUI",
           "bib": 570,
-          "mark": "2:01.96"
+          "mark": "2:01.96",
+          "dob": "1996-07-25",
+          "personalBest": "1:58.29",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:58.29",
+            "venue": "Kleine Allmend, Frauenfeld (SUI)",
+            "date": "24 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14457538"
+          }
         },
         {
           "rank": 12,
@@ -564,7 +646,12 @@
           "country": "NED",
           "bib": 561,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "1992-09-10",
+          "personalBest": "2:05.39",
+          "personalBestDetails": {
+            "mark": "2:05.39"
+          }
         }
       ]
     },
@@ -665,7 +752,12 @@
           "mark": "4:04.28",
           "note": "PB",
           "qualificationRank": 14,
-          "qualificationPoints": 5
+          "qualificationPoints": 5,
+          "dob": "1992-08-03",
+          "personalBest": "4:04.28",
+          "personalBestDetails": {
+            "mark": "4:04.28"
+          }
         },
         {
           "rank": 5,
@@ -1106,7 +1198,24 @@
           "mark": "53.05",
           "note": "SB",
           "qualificationRank": 2,
-          "qualificationPoints": 26
+          "qualificationPoints": 26,
+          "dob": "1992-10-18",
+          "personalBest": "52.51",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "52.51",
+            "venue": "National Stadium, Kingston (JAM)",
+            "date": "28 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14425208"
+          },
+          "seasonBest": "53.05",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "53.05",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14425208"
+          }
         },
         {
           "rank": 3,
@@ -1118,7 +1227,24 @@
           "mark": "53.67",
           "note": "SB",
           "qualificationRank": 7,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "1993-01-16",
+          "personalBest": "53.09",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "53.09",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "24 AUG 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14419510"
+          },
+          "seasonBest": "53.67",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "53.67",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14419510"
+          }
         },
         {
           "rank": 4,
@@ -1129,7 +1255,24 @@
           "bib": 563,
           "mark": "53.88",
           "qualificationRank": 3,
-          "qualificationPoints": 19
+          "qualificationPoints": 19,
+          "dob": "1993-11-18",
+          "personalBest": "52.66",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "52.66",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "17 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14423522"
+          },
+          "seasonBest": "53.58",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "53.58",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14423522"
+          }
         },
         {
           "rank": 5,
@@ -1140,7 +1283,24 @@
           "bib": 562,
           "mark": "54.09",
           "qualificationRank": 5,
-          "qualificationPoints": 14
+          "qualificationPoints": 14,
+          "dob": "1994-04-17",
+          "personalBest": "54.05",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "54.05",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14481392"
+          },
+          "seasonBest": "54.05",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "54.05",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14481392"
+          }
         },
         {
           "rank": 6,
@@ -1151,7 +1311,24 @@
           "bib": 578,
           "mark": "54.33",
           "qualificationRank": 10,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1998-02-17",
+          "personalBest": "54.08",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "54.08",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14481824"
+          },
+          "seasonBest": "54.08",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "54.08",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14481824"
+          }
         },
         {
           "rank": 7,
@@ -1163,7 +1340,24 @@
           "mark": "54.85",
           "note": "SB",
           "qualificationRank": 9,
-          "qualificationPoints": 4
+          "qualificationPoints": 4,
+          "dob": "1996-10-17",
+          "personalBest": "53.89",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "53.89",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "22 AUG 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14484475"
+          },
+          "seasonBest": "54.53",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres Hurdles",
+            "mark": "54.53",
+            "venue": "Estadio Vallehermoso, Madrid (ESP)",
+            "date": "16 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14484475"
+          }
         },
         {
           "rank": 8,
@@ -1322,7 +1516,24 @@
           "bib": 509,
           "mark": "14.52",
           "qualificationRank": 5,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1994-04-05",
+          "personalBest": "15.25",
+          "personalBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "15.25",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "26 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14416826"
+          },
+          "seasonBest": "15.25",
+          "seasonBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "15.25",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "26 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14416826"
+          }
         },
         {
           "rank": 6,
@@ -1345,7 +1556,24 @@
           "mark": "13.99",
           "note": "SB",
           "qualificationRank": 8,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1995-02-24",
+          "personalBest": "14.47",
+          "personalBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.47",
+            "venue": "Montreuil (FRA)",
+            "date": "19 JUN 2018",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14408349"
+          },
+          "seasonBest": "14.24",
+          "seasonBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.24",
+            "venue": "Sala de Atletism Ioan Soter, Bucureşti (ROU) (i)",
+            "date": "28 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14408349"
+          }
         },
         {
           "rank": 8,
@@ -1365,7 +1593,24 @@
           "dlId": "14474496",
           "country": "SLO",
           "bib": 569,
-          "mark": "13.94"
+          "mark": "13.94",
+          "dob": "1995-04-22",
+          "personalBest": "14.50",
+          "personalBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.50",
+            "venue": "Štadion Kladivar, Celje (SLO)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14474496"
+          },
+          "seasonBest": "14.50",
+          "seasonBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.50",
+            "venue": "Štadion Kladivar, Celje (SLO)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14474496"
+          }
         },
         {
           "rank": 10,
@@ -2209,7 +2454,24 @@
           "bib": 669,
           "mark": "20.38",
           "qualificationRank": 15,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1994-07-09",
+          "personalBest": "19.90",
+          "personalBestDetails": {
+            "discipline": "Men's 200 Metres",
+            "mark": "19.90",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "29 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14476000"
+          },
+          "seasonBest": "20.24",
+          "seasonBestDetails": {
+            "discipline": "Men's 200 Metres",
+            "mark": "20.24",
+            "venue": "National Stadium, Gaborone (BOT)",
+            "date": "26 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14476000"
+          }
         },
         {
           "rank": 7,
@@ -2471,7 +2733,24 @@
           "bib": 614,
           "mark": "8:13.35",
           "qualificationRank": 8,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "1992-04-22",
+          "personalBest": "8:08.45",
+          "personalBestDetails": {
+            "discipline": "Men's 3000 Metres Steeplechase",
+            "mark": "8:08.45",
+            "venue": "Stadion Śląski, Chorzów (POL)",
+            "date": "25 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14420300"
+          },
+          "seasonBest": "8:11.42",
+          "seasonBestDetails": {
+            "discipline": "Men's 3000 Metres Steeplechase",
+            "mark": "8:11.42",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14420300"
+          }
         },
         {
           "rank": 4,
@@ -2733,7 +3012,12 @@
           "mark": "2.27",
           "note": "SB",
           "qualificationRank": 3,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "1991-06-24",
+          "personalBest": "2.43",
+          "personalBestDetails": {
+            "mark": "2.43"
+          }
         },
         {
           "rank": 3,
@@ -2927,7 +3211,24 @@
           "bib": 668,
           "mark": "5.82",
           "qualificationRank": 2,
-          "qualificationPoints": 18
+          "qualificationPoints": 18,
+          "dob": "1992-09-07",
+          "personalBest": "6.06",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.06",
+            "venue": "Drake Stadium, Des Moines, IA (USA)",
+            "date": "27 JUL 2019",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14440868"
+          },
+          "seasonBest": "5.95",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.95",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14440868"
+          }
         },
         {
           "rank": 5,
@@ -2961,7 +3262,24 @@
           "bib": 645,
           "mark": "5.62",
           "qualificationRank": 5,
-          "qualificationPoints": 14
+          "qualificationPoints": 14,
+          "dob": "1994-05-11",
+          "personalBest": "5.96",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.96",
+            "venue": "Stadium Jean-Pellez, Aubière (FRA) (i)",
+            "date": "27 FEB 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14482223"
+          },
+          "seasonBest": "5.85",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.85",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14482223"
+          }
         },
         {
           "rank": 8,
@@ -3075,7 +3393,24 @@
           "mark": "17.71",
           "note": "WL",
           "qualificationRank": 6,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1993-06-30",
+          "personalBest": "18.08",
+          "personalBestDetails": {
+            "discipline": "Men's Triple Jump",
+            "mark": "18.08",
+            "venue": "La Habana (CUB)",
+            "date": "28 MAY 2015",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14412588"
+          },
+          "seasonBest": "17.71",
+          "seasonBestDetails": {
+            "discipline": "Men's Triple Jump",
+            "mark": "17.71",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14412588"
+          }
         },
         {
           "rank": 2,
@@ -3122,7 +3457,24 @@
           "bib": 604,
           "mark": "17.01",
           "qualificationRank": 7,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1993-09-04",
+          "personalBest": "17.53",
+          "personalBestDetails": {
+            "discipline": "Men's Triple Jump",
+            "mark": "17.53",
+            "venue": "Baie Mahault (FRA)",
+            "date": "12 MAY 2018",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14429487"
+          },
+          "seasonBest": "17.24",
+          "seasonBestDetails": {
+            "discipline": "Men's Triple Jump",
+            "mark": "17.24",
+            "venue": "Alfonso Galvis Duque Stadium, Medellín (COL)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14429487"
+          }
         },
         {
           "rank": 6,
@@ -3299,7 +3651,12 @@
           "mark": "82.22",
           "note": "SB",
           "qualificationRank": 6,
-          "qualificationPoints": 9
+          "qualificationPoints": 9,
+          "dob": "1989-01-04",
+          "personalBest": "92.72",
+          "personalBestDetails": {
+            "mark": "92.72"
+          }
         },
         {
           "rank": 7,
@@ -3310,7 +3667,12 @@
           "bib": 662,
           "mark": "81.47",
           "qualificationRank": 4,
-          "qualificationPoints": 13
+          "qualificationPoints": 13,
+          "dob": "1993-04-02",
+          "personalBest": "90.16",
+          "personalBestDetails": {
+            "mark": "90.16"
+          }
         },
         {
           "rank": 8,
@@ -3322,7 +3684,11 @@
           "mark": "80.38",
           "qualificationRank": 10,
           "qualificationPoints": 3,
-          "dob": "1990-10-10"
+          "dob": "1990-10-10",
+          "personalBest": "90.88",
+          "personalBestDetails": {
+            "mark": "90.88"
+          }
         },
         {
           "rank": 9,

@@ -1,11 +1,15 @@
 {
+  "status": "permanent_error",
   "dlId": "14258130",
   "athleteId": "champion-gabrielle-fra",
-  "athlete": "- Wanda Diamond League",
+  "athlete": "CHAMPION Gabrielle",
   "country": "FRA",
   "dob": null,
   "pb": {},
   "sb": {},
-  "scrapedAt": "2026-07-17T21:38:17.687Z",
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14258130",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-20T15:43:25.294Z",
   "source": "diamondleague.com"
 }

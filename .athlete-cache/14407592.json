@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14407592",
+  "athleteId": "kennedy-nina-aus",
+  "athlete": "KENNEDY Nina",
+  "country": "AUS",
+  "dob": "1997-04-05",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.95",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.95",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14407592",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14407592",
+  "scrapedAt": "2026-07-20T15:43:58.422Z",
+  "source": "diamondleague.com"
+}

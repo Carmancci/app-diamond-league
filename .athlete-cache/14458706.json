@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14458706",
+  "athleteId": "kashafali-salum-ageze-nor",
+  "athlete": "KASHAFALI Salum Ageze",
+  "country": "NOR",
+  "dob": "1993-11-25",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.34",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "19 MAY 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.34",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "19 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14458706",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14458706",
+  "scrapedAt": "2026-07-20T15:48:01.596Z",
+  "source": "diamondleague.com"
+}

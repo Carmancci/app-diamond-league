@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14465104",
+  "athleteId": "hiltz-nikki-usa",
+  "athlete": "HILTZ Nikki",
+  "country": "USA",
+  "dob": "1994-10-23",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:55.33",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "30 JUN 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:16.35",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "21 JUL 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:59.26",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.49",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14465104",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14465104",
+  "scrapedAt": "2026-07-20T15:48:57.950Z",
+  "source": "diamondleague.com"
+}

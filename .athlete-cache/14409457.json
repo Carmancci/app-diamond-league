@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14409457",
+  "athleteId": "lake-morgan-gbr",
+  "athlete": "LAKE Morgan",
+  "country": "GBR",
+  "dob": "1997-05-12",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.00",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2025"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.32",
+      "venue": "Birmingham (GBR)",
+      "date": "29 JUN 2014"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.88",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14409457",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14409457",
+  "scrapedAt": "2026-07-20T15:44:07.305Z",
+  "source": "diamondleague.com"
+}

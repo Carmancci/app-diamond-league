@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14475585",
+  "athleteId": "sietina-anete-lat",
+  "athlete": "SIETINA Anete",
+  "country": "LAT",
+  "dob": "1996-02-05",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "64.64",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "20 SEP 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "59.72",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14475585",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14475585",
+  "scrapedAt": "2026-07-20T15:49:51.779Z",
+  "source": "diamondleague.com"
+}

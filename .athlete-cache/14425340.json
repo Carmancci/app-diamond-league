@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14425340",
+  "athleteId": "okoye-lawrence-gbr",
+  "athlete": "OKOYE Lawrence",
+  "country": "GBR",
+  "dob": "1991-10-06",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "71.88",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "71.88",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14425340",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14425340",
+  "scrapedAt": "2026-07-20T15:45:46.714Z",
+  "source": "diamondleague.com"
+}

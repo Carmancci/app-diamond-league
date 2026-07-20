@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14429487",
+  "athleteId": "dos-santos-almir-bra",
+  "athlete": "dos SANTOS Almir",
+  "country": "BRA",
+  "dob": "1993-09-04",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.53",
+      "venue": "Baie Mahault (FRA)",
+      "date": "12 MAY 2018"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.24",
+      "venue": "Alfonso Galvis Duque Stadium, Medellín (COL)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14429487",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14429487",
+  "scrapedAt": "2026-07-20T15:46:33.028Z",
+  "source": "diamondleague.com"
+}

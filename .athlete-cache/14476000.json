@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14476000",
+  "athleteId": "king-kyree-usa",
+  "athlete": "KING Kyree",
+  "country": "USA",
+  "dob": "1994-07-09",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.96",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "24 JUN 2022"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.90",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "29 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.26",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.24",
+      "venue": "National Stadium, Gaborone (BOT)",
+      "date": "26 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14476000",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14476000",
+  "scrapedAt": "2026-07-20T15:49:59.750Z",
+  "source": "diamondleague.com"
+}

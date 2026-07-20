@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14412588",
+  "athleteId": "pichardo-pedro-por",
+  "athlete": "PICHARDO Pedro",
+  "country": "POR",
+  "dob": "1993-06-30",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "18.08",
+      "venue": "La Habana (CUB)",
+      "date": "28 MAY 2015"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.71",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14412588",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14412588",
+  "scrapedAt": "2026-07-20T15:44:15.474Z",
+  "source": "diamondleague.com"
+}

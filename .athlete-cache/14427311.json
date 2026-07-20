@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14427311",
+  "athleteId": "ibarzabal-lorea-esp",
+  "athlete": "IBARZABAL Lorea",
+  "country": "ESP",
+  "dob": "1994-11-07",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.60",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "19 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:07.28",
+      "venue": "Altamira estadioa, Ordizia (ESP)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.84",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:07.28",
+      "venue": "Altamira estadioa, Ordizia (ESP)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14427311",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14427311",
+  "scrapedAt": "2026-07-20T15:46:16.619Z",
+  "source": "diamondleague.com"
+}

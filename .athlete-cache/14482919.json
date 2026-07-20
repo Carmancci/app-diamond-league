@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14482919",
+  "athleteId": "kimeli-isaac-bel",
+  "athlete": "KIMELI Isaac",
+  "country": "BEL",
+  "dob": "1994-03-09",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:36.51",
+      "venue": "Marseille (FRA)",
+      "date": "16 JUN 2018"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:56.24",
+      "venue": "Østerbro Stadium, Copenhagen (DEN)",
+      "date": "22 JUN 2026"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:41.30",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "05 SEP 2024"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:56.53",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "15 MAY 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:40.37",
+      "venue": "Østerbro Stadium, Copenhagen (DEN)",
+      "date": "22 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:56.24",
+      "venue": "Østerbro Stadium, Copenhagen (DEN)",
+      "date": "22 JUN 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:13.17",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14482919",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14482919",
+  "scrapedAt": "2026-07-20T15:51:03.467Z",
+  "source": "diamondleague.com"
+}

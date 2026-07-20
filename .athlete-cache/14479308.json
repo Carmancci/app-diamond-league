@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14479308",
+  "athleteId": "klopfenstein-rachel-mri",
+  "athlete": "KLOPFENSTEIN Rachel",
+  "country": "MRI",
+  "dob": "1995-03-08",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "52.19",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 AUG 2021"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.60",
+      "venue": "Stadion Deutweg, Winterthur (SUI)",
+      "date": "29 JUN 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "53.59",
+      "venue": "Grendelmatte, Riehen (SUI)",
+      "date": "30 MAY 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.73",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14479308",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14479308",
+  "scrapedAt": "2026-07-20T15:50:19.110Z",
+  "source": "diamondleague.com"
+}

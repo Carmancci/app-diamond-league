@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14453864",
+  "athleteId": "jacobs-lamont-marcell-ita",
+  "athlete": "JACOBS Lamont Marcell",
+  "country": "ITA",
+  "dob": "1994-09-26",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.80",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "01 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.96",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14453864",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14453864",
+  "scrapedAt": "2026-07-20T15:47:43.314Z",
+  "source": "diamondleague.com"
+}

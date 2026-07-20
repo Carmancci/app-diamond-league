@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14470567",
+  "athleteId": "schweizer-karissa-usa",
+  "athlete": "SCHWEIZER Karissa",
+  "country": "USA",
+  "dob": "1996-05-04",
+  "pb": {
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:22.79",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:26.34",
+      "venue": "Jesuit High School Track, Portland, OR (USA)",
+      "date": "10 JUL 2020"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:49.78",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:22.79",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14470567",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14470567",
+  "scrapedAt": "2026-07-20T15:49:19.468Z",
+  "source": "diamondleague.com"
+}

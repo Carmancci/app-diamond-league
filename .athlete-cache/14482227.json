@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14482227",
+  "athleteId": "comenentia-denzel-ned",
+  "athlete": "COMENENTIA Denzel",
+  "country": "NED",
+  "dob": "1995-11-25",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "79.09",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "17 MAY 2024"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "75.87",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14482227",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14482227",
+  "scrapedAt": "2026-07-20T15:50:59.448Z",
+  "source": "diamondleague.com"
+}

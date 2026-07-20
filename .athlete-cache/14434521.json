@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14434521",
+  "athleteId": "richards-jereem-tto",
+  "athlete": "RICHARDS Jereem",
+  "country": "TTO",
+  "dob": "1994-01-13",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.80",
+      "venue": "Birmingham (GBR)",
+      "date": "06 AUG 2022"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.72",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "18 SEP 2025"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.13",
+      "venue": "National Training Center, Clermont, FL (USA)",
+      "date": "24 MAY 2026"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.44",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14434521",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14434521",
+  "scrapedAt": "2026-07-20T15:46:53.106Z",
+  "source": "diamondleague.com"
+}

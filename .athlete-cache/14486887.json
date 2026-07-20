@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14486887",
+  "athleteId": "heltela-wilma-fin",
+  "athlete": "HELTELÄ Wilma",
+  "country": "FIN",
+  "dob": "1998-06-11",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.85",
+      "venue": "Olympiastadion, München (GER)",
+      "date": "17 AUG 2022"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.81",
+      "venue": "Pl. Panathinaikou Stadiou, Athina (GRE)",
+      "date": "05 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14486887",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14486887",
+  "scrapedAt": "2026-07-20T15:51:36.395Z",
+  "source": "diamondleague.com"
+}

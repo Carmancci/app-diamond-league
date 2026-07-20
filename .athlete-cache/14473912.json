@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14473912",
+  "athleteId": "rozmys-michal-pol",
+  "athlete": "ROZMYS Michal",
+  "country": "POL",
+  "dob": "1995-03-13",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.32",
+      "venue": "Olympiastadion, Berlin (GER)",
+      "date": "11 AUG 2018"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.43",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "26 AUG 2022"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:55.13",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "16 JUN 2022"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:49.52",
+      "venue": "Stadion Miejski, Oleśnica (POL)",
+      "date": "06 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:39.47",
+      "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+      "date": "20 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14473912",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14473912",
+  "scrapedAt": "2026-07-20T15:49:27.984Z",
+  "source": "diamondleague.com"
+}

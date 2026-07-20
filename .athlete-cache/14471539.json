@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14471539",
+  "athleteId": "walcott-nolan-revee-gbr",
+  "athlete": "WALCOTT-NOLAN Revee",
+  "country": "GBR",
+  "dob": "1995-03-06",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.05",
+      "venue": "Tooting Bec Athletics Track, London (GBR)",
+      "date": "20 AUG 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.08",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "08 AUG 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:19.16",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:44.26",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "22 AUG 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.78",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14471539",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14471539",
+  "scrapedAt": "2026-07-20T15:49:23.933Z",
+  "source": "diamondleague.com"
+}
