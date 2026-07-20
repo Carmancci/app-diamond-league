@@ -1,229 +1,111 @@
 #!/usr/bin/env node
-/**
- * Scraper simplificado de perfis Diamond League
- *
- * Coleta DOB, PB e SB de atletas via diamondleague.com API/HTML
- * e salva em cache para aplicação posterior nos JSONs
- */
+/** Coleta DOB, PB e SB dos perfis oficiais e mantém um cache por DL_ID. */
 
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { parseAthleteProfileHtml } from './lib/athlete-profile.mjs'
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const ROOT = path.join(__dirname, '..')
+const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
 const CACHE_DIR = path.join(ROOT, '.athlete-cache')
+const GENERATED_DIR = path.join(ROOT, 'lib', 'diamond-league', 'generated')
 const ID_MAP_FILE = path.join(ROOT, '.dl-id-map.json')
 
-// Criar diretório de cache
-if (!fs.existsSync(CACHE_DIR)) {
-  fs.mkdirSync(CACHE_DIR, { recursive: true })
-}
-
-// Carregar mapa de IDs
-if (!fs.existsSync(ID_MAP_FILE)) {
-  console.error('Arquivo .dl-id-map.json não encontrado. Execute pnpm ingest primeiro.')
-  process.exit(1)
-}
-
-const idMap = JSON.parse(fs.readFileSync(ID_MAP_FILE, 'utf-8'))
-
-// Argumentos
 const args = process.argv.slice(2)
-const limitArg = args.indexOf('--limit')
-const limit = limitArg >= 0 ? Number(args[limitArg + 1]) : 10 // default: 10
-const forceArg = args.includes('--force')
-
-// Filtrar IDs a processar
-let entries = Object.entries(idMap)
-
-// Pular os que já têm cache
-if (!forceArg) {
-  entries = entries.filter(([id]) => !fs.existsSync(path.join(CACHE_DIR, `${id}.json`)))
+const valueAfter = (name) => {
+  const index = args.indexOf(name)
+  return index >= 0 ? args[index + 1] : undefined
 }
+const requestedLimit = Number(valueAfter('--limit') ?? 100)
+const limit = Number.isFinite(requestedLimit) ? requestedLimit : 100
+const singleId = valueAfter('--id')
+const force = args.includes('--force')
 
-if (Number.isFinite(limit)) {
-  entries = entries.slice(0, limit)
-}
+fs.mkdirSync(CACHE_DIR, { recursive: true })
 
-console.log(`\n[Scraper] ${entries.length} atletas para processar\n`)
-
-if (entries.length === 0) {
-  console.log('Nenhum atleta novo para processar.')
-  process.exit(0)
-}
-
-/**
- * Extrair dados de um perfil de atleta
- */
-async function scrapeAthleteProfile(dlId) {
-  const url = `https://www.diamondleague.com/athlete/${dlId}`
-
-  try {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-      },
-      timeout: 10000,
-    })
-
-    if (!response.ok) {
-      return null
-    }
-
-    const html = await response.text()
-
-    // Extrair data de nascimento (formato: "16 JUL 1994")
-    const dobMatch = html.match(/(\d{1,2})\s+(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\s+(\d{4})/i)
-    const dob = dobMatch ? `${dobMatch[3]}-${getMonthNumber(dobMatch[2])}-${String(dobMatch[1]).padStart(2, '0')}` : null
-
-    // Extrair país
-    const countryMatch = html.match(/country['"]\s*:\s*['"]([A-Z]{3})['"]/i) || html.match(/<span[^>]*class="athlete-country"[^>]*>([A-Z]{3})</i)
-    const country = countryMatch ? countryMatch[1] : null
-
-    // Extrair nome
-    const nameMatch = html.match(/<h1[^>]*>([^<]+)<\/h1>/) || html.match(/<title>([^|]+)<\/title>/)
-    const name = nameMatch ? nameMatch[1].trim() : null
-
-    // Extrair Personal Best (tabela)
-    const pbMap = extractMarksFromHtml(html, 'Personal Best')
-
-    // Extrair Season Best (tabela)
-    const sbMap = extractMarksFromHtml(html, 'Season Best')
-
-    return {
-      dob,
-      country,
-      name,
-      pb: pbMap,
-      sb: sbMap,
-    }
-  } catch (error) {
-    console.error(`  Erro ao buscar ${dlId}:`, error.message)
-    return null
-  }
-}
-
-/**
- * Extrair modalidades e marcas de uma tabela no HTML
- */
-function extractMarksFromHtml(html, sectionName) {
-  const marks = {}
-
-  // Procurar por seção que contenha "Personal Best" ou "Season Best"
-  const sectionRegex = new RegExp(
-    `${sectionName}[\\s\\S]*?<table[\\s\\S]*?</table>`,
-    'i'
-  )
-  const sectionMatch = html.match(sectionRegex)
-
-  if (!sectionMatch) return marks
-
-  const section = sectionMatch[0]
-
-  // Extrair linhas da tabela
-  const rowRegex = /<tr[^>]*>[\s\S]*?<\/tr>/gi
-  const rows = section.match(rowRegex) || []
-
-  rows.forEach((row) => {
-    const cells = row.match(/<td[^>]*>([^<]+)<\/td>/gi) || []
-    if (cells.length >= 2) {
-      const discipline = cells[0].replace(/<td[^>]*>/, '').replace(/<\/td>/i, '').trim()
-      const mark = cells[1].replace(/<td[^>]*>/, '').replace(/<\/td>/i, '').trim()
-
-      if (discipline && mark && !mark.match(/^\s*-\s*$/)) {
-        // Normalizar nome da modalidade
-        const normalizedDiscipline = discipline.replace(/^(Women's|Men's)\s+/i, '').trim()
-        marks[normalizedDiscipline] = mark
+function collectAthleteIds() {
+  const idMap = {}
+  const files = fs.readdirSync(GENERATED_DIR).filter((file) => file.endsWith('.json') && file !== 'index.json')
+  for (const file of files) {
+    const meeting = JSON.parse(fs.readFileSync(path.join(GENERATED_DIR, file), 'utf8'))
+    for (const event of meeting.events ?? []) {
+      for (const result of [...(event.results ?? []), ...(event.startList ?? [])]) {
+        if (!result.dlId || idMap[result.dlId]) continue
+        idMap[result.dlId] = {
+          athleteId: result.athleteId,
+          athlete: result.athlete,
+          country: result.country,
+        }
       }
     }
-  })
-
-  return marks
-}
-
-/**
- * Converter mês abreviado para número
- */
-function getMonthNumber(monthStr) {
-  const months = {
-    JAN: '01',
-    FEB: '02',
-    MAR: '03',
-    APR: '04',
-    MAY: '05',
-    JUN: '06',
-    JUL: '07',
-    AUG: '08',
-    SEP: '09',
-    OCT: '10',
-    NOV: '11',
-    DEC: '12',
   }
-  return months[monthStr.toUpperCase()] || '01'
+  fs.writeFileSync(ID_MAP_FILE, `${JSON.stringify(idMap, null, 2)}\n`)
+  return idMap
 }
 
-// Executar scraping
+function hasUsefulCache(dlId) {
+  try {
+    const cached = JSON.parse(fs.readFileSync(path.join(CACHE_DIR, `${dlId}.json`), 'utf8'))
+    return !cached.error && Boolean(cached.dob || Object.keys(cached.pb ?? {}).length || Object.keys(cached.sb ?? {}).length)
+  } catch {
+    return false
+  }
+}
+
+const idMap = collectAthleteIds()
+let entries = Object.entries(idMap)
+if (singleId) {
+  entries = entries.filter(([id]) => id === singleId)
+  if (!entries.length) throw new Error(`DL_ID ${singleId} não encontrado nos dados gerados.`)
+} else if (!force) {
+  entries = entries.filter(([id]) => !hasUsefulCache(id))
+}
+entries = entries.slice(0, limit)
+
+console.log(`\n[Scraper] ${entries.length} atleta(s) para processar\n`)
+
+async function fetchProfile(dlId) {
+  const url = `https://www.diamondleague.com/athlete/${dlId}`
+  const response = await fetch(url, {
+    headers: { 'User-Agent': 'app-diamond-league/1.0 (+athlete-data)' },
+    signal: AbortSignal.timeout(15_000),
+  })
+  if (!response.ok) throw new Error(`HTTP ${response.status}`)
+  return { url, profile: parseAthleteProfileHtml(await response.text()) }
+}
+
 let success = 0
 let failed = 0
-let withDob = 0
-let withPb = 0
-
-for (let i = 0; i < entries.length; i++) {
-  const [dlId, info] = entries[i]
-  const pct = `[${String(i + 1).padStart(String(entries.length).length, ' ')}/${entries.length}]`
-
-  process.stdout.write(`${pct} ${info.athlete.padEnd(40)} `)
-
-  const data = await scrapeAthleteProfile(dlId)
-
-  if (!data) {
-    console.log('FALHOU')
+for (let index = 0; index < entries.length; index++) {
+  const [dlId, info] = entries[index]
+  process.stdout.write(`[${index + 1}/${entries.length}] ${info.athlete} `)
+  try {
+    const { url, profile } = await fetchProfile(dlId)
+    if (!profile.dob && !Object.keys(profile.pb).length && !Object.keys(profile.sb).length) {
+      throw new Error('perfil sem dados reconhecidos')
+    }
+    const cacheEntry = {
+      dlId,
+      athleteId: info.athleteId,
+      athlete: profile.name || info.athlete,
+      country: info.country,
+      dob: profile.dob,
+      pb: profile.pb,
+      sb: profile.sb,
+      officialProfileUrl: url,
+      worldAthleticsUrl: profile.worldAthleticsUrl,
+      scrapedAt: new Date().toISOString(),
+      source: 'diamondleague.com',
+    }
+    fs.writeFileSync(path.join(CACHE_DIR, `${dlId}.json`), `${JSON.stringify(cacheEntry, null, 2)}\n`)
+    success++
+    console.log(`OK — DOB:${profile.dob ?? '–'} PB:${Object.keys(profile.pb).length} SB:${Object.keys(profile.sb).length}`)
+  } catch (error) {
     failed++
-    fs.writeFileSync(
-      path.join(CACHE_DIR, `${dlId}.json`),
-      JSON.stringify({
-        dlId,
-        athleteId: info.athleteId,
-        scrapedAt: new Date().toISOString(),
-        error: 'scrape_failed',
-      }, null, 2)
-    )
-    continue
+    console.log(`FALHOU — ${error.message}`)
   }
-
-  const cacheEntry = {
-    dlId,
-    athleteId: info.athleteId,
-    athlete: data.name || info.athlete,
-    country: data.country || info.country,
-    dob: data.dob,
-    pb: data.pb,
-    sb: data.sb,
-    scrapedAt: new Date().toISOString(),
-    source: 'diamondleague.com',
-  }
-
-  fs.writeFileSync(path.join(CACHE_DIR, `${dlId}.json`), JSON.stringify(cacheEntry, null, 2))
-
-  success++
-  if (data.dob) withDob++
-  if (Object.keys(data.pb || {}).length > 0) withPb++
-
-  const pbCount = Object.keys(data.pb || {}).length
-  const sbCount = Object.keys(data.sb || {}).length
-  const status = [data.dob ? 'DOB✓' : 'DOB✗', `PB:${pbCount}`, `SB:${sbCount}`].join(' | ')
-  console.log(status)
-
-  // Throttle
-  if (i < entries.length - 1) {
-    await new Promise((r) => setTimeout(r, 500))
-  }
+  if (index < entries.length - 1) await new Promise((resolve) => setTimeout(resolve, 500))
 }
 
-console.log(`\n${'='.repeat(70)}`)
-console.log(`Resultado: ${success} sucesso, ${failed} falhas`)
-console.log(`DOB encontrado: ${withDob}/${success} (${success ? ((withDob / success) * 100).toFixed(1) : 0}%)`)
-console.log(`PB encontrado: ${withPb}/${success} (${success ? ((withPb / success) * 100).toFixed(1) : 0}%)`)
-console.log(`Cache salvo em: ${CACHE_DIR}`)
-console.log(`${'='.repeat(70)}\n`)
+console.log(`\nResultado: ${success} sucesso(s), ${failed} falha(s).`)
+if (entries.length && !success) process.exitCode = 1

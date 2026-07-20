@@ -11,6 +11,7 @@ export const metadata: Metadata = {
 export default function AthletesPage() {
   const athletes: AthleteListItem[] = getAthletes().map((a) => ({
     id: a.id,
+    avatarId: a.legacyId,
     name: a.name,
     country: a.country,
     gender: a.gender,

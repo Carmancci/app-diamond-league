@@ -38,6 +38,11 @@ jobs:
       - name: Atualizar fontes oficiais
         run: pnpm ingest
 
+      - name: Enriquecer perfis oficiais
+        run: |
+          pnpm scrape:athletes -- --limit 100
+          pnpm apply:cache
+
       - name: Validar dataset e aplicação
         run: |
           pnpm validate:data

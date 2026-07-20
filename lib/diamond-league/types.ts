@@ -27,10 +27,19 @@ export interface SourceMetadata {
   diagnosis?: string
 }
 
+export interface AthleteMarkDetails {
+  mark: string
+  venue?: string
+  date?: string
+  sourceUrl?: string
+}
+
 export interface AthleteResult {
   rank: number | null
   athlete: string
   athleteId?: string
+  /** Identificador oficial e estável do perfil Diamond League. */
+  dlId?: string
   country: string
   dob?: string
   bib?: number | string
@@ -41,6 +50,8 @@ export interface AthleteResult {
   qualificationPoints?: number
   seasonBest?: string
   personalBest?: string
+  seasonBestDetails?: AthleteMarkDetails
+  personalBestDetails?: AthleteMarkDetails
   status?: string
 }
 

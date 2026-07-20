@@ -8,14 +8,20 @@ import { isTimedCategory } from '@/lib/diamond-league/marks'
 import { NOTE_LABELS } from '@/components/note-legend'
 import { ProgressionChart, type ProgressionPoint } from '@/components/progression-chart'
 import { cn } from '@/lib/utils'
+import type { AthleteMarkDetails } from '@/lib/diamond-league/types'
 
-function BestMarkCard({ label, value }: { label: string; value?: string }) {
+function BestMarkCard({ label, value, details }: { label: string; value?: string; details?: AthleteMarkDetails }) {
   return (
     <div className="rounded-xl border border-border bg-card p-4">
       <p className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">{label}</p>
       <p className="mt-1 break-words text-xl font-bold tabular-nums text-primary">
         {value ?? 'Não informado pela fonte'}
       </p>
+      {details && (details.venue || details.date) && (
+        <p className="mt-1 text-xs text-muted-foreground">
+          {[details.venue, details.date].filter(Boolean).join(' • ')}
+        </p>
+      )}
     </div>
   )
 }
@@ -65,8 +71,8 @@ export function AthleteDisciplines({ athlete }: { athlete: AthleteProfile }) {
 
       {/* Resumo da disciplina */}
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        <BestMarkCard label="Season Best (SB)" value={summary.seasonBest} />
-        <BestMarkCard label="Personal Best (PB)" value={summary.personalBest} />
+        <BestMarkCard label="Season Best (SB)" value={summary.seasonBest} details={summary.seasonBestDetails} />
+        <BestMarkCard label="Personal Best (PB)" value={summary.personalBest} details={summary.personalBestDetails} />
         <div className="rounded-xl border border-border bg-card p-4">
           <p className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
             Modalidade
