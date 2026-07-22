@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14535607",
+  "athleteId": "de-grasse-andre-can",
+  "athlete": "de GRASSE Andre",
+  "country": "CAN",
+  "dob": "1994-11-10",
+  "pb": {
+    "100 yards": {
+      "discipline": "Men's 100 Yards",
+      "mark": "9.30",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "20 JUN 2019"
+    },
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.89",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "09 SEP 2021"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.62",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "04 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.95",
+      "venue": "National Stadium, Gaborone (BOT)",
+      "date": "26 APR 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.84",
+      "venue": "National Stadium, Gaborone (BOT)",
+      "date": "26 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14535607",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14535607",
+  "scrapedAt": "2026-07-20T16:18:16.422Z",
+  "source": "diamondleague.com"
+}

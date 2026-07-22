@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14586381",
+  "athleteId": "beaugrand-cassandre-fra",
+  "athlete": "BEAUGRAND Cassandre",
+  "country": "FRA",
+  "dob": "1997-05-23",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:32.86",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:32.86",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14586381",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14586381",
+  "scrapedAt": "2026-07-20T16:22:01.810Z",
+  "source": "diamondleague.com"
+}

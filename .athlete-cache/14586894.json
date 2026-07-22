@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14586894",
+  "athleteId": "almas-deniz-ger",
+  "athlete": "ALMAS Deniz",
+  "country": "GER",
+  "dob": "1997-07-17",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.08",
+      "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+      "date": "01 AUG 2020"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.64",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "14 AUG 2020"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.21",
+      "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "21.36",
+      "venue": "Stadion Juliska, Praha (CZE)",
+      "date": "01 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14586894",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14586894",
+  "scrapedAt": "2026-07-20T16:22:14.820Z",
+  "source": "diamondleague.com"
+}

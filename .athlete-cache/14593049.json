@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14593049",
+  "athleteId": "munoz-uziel-mex",
+  "athlete": "MUÑOZ Uziel",
+  "country": "MEX",
+  "dob": "1995-09-08",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.97",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "13 SEP 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.46",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14593049",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14593049",
+  "scrapedAt": "2026-07-20T16:23:27.861Z",
+  "source": "diamondleague.com"
+}

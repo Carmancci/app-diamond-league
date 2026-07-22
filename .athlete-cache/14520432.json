@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14520432",
+  "athleteId": "peters-anderson-grn",
+  "athlete": "PETERS Anderson",
+  "country": "GRN",
+  "dob": "1997-10-21",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "93.07",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "13 MAY 2022"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "86.38",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14520432",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14520432",
+  "scrapedAt": "2026-07-20T16:16:15.261Z",
+  "source": "diamondleague.com"
+}

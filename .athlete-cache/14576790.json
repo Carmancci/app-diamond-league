@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14576790",
+  "athleteId": "nelson-kemba-jam",
+  "athlete": "NELSON Kemba",
+  "country": "JAM",
+  "dob": "2000-02-23",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.88",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "24 JUN 2022"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.08",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14576790",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14576790",
+  "scrapedAt": "2026-07-20T16:21:08.385Z",
+  "source": "diamondleague.com"
+}

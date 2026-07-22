@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14523980",
+  "athleteId": "dongmo-auriol-por",
+  "athlete": "DONGMO Auriol",
+  "country": "POR",
+  "dob": "1990-08-03",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.43",
+      "venue": "Štark Arena, Beograd (SRB) (i)",
+      "date": "18 MAR 2022"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.17",
+      "venue": "Altice Forum, Braga (POR) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14523980",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14523980",
+  "scrapedAt": "2026-07-20T16:16:36.982Z",
+  "source": "diamondleague.com"
+}

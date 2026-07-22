@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14565871",
+  "athleteId": "mabry-yemisi-ger",
+  "athlete": "MABRY Yemisi",
+  "country": "GER",
+  "dob": "1998-10-03",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.37",
+      "venue": "Helmut-Körnig-Halle, Dortmund (GER) (i)",
+      "date": "27 FEB 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.37",
+      "venue": "Helmut-Körnig-Halle, Dortmund (GER) (i)",
+      "date": "27 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14565871",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14565871",
+  "scrapedAt": "2026-07-20T16:19:44.075Z",
+  "source": "diamondleague.com"
+}

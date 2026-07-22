@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14530244",
+  "athleteId": "jagers-iii-reggie-usa",
+  "athlete": "JAGERS III Reggie",
+  "country": "USA",
+  "dob": "1994-08-13",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "69.16",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "27 APR 2024"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "69.09",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14530244",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14530244",
+  "scrapedAt": "2026-07-20T16:17:17.290Z",
+  "source": "diamondleague.com"
+}

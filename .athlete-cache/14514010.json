@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14514010",
+  "athleteId": "randazzo-filippo-ita",
+  "athlete": "RANDAZZO Filippo",
+  "country": "ITA",
+  "dob": "1996-04-27",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.12",
+      "venue": "Centro Sportivo Fontanassa, Savona (ITA)",
+      "date": "16 JUL 2020"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14514010",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14514010",
+  "scrapedAt": "2026-07-20T16:15:43.355Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14574865",
+  "athleteId": "benjamin-rai-usa",
+  "athlete": "BENJAMIN Rai",
+  "country": "USA",
+  "dob": "1997-07-27",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.99",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "30 JUN 2018"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.05",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "33.22",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "46.17",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "03 AUG 2021"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.05",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14574865",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14574865",
+  "scrapedAt": "2026-07-20T16:20:40.699Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14533525",
+  "athleteId": "jackson-chase-usa",
+  "athlete": "JACKSON Chase",
+  "country": "USA",
+  "dob": "1994-07-20",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.95",
+      "venue": "Iron Wood Throwers Center, Rathdrum, ID (USA)",
+      "date": "28 JUN 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.74",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14533525",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14533525",
+  "scrapedAt": "2026-07-20T16:17:50.872Z",
+  "source": "diamondleague.com"
+}

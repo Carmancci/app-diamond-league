@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14575440",
+  "athleteId": "browning-rohan-aus",
+  "athlete": "BROWNING Rohan",
+  "country": "AUS",
+  "dob": "1997-12-31",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.01",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "31 JUL 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.19",
+      "venue": "Olympic Park, Sydney (AUS)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14575440",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14575440",
+  "scrapedAt": "2026-07-20T16:20:45.942Z",
+  "source": "diamondleague.com"
+}

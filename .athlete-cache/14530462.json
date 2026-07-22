@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14530462",
+  "athleteId": "zoghlami-osama-ita",
+  "athlete": "ZOGHLAMI Osama",
+  "country": "ITA",
+  "dob": "1994-06-19",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:48.63",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "17 SEP 2020"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:11.00",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "09 JUN 2022"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:13.10",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14530462",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14530462",
+  "scrapedAt": "2026-07-20T16:17:28.028Z",
+  "source": "diamondleague.com"
+}

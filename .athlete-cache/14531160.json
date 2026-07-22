@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14531160",
+  "athleteId": "ciattei-vincent-usa",
+  "athlete": "CIATTEI Vincent",
+  "country": "USA",
+  "dob": "1995-01-21",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.90",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:48.34",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.90",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:48.34",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14531160",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14531160",
+  "scrapedAt": "2026-07-20T16:17:32.775Z",
+  "source": "diamondleague.com"
+}

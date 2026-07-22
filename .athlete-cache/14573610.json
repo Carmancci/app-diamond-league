@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14573610",
+  "athleteId": "chila-gabriele-ita",
+  "athlete": "CHILA' Gabriele",
+  "country": "ITA",
+  "dob": "1997-09-17",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.00",
+      "venue": "Palaindoor Ancona, Ancona (ITA) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.00",
+      "venue": "Palaindoor Ancona, Ancona (ITA) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14573610",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14573610",
+  "scrapedAt": "2026-07-20T16:20:12.246Z",
+  "source": "diamondleague.com"
+}

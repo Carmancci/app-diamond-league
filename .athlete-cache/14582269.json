@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14582269",
+  "athleteId": "donaghu-ella-usa",
+  "athlete": "DONAGHU Ella",
+  "country": "USA",
+  "dob": "1998-04-13",
+  "pb": {
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:40.44",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "27 MAY 2022"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "9:06.85",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:44.15",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14582269",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14582269",
+  "scrapedAt": "2026-07-20T16:21:49.366Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14574729",
+  "athleteId": "maloney-shafiqua-vin",
+  "athlete": "MALONEY Shafiqua",
+  "country": "VIN",
+  "dob": "1999-02-27",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.63",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "14 JUL 2024"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.29",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "28 AUG 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.85",
+      "venue": "John McDonnell Field, Fayetteville, AR (USA)",
+      "date": "08 MAY 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.34",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14574729",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14574729",
+  "scrapedAt": "2026-07-20T16:20:36.578Z",
+  "source": "diamondleague.com"
+}

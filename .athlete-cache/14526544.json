@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14526544",
+  "athleteId": "obst-marie-therese-nor",
+  "athlete": "OBST Marie-Therese",
+  "country": "NOR",
+  "dob": "1996-01-07",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.50",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "11 JUN 2024"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "58.68",
+      "venue": "Sola Arena, Karlstad (SWE)",
+      "date": "08 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14526544",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14526544",
+  "scrapedAt": "2026-07-20T16:17:01.512Z",
+  "source": "diamondleague.com"
+}

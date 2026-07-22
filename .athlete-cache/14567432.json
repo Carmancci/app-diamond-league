@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14567432",
+  "athleteId": "fabbri-leonardo-ita",
+  "athlete": "FABBRI Leonardo",
+  "country": "ITA",
+  "dob": "1997-04-15",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.98",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "14 SEP 2024"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.74",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14567432",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14567432",
+  "scrapedAt": "2026-07-20T16:19:48.539Z",
+  "source": "diamondleague.com"
+}

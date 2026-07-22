@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14588244",
+  "athleteId": "norman-michael-usa",
+  "athlete": "NORMAN Michael",
+  "country": "USA",
+  "dob": "1997-12-03",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.86",
+      "venue": "AP Ranch, Fort Worth, TX (USA)",
+      "date": "20 JUL 2020"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.70",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "06 JUN 2019"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.45",
+      "venue": "Torrance, CA (USA)",
+      "date": "20 APR 2019"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.40",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.94",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14588244",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14588244",
+  "scrapedAt": "2026-07-20T16:22:29.802Z",
+  "source": "diamondleague.com"
+}
