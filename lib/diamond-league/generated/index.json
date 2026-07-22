@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generatedAt": "2026-07-22T19:42:45.266Z",
+  "generatedAt": "2026-07-22T20:39:42.039Z",
   "meetings": [
     {
       "slug": "shanghai",
@@ -17,7 +17,7 @@
       "hasResults": true,
       "eventCount": 25,
       "athleteCount": 254,
-      "updatedAt": "2026-07-22T19:42:36.947Z"
+      "updatedAt": "2026-07-22T20:39:37.109Z"
     },
     {
       "slug": "xiamen",
@@ -34,7 +34,7 @@
       "hasResults": true,
       "eventCount": 19,
       "athleteCount": 231,
-      "updatedAt": "2026-07-22T19:42:37.666Z"
+      "updatedAt": "2026-07-22T20:39:37.679Z"
     },
     {
       "slug": "rabat",
@@ -51,7 +51,7 @@
       "hasResults": true,
       "eventCount": 23,
       "athleteCount": 287,
-      "updatedAt": "2026-07-22T19:42:38.422Z"
+      "updatedAt": "2026-07-22T20:39:38.297Z"
     },
     {
       "slug": "rome",
@@ -68,7 +68,7 @@
       "hasResults": true,
       "eventCount": 22,
       "athleteCount": 215,
-      "updatedAt": "2026-07-22T19:42:39.133Z"
+      "updatedAt": "2026-07-22T20:39:38.860Z"
     },
     {
       "slug": "stockholm",
@@ -85,7 +85,7 @@
       "hasResults": true,
       "eventCount": 24,
       "athleteCount": 270,
-      "updatedAt": "2026-07-22T19:42:39.849Z"
+      "updatedAt": "2026-07-22T20:39:38.897Z"
     },
     {
       "slug": "oslo",
@@ -102,7 +102,7 @@
       "hasResults": true,
       "eventCount": 26,
       "athleteCount": 234,
-      "updatedAt": "2026-07-22T19:42:40.123Z"
+      "updatedAt": "2026-07-22T20:39:39.454Z"
     },
     {
       "slug": "doha",
@@ -119,7 +119,7 @@
       "hasResults": true,
       "eventCount": 20,
       "athleteCount": 191,
-      "updatedAt": "2026-07-22T19:42:40.977Z"
+      "updatedAt": "2026-07-22T20:39:39.491Z"
     },
     {
       "slug": "paris",
@@ -136,7 +136,7 @@
       "hasResults": true,
       "eventCount": 28,
       "athleteCount": 299,
-      "updatedAt": "2026-07-22T19:42:41.605Z"
+      "updatedAt": "2026-07-22T20:39:40.184Z"
     },
     {
       "slug": "eugene",
@@ -153,7 +153,7 @@
       "hasResults": true,
       "eventCount": 32,
       "athleteCount": 376,
-      "updatedAt": "2026-07-22T19:42:41.688Z"
+      "updatedAt": "2026-07-22T20:39:40.247Z"
     },
     {
       "slug": "monaco",
@@ -170,7 +170,7 @@
       "hasResults": true,
       "eventCount": 17,
       "athleteCount": 203,
-      "updatedAt": "2026-07-22T19:42:42.422Z"
+      "updatedAt": "2026-07-22T20:39:40.296Z"
     },
     {
       "slug": "london",
@@ -187,7 +187,7 @@
       "hasResults": true,
       "eventCount": 24,
       "athleteCount": 214,
-      "updatedAt": "2026-07-22T19:42:43.200Z"
+      "updatedAt": "2026-07-22T20:39:40.335Z"
     },
     {
       "slug": "lausanne",
