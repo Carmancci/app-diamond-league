@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14802080",
+  "athleteId": "richeson-rachel-usa",
+  "athlete": "RICHESON Rachel",
+  "country": "USA",
+  "dob": "1999-09-27",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "79.33",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "79.33",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14802080",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14802080",
+  "scrapedAt": "2026-07-22T17:19:55.082Z",
+  "source": "diamondleague.com"
+}

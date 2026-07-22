@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14793915",
+  "athleteId": "mouzlib-abddallah-mar",
+  "athlete": "MOUZLIB Abddallah",
+  "country": "MAR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14793915",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:18:41.362Z",
+  "source": "diamondleague.com"
+}

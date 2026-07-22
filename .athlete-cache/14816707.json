@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14816707",
+  "athleteId": "de-sousa-agate-por",
+  "athlete": "de SOUSA Agate",
+  "country": "POR",
+  "dob": "2000-06-05",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.03",
+      "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+      "date": "27 MAY 2023"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.97",
+      "venue": "Gallur, Madrid (ESP) (i)",
+      "date": "06 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14816707",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14816707",
+  "scrapedAt": "2026-07-22T17:22:14.383Z",
+  "source": "diamondleague.com"
+}

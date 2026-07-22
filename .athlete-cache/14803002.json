@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14803002",
+  "athleteId": "doroshchuk-oleh-ukr",
+  "athlete": "DOROSHCHUK Oleh",
+  "country": "UKR",
+  "dob": "2001-07-04",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.34",
+      "venue": "Omnisport, Apeldoorn (NED) (i)",
+      "date": "08 MAR 2025"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.33",
+      "venue": "Berdichev (UKR)",
+      "date": "27 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14803002",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14803002",
+  "scrapedAt": "2026-07-22T17:20:10.956Z",
+  "source": "diamondleague.com"
+}

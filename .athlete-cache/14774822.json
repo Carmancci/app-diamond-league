@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14774822",
+  "athleteId": "askag-maja-swe",
+  "athlete": "ÅSKAG Maja",
+  "country": "SWE",
+  "dob": "2002-12-18",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.89",
+      "venue": "Sola Arena, Karlstad (SWE)",
+      "date": "08 JUL 2026"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.27",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "03 SEP 2023"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.89",
+      "venue": "Sola Arena, Karlstad (SWE)",
+      "date": "08 JUL 2026"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.24",
+      "venue": "Filothei Stadium, Athina (GRE)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14774822",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14774822",
+  "scrapedAt": "2026-07-22T17:16:56.168Z",
+  "source": "diamondleague.com"
+}

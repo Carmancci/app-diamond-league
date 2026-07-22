@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14827001",
+  "athleteId": "hemeida-bassem-qat",
+  "athlete": "HEMEIDA Bassem",
+  "country": "QAT",
+  "dob": "2000-03-28",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.10",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.10",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14827001",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14827001",
+  "scrapedAt": "2026-07-22T17:23:12.051Z",
+  "source": "diamondleague.com"
+}

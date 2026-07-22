@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14812323",
+  "athleteId": "ansah-owen-ger",
+  "athlete": "ANSAH Owen",
+  "country": "GER",
+  "dob": "2000-11-28",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.98",
+      "venue": "Universitätsstadion Am Biopark, Regensburg (GER)",
+      "date": "06 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.29",
+      "venue": "Michael-Hoffmann-Stadion, Mannheim (GER)",
+      "date": "14 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.98",
+      "venue": "Universitätsstadion Am Biopark, Regensburg (GER)",
+      "date": "06 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.29",
+      "venue": "Michael-Hoffmann-Stadion, Mannheim (GER)",
+      "date": "14 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14812323",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14812323",
+  "scrapedAt": "2026-07-22T17:21:58.707Z",
+  "source": "diamondleague.com"
+}

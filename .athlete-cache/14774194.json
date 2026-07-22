@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14774194",
+  "athleteId": "getachew-nigist-eth",
+  "athlete": "GETACHEW Nigist",
+  "country": "ETH",
+  "dob": "2002-02-28",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.01",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "19 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.98",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.58",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14774194",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14774194",
+  "scrapedAt": "2026-07-22T17:16:48.485Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14782952",
+  "athleteId": "portillo-erick-mex",
+  "athlete": "PORTILLO Erick",
+  "country": "MEX",
+  "dob": "2000-10-05",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.30",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "21 MAR 2026"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.30",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "21 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14782952",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14782952",
+  "scrapedAt": "2026-07-22T17:17:40.549Z",
+  "source": "diamondleague.com"
+}

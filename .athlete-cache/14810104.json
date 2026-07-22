@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14810104",
+  "athleteId": "vaula-jacob-nor",
+  "athlete": "VAULA Jacob",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14810104",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:21:35.152Z",
+  "source": "diamondleague.com"
+}

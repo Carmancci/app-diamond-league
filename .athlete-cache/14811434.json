@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14811434",
+  "athleteId": "liu-dezhu-chn",
+  "athlete": "LIU Dezhu",
+  "country": "CHN",
+  "dob": "2000-09-16",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.66",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "20 APR 2024"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.79",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14811434",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14811434",
+  "scrapedAt": "2026-07-22T17:21:45.801Z",
+  "source": "diamondleague.com"
+}

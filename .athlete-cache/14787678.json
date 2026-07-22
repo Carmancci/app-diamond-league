@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14787678",
+  "athleteId": "clayton-tia-jam",
+  "athlete": "CLAYTON Tia",
+  "country": "JAM",
+  "dob": "2004-08-17",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.82",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.91",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "09 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14787678",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14787678",
+  "scrapedAt": "2026-07-22T17:18:08.638Z",
+  "source": "diamondleague.com"
+}

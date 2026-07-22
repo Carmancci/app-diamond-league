@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14804467",
+  "athleteId": "sirevag-anna-marie-nordengen-nor",
+  "athlete": "SIREVÅG Anna Marie Nordengen",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14804467",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:20:32.365Z",
+  "source": "diamondleague.com"
+}

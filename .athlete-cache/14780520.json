@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14780520",
+  "athleteId": "thiery-baptiste-fra",
+  "athlete": "THIERY Baptiste",
+  "country": "FRA",
+  "dob": "2001-06-29",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.93",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.93",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14780520",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14780520",
+  "scrapedAt": "2026-07-22T17:17:27.317Z",
+  "source": "diamondleague.com"
+}

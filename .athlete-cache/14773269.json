@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14773269",
+  "athleteId": "tindouft-mohamed-mar",
+  "athlete": "TINDOUFT Mohamed",
+  "country": "MAR",
+  "dob": "1993-03-12",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:10.04",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:10.04",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14773269",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14773269",
+  "scrapedAt": "2026-07-22T17:16:35.019Z",
+  "source": "diamondleague.com"
+}

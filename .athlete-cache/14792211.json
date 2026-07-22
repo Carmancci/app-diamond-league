@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14792211",
+  "athleteId": "lobalu-dominic-lokinyomo-sui",
+  "athlete": "LOBALU Dominic Lokinyomo",
+  "country": "SUI",
+  "dob": "1998-08-16",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:34.39",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "22 AUG 2024"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:27.68",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:50.87",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    },
+    "5 kilometres road": {
+      "discipline": "Men's 5 Kilometres Road",
+      "mark": "13:00",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "07 SEP 2022"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:36.63",
+      "venue": "Carl-Kaufmann-Stadion, Karlsruhe (GER)",
+      "date": "30 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:52.54",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14792211",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14792211",
+  "scrapedAt": "2026-07-22T17:18:36.877Z",
+  "source": "diamondleague.com"
+}

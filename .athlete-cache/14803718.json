@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14803718",
+  "athleteId": "hoenke-fabienne-sui",
+  "athlete": "HOENKE Fabienne",
+  "country": "SUI",
+  "dob": "2004-01-20",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.50",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.50",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14803718",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14803718",
+  "scrapedAt": "2026-07-22T17:20:14.895Z",
+  "source": "diamondleague.com"
+}

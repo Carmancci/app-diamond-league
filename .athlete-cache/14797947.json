@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14797947",
+  "athleteId": "l-vnes-anne-gine-nor",
+  "athlete": "LØVNES Anne Gine",
+  "country": "NOR",
+  "dob": "2003-03-14",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.30",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.30",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14797947",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14797947",
+  "scrapedAt": "2026-07-22T17:19:14.310Z",
+  "source": "diamondleague.com"
+}

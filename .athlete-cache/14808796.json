@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14808796",
+  "athleteId": "serem-amos-ken",
+  "athlete": "SEREM Amos",
+  "country": "KEN",
+  "dob": "2002-08-28",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:02.36",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:21.30",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14808796",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14808796",
+  "scrapedAt": "2026-07-22T17:21:19.702Z",
+  "source": "diamondleague.com"
+}

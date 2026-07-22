@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14771648",
+  "athleteId": "azu-jeremiah-gbr",
+  "athlete": "AZU Jeremiah",
+  "country": "GBR",
+  "dob": "2001-05-15",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.97",
+      "venue": "London Marathon Community Track, London (GBR)",
+      "date": "17 AUG 2025"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.73",
+      "venue": "Mary Peters Track, Belfast (GBR)",
+      "date": "09 MAY 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.03",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "20 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.73",
+      "venue": "Mary Peters Track, Belfast (GBR)",
+      "date": "09 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14771648",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14771648",
+  "scrapedAt": "2026-07-22T17:16:25.925Z",
+  "source": "diamondleague.com"
+}

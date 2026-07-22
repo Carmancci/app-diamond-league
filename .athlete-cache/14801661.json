@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14801661",
+  "athleteId": "hudson-molly-gbr",
+  "athlete": "HUDSON Molly",
+  "country": "GBR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14801661",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:19:52.322Z",
+  "source": "diamondleague.com"
+}

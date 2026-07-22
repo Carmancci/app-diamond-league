@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14805826",
+  "athleteId": "meshesha-hirut-eth",
+  "athlete": "MESHESHA Hirut",
+  "country": "ETH",
+  "dob": "2001-01-20",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:54.87",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 JUL 2023"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:22.72",
+      "venue": "Ansin Sports Complex, Miramar, FL (USA)",
+      "date": "04 MAY 2025"
+    },
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:20.20",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:22.56",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:32.04",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:20.20",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:22.56",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14805826",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14805826",
+  "scrapedAt": "2026-07-22T17:20:58.854Z",
+  "source": "diamondleague.com"
+}

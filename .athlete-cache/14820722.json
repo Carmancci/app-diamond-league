@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14820722",
+  "athleteId": "xing-jialiang-chn",
+  "athlete": "XING Jialiang",
+  "country": "CHN",
+  "dob": "2001-05-26",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "20.95",
+      "venue": "Shandong Sports Training Center, Jinan (CHN) (i)",
+      "date": "27 MAR 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "20.95",
+      "venue": "Shandong Sports Training Center, Jinan (CHN) (i)",
+      "date": "27 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14820722",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14820722",
+  "scrapedAt": "2026-07-22T17:22:28.689Z",
+  "source": "diamondleague.com"
+}

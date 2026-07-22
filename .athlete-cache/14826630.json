@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14826630",
+  "athleteId": "mullings-ralford-jam",
+  "athlete": "MULLINGS Ralford",
+  "country": "JAM",
+  "dob": "2002-11-22",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "72.01",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "16 AUG 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "65.97",
+      "venue": "John Jacobs Track Complex, Norman, OK (USA)",
+      "date": "02 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14826630",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14826630",
+  "scrapedAt": "2026-07-22T17:23:06.973Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14799803",
+  "athleteId": "szymanski-jakub-pol",
+  "athlete": "SZYMANSKI Jakub",
+  "country": "POL",
+  "dob": "2002-07-22",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.25",
+      "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+      "date": "28 JUN 2024"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.29",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14799803",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14799803",
+  "scrapedAt": "2026-07-22T17:19:32.916Z",
+  "source": "diamondleague.com"
+}

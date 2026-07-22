@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14824359",
+  "athleteId": "hansen-carlee-usa",
+  "athlete": "HANSEN Carlee",
+  "country": "USA",
+  "dob": null,
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.18",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.18",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14824359",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14824359",
+  "scrapedAt": "2026-07-22T17:23:00.502Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14771436",
+  "athleteId": "sutherland-savannah-can",
+  "athlete": "SUTHERLAND Savannah",
+  "country": "CAN",
+  "dob": "2003-08-07",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "52.46",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "14 JUN 2025"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.63",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14771436",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14771436",
+  "scrapedAt": "2026-07-22T17:16:21.958Z",
+  "source": "diamondleague.com"
+}

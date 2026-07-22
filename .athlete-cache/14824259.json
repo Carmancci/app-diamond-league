@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14824259",
+  "athleteId": "hill-kerrica-jam",
+  "athlete": "HILL Kerrica",
+  "country": "JAM",
+  "dob": "2005-03-06",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.50",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.50",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14824259",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14824259",
+  "scrapedAt": "2026-07-22T17:22:50.526Z",
+  "source": "diamondleague.com"
+}

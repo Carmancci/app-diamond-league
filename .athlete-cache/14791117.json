@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14791117",
+  "athleteId": "vilagos-adriana-srb",
+  "athlete": "VILAGOŠ Adriana",
+  "country": "SRB",
+  "dob": "2004-01-02",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "67.22",
+      "venue": "Stadion Park Mladeži, Split (CRO)",
+      "date": "26 APR 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.83",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14791117",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14791117",
+  "scrapedAt": "2026-07-22T17:18:31.877Z",
+  "source": "diamondleague.com"
+}

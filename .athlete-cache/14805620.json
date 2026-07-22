@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14805620",
+  "athleteId": "essayi-anass-mar",
+  "athlete": "ESSAYI Anass",
+  "country": "MAR",
+  "dob": "2001-05-18",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.17",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.16",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.17",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.94",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14805620",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14805620",
+  "scrapedAt": "2026-07-22T17:20:54.783Z",
+  "source": "diamondleague.com"
+}

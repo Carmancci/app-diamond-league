@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14822777",
+  "athleteId": "butler-lindsey-usa",
+  "athlete": "BUTLER Lindsey",
+  "country": "USA",
+  "dob": "2000-08-28",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.20",
+      "venue": "Griswold Stadium, Portland, OR (USA)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.20",
+      "venue": "Griswold Stadium, Portland, OR (USA)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14822777",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14822777",
+  "scrapedAt": "2026-07-22T17:22:33.823Z",
+  "source": "diamondleague.com"
+}
