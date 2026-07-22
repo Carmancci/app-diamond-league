@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14639107",
+  "athleteId": "bapte-laeticia-fra",
+  "athlete": "BAPTÉ Laeticia",
+  "country": "FRA",
+  "dob": "1999-02-08",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.60",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.60",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14639107",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14639107",
+  "scrapedAt": "2026-07-22T15:19:58.770Z",
+  "source": "diamondleague.com"
+}

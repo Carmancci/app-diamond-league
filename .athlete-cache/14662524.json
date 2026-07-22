@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14662524",
+  "athleteId": "nichols-monae-usa",
+  "athlete": "NICHOLS Monae'",
+  "country": "USA",
+  "dob": "1998-11-24",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.97",
+      "venue": "Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",
+      "date": "14 MAY 2022"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.95",
+      "venue": "Ansin Sports Complex, Miramar, FL (USA)",
+      "date": "04 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14662524",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14662524",
+  "scrapedAt": "2026-07-22T15:23:24.106Z",
+  "source": "diamondleague.com"
+}

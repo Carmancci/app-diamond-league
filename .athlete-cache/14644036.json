@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14644036",
+  "athleteId": "yee-alexander-gbr",
+  "athlete": "YEE Alexander",
+  "country": "GBR",
+  "dob": "1998-02-18",
+  "pb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:13.89",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "09 AUG 2025"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:27.79",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14644036",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14644036",
+  "scrapedAt": "2026-07-22T15:20:29.772Z",
+  "source": "diamondleague.com"
+}

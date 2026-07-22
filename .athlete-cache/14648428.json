@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14648428",
+  "athleteId": "bestue-jael-esp",
+  "athlete": "BESTUÉ Jaël",
+  "country": "ESP",
+  "dob": "2000-09-24",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.10",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "22 JUL 2023"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.19",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "29 JUN 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.15",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.68",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14648428",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14648428",
+  "scrapedAt": "2026-07-22T15:21:19.526Z",
+  "source": "diamondleague.com"
+}

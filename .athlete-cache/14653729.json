@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14653729",
+  "athleteId": "carnhed-iben-nor",
+  "athlete": "CARNHED Iben",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14653729",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T15:22:33.972Z",
+  "source": "diamondleague.com"
+}

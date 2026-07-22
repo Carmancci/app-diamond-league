@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14622202",
+  "athleteId": "dosso-zaynab-ita",
+  "athlete": "DOSSO Zaynab",
+  "country": "ITA",
+  "dob": "1999-09-12",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.01",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "09 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.07",
+      "venue": "Centro Sportivo Fontanassa, Savona (ITA)",
+      "date": "20 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14622202",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14622202",
+  "scrapedAt": "2026-07-22T15:17:40.892Z",
+  "source": "diamondleague.com"
+}

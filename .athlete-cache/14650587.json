@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14650587",
+  "athleteId": "lizakowska-weronika-pol",
+  "athlete": "LIZAKOWSKA Weronika",
+  "country": "POL",
+  "dob": "1998-11-02",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:57.31",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "08 AUG 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:20.19",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:03.69",
+      "venue": "Stade Jean Delbert, Montreuil (FRA)",
+      "date": "17 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14650587",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14650587",
+  "scrapedAt": "2026-07-22T15:21:44.546Z",
+  "source": "diamondleague.com"
+}

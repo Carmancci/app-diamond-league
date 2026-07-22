@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14642563",
+  "athleteId": "bukowiecka-natalia-pol",
+  "athlete": "BUKOWIECKA Natalia",
+  "country": "POL",
+  "dob": "1998-01-17",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.90",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.10",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14642563",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14642563",
+  "scrapedAt": "2026-07-22T15:20:07.732Z",
+  "source": "diamondleague.com"
+}

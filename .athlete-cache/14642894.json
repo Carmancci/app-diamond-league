@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14642894",
+  "athleteId": "hodgkinson-keely-gbr",
+  "athlete": "HODGKINSON Keely",
+  "country": "GBR",
+  "dob": "2002-03-03",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.14",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:54.33",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.14",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:54.33",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14642894",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14642894",
+  "scrapedAt": "2026-07-22T15:20:16.889Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14634371",
+  "athleteId": "crestan-eliott-bel",
+  "athlete": "CRESTAN Eliott",
+  "country": "BEL",
+  "dob": "1999-02-22",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:42.43",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14634371",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14634371",
+  "scrapedAt": "2026-07-22T15:19:16.958Z",
+  "source": "diamondleague.com"
+}

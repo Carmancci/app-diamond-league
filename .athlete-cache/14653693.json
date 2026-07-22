@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14653693",
+  "athleteId": "nielsen-wilma-swe",
+  "athlete": "NIELSEN Wilma",
+  "country": "SWE",
+  "dob": "2001-06-02",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.86",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "11 JUN 2024"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:03.30",
+      "venue": "Ed Weir Outdoor Track, Lincoln, NE (USA)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14653693",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14653693",
+  "scrapedAt": "2026-07-22T15:22:21.421Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14656532",
+  "athleteId": "lecoeur-romain-fra",
+  "athlete": "LECOEUR Romain",
+  "country": "FRA",
+  "dob": "1997-08-09",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.27",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.27",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14656532",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14656532",
+  "scrapedAt": "2026-07-22T15:22:43.892Z",
+  "source": "diamondleague.com"
+}

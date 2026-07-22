@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14602791",
+  "athleteId": "s-ten-amalie-nor",
+  "athlete": "SÆTEN Amalie",
+  "country": "NOR",
+  "dob": "1997-12-01",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:49.72",
+      "venue": "Stade Delort, Marseille (FRA)",
+      "date": "13 JUL 2025"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:50.70",
+      "venue": "Greveskogen idrettspark, Tønsberg (NOR)",
+      "date": "15 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14602791",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14602791",
+  "scrapedAt": "2026-07-22T15:16:40.798Z",
+  "source": "diamondleague.com"
+}

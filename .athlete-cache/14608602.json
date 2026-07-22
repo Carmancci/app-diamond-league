@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14608602",
+  "athleteId": "alvarado-abraham-mex",
+  "athlete": "ALVARADO Abraham",
+  "country": "MEX",
+  "dob": "1995-08-04",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:33.21",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "15 JUN 2025"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:52.30",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:37.49",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:52.30",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14608602",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14608602",
+  "scrapedAt": "2026-07-22T15:17:03.356Z",
+  "source": "diamondleague.com"
+}

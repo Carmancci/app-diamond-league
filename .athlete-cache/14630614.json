@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14630614",
+  "athleteId": "distin-lamara-jam",
+  "athlete": "DISTIN Lamara",
+  "country": "JAM",
+  "dob": "2000-03-03",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.00",
+      "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+      "date": "24 FEB 2024"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.96",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14630614",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14630614",
+  "scrapedAt": "2026-07-22T15:18:42.834Z",
+  "source": "diamondleague.com"
+}

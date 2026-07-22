@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14631833",
+  "athleteId": "roswell-demisha-jam",
+  "athlete": "ROSWELL Demisha",
+  "country": "JAM",
+  "dob": "1998-06-19",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.40",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.40",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14631833",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14631833",
+  "scrapedAt": "2026-07-22T15:18:50.800Z",
+  "source": "diamondleague.com"
+}

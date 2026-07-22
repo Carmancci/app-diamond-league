@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14653699",
+  "athleteId": "fr-ynes-amanda-marie-nor",
+  "athlete": "FRØYNES Amanda Marie",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14653699",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T15:22:30.623Z",
+  "source": "diamondleague.com"
+}

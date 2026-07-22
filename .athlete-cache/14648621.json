@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14648621",
+  "athleteId": "thorner-elise-gbr",
+  "athlete": "THORNER Elise",
+  "country": "GBR",
+  "dob": "2001-03-16",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:07.39",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:07.39",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14648621",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14648621",
+  "scrapedAt": "2026-07-22T15:21:25.381Z",
+  "source": "diamondleague.com"
+}

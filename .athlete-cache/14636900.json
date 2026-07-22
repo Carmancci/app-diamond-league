@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14636900",
+  "athleteId": "kone-maboundou-civ",
+  "athlete": "KONÉ Maboundou",
+  "country": "CIV",
+  "dob": "1997-05-16",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.53",
+      "venue": "Stade des Martyrs, Kinshasa (COD)",
+      "date": "04 AUG 2023"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.92",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14636900",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14636900",
+  "scrapedAt": "2026-07-22T15:19:45.546Z",
+  "source": "diamondleague.com"
+}

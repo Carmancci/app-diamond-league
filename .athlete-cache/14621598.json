@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14621598",
+  "athleteId": "van-der-weken-patrizia-lux",
+  "athlete": "van der WEKEN Patrizia",
+  "country": "LUX",
+  "dob": "1999-11-12",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.00",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "09 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.05",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14621598",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14621598",
+  "scrapedAt": "2026-07-22T15:17:36.925Z",
+  "source": "diamondleague.com"
+}

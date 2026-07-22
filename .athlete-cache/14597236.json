@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14597236",
+  "athleteId": "hall-quincy-usa",
+  "athlete": "HALL Quincy",
+  "country": "USA",
+  "dob": "1998-07-31",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.40",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "07 AUG 2024"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.10",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "28 MAY 2022"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.51",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597236",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597236",
+  "scrapedAt": "2026-07-22T15:16:17.882Z",
+  "source": "diamondleague.com"
+}

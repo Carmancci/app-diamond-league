@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14632538",
+  "athleteId": "tanaka-nozomi-jpn",
+  "athlete": "TANAKA Nozomi",
+  "country": "JPN",
+  "dob": "1999-09-04",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:59.19",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "04 AUG 2021"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:32.29",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:29.18",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "08 SEP 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.39",
+      "venue": "WA Athletics Stadium, Perth (AUS)",
+      "date": "14 FEB 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:32.29",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:00.93",
+      "venue": "Municipal Mizuho Stadium, Nagoya (JPN)",
+      "date": "12 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14632538",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14632538",
+  "scrapedAt": "2026-07-22T15:19:00.025Z",
+  "source": "diamondleague.com"
+}
