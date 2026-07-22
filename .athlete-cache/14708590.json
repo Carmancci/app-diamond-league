@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14708590",
+  "athleteId": "petit-berenice-fra",
+  "athlete": "PETIT Berenice",
+  "country": "FRA",
+  "dob": "1998-11-23",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.60",
+      "venue": "Stade Omnisports de La Source, Orléans (FRA)",
+      "date": "05 JUN 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.60",
+      "venue": "Stade Omnisports de La Source, Orléans (FRA)",
+      "date": "05 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14708590",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14708590",
+  "scrapedAt": "2026-07-22T16:28:56.706Z",
+  "source": "diamondleague.com"
+}

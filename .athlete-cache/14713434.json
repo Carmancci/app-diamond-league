@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14713434",
+  "athleteId": "rooth-andrea-nor",
+  "athlete": "ROOTH Andrea",
+  "country": "NOR",
+  "dob": "2002-03-06",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "55.65",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "24 MAY 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "55.65",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "24 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14713434",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14713434",
+  "scrapedAt": "2026-07-22T16:30:03.365Z",
+  "source": "diamondleague.com"
+}

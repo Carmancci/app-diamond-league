@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14669731",
+  "athleteId": "karalis-emmanouil-gre",
+  "athlete": "KARALIS Emmanouil",
+  "country": "GRE",
+  "dob": "1999-10-20",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.17",
+      "venue": "Olympic Sports Complex of Paiania, Athina (GRE) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.17",
+      "venue": "Olympic Sports Complex of Paiania, Athina (GRE) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14669731",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14669731",
+  "scrapedAt": "2026-07-22T16:23:49.017Z",
+  "source": "diamondleague.com"
+}

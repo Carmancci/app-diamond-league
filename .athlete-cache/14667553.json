@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14667553",
+  "athleteId": "hoare-oliver-aus",
+  "athlete": "HOARE Oliver",
+  "country": "AUS",
+  "dob": "1997-01-29",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:29.41",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "15 JUN 2023"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:47.48",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "16 JUN 2022"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.66",
+      "venue": "Olympic Park, Sydney (AUS)",
+      "date": "10 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14667553",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14667553",
+  "scrapedAt": "2026-07-22T16:23:27.268Z",
+  "source": "diamondleague.com"
+}

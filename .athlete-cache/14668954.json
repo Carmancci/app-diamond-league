@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14668954",
+  "athleteId": "ayris-imogen-nzl",
+  "athlete": "AYRIS Imogen",
+  "country": "NZL",
+  "dob": "2000-12-12",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.81",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.81",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14668954",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14668954",
+  "scrapedAt": "2026-07-22T16:23:45.060Z",
+  "source": "diamondleague.com"
+}

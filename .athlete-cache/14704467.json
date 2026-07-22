@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14704467",
+  "athleteId": "kazimierska-klaudia-pol",
+  "athlete": "KAZIMIERSKA Klaudia",
+  "country": "POL",
+  "dob": "2001-09-03",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:57.95",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "16 SEP 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.90",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "16:30.51",
+      "venue": "Stadion Miejski, Piaseczno (POL)",
+      "date": "15 MAY 2022"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:59.24",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.90",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14704467",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14704467",
+  "scrapedAt": "2026-07-22T16:28:00.944Z",
+  "source": "diamondleague.com"
+}

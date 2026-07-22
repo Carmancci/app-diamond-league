@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14685108",
+  "athleteId": "hunt-amy-gbr",
+  "athlete": "HUNT Amy",
+  "country": "GBR",
+  "dob": "2002-05-15",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.97",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.08",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "18 SEP 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.97",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.30",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14685108",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14685108",
+  "scrapedAt": "2026-07-22T16:25:52.961Z",
+  "source": "diamondleague.com"
+}

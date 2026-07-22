@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14711683",
+  "athleteId": "llopis-enrique-esp",
+  "athlete": "LLOPIS Enrique",
+  "country": "ESP",
+  "dob": "2000-10-15",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.09",
+      "venue": "Estadi Olímpic Camilo Cano, La Nucia (ESP)",
+      "date": "30 JUN 2024"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.31",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14711683",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14711683",
+  "scrapedAt": "2026-07-22T16:29:34.892Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14706169",
+  "athleteId": "pattison-ben-gbr",
+  "athlete": "PATTISON Ben",
+  "country": "GBR",
+  "dob": "2001-12-15",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:42.27",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "12 JUL 2024"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:14.11",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:43.34",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:14.11",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14706169",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14706169",
+  "scrapedAt": "2026-07-22T16:28:23.715Z",
+  "source": "diamondleague.com"
+}

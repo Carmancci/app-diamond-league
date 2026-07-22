@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14680446",
+  "athleteId": "johansson-axelina-swe",
+  "athlete": "JOHANSSON Axelina",
+  "country": "SWE",
+  "dob": "2000-04-20",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.97",
+      "venue": "Ed Weir Outdoor Track, Lincoln, NE (USA)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.97",
+      "venue": "Ed Weir Outdoor Track, Lincoln, NE (USA)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14680446",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14680446",
+  "scrapedAt": "2026-07-22T16:25:10.625Z",
+  "source": "diamondleague.com"
+}

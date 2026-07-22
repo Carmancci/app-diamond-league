@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14686964",
+  "athleteId": "kokhan-mykhaylo-ukr",
+  "athlete": "KOKHAN Mykhaylo",
+  "country": "UKR",
+  "dob": "2001-01-22",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "82.38",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "82.38",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14686964",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14686964",
+  "scrapedAt": "2026-07-22T16:26:13.916Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14706109",
+  "athleteId": "catrofe-santiago-uru",
+  "athlete": "CATROFE Santiago",
+  "country": "URU",
+  "dob": "1999-02-13",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:29.72",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:18.09",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:59.26",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "10,000m": {
+      "discipline": "Men's 10,000 Metres",
+      "mark": "28:28.49",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "20 AUG 2023"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:29.72",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:18.09",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:02.57",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14706109",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14706109",
+  "scrapedAt": "2026-07-22T16:28:19.383Z",
+  "source": "diamondleague.com"
+}

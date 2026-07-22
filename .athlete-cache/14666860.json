@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14666860",
+  "athleteId": "ceh-kristjan-slo",
+  "athlete": "CEH Kristjan",
+  "country": "SLO",
+  "dob": "1999-02-17",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "72.61",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "72.61",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14666860",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14666860",
+  "scrapedAt": "2026-07-22T16:23:17.770Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14685757",
+  "athleteId": "guillemot-agathe-fra",
+  "athlete": "GUILLEMOT Agathe",
+  "country": "FRA",
+  "dob": "1999-07-11",
+  "pb": {
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:34.75",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.24",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:19.08",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:36.76",
+      "venue": "Stade Communautaire Bigouden Sud, Pont l'Abbé (FRA)",
+      "date": "09 MAY 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.24",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14685757",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14685757",
+  "scrapedAt": "2026-07-22T16:26:06.131Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14702868",
+  "athleteId": "mooney-maddy-irl",
+  "athlete": "MOONEY Maddy",
+  "country": "IRL",
+  "dob": "2000-03-21",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:11.32",
+      "venue": "Griswold Stadium, Portland, OR (USA)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:11.32",
+      "venue": "Griswold Stadium, Portland, OR (USA)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14702868",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14702868",
+  "scrapedAt": "2026-07-22T16:27:53.395Z",
+  "source": "diamondleague.com"
+}

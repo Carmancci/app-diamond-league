@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14705412",
+  "athleteId": "nordas-narve-gilje-nor",
+  "athlete": "NORDÅS Narve Gilje",
+  "country": "NOR",
+  "dob": "1998-09-30",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:29.47",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "15 JUN 2023"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:47.68",
+      "venue": "Olympiastadion, Berlin (GER)",
+      "date": "27 JUL 2025"
+    },
+    "2000m": {
+      "discipline": "Men's 2000 Metres",
+      "mark": "4:50.64",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "08 SEP 2023"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:33.49",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "02 JUN 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.74",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:53.87",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:13.84",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14705412",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14705412",
+  "scrapedAt": "2026-07-22T16:28:08.657Z",
+  "source": "diamondleague.com"
+}

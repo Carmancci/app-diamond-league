@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14695983",
+  "athleteId": "balew-birhanu-brn",
+  "athlete": "BALEW Birhanu",
+  "country": "BRN",
+  "dob": "1996-02-27",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:29.60",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:20.56",
+      "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+      "date": "30 JUN 2019"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:47.73",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    },
+    "5 kilometres road": {
+      "discipline": "Men's 5 Kilometres Road",
+      "mark": "13:02",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "08 SEP 2021"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:29.60",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:47.73",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14695983",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14695983",
+  "scrapedAt": "2026-07-22T16:27:12.813Z",
+  "source": "diamondleague.com"
+}

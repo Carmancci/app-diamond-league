@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14669734",
+  "athleteId": "tentoglou-miltiadis-gre",
+  "athlete": "TENTOGLOU Miltiadis",
+  "country": "GRE",
+  "dob": "1998-03-18",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.65",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "08 JUN 2024"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.61",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14669734",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14669734",
+  "scrapedAt": "2026-07-22T16:23:52.900Z",
+  "source": "diamondleague.com"
+}

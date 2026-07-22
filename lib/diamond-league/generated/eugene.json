@@ -169,7 +169,24 @@
           "bib": 50,
           "mark": "11.10",
           "qualificationRank": 3,
-          "qualificationPoints": 14
+          "qualificationPoints": 14,
+          "dob": "2002-05-15",
+          "personalBest": "10.97",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.97",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          },
+          "seasonBest": "10.97",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.97",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          }
         },
         {
           "rank": 7,
@@ -418,7 +435,24 @@
           "dlId": "14674111",
           "country": "USA",
           "bib": 279,
-          "mark": "11.29"
+          "mark": "11.29",
+          "dob": "1999-03-27",
+          "personalBest": "10.87",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.87",
+            "venue": "Marcus T. Johnson Track, Greensboro, NC (USA)",
+            "date": "23 APR 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          },
+          "seasonBest": "10.92",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.92",
+            "venue": "Pilditch Stadium, Pretoria (RSA)",
+            "date": "28 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          }
         }
       ]
     },
@@ -833,7 +867,24 @@
           "bib": 50,
           "mark": "11.10",
           "qualificationRank": 3,
-          "qualificationPoints": 14
+          "qualificationPoints": 14,
+          "dob": "2002-05-15",
+          "personalBest": "10.97",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.97",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          },
+          "seasonBest": "10.97",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.97",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          }
         },
         {
           "rank": 10,
@@ -926,7 +977,24 @@
           "dlId": "14674111",
           "country": "USA",
           "bib": 279,
-          "mark": "11.29"
+          "mark": "11.29",
+          "dob": "1999-03-27",
+          "personalBest": "10.87",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.87",
+            "venue": "Marcus T. Johnson Track, Greensboro, NC (USA)",
+            "date": "23 APR 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          },
+          "seasonBest": "10.92",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.92",
+            "venue": "Pilditch Stadium, Pretoria (RSA)",
+            "date": "28 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          }
         },
         {
           "rank": 17,
@@ -1328,7 +1396,8 @@
           "mark": "4:17.90",
           "note": "NR",
           "qualificationRank": 7,
-          "qualificationPoints": 12
+          "qualificationPoints": 12,
+          "dob": "2001-09-03"
         },
         {
           "rank": 5,
@@ -1352,7 +1421,8 @@
           "mark": "4:18.18",
           "note": "PB",
           "qualificationRank": 9,
-          "qualificationPoints": 11
+          "qualificationPoints": 11,
+          "dob": "1998-04-30"
         },
         {
           "rank": 7,
@@ -1363,7 +1433,8 @@
           "bib": 64,
           "mark": "4:18.49",
           "qualificationRank": 23,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "2001-02-13"
         },
         {
           "rank": 8,
@@ -1388,7 +1459,8 @@
           "mark": "4:21.43",
           "note": "PB",
           "qualificationRank": 24,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "2000-01-17"
         },
         {
           "rank": 10,
@@ -1873,7 +1945,24 @@
           "bib": 80,
           "mark": "12.63",
           "qualificationRank": 8,
-          "qualificationPoints": 9
+          "qualificationPoints": 9,
+          "dob": "2002-04-29",
+          "personalBest": "12.24",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.24",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "30 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685249"
+          },
+          "seasonBest": "12.61",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.61",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685249"
+          }
         },
         {
           "rank": 7,
@@ -2059,7 +2148,24 @@
           "bib": 14,
           "mark": "8:52.84",
           "qualificationRank": 4,
-          "qualificationPoints": 14
+          "qualificationPoints": 14,
+          "dob": "1999-12-31",
+          "personalBest": "8:44.39",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "8:44.39",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "30 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14695622"
+          },
+          "seasonBest": "8:51.54",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "8:51.54",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14695622"
+          }
         },
         {
           "rank": 3,
@@ -2111,7 +2217,24 @@
           "bib": 137,
           "mark": "9:05.39",
           "qualificationRank": 3,
-          "qualificationPoints": 20
+          "qualificationPoints": 20,
+          "dob": "1999-07-10",
+          "personalBest": "8:48.03",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "8:48.03",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "30 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14707661"
+          },
+          "seasonBest": "8:51.06",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "8:51.06",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14707661"
+          }
         },
         {
           "rank": 6,
@@ -2648,7 +2771,24 @@
           "bib": 110,
           "mark": "20.11",
           "qualificationRank": 1,
-          "qualificationPoints": 36
+          "qualificationPoints": 36,
+          "dob": "1999-03-19",
+          "personalBest": "21.09",
+          "personalBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "21.09",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14688805"
+          },
+          "seasonBest": "21.09",
+          "seasonBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "21.09",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14688805"
+          }
         },
         {
           "rank": 3,
@@ -2744,7 +2884,24 @@
           "bib": 112,
           "mark": "19.06",
           "qualificationRank": 10,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "2000-02-02",
+          "personalBest": "19.57",
+          "personalBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "19.57",
+            "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+            "date": "11 FEB 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          },
+          "seasonBest": "19.34",
+          "seasonBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "19.34",
+            "venue": "FBK Stadium, Hengelo (NED)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          }
         },
         {
           "rank": 7,
@@ -2755,7 +2912,24 @@
           "bib": 132,
           "mark": "18.84",
           "qualificationRank": 8,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "2000-04-20",
+          "personalBest": "19.97",
+          "personalBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "19.97",
+            "venue": "Ed Weir Outdoor Track, Lincoln, NE (USA)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14680446"
+          },
+          "seasonBest": "19.97",
+          "seasonBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "19.97",
+            "venue": "Ed Weir Outdoor Track, Lincoln, NE (USA)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14680446"
+          }
         },
         {
           "rank": 8,
@@ -2934,7 +3108,24 @@
           "country": "USA",
           "bib": 148,
           "mark": "9.96",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1998-10-14",
+          "personalBest": "9.79",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.79",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "01 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715244"
+          },
+          "seasonBest": "9.96",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.96",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715244"
+          }
         },
         {
           "rank": 5,
@@ -3392,7 +3583,8 @@
           "dlId": "14667553",
           "country": "AUS",
           "bib": 2,
-          "mark": "3:55.35"
+          "mark": "3:55.35",
+          "dob": "1997-01-29"
         },
         {
           "rank": 12,
@@ -3580,7 +3772,24 @@
           "dlId": "14708130",
           "country": "USA",
           "bib": 146,
-          "mark": "8:12.24"
+          "mark": "8:12.24",
+          "dob": "1998-06-01",
+          "personalBest": "8:12.24",
+          "personalBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:12.24",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14708130"
+          },
+          "seasonBest": "8:12.24",
+          "seasonBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:12.24",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14708130"
+          }
         },
         {
           "rank": 9,
@@ -3617,7 +3826,24 @@
           "country": "MEX",
           "bib": 104,
           "mark": "8:13.72",
-          "note": "PB"
+          "note": "PB",
+          "dob": "1997-09-23",
+          "personalBest": "8:13.72",
+          "personalBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:13.72",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14668389"
+          },
+          "seasonBest": "8:13.72",
+          "seasonBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:13.72",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14668389"
+          }
         },
         {
           "rank": 13,
@@ -3671,7 +3897,24 @@
           "dlId": "14706109",
           "country": "URU",
           "bib": 140,
-          "mark": "8:18.09"
+          "mark": "8:18.09",
+          "dob": "1999-02-13",
+          "personalBest": "8:18.09",
+          "personalBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:18.09",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706109"
+          },
+          "seasonBest": "8:18.09",
+          "seasonBestDetails": {
+            "discipline": "Men's 2 Miles",
+            "mark": "8:18.09",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706109"
+          }
         },
         {
           "rank": 17,
@@ -3859,7 +4102,24 @@
           "dlId": "14686964",
           "country": "UKR",
           "bib": 139,
-          "mark": "78.95"
+          "mark": "78.95",
+          "dob": "2001-01-22",
+          "personalBest": "82.38",
+          "personalBestDetails": {
+            "discipline": "Men's Hammer Throw",
+            "mark": "82.38",
+            "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+            "date": "13 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14686964"
+          },
+          "seasonBest": "82.38",
+          "seasonBestDetails": {
+            "discipline": "Men's Hammer Throw",
+            "mark": "82.38",
+            "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+            "date": "13 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14686964"
+          }
         },
         {
           "rank": 5,
@@ -4213,7 +4473,24 @@
           "dlId": "14682711",
           "country": "ITA",
           "bib": 68,
-          "mark": "4:06.55"
+          "mark": "4:06.55",
+          "dob": "1999-06-10",
+          "personalBest": "3:59.49",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "3:59.49",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "12 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14682711"
+          },
+          "seasonBest": "4:05.55",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:05.55",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14682711"
+          }
         },
         {
           "rank": 5,
@@ -4222,7 +4499,16 @@
           "dlId": "14680524",
           "country": "ITA",
           "bib": 69,
-          "mark": "4:06.75"
+          "mark": "4:06.75",
+          "dob": "1999-03-09",
+          "personalBest": "3:59.16",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "3:59.16",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "19 JUL 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14680524"
+          }
         },
         {
           "rank": 6,
@@ -4359,7 +4645,24 @@
           "country": "IRL",
           "bib": 65,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "2000-03-21",
+          "personalBest": "4:11.32",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:11.32",
+            "venue": "Griswold Stadium, Portland, OR (USA)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14702868"
+          },
+          "seasonBest": "4:11.32",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:11.32",
+            "venue": "Griswold Stadium, Portland, OR (USA)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14702868"
+          }
         }
       ]
     },
@@ -4602,7 +4905,24 @@
           "dlId": "14676577",
           "country": "NED",
           "bib": 112,
-          "mark": "68.21"
+          "mark": "68.21",
+          "dob": "2000-02-02",
+          "personalBest": "70.99",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "70.99",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          },
+          "seasonBest": "70.99",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "70.99",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          }
         },
         {
           "rank": 3,
@@ -5977,7 +6297,24 @@
           "bib": 253,
           "mark": "44.88",
           "qualificationRank": 3,
-          "qualificationPoints": 20
+          "qualificationPoints": 20,
+          "dob": "2000-02-02",
+          "personalBest": "43.85",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.85",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "28 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          },
+          "seasonBest": "43.96",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.96",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          }
         },
         {
           "rank": 5,
@@ -6461,7 +6798,24 @@
           "dlId": "14679485",
           "country": "USA",
           "bib": 147,
-          "mark": "13.53"
+          "mark": "13.53",
+          "dob": "1998-09-15",
+          "personalBest": "13.02",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.02",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "20 JUN 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679485"
+          },
+          "seasonBest": "13.42",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.42",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679485"
+          }
         }
       ]
     },
@@ -6581,7 +6935,24 @@
           "bib": 73,
           "mark": "22.16",
           "qualificationRank": 2,
-          "qualificationPoints": 21
+          "qualificationPoints": 21,
+          "dob": "1996-02-29",
+          "personalBest": "22.44",
+          "personalBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.44",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "25 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14687604"
+          },
+          "seasonBest": "22.44",
+          "seasonBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.44",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "25 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14687604"
+          }
         },
         {
           "rank": 3,
@@ -6592,7 +6963,24 @@
           "bib": 181,
           "mark": "21.98",
           "qualificationRank": 1,
-          "qualificationPoints": 22
+          "qualificationPoints": 22,
+          "dob": "1998-07-21",
+          "personalBest": "22.44",
+          "personalBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.44",
+            "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713125"
+          },
+          "seasonBest": "22.44",
+          "seasonBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.44",
+            "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713125"
+          }
         },
         {
           "rank": 4,
@@ -6604,7 +6992,24 @@
           "mark": "21.70",
           "note": "SB",
           "qualificationRank": 8,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1999-01-20",
+          "personalBest": "22.29",
+          "personalBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.29",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "03 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713124"
+          },
+          "seasonBest": "21.77",
+          "seasonBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "21.77",
+            "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713124"
+          }
         },
         {
           "rank": 5,
@@ -6713,7 +7118,24 @@
           "dlId": "14674710",
           "country": "USA",
           "bib": 251,
-          "mark": "20.55"
+          "mark": "20.55",
+          "dob": "1996-04-02",
+          "personalBest": "22.59",
+          "personalBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "22.59",
+            "venue": "Drake Stadium, Des Moines, IA (USA)",
+            "date": "24 APR 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674710"
+          },
+          "seasonBest": "21.76",
+          "seasonBestDetails": {
+            "discipline": "Men's Shot Put",
+            "mark": "21.76",
+            "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674710"
+          }
         },
         {
           "rank": 10,
@@ -6854,7 +7276,24 @@
           "bib": 128,
           "mark": "69.94",
           "qualificationRank": 1,
-          "qualificationPoints": 21
+          "qualificationPoints": 21,
+          "dob": "1999-02-17",
+          "personalBest": "72.61",
+          "personalBestDetails": {
+            "discipline": "Men's Discus Throw",
+            "mark": "72.61",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "09 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14666860"
+          },
+          "seasonBest": "72.61",
+          "seasonBestDetails": {
+            "discipline": "Men's Discus Throw",
+            "mark": "72.61",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "09 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14666860"
+          }
         },
         {
           "rank": 3,

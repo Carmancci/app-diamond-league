@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14675757",
+  "athleteId": "cunningham-trey-usa",
+  "athlete": "CUNNINGHAM Trey",
+  "country": "USA",
+  "dob": "1998-08-26",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.98",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.98",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14675757",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14675757",
+  "scrapedAt": "2026-07-22T16:24:21.829Z",
+  "source": "diamondleague.com"
+}
