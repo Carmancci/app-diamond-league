@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14755523",
+  "athleteId": "bremm-florian-ger",
+  "athlete": "BREMM Florian",
+  "country": "GER",
+  "dob": "2000-08-14",
+  "pb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:56.80",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:56.80",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14755523",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14755523",
+  "scrapedAt": "2026-07-22T17:04:07.531Z",
+  "source": "diamondleague.com"
+}

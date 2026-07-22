@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14735943",
+  "athleteId": "galet-chloe-fra",
+  "athlete": "GALET Chloe",
+  "country": "FRA",
+  "dob": "2001-08-30",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.11",
+      "venue": "Stade Josette et Roger Mikulak, Angers (FRA)",
+      "date": "29 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.33",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14735943",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14735943",
+  "scrapedAt": "2026-07-22T17:00:52.030Z",
+  "source": "diamondleague.com"
+}

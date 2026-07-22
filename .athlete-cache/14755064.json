@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14755064",
+  "athleteId": "dos-santos-alison-bra",
+  "athlete": "dos SANTOS Alison",
+  "country": "BRA",
+  "dob": "2000-06-03",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.38",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "18 APR 2026"
+    },
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "33.01",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "46.29",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "19 JUL 2022"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.38",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "18 APR 2026"
+    },
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "33.01",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "46.72",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14755064",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14755064",
+  "scrapedAt": "2026-07-22T17:03:50.322Z",
+  "source": "diamondleague.com"
+}

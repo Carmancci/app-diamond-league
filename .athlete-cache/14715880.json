@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14715880",
+  "athleteId": "butler-aaliyah-usa",
+  "athlete": "BUTLER Aaliyah",
+  "country": "USA",
+  "dob": "2003-11-05",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.84",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.84",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14715880",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14715880",
+  "scrapedAt": "2026-07-22T16:59:17.823Z",
+  "source": "diamondleague.com"
+}

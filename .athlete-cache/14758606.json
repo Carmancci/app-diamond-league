@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14758606",
+  "athleteId": "finot-alice-fra",
+  "athlete": "FINOT Alice",
+  "country": "FRA",
+  "dob": "1991-02-09",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:58.67",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "06 AUG 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:34.30",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14758606",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14758606",
+  "scrapedAt": "2026-07-22T17:05:05.140Z",
+  "source": "diamondleague.com"
+}

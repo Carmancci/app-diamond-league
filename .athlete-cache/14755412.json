@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14755412",
+  "athleteId": "hemida-bassant-egy",
+  "athlete": "HEMIDA Bassant",
+  "country": "EGY",
+  "dob": "1996-09-28",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.41",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "04 JUN 2023"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.10",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.06",
+      "venue": "Addis Ababa Stadium, Addis Ababa (ETH)",
+      "date": "18 APR 2026"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.10",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14755412",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14755412",
+  "scrapedAt": "2026-07-22T17:04:02.548Z",
+  "source": "diamondleague.com"
+}

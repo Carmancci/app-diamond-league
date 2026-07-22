@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14763372",
+  "athleteId": "maatoug-amina-ned",
+  "athlete": "MAATOUG Amina",
+  "country": "NED",
+  "dob": "2002-11-17",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:05.67",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "13 JUL 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:07.17",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14763372",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14763372",
+  "scrapedAt": "2026-07-22T17:05:59.233Z",
+  "source": "diamondleague.com"
+}

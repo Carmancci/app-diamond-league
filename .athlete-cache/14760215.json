@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14760215",
+  "athleteId": "hamilton-rowan-can",
+  "athlete": "HAMILTON Rowan",
+  "country": "CAN",
+  "dob": "2000-01-29",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "78.67",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "78.67",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14760215",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14760215",
+  "scrapedAt": "2026-07-22T17:05:14.010Z",
+  "source": "diamondleague.com"
+}

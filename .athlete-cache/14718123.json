@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14718123",
+  "athleteId": "angulo-juleisy-ecu",
+  "athlete": "ANGULO Juleisy",
+  "country": "ECU",
+  "dob": "2001-01-02",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "65.12",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "20 SEP 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "57.58",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14718123",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14718123",
+  "scrapedAt": "2026-07-22T16:59:49.922Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14753471",
+  "athleteId": "abdilaahi-mohamed-ger",
+  "athlete": "ABDILAAHI Mohamed",
+  "country": "GER",
+  "dob": "1999-03-24",
+  "pb": {
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.32",
+      "venue": "Olympiastadion, Berlin (GER)",
+      "date": "27 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:25.77",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:10.34",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:53.63",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:25.77",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:10.34",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:57.90",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14753471",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14753471",
+  "scrapedAt": "2026-07-22T17:03:26.350Z",
+  "source": "diamondleague.com"
+}

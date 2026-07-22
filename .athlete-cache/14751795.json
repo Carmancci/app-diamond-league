@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14751795",
+  "athleteId": "alekna-martynas-ltu",
+  "athlete": "ALEKNA Martynas",
+  "country": "LTU",
+  "dob": "2000-08-25",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "67.23",
+      "venue": "Zemgales Olimpiskā centra Stadions, Jelgava (LAT)",
+      "date": "09 JUN 2023"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "64.59",
+      "venue": "Palangos Stadionas, Palanga (LTU)",
+      "date": "17 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14751795",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14751795",
+  "scrapedAt": "2026-07-22T17:03:10.061Z",
+  "source": "diamondleague.com"
+}

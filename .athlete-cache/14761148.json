@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14761148",
+  "athleteId": "stefela-jan-cze",
+  "athlete": "ŠTEFELA Jan",
+  "country": "CZE",
+  "dob": "2001-04-20",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.33",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "28 JUN 2025"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.32",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14761148",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14761148",
+  "scrapedAt": "2026-07-22T17:05:23.229Z",
+  "source": "diamondleague.com"
+}

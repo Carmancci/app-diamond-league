@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14762151",
+  "athleteId": "kui-rudi-sondre-matias-nor",
+  "athlete": "KUI RUDI Sondre Matias",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14762151",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:05:51.944Z",
+  "source": "diamondleague.com"
+}

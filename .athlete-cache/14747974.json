@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14747974",
+  "athleteId": "brown-alexis-usa",
+  "athlete": "BROWN Alexis",
+  "country": "USA",
+  "dob": "2001-04-26",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.07",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.07",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14747974",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14747974",
+  "scrapedAt": "2026-07-22T17:02:40.992Z",
+  "source": "diamondleague.com"
+}

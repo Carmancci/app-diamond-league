@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14740867",
+  "athleteId": "hondema-pauline-ned",
+  "athlete": "HONDEMA Pauline",
+  "country": "NED",
+  "dob": "2000-03-28",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.91",
+      "venue": "Sportcentrum Wembley, Kortrijk (BEL)",
+      "date": "12 JUL 2025"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.66",
+      "venue": "Bungertstadion, Rehlingen (GER)",
+      "date": "24 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14740867",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14740867",
+  "scrapedAt": "2026-07-22T17:01:44.151Z",
+  "source": "diamondleague.com"
+}

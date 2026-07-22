@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14739628",
+  "athleteId": "mahuchikh-yaroslava-ukr",
+  "athlete": "MAHUCHIKH Yaroslava",
+  "country": "UKR",
+  "dob": "2001-09-19",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.10",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.03",
+      "venue": "Arena SKIF, Lviv (UKR) (i)",
+      "date": "17 JAN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14739628",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14739628",
+  "scrapedAt": "2026-07-22T17:01:35.287Z",
+  "source": "diamondleague.com"
+}

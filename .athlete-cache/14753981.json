@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14753981",
+  "athleteId": "hummel-merlin-ger",
+  "athlete": "HUMMEL Merlin",
+  "country": "GER",
+  "dob": "2002-01-04",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "82.77",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "16 SEP 2025"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "81.74",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14753981",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14753981",
+  "scrapedAt": "2026-07-22T17:03:30.086Z",
+  "source": "diamondleague.com"
+}

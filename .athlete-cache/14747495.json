@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14747495",
+  "athleteId": "moula-slimane-alg",
+  "athlete": "MOULA Slimane",
+  "country": "ALG",
+  "dob": "1999-02-25",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:42.77",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "15 JUN 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:43.41",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14747495",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14747495",
+  "scrapedAt": "2026-07-22T17:02:37.254Z",
+  "source": "diamondleague.com"
+}

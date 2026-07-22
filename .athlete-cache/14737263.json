@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14737263",
+  "athleteId": "liberman-clara-fra",
+  "athlete": "LIBERMAN Clara",
+  "country": "FRA",
+  "dob": "2000-04-05",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.34",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:35.21",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.34",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:15.97",
+      "venue": "Stade Jean Delbert, Montreuil (FRA)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14737263",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14737263",
+  "scrapedAt": "2026-07-22T17:01:10.001Z",
+  "source": "diamondleague.com"
+}

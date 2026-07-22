@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14723890",
+  "athleteId": "long-mckenzie-usa",
+  "athlete": "LONG Mckenzie",
+  "country": "USA",
+  "dob": "2000-07-11",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.91",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "06 JUN 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.83",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "08 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.16",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "04 APR 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.42",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14723890",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14723890",
+  "scrapedAt": "2026-07-22T17:00:14.996Z",
+  "source": "diamondleague.com"
+}

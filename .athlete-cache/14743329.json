@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14743329",
+  "athleteId": "hyde-gracie-usa",
+  "athlete": "HYDE Gracie",
+  "country": "USA",
+  "dob": "1999-12-12",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:16.61",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:16.61",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14743329",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14743329",
+  "scrapedAt": "2026-07-22T17:01:58.010Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14734118",
+  "athleteId": "martinez-asier-esp",
+  "athlete": "MARTÍNEZ Asier",
+  "country": "ESP",
+  "dob": "2000-04-22",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.14",
+      "venue": "Olympiastadion, München (GER)",
+      "date": "17 AUG 2022"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.27",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14734118",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14734118",
+  "scrapedAt": "2026-07-22T17:00:31.142Z",
+  "source": "diamondleague.com"
+}

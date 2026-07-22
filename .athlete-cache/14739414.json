@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14739414",
+  "athleteId": "ostrowski-filip-pol",
+  "athlete": "OSTROWSKI Filip",
+  "country": "POL",
+  "dob": "2001-07-12",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:35.47",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:35.47",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14739414",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14739414",
+  "scrapedAt": "2026-07-22T17:01:24.244Z",
+  "source": "diamondleague.com"
+}

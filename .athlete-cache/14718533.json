@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14718533",
+  "athleteId": "kamga-vanessa-swe",
+  "athlete": "KAMGA Vanessa",
+  "country": "SWE",
+  "dob": "1998-11-19",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "66.61",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "14 SEP 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "65.30",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14718533",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14718533",
+  "scrapedAt": "2026-07-22T16:59:53.967Z",
+  "source": "diamondleague.com"
+}

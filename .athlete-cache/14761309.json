@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14761309",
+  "athleteId": "willis-roisin-usa",
+  "athlete": "WILLIS Roisin",
+  "country": "USA",
+  "dob": "2004-08-06",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.56",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.56",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14761309",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14761309",
+  "scrapedAt": "2026-07-22T17:05:32.204Z",
+  "source": "diamondleague.com"
+}

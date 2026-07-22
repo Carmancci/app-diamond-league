@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14757334",
+  "athleteId": "gogois-thomas-fra",
+  "athlete": "GOGOIS Thomas",
+  "country": "FRA",
+  "dob": "2000-06-24",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.38",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "11 JUN 2024"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "16.86",
+      "venue": "Stade Annexe Stade de France, St-Denis (FRA)",
+      "date": "01 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14757334",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14757334",
+  "scrapedAt": "2026-07-22T17:04:39.075Z",
+  "source": "diamondleague.com"
+}

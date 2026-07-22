@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14730721",
+  "athleteId": "ehammer-simon-sui",
+  "athlete": "EHAMMER Simon",
+  "country": "SUI",
+  "dob": "2000-02-07",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.51",
+      "venue": "Mösle-Stadium, Götzis (AUT)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.51",
+      "venue": "Mösle-Stadium, Götzis (AUT)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14730721",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14730721",
+  "scrapedAt": "2026-07-22T17:00:18.768Z",
+  "source": "diamondleague.com"
+}
