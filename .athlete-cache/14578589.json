@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14578589",
+  "athleteId": "leotlela-gift-rsa",
+  "athlete": "LEOTLELA Gift",
+  "country": "RSA",
+  "dob": "1998-05-12",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.87",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "13 SEP 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.97",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14578589",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14578589",
+  "scrapedAt": "2026-07-20T16:21:17.999Z",
+  "source": "diamondleague.com"
+}

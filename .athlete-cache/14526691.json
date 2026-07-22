@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14526691",
+  "athleteId": "vanderelst-elise-bel",
+  "athlete": "VANDERELST Elise",
+  "country": "BEL",
+  "dob": "1998-01-27",
+  "pb": {
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:35.98",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "03 JUL 2021"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.26",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "14 SEP 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:26.09",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "11 SEP 2022"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:40.70",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "22 AUG 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:23.45",
+      "venue": "Atletiekarena Gaston Roelants, Kessel-Lo (BEL)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14526691",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14526691",
+  "scrapedAt": "2026-07-20T16:17:05.594Z",
+  "source": "diamondleague.com"
+}

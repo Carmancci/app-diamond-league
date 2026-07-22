@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14594836",
+  "athleteId": "levchenko-yuliia-ukr",
+  "athlete": "LEVCHENKO Yuliia",
+  "country": "UKR",
+  "dob": "1997-11-28",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.02",
+      "venue": "Dinamo National Olympic Stadium, Minsk (BLR)",
+      "date": "10 SEP 2019"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.99",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14594836",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14594836",
+  "scrapedAt": "2026-07-20T16:23:49.301Z",
+  "source": "diamondleague.com"
+}

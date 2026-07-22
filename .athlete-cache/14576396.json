@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14576396",
+  "athleteId": "haugh-daniel-usa",
+  "athlete": "HAUGH Daniel",
+  "country": "USA",
+  "dob": "1995-05-03",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "80.18",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "25 JUN 2022"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "75.53",
+      "venue": "Drake Stadium, Des Moines, IA (USA)",
+      "date": "23 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14576396",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14576396",
+  "scrapedAt": "2026-07-20T16:20:55.176Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14560483",
+  "athleteId": "klaver-lieke-ned",
+  "athlete": "KLAVER Lieke",
+  "country": "NED",
+  "dob": "1998-08-20",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.58",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.58",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14560483",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14560483",
+  "scrapedAt": "2026-07-20T16:19:17.891Z",
+  "source": "diamondleague.com"
+}

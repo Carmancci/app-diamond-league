@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14515622",
+  "athleteId": "steen-roger-usa",
+  "athlete": "STEEN Roger",
+  "country": "USA",
+  "dob": "1992-05-17",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.11",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.07",
+      "venue": "Atletska dvorana, Beograd (SRB) (i)",
+      "date": "11 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14515622",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14515622",
+  "scrapedAt": "2026-07-20T16:15:47.990Z",
+  "source": "diamondleague.com"
+}

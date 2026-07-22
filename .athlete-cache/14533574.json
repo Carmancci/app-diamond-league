@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14533574",
+  "athleteId": "barnes-celera-usa",
+  "athlete": "BARNES Celera",
+  "country": "USA",
+  "dob": "1998-12-02",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.94",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "24 JUN 2022"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.12",
+      "venue": "Foote Field, Edmonton (CAN)",
+      "date": "12 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14533574",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14533574",
+  "scrapedAt": "2026-07-20T16:17:54.958Z",
+  "source": "diamondleague.com"
+}

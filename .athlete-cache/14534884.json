@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14534884",
+  "athleteId": "aubanton-jean-baptiste-fra",
+  "athlete": "AUBANTON Jean-Baptiste",
+  "country": "FRA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14534884",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-20T16:17:59.833Z",
+  "source": "diamondleague.com"
+}

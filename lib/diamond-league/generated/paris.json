@@ -154,7 +154,24 @@
           "mark": "49.97",
           "note": "SB",
           "qualificationRank": 9,
-          "qualificationPoints": 11
+          "qualificationPoints": 11,
+          "dob": "1998-08-20",
+          "personalBest": "49.58",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.58",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14560483"
+          },
+          "seasonBest": "49.58",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.58",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14560483"
+          }
         },
         {
           "rank": 5,
@@ -166,7 +183,24 @@
           "mark": "50.06",
           "note": "PB",
           "qualificationRank": 13,
-          "qualificationPoints": 4
+          "qualificationPoints": 4,
+          "dob": "1998-08-10",
+          "personalBest": "50.06",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.06",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14589082"
+          },
+          "seasonBest": "50.06",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.06",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14589082"
+          }
         },
         {
           "rank": 6,
@@ -340,7 +374,24 @@
           "mark": "1:55.65",
           "note": "NR",
           "qualificationRank": 3,
-          "qualificationPoints": 15
+          "qualificationPoints": 15,
+          "dob": "1996-10-03",
+          "personalBest": "1:55.65",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:55.65",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14523787"
+          },
+          "seasonBest": "1:55.65",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:55.65",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14523787"
+          }
         },
         {
           "rank": 4,
@@ -671,7 +722,24 @@
           "country": "MAR",
           "bib": 49,
           "mark": "4:00.62",
-          "note": "PB"
+          "note": "PB",
+          "dob": "1997-02-04",
+          "personalBest": "4:00.62",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:00.62",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579514"
+          },
+          "seasonBest": "4:00.62",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:00.62",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579514"
+          }
         },
         {
           "rank": 10,
@@ -765,7 +833,24 @@
           "bib": 64,
           "mark": "4:06.36",
           "qualificationRank": 26,
-          "qualificationPoints": 1
+          "qualificationPoints": 1,
+          "dob": "1997-11-19",
+          "personalBest": "3:59.32",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "3:59.32",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "20 JUN 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14594593"
+          },
+          "seasonBest": "4:01.84",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:01.84",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14594593"
+          }
         },
         {
           "rank": null,
@@ -859,7 +944,24 @@
           "bib": 55,
           "mark": "12.39",
           "qualificationRank": 1,
-          "qualificationPoints": 21
+          "qualificationPoints": 21,
+          "dob": "1997-04-23",
+          "personalBest": "12.12",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.12",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "24 JUL 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          },
+          "seasonBest": "12.28",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.28",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          }
         },
         {
           "rank": 2,
@@ -1158,7 +1260,24 @@
           "dlId": "14576456",
           "country": "FRA",
           "bib": 22,
-          "mark": "12.82"
+          "mark": "12.82",
+          "dob": "1999-06-07",
+          "personalBest": "12.53",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.53",
+            "venue": "Stade Pierre de Coubertin, Montgeron (FRA)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576456"
+          },
+          "seasonBest": "12.53",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.53",
+            "venue": "Stade Pierre de Coubertin, Montgeron (FRA)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576456"
+          }
         },
         {
           "rank": null,
@@ -1255,7 +1374,24 @@
           "mark": "12.28",
           "note": "=SB",
           "qualificationRank": 1,
-          "qualificationPoints": 21
+          "qualificationPoints": 21,
+          "dob": "1997-04-23",
+          "personalBest": "12.12",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.12",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "24 JUL 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          },
+          "seasonBest": "12.28",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.28",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          }
         },
         {
           "rank": 2,
@@ -1471,7 +1607,24 @@
           "bib": 55,
           "mark": "12.39",
           "qualificationRank": 1,
-          "qualificationPoints": 21
+          "qualificationPoints": 21,
+          "dob": "1997-04-23",
+          "personalBest": "12.12",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.12",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "24 JUL 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          },
+          "seasonBest": "12.28",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.28",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14579526"
+          }
         },
         {
           "rank": 2,
@@ -1697,7 +1850,24 @@
           "dlId": "14576456",
           "country": "FRA",
           "bib": 22,
-          "mark": "12.82"
+          "mark": "12.82",
+          "dob": "1999-06-07",
+          "personalBest": "12.53",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.53",
+            "venue": "Stade Pierre de Coubertin, Montgeron (FRA)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576456"
+          },
+          "seasonBest": "12.53",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres Hurdles",
+            "mark": "12.53",
+            "venue": "Stade Pierre de Coubertin, Montgeron (FRA)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576456"
+          }
         },
         {
           "rank": null,
@@ -2067,7 +2237,24 @@
           "bib": 38,
           "mark": "19.93",
           "qualificationRank": 4,
-          "qualificationPoints": 17
+          "qualificationPoints": 17,
+          "dob": "1998-10-03",
+          "personalBest": "20.37",
+          "personalBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "20.37",
+            "venue": "Helmut-Körnig-Halle, Dortmund (GER) (i)",
+            "date": "27 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565871"
+          },
+          "seasonBest": "20.37",
+          "seasonBestDetails": {
+            "discipline": "Women's Shot Put",
+            "mark": "20.37",
+            "venue": "Helmut-Körnig-Halle, Dortmund (GER) (i)",
+            "date": "27 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565871"
+          }
         },
         {
           "rank": 3,
@@ -2333,7 +2520,24 @@
           "bib": 61,
           "mark": "59.58",
           "qualificationRank": 6,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "1996-03-09",
+          "personalBest": "71.40",
+          "personalBestDetails": {
+            "discipline": "Women's Javelin Throw",
+            "mark": "71.40",
+            "venue": "Stadion Park Mladeži, Split (CRO)",
+            "date": "09 MAY 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14500245"
+          },
+          "seasonBest": "62.78",
+          "seasonBestDetails": {
+            "discipline": "Women's Javelin Throw",
+            "mark": "62.78",
+            "venue": "Stadion Podskarbińska, Warszawa (POL)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14500245"
+          }
         },
         {
           "rank": 8,
@@ -2530,7 +2734,8 @@
           "country": "ITA",
           "bib": 331,
           "mark": "10.30",
-          "note": "=SB"
+          "note": "=SB",
+          "dob": "1996-04-27"
         },
         {
           "rank": 2,
@@ -2710,7 +2915,24 @@
           "country": "GBR",
           "bib": 258,
           "mark": "3:29.95",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1994-07-11",
+          "personalBest": "3:29.23",
+          "personalBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:29.23",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "19 JUL 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14522654"
+          },
+          "seasonBest": "3:29.95",
+          "seasonBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:29.95",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14522654"
+          }
         },
         {
           "rank": 4,
@@ -2817,7 +3039,24 @@
           "dlId": "14531160",
           "country": "USA",
           "bib": 307,
-          "mark": "3:36.47"
+          "mark": "3:36.47",
+          "dob": "1995-01-21",
+          "personalBest": "3:30.90",
+          "personalBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:30.90",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14531160"
+          },
+          "seasonBest": "3:30.90",
+          "seasonBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:30.90",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14531160"
+          }
         },
         {
           "rank": 15,
@@ -2826,7 +3065,24 @@
           "dlId": "14595170",
           "country": "IRL",
           "bib": 262,
-          "mark": "3:46.91"
+          "mark": "3:46.91",
+          "dob": "1996-06-18",
+          "personalBest": "3:30.42",
+          "personalBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:30.42",
+            "venue": "Stadion Śląski, Chorzów (POL)",
+            "date": "16 JUL 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14595170"
+          },
+          "seasonBest": "3:31.65",
+          "seasonBestDetails": {
+            "discipline": "Men's 1500 Metres",
+            "mark": "3:31.65",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14595170"
+          }
         },
         {
           "rank": null,
@@ -3073,7 +3329,24 @@
           "dlId": "14575440",
           "country": "AUS",
           "bib": 342,
-          "mark": "10.23"
+          "mark": "10.23",
+          "dob": "1997-12-31",
+          "personalBest": "10.01",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.01",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "31 JUL 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14575440"
+          },
+          "seasonBest": "10.19",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.19",
+            "venue": "Olympic Park, Sydney (AUS)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14575440"
+          }
         },
         {
           "rank": 3,
@@ -3127,7 +3400,24 @@
           "dlId": "14586894",
           "country": "GER",
           "bib": 339,
-          "mark": "10.53"
+          "mark": "10.53",
+          "dob": "1997-07-17",
+          "personalBest": "10.08",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.08",
+            "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+            "date": "01 AUG 2020",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14586894"
+          },
+          "seasonBest": "10.21",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.21",
+            "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14586894"
+          }
         }
       ]
     },
@@ -3652,7 +3942,24 @@
           "mark": "9.91",
           "note": "SB",
           "qualificationRank": 1,
-          "qualificationPoints": 19
+          "qualificationPoints": 19,
+          "dob": "1995-07-10",
+          "personalBest": "9.76",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.76",
+            "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+            "date": "18 SEP 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14519911"
+          },
+          "seasonBest": "9.91",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.91",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14519911"
+          }
         },
         {
           "rank": 2,
@@ -3663,7 +3970,24 @@
           "bib": 315,
           "mark": "9.92",
           "qualificationRank": 3,
-          "qualificationPoints": 15
+          "qualificationPoints": 15,
+          "dob": "1997-07-18",
+          "personalBest": "9.79",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.79",
+            "venue": "Stade de France, Paris (FRA)",
+            "date": "04 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14536762"
+          },
+          "seasonBest": "9.88",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.88",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14536762"
+          }
         },
         {
           "rank": 3,
@@ -3754,7 +4078,24 @@
           "bib": 211,
           "mark": "10.02",
           "qualificationRank": 13,
-          "qualificationPoints": 2
+          "qualificationPoints": 2,
+          "dob": "1994-11-10",
+          "personalBest": "9.89",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.89",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "09 SEP 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14535607"
+          },
+          "seasonBest": "9.95",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.95",
+            "venue": "National Stadium, Gaborone (BOT)",
+            "date": "26 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14535607"
+          }
         },
         {
           "rank": 8,
@@ -4246,7 +4587,16 @@
           "bib": 311,
           "mark": "12:54.80",
           "qualificationRank": 5,
-          "qualificationPoints": 12
+          "qualificationPoints": 12,
+          "dob": "1997-04-22",
+          "seasonBest": "12:49.61",
+          "seasonBestDetails": {
+            "discipline": "Men's 5000 Metres",
+            "mark": "12:49.61",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14591210"
+          }
         },
         {
           "rank": 2,
@@ -4878,7 +5228,24 @@
           "country": "USA",
           "bib": 308,
           "mark": "13.64",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1994-08-03",
+          "personalBest": "12.93",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.93",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "28 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14491556"
+          },
+          "seasonBest": "13.64",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.64",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14491556"
+          }
         },
         {
           "rank": 16,
@@ -5040,7 +5407,24 @@
           "country": "USA",
           "bib": 308,
           "mark": "13.64",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1994-08-03",
+          "personalBest": "12.93",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.93",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "28 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14491556"
+          },
+          "seasonBest": "13.64",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.64",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14491556"
+          }
         }
       ]
     },
@@ -5394,7 +5778,24 @@
           "dlId": "14530462",
           "country": "ITA",
           "bib": 264,
-          "mark": "8:17.23"
+          "mark": "8:17.23",
+          "dob": "1994-06-19",
+          "personalBest": "8:11.00",
+          "personalBestDetails": {
+            "discipline": "Men's 3000 Metres Steeplechase",
+            "mark": "8:11.00",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "09 JUN 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14530462"
+          },
+          "seasonBest": "8:13.10",
+          "seasonBestDetails": {
+            "discipline": "Men's 3000 Metres Steeplechase",
+            "mark": "8:13.10",
+            "venue": "Mestský Stadion, Ostrava (CZE)",
+            "date": "16 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14530462"
+          }
         },
         {
           "rank": 13,
@@ -5660,7 +6061,24 @@
           "bib": 202,
           "mark": "5.83",
           "qualificationRank": 1,
-          "qualificationPoints": 25
+          "qualificationPoints": 25,
+          "dob": "1997-04-25",
+          "personalBest": "6.00",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.00",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565327"
+          },
+          "seasonBest": "6.00",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.00",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565327"
+          }
         },
         {
           "rank": 8,

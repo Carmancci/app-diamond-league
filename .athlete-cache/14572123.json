@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14572123",
+  "athleteId": "adcock-liam-aus",
+  "athlete": "ADCOCK Liam",
+  "country": "AUS",
+  "dob": "1996-06-21",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.34",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "06 JUN 2025"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.26",
+      "venue": "Olympic Park, Sydney (AUS)",
+      "date": "12 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14572123",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14572123",
+  "scrapedAt": "2026-07-20T16:20:06.933Z",
+  "source": "diamondleague.com"
+}

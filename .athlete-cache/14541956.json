@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14541956",
+  "athleteId": "coleman-christian-usa",
+  "athlete": "COLEMAN Christian",
+  "country": "USA",
+  "dob": "1996-03-06",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.76",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "28 SEP 2019"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.85",
+      "venue": "Lexington, KY (USA)",
+      "date": "27 MAY 2017"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.95",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.03",
+      "venue": "Horizon HS, Winter Garden, FL (USA)",
+      "date": "20 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14541956",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14541956",
+  "scrapedAt": "2026-07-20T16:18:34.355Z",
+  "source": "diamondleague.com"
+}

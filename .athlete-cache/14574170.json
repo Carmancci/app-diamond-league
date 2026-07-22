@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14574170",
+  "athleteId": "povea-liadagmis-cub",
+  "athlete": "POVEA Liadagmis",
+  "country": "CUB",
+  "dob": "1996-02-06",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.93",
+      "venue": "Estadio Panamericano, La Habana (CUB)",
+      "date": "22 MAY 2021"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.58",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14574170",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14574170",
+  "scrapedAt": "2026-07-20T16:20:32.641Z",
+  "source": "diamondleague.com"
+}

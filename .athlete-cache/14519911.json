@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14519911",
+  "athleteId": "bromell-trayvon-usa",
+  "athlete": "BROMELL Trayvon",
+  "country": "USA",
+  "dob": "1995-07-10",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.76",
+      "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+      "date": "18 SEP 2021"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.03",
+      "venue": "Eugene, OR (USA)",
+      "date": "10 JUN 2015"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.91",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.62",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14519911",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14519911",
+  "scrapedAt": "2026-07-20T16:16:10.750Z",
+  "source": "diamondleague.com"
+}

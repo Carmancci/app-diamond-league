@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14509240",
+  "athleteId": "meyer-lea-ger",
+  "athlete": "MEYER Lea",
+  "country": "GER",
+  "dob": "1997-09-16",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:09.13",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:09.13",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14509240",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14509240",
+  "scrapedAt": "2026-07-20T16:15:25.570Z",
+  "source": "diamondleague.com"
+}

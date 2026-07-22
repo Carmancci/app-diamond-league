@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14586650",
+  "athleteId": "reese-erin-usa",
+  "athlete": "REESE Erin",
+  "country": "USA",
+  "dob": "1995-12-04",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "76.76",
+      "venue": "Gibson Track & Field Complex, Terre Haute, IN (USA)",
+      "date": "08 MAY 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "76.76",
+      "venue": "Gibson Track & Field Complex, Terre Haute, IN (USA)",
+      "date": "08 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14586650",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14586650",
+  "scrapedAt": "2026-07-20T16:22:09.342Z",
+  "source": "diamondleague.com"
+}

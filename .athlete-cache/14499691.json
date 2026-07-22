@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14499691",
+  "athleteId": "hobbs-zoe-nzl",
+  "athlete": "HOBBS Zoe",
+  "country": "NZL",
+  "dob": "1997-09-11",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.94",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "24 JUN 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.00",
+      "venue": "Arafura Stadium, Darwin (AUS)",
+      "date": "19 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14499691",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14499691",
+  "scrapedAt": "2026-07-20T16:14:56.510Z",
+  "source": "diamondleague.com"
+}

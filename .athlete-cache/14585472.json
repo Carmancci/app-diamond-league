@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14585472",
+  "athleteId": "wu-yanni-chn",
+  "athlete": "WU Yanni",
+  "country": "CHN",
+  "dob": "1997-07-28",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.74",
+      "venue": "Kuishan Sports Center, Rizhao (CHN)",
+      "date": "30 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.99",
+      "venue": "Kuishan Sports Center, Rizhao (CHN)",
+      "date": "27 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14585472",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14585472",
+  "scrapedAt": "2026-07-20T16:21:57.491Z",
+  "source": "diamondleague.com"
+}

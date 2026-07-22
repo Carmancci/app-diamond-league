@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14589891",
+  "athleteId": "echikunwoke-annette-nneka-usa",
+  "athlete": "ECHIKUNWOKE Annette Nneka",
+  "country": "USA",
+  "dob": "1996-07-29",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "75.51",
+      "venue": "Drake Stadium, Des Moines, IA (USA)",
+      "date": "23 APR 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "75.51",
+      "venue": "Drake Stadium, Des Moines, IA (USA)",
+      "date": "23 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14589891",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14589891",
+  "scrapedAt": "2026-07-20T16:23:04.807Z",
+  "source": "diamondleague.com"
+}

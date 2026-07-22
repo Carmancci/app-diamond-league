@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14535001",
+  "athleteId": "maclean-heather-usa",
+  "athlete": "MACLEAN Heather",
+  "country": "USA",
+  "dob": "1995-08-31",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.77",
+      "venue": "Emerson Field, Concord, MA (USA)",
+      "date": "08 JUN 2024"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:57.79",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.74",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:26.13",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14535001",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14535001",
+  "scrapedAt": "2026-07-20T16:18:08.044Z",
+  "source": "diamondleague.com"
+}

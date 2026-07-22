@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14491584",
+  "athleteId": "price-deanna-usa",
+  "athlete": "PRICE DeAnna",
+  "country": "USA",
+  "dob": "1993-06-08",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "80.31",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "26 JUN 2021"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "77.71",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14491584",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14491584",
+  "scrapedAt": "2026-07-20T16:14:46.882Z",
+  "source": "diamondleague.com"
+}

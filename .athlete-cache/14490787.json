@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14490787",
+  "athleteId": "jennings-gabrielle-usa",
+  "athlete": "JENNINGS Gabrielle",
+  "country": "USA",
+  "dob": "1998-09-15",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:06.61",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:11.72",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "14 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14490787",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14490787",
+  "scrapedAt": "2026-07-20T16:14:36.132Z",
+  "source": "diamondleague.com"
+}

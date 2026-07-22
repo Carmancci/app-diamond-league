@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14536762",
+  "athleteId": "lyles-noah-usa",
+  "athlete": "LYLES Noah",
+  "country": "USA",
+  "dob": "1997-07-18",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.79",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "04 AUG 2024"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.31",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "21 JUL 2022"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.88",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.91",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "17 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14536762",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14536762",
+  "scrapedAt": "2026-07-20T16:18:20.626Z",
+  "source": "diamondleague.com"
+}

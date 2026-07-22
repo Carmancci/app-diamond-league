@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14595170",
+  "athleteId": "coscoran-andrew-irl",
+  "athlete": "COSCORAN Andrew",
+  "country": "IRL",
+  "dob": "1996-06-18",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.42",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 JUL 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.65",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14595170",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14595170",
+  "scrapedAt": "2026-07-20T16:23:58.632Z",
+  "source": "diamondleague.com"
+}

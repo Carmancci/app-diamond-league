@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14564128",
+  "athleteId": "marshall-tonea-usa",
+  "athlete": "MARSHALL Tonea",
+  "country": "USA",
+  "dob": "1998-10-17",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.24",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.65",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14564128",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14564128",
+  "scrapedAt": "2026-07-20T16:19:23.017Z",
+  "source": "diamondleague.com"
+}

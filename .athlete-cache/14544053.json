@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14544053",
+  "athleteId": "weir-zane-ita",
+  "athlete": "WEIR Zane",
+  "country": "ITA",
+  "dob": "1995-09-07",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.44",
+      "venue": "Stadio Colbachini, Padova (ITA)",
+      "date": "03 SEP 2023"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.13",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14544053",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14544053",
+  "scrapedAt": "2026-07-20T16:18:39.764Z",
+  "source": "diamondleague.com"
+}

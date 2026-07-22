@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14592846",
+  "athleteId": "williams-sada-bar",
+  "athlete": "WILLIAMS Sada",
+  "country": "BAR",
+  "dob": "1997-12-01",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.58",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "21 AUG 2023"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.60",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14592846",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14592846",
+  "scrapedAt": "2026-07-20T16:23:22.618Z",
+  "source": "diamondleague.com"
+}

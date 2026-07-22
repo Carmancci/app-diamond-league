@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14522941",
+  "athleteId": "obiena-ernest-john-phi",
+  "athlete": "OBIENA Ernest John",
+  "country": "PHI",
+  "dob": "1995-11-17",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.00",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "26 AUG 2023"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.85",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14522941",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14522941",
+  "scrapedAt": "2026-07-20T16:16:23.366Z",
+  "source": "diamondleague.com"
+}

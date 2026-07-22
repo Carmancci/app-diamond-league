@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14587743",
+  "athleteId": "diaz-hernandez-andy-ita",
+  "athlete": "DÍAZ HERNÁNDEZ Andy",
+  "country": "ITA",
+  "dob": "1995-12-25",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.80",
+      "venue": "Sports Training Center, Nanjing (CHN) (i)",
+      "date": "21 MAR 2025"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.72",
+      "venue": "Stadio Puttilli, Barletta (ITA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14587743",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14587743",
+  "scrapedAt": "2026-07-20T16:22:20.722Z",
+  "source": "diamondleague.com"
+}

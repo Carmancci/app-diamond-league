@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14526230",
+  "athleteId": "miellet-alexis-fra",
+  "athlete": "MIELLET Alexis",
+  "country": "FRA",
+  "dob": "1995-05-05",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:34.23",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "12 JUL 2019"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:12.89",
+      "venue": "Stade Olympique, Rabat (MAR)",
+      "date": "25 MAY 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:40.12",
+      "venue": "Stade Bachelard, Grenoble (FRA)",
+      "date": "17 MAY 2026"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:21.91",
+      "venue": "Stade Raymond Troussier, Decines (FRA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14526230",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14526230",
+  "scrapedAt": "2026-07-20T16:16:47.749Z",
+  "source": "diamondleague.com"
+}

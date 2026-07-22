@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14518308",
+  "athleteId": "mena-reynier-cub",
+  "athlete": "MENA Reynier",
+  "country": "CUB",
+  "dob": "1996-11-21",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.63",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "03 JUL 2022"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.04",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14518308",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14518308",
+  "scrapedAt": "2026-07-20T16:16:06.555Z",
+  "source": "diamondleague.com"
+}

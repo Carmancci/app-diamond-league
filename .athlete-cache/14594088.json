@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14594088",
+  "athleteId": "aragon-christina-usa",
+  "athlete": "ARAGON Christina",
+  "country": "USA",
+  "dob": "1997-06-17",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:04.44",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "14 JUL 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:09.17",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "08 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14594088",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14594088",
+  "scrapedAt": "2026-07-20T16:23:41.389Z",
+  "source": "diamondleague.com"
+}

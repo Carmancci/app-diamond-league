@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14530331",
+  "athleteId": "burnet-taymir-ned",
+  "athlete": "BURNET Taymir",
+  "country": "NED",
+  "dob": "1992-10-01",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.30",
+      "venue": "McArthur Stadium, Potchefstroom (RSA)",
+      "date": "14 FEB 2024"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "21.09",
+      "venue": "Centro de Atletismo de Tenerife, Santa Cruz de Tenerife (ESP)",
+      "date": "27 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14530331",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14530331",
+  "scrapedAt": "2026-07-20T16:17:22.781Z",
+  "source": "diamondleague.com"
+}
