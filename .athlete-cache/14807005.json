@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14807005",
+  "athleteId": "davis-kenondra-usa",
+  "athlete": "DAVIS Kenondra",
+  "country": "USA",
+  "dob": "2003-02-15",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.46",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.46",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14807005",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14807005",
+  "scrapedAt": "2026-07-22T17:21:06.792Z",
+  "source": "diamondleague.com"
+}

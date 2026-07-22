@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14770113",
+  "athleteId": "bonnin-marie-julie-fra",
+  "athlete": "BONNIN Marie-Julie",
+  "country": "FRA",
+  "dob": "2001-12-17",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.76",
+      "venue": "Maison des Sports, Clermont-Ferrand (FRA) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.76",
+      "venue": "Maison des Sports, Clermont-Ferrand (FRA) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14770113",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14770113",
+  "scrapedAt": "2026-07-22T17:16:16.157Z",
+  "source": "diamondleague.com"
+}

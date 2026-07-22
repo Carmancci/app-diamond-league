@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14805472",
+  "athleteId": "lu-jiawen-chn",
+  "athlete": "LU Jiawen",
+  "country": "CHN",
+  "dob": "2002-08-19",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.92",
+      "venue": "Sports Center, Jiaxing (CHN)",
+      "date": "10 MAY 2026"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.92",
+      "venue": "Sports Center, Jiaxing (CHN)",
+      "date": "10 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14805472",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14805472",
+  "scrapedAt": "2026-07-22T17:20:49.889Z",
+  "source": "diamondleague.com"
+}

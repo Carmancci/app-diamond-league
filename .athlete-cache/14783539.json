@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14783539",
+  "athleteId": "bock-elea-j-rstad-nor",
+  "athlete": "BOCK Elea Jørstad",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14783539",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:17:50.162Z",
+  "source": "diamondleague.com"
+}

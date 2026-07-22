@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14809348",
+  "athleteId": "katzberg-ethan-can",
+  "athlete": "KATZBERG Ethan",
+  "country": "CAN",
+  "dob": "2002-04-05",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "84.70",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "16 SEP 2025"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "83.64",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14809348",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14809348",
+  "scrapedAt": "2026-07-22T17:21:29.590Z",
+  "source": "diamondleague.com"
+}

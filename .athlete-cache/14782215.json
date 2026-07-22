@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14782215",
+  "athleteId": "kerr-adrian-jam",
+  "athlete": "KERR Adrian",
+  "country": "JAM",
+  "dob": "2003-10-07",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.08",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "18 SEP 2025"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.28",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "19 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14782215",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14782215",
+  "scrapedAt": "2026-07-22T17:17:36.607Z",
+  "source": "diamondleague.com"
+}

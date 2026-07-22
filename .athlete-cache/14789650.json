@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14789650",
+  "athleteId": "dambile-sinesipho-rsa",
+  "athlete": "DAMBILE Sinesipho",
+  "country": "RSA",
+  "dob": "2002-03-02",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.74",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.74",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14789650",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14789650",
+  "scrapedAt": "2026-07-22T17:18:17.651Z",
+  "source": "diamondleague.com"
+}

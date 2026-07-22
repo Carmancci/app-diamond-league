@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14798932",
+  "athleteId": "gervais-arthur-fra",
+  "athlete": "GERVAIS Arthur",
+  "country": "FRA",
+  "dob": "2000-02-28",
+  "pb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:27.25",
+      "venue": "Heinz-Steyer-Stadion, Dresden (GER)",
+      "date": "30 AUG 2024"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:29.92",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14798932",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14798932",
+  "scrapedAt": "2026-07-22T17:19:28.873Z",
+  "source": "diamondleague.com"
+}

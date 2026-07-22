@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14810709",
+  "athleteId": "maslak-glugla-malgorzata-pol",
+  "athlete": "MASLAK-GLUGLA Malgorzata",
+  "country": "POL",
+  "dob": "2001-01-24",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "61.79",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "19 SEP 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "58.71",
+      "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+      "date": "29 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14810709",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14810709",
+  "scrapedAt": "2026-07-22T17:21:41.738Z",
+  "source": "diamondleague.com"
+}

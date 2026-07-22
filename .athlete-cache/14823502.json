@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14823502",
+  "athleteId": "king-brynn-usa",
+  "athlete": "KING Brynn",
+  "country": "USA",
+  "dob": "2000-08-22",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.75",
+      "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+      "date": "29 MAR 2025"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.64",
+      "venue": "G-Town Track, Gräfelfing (GER)",
+      "date": "05 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14823502",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14823502",
+  "scrapedAt": "2026-07-22T17:22:41.699Z",
+  "source": "diamondleague.com"
+}

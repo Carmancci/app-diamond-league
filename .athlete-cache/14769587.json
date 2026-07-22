@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14769587",
+  "athleteId": "bizimana-yusuf-gbr",
+  "athlete": "BIZIMANA Yusuf",
+  "country": "GBR",
+  "dob": "2000-09-06",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.08",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.08",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14769587",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14769587",
+  "scrapedAt": "2026-07-22T17:16:10.748Z",
+  "source": "diamondleague.com"
+}

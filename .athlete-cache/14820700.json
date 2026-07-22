@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14820700",
+  "athleteId": "ellis-angelina-usa",
+  "athlete": "ELLIS Angelina",
+  "country": "USA",
+  "dob": "1998-08-09",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:20.30",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:20.30",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14820700",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14820700",
+  "scrapedAt": "2026-07-22T17:22:23.635Z",
+  "source": "diamondleague.com"
+}

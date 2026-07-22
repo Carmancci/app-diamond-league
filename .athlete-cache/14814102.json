@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14814102",
+  "athleteId": "kitching-hayley-aus",
+  "athlete": "KITCHING Hayley",
+  "country": "AUS",
+  "dob": "2004-09-26",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.65",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.65",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14814102",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14814102",
+  "scrapedAt": "2026-07-22T17:22:06.688Z",
+  "source": "diamondleague.com"
+}

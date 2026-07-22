@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14815041",
+  "athleteId": "izumiya-shunsuke-jpn",
+  "athlete": "IZUMIYA Shunsuke",
+  "country": "JPN",
+  "dob": "2000-01-26",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.00",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.00",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14815041",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14815041",
+  "scrapedAt": "2026-07-22T17:22:10.577Z",
+  "source": "diamondleague.com"
+}

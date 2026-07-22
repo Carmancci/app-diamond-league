@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14827877",
+  "athleteId": "iapichino-larissa-ita",
+  "athlete": "IAPICHINO Larissa",
+  "country": "ITA",
+  "dob": "2002-07-18",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14827877",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14827877",
+  "scrapedAt": "2026-07-22T17:23:15.888Z",
+  "source": "diamondleague.com"
+}

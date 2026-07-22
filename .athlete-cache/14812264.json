@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14812264",
+  "athleteId": "jones-alyssa-usa",
+  "athlete": "JONES Alyssa",
+  "country": "USA",
+  "dob": "2004-02-06",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.09",
+      "venue": "John McDonnell Field, Fayetteville, AR (USA)",
+      "date": "28 MAY 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.09",
+      "venue": "John McDonnell Field, Fayetteville, AR (USA)",
+      "date": "28 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14812264",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14812264",
+  "scrapedAt": "2026-07-22T17:21:54.747Z",
+  "source": "diamondleague.com"
+}

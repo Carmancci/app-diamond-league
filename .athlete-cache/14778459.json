@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14778459",
+  "athleteId": "lewis-torrie-aus",
+  "athlete": "LEWIS Torrie",
+  "country": "AUS",
+  "dob": "2005-01-08",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.04",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.56",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 SEP 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.04",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.62",
+      "venue": "Stade Bouleyres, Bulle (SUI)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14778459",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14778459",
+  "scrapedAt": "2026-07-22T17:17:09.483Z",
+  "source": "diamondleague.com"
+}

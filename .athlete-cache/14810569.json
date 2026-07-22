@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14810569",
+  "athleteId": "fremstad-waldron-per-tinius-nor",
+  "athlete": "FREMSTAD-WALDRON Per Tinius",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14810569",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:21:38.240Z",
+  "source": "diamondleague.com"
+}

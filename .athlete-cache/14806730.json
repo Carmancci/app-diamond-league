@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14806730",
+  "athleteId": "barnett-mia-swe",
+  "athlete": "BARNETT Mia",
+  "country": "SWE",
+  "dob": "2003-09-04",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:05.39",
+      "venue": "Sola Arena, Karlstad (SWE)",
+      "date": "02 AUG 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.00",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14806730",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14806730",
+  "scrapedAt": "2026-07-22T17:21:02.894Z",
+  "source": "diamondleague.com"
+}

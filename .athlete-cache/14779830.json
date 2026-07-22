@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14779830",
+  "athleteId": "guttormsen-simen-nor",
+  "athlete": "GUTTORMSEN Simen",
+  "country": "NOR",
+  "dob": "2001-01-19",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.80",
+      "venue": "Arena Toruń, Toruń (POL) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.80",
+      "venue": "Arena Toruń, Toruń (POL) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14779830",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14779830",
+  "scrapedAt": "2026-07-22T17:17:19.676Z",
+  "source": "diamondleague.com"
+}

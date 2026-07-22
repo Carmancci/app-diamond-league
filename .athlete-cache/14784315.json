@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14784315",
+  "athleteId": "tshite-tshepo-rsa",
+  "athlete": "TSHITE Tshepo",
+  "country": "RSA",
+  "dob": "1997-01-15",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.59",
+      "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+      "date": "03 JUN 2022"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.35",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:12.94",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:20.92",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.53",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:12.94",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:20.92",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14784315",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14784315",
+  "scrapedAt": "2026-07-22T17:17:53.934Z",
+  "source": "diamondleague.com"
+}

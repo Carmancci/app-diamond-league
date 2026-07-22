@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14823057",
+  "athleteId": "robinson-russell-usa",
+  "athlete": "ROBINSON Russell",
+  "country": "USA",
+  "dob": "2001-06-27",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.54",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.54",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14823057",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14823057",
+  "scrapedAt": "2026-07-22T17:22:37.732Z",
+  "source": "diamondleague.com"
+}

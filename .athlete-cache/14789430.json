@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14789430",
+  "athleteId": "gilman-sam-usa",
+  "athlete": "GILMAN Sam",
+  "country": "USA",
+  "dob": "2000-09-20",
+  "pb": {
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:51.49",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:32.72",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:12.19",
+      "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+      "date": "01 MAY 2026"
+    }
+  },
+  "sb": {
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:32.72",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:12.19",
+      "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+      "date": "01 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14789430",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14789430",
+  "scrapedAt": "2026-07-22T17:18:13.640Z",
+  "source": "diamondleague.com"
+}
