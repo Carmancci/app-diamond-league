@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/shanghai.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SHANGHAI_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "526f02eaa34067da5b338cbac680f2bed845f7683c10dc407dbc0e0f58f668f6",
-    "collectedAt": "2026-07-17T13:02:57.494Z",
+    "collectedAt": "2026-07-22T19:42:36.947Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:02:57.494Z",
+  "updatedAt": "2026-07-22T19:42:36.947Z",
   "eventCount": 25,
   "athleteCount": 254,
   "events": [
@@ -279,7 +279,24 @@
           "dlId": "14778459",
           "country": "AUS",
           "bib": 11,
-          "mark": "23.25"
+          "mark": "23.25",
+          "dob": "2005-01-08",
+          "personalBest": "22.56",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.56",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "17 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14778459"
+          },
+          "seasonBest": "22.62",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.62",
+            "venue": "Stade Bouleyres, Bulle (SUI)",
+            "date": "11 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14778459"
+          }
         }
       ]
     },
@@ -590,7 +607,24 @@
           "dlId": "14807005",
           "country": "USA",
           "bib": 201,
-          "mark": "53.19"
+          "mark": "53.19",
+          "dob": "2003-02-15",
+          "personalBest": "51.46",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "51.46",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14807005"
+          },
+          "seasonBest": "51.46",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "51.46",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14807005"
+          }
         }
       ]
     },
@@ -708,7 +742,24 @@
           "mark": "3:55.71",
           "note": "PB",
           "qualificationRank": 2,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "2001-02-23",
+          "personalBest": "3:55.71",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "3:55.71",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14774192"
+          },
+          "seasonBest": "3:55.71",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "3:55.71",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14774192"
+          }
         },
         {
           "rank": 3,
@@ -954,7 +1005,24 @@
           "country": "CHN",
           "bib": 40,
           "mark": "4:11.67",
-          "note": "SB"
+          "note": "SB",
+          "dob": "2001-03-29",
+          "personalBest": "4:06.28",
+          "personalBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:06.28",
+            "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+            "date": "20 NOV 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14803753"
+          },
+          "seasonBest": "4:07.43",
+          "seasonBestDetails": {
+            "discipline": "Women's 1500 Metres",
+            "mark": "4:07.43",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14803753"
+          }
         },
         {
           "rank": null,
@@ -964,7 +1032,8 @@
           "country": "USA",
           "bib": 225,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "2002-05-06"
         }
       ]
     },
@@ -1757,7 +1826,24 @@
           "country": "GER",
           "bib": 120,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "2002-05-31",
+          "personalBest": "9:15.17",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "9:15.17",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "30 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14804796"
+          },
+          "seasonBest": "9:21.73",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres Steeplechase",
+            "mark": "9:21.73",
+            "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14804796"
+          }
         }
       ]
     },
@@ -2889,7 +2975,24 @@
           "country": "BDI",
           "bib": 20,
           "mark": "14:58.77",
-          "note": "SB"
+          "note": "SB",
+          "dob": "1999-08-01",
+          "personalBest": "14:41.46",
+          "personalBestDetails": {
+            "discipline": "Women's 5000 Metres",
+            "mark": "14:41.46",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14786755"
+          },
+          "seasonBest": "14:41.46",
+          "seasonBestDetails": {
+            "discipline": "Women's 5000 Metres",
+            "mark": "14:41.46",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14786755"
+          }
         },
         {
           "rank": 16,
@@ -2970,7 +3073,24 @@
           "country": "ETH",
           "bib": 90,
           "mark": "DNF",
-          "status": "DNF"
+          "status": "DNF",
+          "dob": "2001-01-20",
+          "personalBest": "14:22.56",
+          "personalBestDetails": {
+            "discipline": "Women's 5000 Metres",
+            "mark": "14:22.56",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14805826"
+          },
+          "seasonBest": "14:22.56",
+          "seasonBestDetails": {
+            "discipline": "Women's 5000 Metres",
+            "mark": "14:22.56",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14805826"
+          }
         },
         {
           "rank": null,
@@ -4884,7 +5004,24 @@
           "mark": "7:28.72",
           "note": "PB",
           "qualificationRank": 8,
-          "qualificationPoints": 1
+          "qualificationPoints": 1,
+          "dob": "2001-06-04",
+          "personalBest": "7:28.72",
+          "personalBestDetails": {
+            "discipline": "Men's 3000 Metres",
+            "mark": "7:28.72",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14808798"
+          },
+          "seasonBest": "7:28.72",
+          "seasonBestDetails": {
+            "discipline": "Men's 3000 Metres",
+            "mark": "7:28.72",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14808798"
+          }
         },
         {
           "rank": 9,
@@ -4997,7 +5134,24 @@
           "country": "NED",
           "bib": 495,
           "mark": "7:30.42",
-          "note": "PB"
+          "note": "PB",
+          "dob": "2000-07-17",
+          "personalBest": "7:30.42",
+          "personalBestDetails": {
+            "discipline": "Men's 3000 Metres",
+            "mark": "7:30.42",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14790169"
+          },
+          "seasonBest": "7:30.42",
+          "seasonBestDetails": {
+            "discipline": "Men's 3000 Metres",
+            "mark": "7:30.42",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14790169"
+          }
         },
         {
           "rank": 16,
@@ -5167,7 +5321,24 @@
           "mark": "13.07",
           "note": "=PB",
           "qualificationRank": 1,
-          "qualificationPoints": 8
+          "qualificationPoints": 8,
+          "dob": "1998-12-28",
+          "personalBest": "12.86",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.86",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14769264"
+          },
+          "seasonBest": "12.86",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.86",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14769264"
+          }
         },
         {
           "rank": 2,

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14769264",
+  "athleteId": "britt-jamal-usa",
+  "athlete": "BRITT Jamal",
+  "country": "USA",
+  "dob": "1998-12-28",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.86",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.86",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14769264",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14769264",
+  "scrapedAt": "2026-07-22T19:44:09.877Z",
+  "source": "diamondleague.com"
+}

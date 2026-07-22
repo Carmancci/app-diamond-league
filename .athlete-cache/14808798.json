@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14808798",
+  "athleteId": "krop-jacob-ken",
+  "athlete": "KROP Jacob",
+  "country": "KEN",
+  "dob": "2001-06-04",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:28.72",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:45.71",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "02 SEP 2022"
+    },
+    "5 kilometres road": {
+      "discipline": "Men's 5 Kilometres Road",
+      "mark": "13:02",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "08 SEP 2021"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:28.72",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:53.71",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14808798",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14808798",
+  "scrapedAt": "2026-07-22T19:49:12.188Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14807288",
+  "athleteId": "kulichenko-elena-cyp",
+  "athlete": "KULICHENKO Elena",
+  "country": "CYP",
+  "dob": "2002-07-28",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.97",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "08 JUN 2024"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.91",
+      "venue": "Werk Arena, Třinec (CZE) (i)",
+      "date": "10 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14807288",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14807288",
+  "scrapedAt": "2026-07-22T19:49:00.972Z",
+  "source": "diamondleague.com"
+}

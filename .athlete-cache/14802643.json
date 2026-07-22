@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14802643",
+  "athleteId": "bett-leonard-kipkemoi-ken",
+  "athlete": "BETT Leonard Kipkemoi",
+  "country": "KEN",
+  "dob": "2000-11-03",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:06.33",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "08 SEP 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:13.37",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14802643",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14802643",
+  "scrapedAt": "2026-07-22T19:47:58.286Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14786755",
+  "athleteId": "niyomukunzi-francine-bdi",
+  "athlete": "NIYOMUKUNZI Francine",
+  "country": "BDI",
+  "dob": "1999-08-01",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:33.27",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:41.46",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:33.27",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:41.46",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14786755",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14786755",
+  "scrapedAt": "2026-07-22T19:46:06.416Z",
+  "source": "diamondleague.com"
+}

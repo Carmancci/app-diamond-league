@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14774667",
+  "athleteId": "ganter-robin-ger",
+  "athlete": "GANTER Robin",
+  "country": "GER",
+  "dob": "2001-01-03",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.60",
+      "venue": "Enwag-Stadion, Wetzlar (GER)",
+      "date": "18 MAY 2024"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.65",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14774667",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14774667",
+  "scrapedAt": "2026-07-22T19:44:54.402Z",
+  "source": "diamondleague.com"
+}

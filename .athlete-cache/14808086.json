@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14808086",
+  "athleteId": "carter-jassani-usa",
+  "athlete": "CARTER Jassani",
+  "country": "USA",
+  "dob": "2003-11-04",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.88",
+      "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.88",
+      "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14808086",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14808086",
+  "scrapedAt": "2026-07-22T19:49:04.495Z",
+  "source": "diamondleague.com"
+}

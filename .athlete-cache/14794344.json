@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14794344",
+  "athleteId": "jones-rayniah-usa",
+  "athlete": "JONES Rayniah",
+  "country": "USA",
+  "dob": "2001-09-28",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.43",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.43",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14794344",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14794344",
+  "scrapedAt": "2026-07-22T19:46:49.844Z",
+  "source": "diamondleague.com"
+}

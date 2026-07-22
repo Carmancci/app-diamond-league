@@ -8,127 +8,5053 @@
   "countryName": "Reino Unido",
   "stadium": "London Stadium",
   "date": "2026-07-18",
+  "timezone": "Europe/London",
   "isFinal": false,
   "officialUrl": "https://london.diamondleague.com",
-  "source": null,
-  "updatedAt": "2026-07-10T12:51:58.861Z",
+  "state": "confirmado_oficial",
+  "source": {
+    "type": "swiss_timing_json",
+    "url": "https://ath-wdl-archive.azureedge.net/2026/london.json",
+    "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/LONDON_2026/PDF_ATH-------------------------------_MUL.PDF",
+    "checksum": "a522a7755d0babea6bf60e580cb1e7635476f2c1178c045fa597c2535d5513fe",
+    "collectedAt": "2026-07-22T19:42:43.200Z",
+    "parserVersion": "2.0.0",
+    "state": "confirmado_oficial"
+  },
+  "updatedAt": "2026-07-22T19:42:43.200Z",
+  "eventCount": 24,
+  "athleteCount": 214,
   "events": [
     {
-      "id": "london-100m-men",
-      "discipline": "100m",
-      "category": "sprints",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-400m-men",
-      "discipline": "400m",
-      "category": "sprints",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-800m-men",
-      "discipline": "800m",
-      "category": "middle",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-1-mile-men",
-      "discipline": "1 Mile",
-      "category": "middle",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-110m-hurdles-men",
-      "discipline": "110m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-400m-hurdles-men",
-      "discipline": "400m Hurdles",
-      "category": "hurdles",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-pole-vault-men",
-      "discipline": "Pole Vault",
-      "category": "jumps",
-      "gender": "men",
-      "isPrimary": true,
-      "results": []
-    },
-    {
-      "id": "london-200m-women",
+      "id": "london-200m-women-102-1020040",
       "discipline": "200m",
       "category": "sprints",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.1",
+      "startTime": "15:15",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "21.34",
+          "holder": "GRIFFITH JOYNER Florence",
+          "holderCountry": "USA",
+          "location": "Seoul",
+          "date": "1988-09-29T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "21.63",
+          "holder": "SCHIPPERS Dafne",
+          "holderCountry": "NED",
+          "location": "Beijing",
+          "date": "2015-08-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "21.51",
+          "holder": "ALFRED Julien",
+          "holderCountry": "LCA",
+          "location": "Monaco",
+          "date": "2026-07-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "21.48",
+          "holder": "JACKSON Shericka",
+          "holderCountry": "JAM",
+          "location": "Bruxelles",
+          "date": "2023-09-08T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "21.66",
+          "holder": "ALFRED Julien",
+          "holderCountry": "LCA",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "21.71",
+          "holder": "ALFRED Julien",
+          "holderCountry": "LCA",
+          "location": "London",
+          "date": "2025-07-19T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "ALFRED Julien",
+          "athleteId": "alfred-julien-lca",
+          "dlId": "14646562",
+          "country": "LCA",
+          "bib": 84,
+          "mark": "21.66",
+          "note": "MR",
+          "qualificationRank": 2,
+          "qualificationPoints": 24,
+          "dob": "2001-06-10",
+          "personalBest": "21.51",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.51",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14646562"
+          },
+          "seasonBest": "21.51",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.51",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14646562"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "THOMAS Gabrielle",
+          "athleteId": "thomas-gabrielle-usa",
+          "dlId": "14733520",
+          "country": "USA",
+          "bib": 111,
+          "mark": "21.81",
+          "qualificationRank": 6,
+          "qualificationPoints": 13,
+          "dob": "1996-12-07",
+          "personalBest": "21.60",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.60",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "09 JUL 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14733520"
+          },
+          "seasonBest": "21.70",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.70",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14733520"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "MILLER-UIBO Shaunae",
+          "athleteId": "miller-uibo-shaunae-bah",
+          "dlId": "14368116",
+          "country": "BAH",
+          "bib": 15,
+          "mark": "22.24",
+          "qualificationRank": 1,
+          "qualificationPoints": 25,
+          "dob": "1994-04-15",
+          "personalBest": "21.74",
+          "personalBestDetails": {
+            "mark": "21.74"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "ASHER-SMITH Dina",
+          "athleteId": "asher-smith-dina-gbr",
+          "dlId": "14378282",
+          "country": "GBR",
+          "bib": 29,
+          "mark": "22.28",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 9,
+          "dob": "1995-12-04",
+          "personalBest": "21.88",
+          "personalBestDetails": {
+            "mark": "21.88"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "HUNT Amy",
+          "athleteId": "hunt-amy-gbr",
+          "dlId": "14685108",
+          "country": "GBR",
+          "bib": 45,
+          "mark": "22.30",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 15,
+          "dob": "2002-05-15",
+          "personalBest": "22.08",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.08",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "18 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          },
+          "seasonBest": "22.30",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.30",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685108"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "EDUAN Success",
+          "athleteId": "eduan-success-gbr",
+          "dlId": "14836740",
+          "country": "GBR",
+          "bib": 34,
+          "mark": "22.53",
+          "qualificationRank": 16,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "BATTLE Anavia",
+          "athleteId": "battle-anavia-usa",
+          "dlId": "14715397",
+          "country": "USA",
+          "bib": 105,
+          "mark": "22.55",
+          "qualificationRank": 3,
+          "qualificationPoints": 23,
+          "dob": "1999-03-28",
+          "personalBest": "21.95",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.95",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "26 JUN 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715397"
+          },
+          "seasonBest": "22.21",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.21",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "14 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715397"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "STURGIS Cambrea",
+          "athleteId": "sturgis-cambrea-usa",
+          "dlId": "14674111",
+          "country": "USA",
+          "bib": 109,
+          "mark": "22.57",
+          "qualificationRank": 7,
+          "qualificationPoints": 13,
+          "dob": "1999-03-27",
+          "personalBest": "21.93",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.93",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          },
+          "seasonBest": "21.93",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.93",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          }
+        }
+      ]
     },
     {
-      "id": "london-400m-women",
+      "id": "london-400m-women-104-1040040",
       "discipline": "400m",
       "category": "sprints",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:14",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "47.60",
+          "holder": "KOCH Marita",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "47.78",
+          "holder": "McLAUGHLIN-LEVRONE Sydney",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "2025-09-18T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.57",
+          "holder": "PRYCE Nickisha",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "PAULINO Marileidy",
+          "athleteId": "paulino-marileidy-dom",
+          "dlId": "14749613",
+          "country": "DOM",
+          "bib": 18,
+          "mark": "48.97",
+          "qualificationRank": 1,
+          "qualificationPoints": 32,
+          "dob": "1996-10-25",
+          "personalBest": "47.98",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "47.98",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "18 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14749613"
+          },
+          "seasonBest": "48.48",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "48.48",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14749613"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "JÆGER Henriette",
+          "athleteId": "j-ger-henriette-nor",
+          "dlId": "14780807",
+          "country": "NOR",
+          "bib": 94,
+          "mark": "49.15",
+          "note": "NR",
+          "qualificationRank": 4,
+          "qualificationPoints": 23,
+          "dob": "2003-06-30",
+          "personalBest": "49.15",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.15",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14780807"
+          },
+          "seasonBest": "49.15",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.15",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14780807"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "WILLIAMS Stacey Ann",
+          "athleteId": "williams-stacey-ann-jam",
+          "dlId": "14630564",
+          "country": "JAM",
+          "bib": 81,
+          "mark": "49.52",
+          "qualificationRank": 8,
+          "qualificationPoints": 17,
+          "dob": "1999-03-08",
+          "personalBest": "49.48",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.48",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "26 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14630564"
+          },
+          "seasonBest": "49.48",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.48",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "26 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14630564"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "PRYCE Nickisha",
+          "athleteId": "pryce-nickisha-jam",
+          "dlId": "14685519",
+          "country": "JAM",
+          "bib": 80,
+          "mark": "50.09",
+          "qualificationRank": 2,
+          "qualificationPoints": 28,
+          "dob": "2001-03-07",
+          "personalBest": "48.57",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "48.57",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685519"
+          },
+          "seasonBest": "49.56",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.56",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685519"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "BUKOWIECKA Natalia",
+          "athleteId": "bukowiecka-natalia-pol",
+          "dlId": "14642563",
+          "country": "POL",
+          "bib": 96,
+          "mark": "50.10",
+          "note": "=SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 19,
+          "dob": "1998-01-17",
+          "personalBest": "48.90",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "48.90",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14642563"
+          },
+          "seasonBest": "50.10",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.10",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14642563"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "GÓMEZ Roxana",
+          "athleteId": "gomez-roxana-cub",
+          "dlId": "14637147",
+          "country": "CUB",
+          "bib": 17,
+          "mark": "50.14",
+          "qualificationRank": 5,
+          "qualificationPoints": 21,
+          "dob": "1999-01-07",
+          "personalBest": "49.48",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.48",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "18 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14637147"
+          },
+          "seasonBest": "50.07",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.07",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14637147"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "JOHN Yemi Mary",
+          "athleteId": "john-yemi-mary-gbr",
+          "dlId": "14928278",
+          "country": "GBR",
+          "bib": 46,
+          "mark": "50.24",
+          "qualificationRank": 16,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 8,
+          "athlete": "HENRICH Charlotte",
+          "athleteId": "henrich-charlotte-gbr",
+          "dlId": "14981761",
+          "country": "GBR",
+          "bib": 43,
+          "mark": "50.45",
+          "note": "PB",
+          "qualificationRank": 21,
+          "qualificationPoints": 1
+        }
+      ]
     },
     {
-      "id": "london-800m-women",
+      "id": "london-800m-women-111-1110040",
       "discipline": "800m",
       "category": "middle",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:51",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:53.28",
+          "holder": "KRATOCHVÍLOVÁ Jarmila",
+          "holderCountry": "TCH",
+          "location": "München",
+          "date": "1983-07-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:54.01",
+          "holder": "JELIMO Pamela",
+          "holderCountry": "KEN",
+          "location": "Zürich",
+          "date": "2008-08-29T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:54.44",
+          "holder": "QUIROT Ana Fidelia",
+          "holderCountry": "CUB",
+          "location": "Barcelona",
+          "date": "1989-09-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:57.01",
+          "holder": "BILLINGS Sarah",
+          "holderCountry": "AUS",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:53.80",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:53.80",
+          "holder": "WERRO Audrey",
+          "holderCountry": "SUI",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:54.61",
+          "holder": "HODGKINSON Keely",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HODGKINSON Keely",
+          "athleteId": "hodgkinson-keely-gbr",
+          "dlId": "14642894",
+          "country": "GBR",
+          "bib": 44,
+          "mark": "1:56.21",
+          "qualificationRank": 2,
+          "qualificationPoints": 22,
+          "dob": "2002-03-03",
+          "personalBest": "1:54.33",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:54.33",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14642894"
+          },
+          "seasonBest": "1:54.33",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:54.33",
+            "venue": "Olympiastadion, Stockholm (SWE)",
+            "date": "07 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14642894"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "BROEDERS-BOL Femke",
+          "athleteId": "broeders-bol-femke-ned",
+          "dlId": "14707010",
+          "country": "NED",
+          "bib": 86,
+          "mark": "1:56.46",
+          "qualificationRank": 7,
+          "qualificationPoints": 14,
+          "dob": "2000-02-23",
+          "personalBest": "1:55.60",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:55.60",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14707010"
+          },
+          "seasonBest": "1:55.60",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:55.60",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14707010"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "DUGUMA Tsige",
+          "athleteId": "duguma-tsige-eth",
+          "dlId": "14774192",
+          "country": "ETH",
+          "bib": 23,
+          "mark": "1:56.92",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 20,
+          "dob": "2001-02-23",
+          "personalBest": "1:56.64",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:56.64",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "03 MAY 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14774192"
+          },
+          "seasonBest": "1:56.92",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:56.92",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14774192"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "BILLINGS Sarah",
+          "athleteId": "billings-sarah-aus",
+          "dlId": "14464575",
+          "country": "AUS",
+          "bib": 1,
+          "mark": "1:58.16",
+          "qualificationRank": 10,
+          "qualificationPoints": 10,
+          "dob": "1998-03-07",
+          "personalBest": "1:57.01",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:57.01",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14464575"
+          },
+          "seasonBest": "1:57.01",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:57.01",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14464575"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "REEKIE Jemma",
+          "athleteId": "reekie-jemma-gbr",
+          "dlId": "14533469",
+          "country": "GBR",
+          "bib": 57,
+          "mark": "1:58.60",
+          "qualificationRank": 16,
+          "qualificationPoints": 4,
+          "dob": "1998-03-06",
+          "personalBest": "1:55.61",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:55.61",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14533469"
+          },
+          "seasonBest": "1:58.41",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:58.41",
+            "venue": "Woodside Stadium, Watford (GBR)",
+            "date": "11 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14533469"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "BOFFEY Isabelle",
+          "athleteId": "boffey-isabelle-gbr",
+          "dlId": "14643787",
+          "country": "GBR",
+          "bib": 31,
+          "mark": "1:58.85",
+          "qualificationRank": 18,
+          "qualificationPoints": 3,
+          "dob": "2000-04-13"
+        },
+        {
+          "rank": 7,
+          "athlete": "WILEY Addison",
+          "athleteId": "wiley-addison-usa",
+          "dlId": "14907337",
+          "country": "USA",
+          "bib": 112,
+          "mark": "2:00.01",
+          "qualificationRank": 6,
+          "qualificationPoints": 16
+        },
+        {
+          "rank": null,
+          "athlete": "MALONEY Shafiqua",
+          "athleteId": "maloney-shafiqua-vin",
+          "dlId": "14574729",
+          "country": "VIN",
+          "bib": 113,
+          "mark": "DNF",
+          "qualificationRank": 22,
+          "qualificationPoints": 1,
+          "status": "DNF",
+          "dob": "1999-02-27",
+          "personalBest": "1:57.29",
+          "personalBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:57.29",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "28 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14574729"
+          },
+          "seasonBest": "1:57.34",
+          "seasonBestDetails": {
+            "discipline": "Women's 800 Metres",
+            "mark": "1:57.34",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14574729"
+          }
+        }
+      ]
     },
     {
-      "id": "london-3000m-women",
+      "id": "london-3000m-women-116-1160040",
       "discipline": "3000m",
       "category": "distance",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:35",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "8:06.11",
+          "holder": "WANG Junxia",
+          "holderCountry": "CHN",
+          "location": "Beijing",
+          "date": "1993-09-13T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:07.04",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:18.49",
+          "holder": "HASSAN Sifan",
+          "holderCountry": "NED",
+          "location": "Palo Alto, CA",
+          "date": "2019-06-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "8:24.20",
+          "holder": "GRIFFITH Georgia",
+          "holderCountry": "AUS",
+          "location": "Oslo",
+          "date": "2024-05-30T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "8:08.95",
+          "holder": "NGETICH Agnes Jebet",
+          "holderCountry": "KEN",
+          "location": "Monaco",
+          "date": "2026-07-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "8:07.04",
+          "holder": "KIPYEGON Faith",
+          "holderCountry": "KEN",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "8:21.64",
+          "holder": "O'SULLIVAN Sonia",
+          "holderCountry": "IRL",
+          "location": "London",
+          "date": "1994-07-15T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HULL Jessica",
+          "athleteId": "hull-jessica-aus",
+          "dlId": "14464506",
+          "country": "AUS",
+          "bib": 8,
+          "mark": "8:24.69",
+          "note": "SB",
+          "qualificationRank": 10,
+          "qualificationPoints": 8,
+          "dob": "1996-10-22",
+          "seasonBest": "8:24.69",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:24.69",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14464506"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "DAVIES Rose",
+          "athleteId": "davies-rose-aus",
+          "dlId": "14517594",
+          "country": "AUS",
+          "bib": 3,
+          "mark": "8:25.38",
+          "note": "PB",
+          "qualificationRank": 11,
+          "qualificationPoints": 8,
+          "dob": "1999-12-21",
+          "personalBest": "8:25.38",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:25.38",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14517594"
+          },
+          "seasonBest": "8:25.38",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:25.38",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14517594"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "HEALY Sarah",
+          "athleteId": "healy-sarah-irl",
+          "dlId": "14705242",
+          "country": "IRL",
+          "bib": 73,
+          "mark": "8:25.63",
+          "note": "PB",
+          "qualificationRank": 13,
+          "qualificationPoints": 6,
+          "dob": "2001-02-13",
+          "personalBest": "8:25.63",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:25.63",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14705242"
+          },
+          "seasonBest": "8:25.63",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:25.63",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14705242"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "NUTTALL Hannah",
+          "athleteId": "nuttall-hannah-gbr",
+          "dlId": "14523341",
+          "country": "GBR",
+          "bib": 55,
+          "mark": "8:26.48",
+          "note": "PB",
+          "qualificationRank": 17,
+          "qualificationPoints": 5,
+          "dob": "1997-07-07",
+          "personalBest": "8:26.48",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:26.48",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14523341"
+          },
+          "seasonBest": "8:26.48",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:26.48",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14523341"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "BELAYNEH Fantaye",
+          "athleteId": "belayneh-fantaye-eth",
+          "dlId": "14977672",
+          "country": "ETH",
+          "bib": 22,
+          "mark": "8:26.98",
+          "note": "PB",
+          "qualificationRank": 12,
+          "qualificationPoints": 6
+        },
+        {
+          "rank": 6,
+          "athlete": "HALL Linden",
+          "athleteId": "hall-linden-aus",
+          "dlId": "14272002",
+          "country": "AUS",
+          "bib": 5,
+          "mark": "8:27.16",
+          "qualificationRank": 14,
+          "qualificationPoints": 6,
+          "dob": "1991-06-20"
+        },
+        {
+          "rank": 7,
+          "athlete": "GRIFFITH Georgia",
+          "athleteId": "griffith-georgia-aus",
+          "dlId": "14549778",
+          "country": "AUS",
+          "bib": 4,
+          "mark": "8:27.94",
+          "note": "SB",
+          "qualificationRank": 24,
+          "qualificationPoints": 2,
+          "dob": "1996-12-05",
+          "personalBest": "8:24.20",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:24.20",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "30 MAY 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14549778"
+          },
+          "seasonBest": "8:27.94",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:27.94",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14549778"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "EISA Medina",
+          "athleteId": "eisa-medina-eth",
+          "dlId": "14985841",
+          "country": "ETH",
+          "bib": 24,
+          "mark": "8:27.99",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 13
+        },
+        {
+          "rank": 9,
+          "athlete": "ABERA Hawi",
+          "athleteId": "abera-hawi-eth",
+          "dlId": "15058804",
+          "country": "ETH",
+          "bib": 20,
+          "mark": "8:28.00",
+          "qualificationRank": 8,
+          "qualificationPoints": 9
+        },
+        {
+          "rank": 10,
+          "athlete": "ALEMAYO Marta",
+          "athleteId": "alemayo-marta-eth",
+          "dlId": "15131346",
+          "country": "ETH",
+          "bib": 21,
+          "mark": "8:29.09",
+          "note": "PB",
+          "qualificationRank": 6,
+          "qualificationPoints": 11
+        },
+        {
+          "rank": 11,
+          "athlete": "MUIR Laura",
+          "athleteId": "muir-laura-gbr",
+          "dlId": "14422111",
+          "country": "GBR",
+          "bib": 50,
+          "mark": "8:31.77",
+          "note": "SB",
+          "dob": "1993-05-09",
+          "seasonBest": "8:31.77",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:31.77",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14422111"
+          }
+        },
+        {
+          "rank": 12,
+          "athlete": "MESHESHA Hirut",
+          "athleteId": "meshesha-hirut-eth",
+          "dlId": "14805826",
+          "country": "ETH",
+          "bib": 25,
+          "mark": "8:32.04",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 10,
+          "dob": "2001-01-20",
+          "personalBest": "8:22.72",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:22.72",
+            "venue": "Ansin Sports Complex, Miramar, FL (USA)",
+            "date": "04 MAY 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14805826"
+          },
+          "seasonBest": "8:32.04",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:32.04",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14805826"
+          }
+        },
+        {
+          "rank": 13,
+          "athlete": "TANAKA Nozomi",
+          "athleteId": "tanaka-nozomi-jpn",
+          "dlId": "14632538",
+          "country": "JPN",
+          "bib": 82,
+          "mark": "8:32.29",
+          "note": "NR",
+          "dob": "1999-09-04",
+          "personalBest": "8:32.29",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:32.29",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14632538"
+          },
+          "seasonBest": "8:32.29",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:32.29",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14632538"
+          }
+        },
+        {
+          "rank": 14,
+          "athlete": "KEITH Megan",
+          "athleteId": "keith-megan-gbr",
+          "dlId": "14918707",
+          "country": "GBR",
+          "bib": 47,
+          "mark": "8:32.58",
+          "qualificationRank": 26,
+          "qualificationPoints": 2
+        },
+        {
+          "rank": 15,
+          "athlete": "GARCÍA Marta",
+          "athleteId": "garcia-marta-esp",
+          "dlId": "14635475",
+          "country": "ESP",
+          "bib": 19,
+          "mark": "8:34.80",
+          "dob": "1998-01-01",
+          "personalBest": "8:29.32",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:29.32",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "30 MAY 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14635475"
+          }
+        },
+        {
+          "rank": 15,
+          "athlete": "WALKER Eloise",
+          "athleteId": "walker-eloise-gbr",
+          "dlId": "14655138",
+          "country": "GBR",
+          "bib": 66,
+          "mark": "8:34.80",
+          "note": "PB",
+          "dob": "2001-05-27",
+          "personalBest": "8:34.80",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:34.80",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14655138"
+          },
+          "seasonBest": "8:34.80",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:34.80",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14655138"
+          }
+        },
+        {
+          "rank": 17,
+          "athlete": "FITZGERALD Innes",
+          "athleteId": "fitzgerald-innes-gbr",
+          "dlId": "15033317",
+          "country": "GBR",
+          "bib": 36,
+          "mark": "8:35.42"
+        },
+        {
+          "rank": 18,
+          "athlete": "AKIDOR Margaret",
+          "athleteId": "akidor-margaret-ken",
+          "dlId": "14798242",
+          "country": "KEN",
+          "bib": 83,
+          "mark": "8:37.45",
+          "note": "SB",
+          "dob": "2002-06-26",
+          "personalBest": "8:29.88",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:29.88",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "02 SEP 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14798242"
+          },
+          "seasonBest": "8:37.45",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:37.45",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14798242"
+          }
+        },
+        {
+          "rank": 19,
+          "athlete": "RYAN Lauren",
+          "athleteId": "ryan-lauren-aus",
+          "dlId": "14667446",
+          "country": "AUS",
+          "bib": 14,
+          "mark": "8:41.85",
+          "dob": "1998-03-15",
+          "personalBest": "8:33.66",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:33.66",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14667446"
+          },
+          "seasonBest": "8:33.66",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:33.66",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14667446"
+          }
+        },
+        {
+          "rank": null,
+          "athlete": "SJÖBERG Vera",
+          "athleteId": "sjoberg-vera-swe",
+          "dlId": "14775610",
+          "country": "SWE",
+          "bib": 102,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "2001-05-19"
+        }
+      ]
     },
     {
-      "id": "london-high-jump-women",
+      "id": "london-high-jump-women-181-1810040",
       "discipline": "High Jump",
       "category": "jumps",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:10",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "2.10",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "2.04",
+          "holder": "OLYSLAGERS Nicola",
+          "holderCountry": "AUS",
+          "location": "Zürich",
+          "date": "2025-08-27T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "2.05",
+          "holder": "LOWE Chaunte",
+          "holderCountry": "USA",
+          "location": "Des Moines, IA",
+          "date": "2010-06-26T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "2.03",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Lviv",
+          "date": "2026-01-17T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "2.10",
+          "holder": "MAHUCHIKH Yaroslava",
+          "holderCountry": "UKR",
+          "location": "Paris",
+          "date": "2024-07-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "2.05",
+          "holder": "BERGQVIST Kajsa",
+          "holderCountry": "SWE",
+          "location": "London",
+          "date": "2006-07-28T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "OLYSLAGERS Nicola",
+          "athleteId": "olyslagers-nicola-aus",
+          "dlId": "14455361",
+          "country": "AUS",
+          "bib": 12,
+          "mark": "2.01",
+          "note": "SB",
+          "qualificationRank": 7,
+          "qualificationPoints": 8,
+          "dob": "1996-12-28",
+          "personalBest": "2.04",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.04",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "27 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14455361"
+          },
+          "seasonBest": "2.01",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.01",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14455361"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "MAHUCHIKH Yaroslava",
+          "athleteId": "mahuchikh-yaroslava-ukr",
+          "dlId": "14739628",
+          "country": "UKR",
+          "bib": 104,
+          "mark": "2.01",
+          "qualificationRank": 2,
+          "qualificationPoints": 15,
+          "dob": "2001-09-19",
+          "personalBest": "2.10",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.10",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "07 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14739628"
+          },
+          "seasonBest": "2.03",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.03",
+            "venue": "Arena SKIF, Lviv (UKR) (i)",
+            "date": "17 JAN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14739628"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "PATTERSON Eleanor",
+          "athleteId": "patterson-eleanor-aus",
+          "dlId": "14411267",
+          "country": "AUS",
+          "bib": 13,
+          "mark": "1.96",
+          "qualificationRank": 1,
+          "qualificationPoints": 17,
+          "dob": "1996-05-22",
+          "personalBest": "2.02",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.02",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "19 JUL 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14411267"
+          },
+          "seasonBest": "2.00",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.00",
+            "venue": "Kennedyplatz, Essen (GER)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14411267"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "ZODZIK Maria",
+          "athleteId": "zodzik-maria-pol",
+          "dlId": "14620985",
+          "country": "POL",
+          "bib": 97,
+          "mark": "1.96",
+          "qualificationRank": 5,
+          "qualificationPoints": 11,
+          "dob": "1997-01-19",
+          "personalBest": "2.00",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.00",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "21 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14620985"
+          },
+          "seasonBest": "1.98",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "1.98",
+            "venue": "Arena Toruń, Toruń (POL) (i)",
+            "date": "22 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14620985"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "TOPIC Angelina",
+          "athleteId": "topic-angelina-srb",
+          "dlId": "14841858",
+          "country": "SRB",
+          "bib": 100,
+          "mark": "1.96",
+          "qualificationRank": 6,
+          "qualificationPoints": 10
+        },
+        {
+          "rank": 6,
+          "athlete": "DISTIN Lamara",
+          "athleteId": "distin-lamara-jam",
+          "dlId": "14630614",
+          "country": "JAM",
+          "bib": 79,
+          "mark": "1.93",
+          "qualificationRank": 4,
+          "qualificationPoints": 13,
+          "dob": "2000-03-03",
+          "personalBest": "2.00",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.00",
+            "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+            "date": "24 FEB 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14630614"
+          },
+          "seasonBest": "1.96",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "1.96",
+            "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+            "date": "24 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14630614"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "VUKOVIC Marija",
+          "athleteId": "vukovic-marija-mne",
+          "dlId": "14300447",
+          "country": "MNE",
+          "bib": 115,
+          "mark": "1.85",
+          "qualificationRank": 13,
+          "qualificationPoints": 2,
+          "dob": "1992-01-21",
+          "personalBest": "1.98",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "1.98",
+            "venue": "Filothei Stadium, Athina (GRE)",
+            "date": "03 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14300447"
+          },
+          "seasonBest": "1.98",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "1.98",
+            "venue": "Filothei Stadium, Athina (GRE)",
+            "date": "03 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14300447"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "LAKE Morgan",
+          "athleteId": "lake-morgan-gbr",
+          "dlId": "14409457",
+          "country": "GBR",
+          "bib": 48,
+          "mark": "1.85",
+          "qualificationRank": 10,
+          "qualificationPoints": 2,
+          "dob": "1997-05-12",
+          "personalBest": "2.00",
+          "personalBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "2.00",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "27 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14409457"
+          },
+          "seasonBest": "1.88",
+          "seasonBestDetails": {
+            "discipline": "Women's High Jump",
+            "mark": "1.88",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14409457"
+          }
+        }
+      ]
     },
     {
-      "id": "london-long-jump-women",
+      "id": "london-long-jump-women-183-1830040",
       "discipline": "Long Jump",
       "category": "jumps",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:49",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "7.52",
+          "holder": "CHISTYAKOVA Galina",
+          "holderCountry": "URS",
+          "location": "Leningrad",
+          "date": "1988-06-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7.26",
+          "holder": "MAGGI Maurren Higa",
+          "holderCountry": "BRA",
+          "location": "Bogotá",
+          "date": "1999-06-25T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7.49",
+          "holder": "JOYNER-KERSEE Jackie",
+          "holderCountry": "USA",
+          "location": "New York, NY",
+          "date": "1994-05-22T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "7.49",
+          "holder": "JOYNER-KERSEE Jackie",
+          "holderCountry": "USA",
+          "location": "Sestriere",
+          "date": "1994-07-31T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "7.20",
+          "holder": "DAVIS-WOODHALL Tara",
+          "holderCountry": "USA",
+          "location": "Los Angeles, CA",
+          "date": "2026-06-14T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "7.25",
+          "holder": "REESE Brittney",
+          "holderCountry": "USA",
+          "location": "Doha",
+          "date": "2013-05-10T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "7.09",
+          "holder": "MIHAMBO Malaika",
+          "holderCountry": "GER",
+          "location": "Birmingham",
+          "date": "2022-05-21T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MIHAMBO Malaika",
+          "athleteId": "mihambo-malaika-ger",
+          "dlId": "14377384",
+          "country": "GER",
+          "bib": 70,
+          "mark": "7.05",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 15,
+          "dob": "1994-02-03",
+          "personalBest": "7.30",
+          "personalBestDetails": {
+            "mark": "7.30"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "BRYANT Claire",
+          "athleteId": "bryant-claire-usa",
+          "dlId": "14716940",
+          "country": "USA",
+          "bib": 106,
+          "mark": "6.94",
+          "note": "SB",
+          "qualificationRank": 5,
+          "qualificationPoints": 14,
+          "dob": "2001-08-25",
+          "personalBest": "6.96",
+          "personalBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.96",
+            "venue": "Sports Training Center, Nanjing (CHN) (i)",
+            "date": "23 MAR 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14716940"
+          },
+          "seasonBest": "6.94",
+          "seasonBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.94",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14716940"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "IAPICHINO Larissa",
+          "athleteId": "iapichino-larissa-ita",
+          "dlId": "14827877",
+          "country": "ITA",
+          "bib": 78,
+          "mark": "6.82",
+          "qualificationRank": 1,
+          "qualificationPoints": 24
+        },
+        {
+          "rank": 4,
+          "athlete": "KPATCHA Hilary",
+          "athleteId": "kpatcha-hilary-fra",
+          "dlId": "14576455",
+          "country": "FRA",
+          "bib": 26,
+          "mark": "6.72",
+          "qualificationRank": 4,
+          "qualificationPoints": 15,
+          "dob": "1998-05-05",
+          "personalBest": "7.02",
+          "personalBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "7.02",
+            "venue": "Central Square, Kalamata (GRE)",
+            "date": "30 MAY 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576455"
+          },
+          "seasonBest": "6.74",
+          "seasonBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.74",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14576455"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "de SOUSA Agate",
+          "athleteId": "de-sousa-agate-por",
+          "dlId": "14816707",
+          "country": "POR",
+          "bib": 98,
+          "mark": "6.67",
+          "qualificationRank": 7,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 6,
+          "athlete": "HADAWAY Lucy",
+          "athleteId": "hadaway-lucy-gbr",
+          "dlId": "14621111",
+          "country": "GBR",
+          "bib": 40,
+          "mark": "6.64",
+          "qualificationRank": 14,
+          "qualificationPoints": 3,
+          "dob": "2000-06-11",
+          "personalBest": "6.75",
+          "personalBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.75",
+            "venue": "Birmingham University Athletics Track, Birmingham (GBR)",
+            "date": "14 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14621111"
+          },
+          "seasonBest": "6.75",
+          "seasonBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.75",
+            "venue": "Birmingham University Athletics Track, Birmingham (GBR)",
+            "date": "14 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14621111"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "VERMAN Ramona Elena",
+          "athleteId": "verman-ramona-elena-rou",
+          "dlId": "14777873",
+          "country": "ROU",
+          "bib": 99,
+          "mark": "6.62",
+          "qualificationRank": 16,
+          "qualificationPoints": 2,
+          "dob": "2004-03-03",
+          "personalBest": "6.78",
+          "personalBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.78",
+            "venue": "Panthessaliko Stadium, Volos (GRE)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14777873"
+          },
+          "seasonBest": "6.78",
+          "seasonBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.78",
+            "venue": "Panthessaliko Stadium, Volos (GRE)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14777873"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "SAWYERS Jazmin",
+          "athleteId": "sawyers-jazmin-gbr",
+          "dlId": "14372810",
+          "country": "GBR",
+          "bib": 61,
+          "mark": "6.53",
+          "qualificationRank": 18,
+          "qualificationPoints": 1,
+          "dob": "1994-05-21",
+          "personalBest": "7.00",
+          "personalBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "7.00",
+            "venue": "Ataköy Arena, Istanbul (TUR) (i)",
+            "date": "05 MAR 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14372810"
+          },
+          "seasonBest": "6.80",
+          "seasonBestDetails": {
+            "discipline": "Women's Long Jump",
+            "mark": "6.80",
+            "venue": "Sola Arena, Karlstad (SWE)",
+            "date": "08 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14372810"
+          }
+        },
+        {
+          "rank": null,
+          "athlete": "LINARES Natalia",
+          "athleteId": "linares-natalia-col",
+          "dlId": "14841613",
+          "country": "COL",
+          "bib": 16,
+          "mark": "DNS",
+          "qualificationRank": 8,
+          "qualificationPoints": 7,
+          "status": "DNS"
+        }
+      ]
     },
     {
-      "id": "london-discus-throw-women",
+      "id": "london-discus-throw-women-186-1860040",
       "discipline": "Discus Throw",
       "category": "throws",
       "gender": "women",
       "isPrimary": true,
-      "results": []
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:04",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "76.80",
+          "holder": "REINSCH Gabriele",
+          "holderCountry": "GDR",
+          "location": "Neubrandenburg",
+          "date": "1988-07-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "73.52",
+          "holder": "ALLMAN Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2025-04-12T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "73.10",
+          "holder": "SION Valarie",
+          "holderCountry": "USA",
+          "location": "Ramona, OK",
+          "date": "2026-04-11T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.38",
+          "holder": "PERKOVIC Sandra",
+          "holderCountry": "CRO",
+          "location": "Doha",
+          "date": "2018-05-04T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "71.72",
+          "holder": "JACKSON Cierra",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "69.94",
+          "holder": "PERKOVIC Sandra",
+          "holderCountry": "CRO",
+          "location": "London",
+          "date": "2016-07-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "71.72",
+          "holder": "JACKSON Cierra",
+          "holderCountry": "USA",
+          "date": "2026-07-18T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "JACKSON Cierra",
+          "athleteId": "jackson-cierra-usa",
+          "dlId": "14839155",
+          "country": "USA",
+          "bib": 107,
+          "mark": "71.72",
+          "note": "DLR,MR,PB",
+          "qualificationRank": 5,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 2,
+          "athlete": "SION Valarie",
+          "athleteId": "sion-valarie-usa",
+          "dlId": "14479216",
+          "country": "USA",
+          "bib": 108,
+          "mark": "68.39",
+          "qualificationRank": 1,
+          "qualificationPoints": 31,
+          "dob": "1995-02-23",
+          "personalBest": "73.52",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "73.52",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "12 APR 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14479216"
+          },
+          "seasonBest": "73.10",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "73.10",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14479216"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "van KLINKEN Jorinde",
+          "athleteId": "van-klinken-jorinde-ned",
+          "dlId": "14676577",
+          "country": "NED",
+          "bib": 93,
+          "mark": "67.99",
+          "qualificationRank": 2,
+          "qualificationPoints": 26,
+          "dob": "2000-02-02",
+          "personalBest": "70.99",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "70.99",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          },
+          "seasonBest": "70.99",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "70.99",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "11 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14676577"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "KAMGA Vanessa",
+          "athleteId": "kamga-vanessa-swe",
+          "dlId": "14718533",
+          "country": "SWE",
+          "bib": 101,
+          "mark": "65.30",
+          "note": "SB",
+          "qualificationRank": 6,
+          "qualificationPoints": 12,
+          "dob": "1998-11-19",
+          "personalBest": "66.61",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "66.61",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "14 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14718533"
+          },
+          "seasonBest": "65.30",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "65.30",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14718533"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "van DAALEN Alida",
+          "athleteId": "van-daalen-alida-ned",
+          "dlId": "14735462",
+          "country": "NED",
+          "bib": 90,
+          "mark": "64.22",
+          "qualificationRank": 9,
+          "qualificationPoints": 4,
+          "dob": "2002-04-12",
+          "personalBest": "69.31",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "69.31",
+            "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+            "date": "30 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14735462"
+          },
+          "seasonBest": "69.31",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "69.31",
+            "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+            "date": "30 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14735462"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "TAUSAGA Laulauga",
+          "athleteId": "tausaga-laulauga-usa",
+          "dlId": "14647494",
+          "country": "USA",
+          "bib": 110,
+          "mark": "63.15",
+          "qualificationRank": 3,
+          "qualificationPoints": 16,
+          "dob": "1998-05-22",
+          "personalBest": "70.72",
+          "personalBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "70.72",
+            "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+            "date": "12 APR 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14647494"
+          },
+          "seasonBest": "65.94",
+          "seasonBestDetails": {
+            "discipline": "Women's Discus Throw",
+            "mark": "65.94",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14647494"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "CRAFT Shanice",
+          "athleteId": "craft-shanice-ger",
+          "dlId": "14361931",
+          "country": "GER",
+          "bib": 69,
+          "mark": "60.37",
+          "qualificationRank": 7,
+          "qualificationPoints": 9,
+          "dob": "1993-05-15",
+          "personalBest": "68.10",
+          "personalBestDetails": {
+            "mark": "68.10"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "OBAMAKINWA Zara",
+          "athleteId": "obamakinwa-zara-gbr",
+          "dlId": "14853283",
+          "country": "GBR",
+          "bib": 56,
+          "mark": "59.42",
+          "qualificationRank": 13,
+          "qualificationPoints": 1
+        }
+      ]
+    },
+    {
+      "id": "london-800m-men-411-4110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:18",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:40.91",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2012-08-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.11",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Köln",
+          "date": "1997-08-24T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:41.84",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:41.11",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "Lausanne",
+          "date": "2024-08-22T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:42.00",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2025-07-19T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HIGGINS Jack",
+          "athleteId": "higgins-jack-gbr",
+          "country": "GBR",
+          "bib": 240,
+          "mark": "1:45.15",
+          "note": "SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "JONAS Henry",
+          "athleteId": "jonas-henry-gbr",
+          "dlId": "15037279",
+          "country": "GBR",
+          "bib": 245,
+          "mark": "1:45.26",
+          "note": "SB"
+        },
+        {
+          "rank": 3,
+          "athlete": "DAVIES Justin",
+          "athleteId": "davies-justin-gbr",
+          "country": "GBR",
+          "bib": 229,
+          "mark": "1:45.99",
+          "note": "SB"
+        },
+        {
+          "rank": 4,
+          "athlete": "DODDS Callum",
+          "athleteId": "dodds-callum-gbr",
+          "dlId": "14777460",
+          "country": "GBR",
+          "bib": 232,
+          "mark": "1:46.32",
+          "note": "SB"
+        },
+        {
+          "rank": 5,
+          "athlete": "RACE David",
+          "athleteId": "race-david-gbr",
+          "country": "GBR",
+          "bib": 258,
+          "mark": "1:46.41",
+          "note": "SB"
+        },
+        {
+          "rank": 6,
+          "athlete": "ROSS-HUGHES Harry",
+          "athleteId": "ross-hughes-harry-gbr",
+          "country": "GBR",
+          "bib": 260,
+          "mark": "1:46.64",
+          "note": "SB"
+        },
+        {
+          "rank": 7,
+          "athlete": "SHARMAN-NEWELL Reece",
+          "athleteId": "sharman-newell-reece-gbr",
+          "dlId": "14911337",
+          "country": "GBR",
+          "bib": 264,
+          "mark": "1:47.20"
+        },
+        {
+          "rank": 8,
+          "athlete": "FISHER Henry",
+          "athleteId": "fisher-henry-gbr",
+          "country": "GBR",
+          "bib": 233,
+          "mark": "1:47.26",
+          "note": "SB"
+        },
+        {
+          "rank": 9,
+          "athlete": "RABJOHNS William",
+          "athleteId": "rabjohns-william-gbr",
+          "country": "GBR",
+          "bib": 257,
+          "mark": "1:47.55",
+          "note": "SB"
+        },
+        {
+          "rank": 10,
+          "athlete": "RANDOLPH Thomas",
+          "athleteId": "randolph-thomas-gbr",
+          "dlId": "14595076",
+          "country": "GBR",
+          "bib": 259,
+          "mark": "1:47.57",
+          "note": "SB",
+          "dob": "1999-02-07",
+          "personalBest": "1:44.88",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:44.88",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "23 JUL 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14595076"
+          },
+          "seasonBest": "1:47.57",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:47.57",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14595076"
+          }
+        },
+        {
+          "rank": null,
+          "athlete": "CLARIDGE Ben",
+          "athleteId": "claridge-ben-gbr",
+          "dlId": "14595545",
+          "country": "GBR",
+          "bib": 228,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "1997-11-12"
+        }
+      ]
+    },
+    {
+      "id": "london-4x100m-relay-men-434-4340040",
+      "discipline": "4x100m Relay",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:37",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "36.84",
+          "holder": "Jamaica",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2012-08-11T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "37.36",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "37.43",
+          "holder": "Japan",
+          "holderCountry": "JPN",
+          "location": "Doha",
+          "date": "2019-10-05T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "37.87",
+          "holder": "Australia",
+          "holderCountry": "AUS",
+          "location": "Sydney",
+          "date": "2025-03-15T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "37.87",
+          "holder": "Australia",
+          "holderCountry": "AUS",
+          "location": "Gaborone",
+          "date": "2026-05-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "37.43",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Gaborone",
+          "date": "2026-05-03T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "37.45",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Zürich",
+          "date": "2010-08-19T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "37.60",
+          "holder": "Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2019-07-21T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "37.60",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2019-07-21T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Great Britain",
+          "athleteId": "great-britain-gbr",
+          "country": "GBR",
+          "bib": 514,
+          "mark": "37.95",
+          "note": "SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "Australia",
+          "athleteId": "australia-aus",
+          "country": "AUS",
+          "bib": 513,
+          "mark": "38.00"
+        },
+        {
+          "rank": 3,
+          "athlete": "Japan",
+          "athleteId": "japan-jpn",
+          "country": "JPN",
+          "bib": 520,
+          "mark": "38.66"
+        },
+        {
+          "rank": 4,
+          "athlete": "Netherlands",
+          "athleteId": "netherlands-ned",
+          "country": "NED",
+          "bib": 522,
+          "mark": "38.78"
+        },
+        {
+          "rank": 5,
+          "athlete": "Ireland",
+          "athleteId": "ireland-irl",
+          "country": "IRL",
+          "bib": 518,
+          "mark": "39.17",
+          "note": "SB"
+        },
+        {
+          "rank": 6,
+          "athlete": "Great Britain U20",
+          "athleteId": "great-britain-u20-gbr",
+          "country": "GBR",
+          "bib": 517,
+          "mark": "39.26"
+        },
+        {
+          "rank": 7,
+          "athlete": "Wales",
+          "athleteId": "wales-wal",
+          "country": "WAL",
+          "bib": 509,
+          "mark": "40.12"
+        }
+      ]
+    },
+    {
+      "id": "london-400m-women-504-5040040",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:27",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "47.60",
+          "holder": "KOCH Marita",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "48.48",
+          "holder": "PAULINO Marileidy",
+          "holderCountry": "DOM",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "48.57",
+          "holder": "PRYCE Nickisha",
+          "holderCountry": "JAM",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "NEWNHAM Emily",
+          "athleteId": "newnham-emily-gbr",
+          "dlId": "14899734",
+          "country": "GBR",
+          "bib": 52,
+          "mark": "50.32",
+          "note": "PB"
+        },
+        {
+          "rank": 2,
+          "athlete": "NIELSEN Lina",
+          "athleteId": "nielsen-lina-gbr",
+          "dlId": "14594317",
+          "country": "GBR",
+          "bib": 54,
+          "mark": "50.61",
+          "note": "PB",
+          "dob": "1996-03-13"
+        },
+        {
+          "rank": 3,
+          "athlete": "YEARGIN Nicole",
+          "athleteId": "yeargin-nicole-gbr",
+          "dlId": "14745764",
+          "country": "GBR",
+          "bib": 67,
+          "mark": "50.98",
+          "note": "=SB",
+          "dob": "1997-08-11",
+          "personalBest": "50.96",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.96",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "10 JUN 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14745764"
+          },
+          "seasonBest": "50.98",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "50.98",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14745764"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "MALIK Poppy",
+          "athleteId": "malik-poppy-gbr",
+          "dlId": "14840374",
+          "country": "GBR",
+          "bib": 116,
+          "mark": "52.07",
+          "note": "SB"
+        },
+        {
+          "rank": 5,
+          "athlete": "GRIEVE Rebecca",
+          "athleteId": "grieve-rebecca-gbr",
+          "country": "GBR",
+          "bib": 39,
+          "mark": "52.46",
+          "note": "SB"
+        },
+        {
+          "rank": 6,
+          "athlete": "HARRISON Natasha",
+          "athleteId": "harrison-natasha-gbr",
+          "dlId": "14647089",
+          "country": "GBR",
+          "bib": 42,
+          "mark": "52.58"
+        },
+        {
+          "rank": 7,
+          "athlete": "REGIS Alicia",
+          "athleteId": "regis-alicia-gbr",
+          "country": "GBR",
+          "bib": 59,
+          "mark": "52.60",
+          "note": "SB"
+        }
+      ]
+    },
+    {
+      "id": "london-4x100m-relay-women-534-5340040",
+      "discipline": "4x100m Relay",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:46",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "40.82",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2012-08-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "41.37",
+          "holder": "German Democratic Republic",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "42.48",
+          "holder": "Australia",
+          "holderCountry": "AUS",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "41.58",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-13T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "41.55",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "41.55",
+          "holder": "Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "41.55",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Great Britain 1",
+          "athleteId": "great-britain-1-gbr",
+          "country": "GBR",
+          "bib": 515,
+          "mark": "42.06",
+          "note": "SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "Australia",
+          "athleteId": "australia-aus",
+          "country": "AUS",
+          "bib": 512,
+          "mark": "43.08"
+        },
+        {
+          "rank": 3,
+          "athlete": "Great Britain 2",
+          "athleteId": "great-britain-2-gbr",
+          "country": "GBR",
+          "bib": 516,
+          "mark": "43.16"
+        },
+        {
+          "rank": null,
+          "athlete": "Netherlands",
+          "athleteId": "netherlands-ned",
+          "country": "NED",
+          "bib": 521,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "Ireland",
+          "athleteId": "ireland-irl",
+          "country": "IRL",
+          "bib": 519,
+          "mark": "DQ",
+          "status": "DQ"
+        },
+        {
+          "rank": null,
+          "athlete": "Scotland",
+          "athleteId": "scotland-sco",
+          "country": "SCO",
+          "bib": 506,
+          "mark": "DQ",
+          "status": "DQ"
+        }
+      ]
+    },
+    {
+      "id": "london-100m-para-men-810-8100040",
+      "discipline": "100m Para",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "12:36",
+      "startDate": "18 Jul 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SHAW Zachary",
+          "athleteId": "shaw-zachary-gbr",
+          "dlId": "14907937",
+          "country": "GBR",
+          "bib": 265,
+          "mark": "10.97",
+          "note": "SB"
+        },
+        {
+          "rank": 2,
+          "athlete": "SANTOS Kevin",
+          "athleteId": "santos-kevin-gbr",
+          "dlId": "15057134",
+          "country": "GBR",
+          "bib": 263,
+          "mark": "10.98"
+        },
+        {
+          "rank": 3,
+          "athlete": "ZORZI Axel",
+          "athleteId": "zorzi-axel-fra",
+          "dlId": "14987254",
+          "country": "FRA",
+          "bib": 217,
+          "mark": "11.00"
+        },
+        {
+          "rank": 4,
+          "athlete": "YOUNG Thomas",
+          "athleteId": "young-thomas-gbr",
+          "dlId": "15033162",
+          "country": "GBR",
+          "bib": 271,
+          "mark": "11.02"
+        },
+        {
+          "rank": 5,
+          "athlete": "SIENKIEWICZ Bartosz",
+          "athleteId": "sienkiewicz-bartosz-pol",
+          "country": "POL",
+          "bib": 307,
+          "mark": "11.04"
+        },
+        {
+          "rank": 6,
+          "athlete": "GROLLA Phil",
+          "athleteId": "grolla-phil-ger",
+          "country": "GER",
+          "bib": 276,
+          "mark": "11.06"
+        },
+        {
+          "rank": 7,
+          "athlete": "SAMUEL Segun",
+          "athleteId": "samuel-segun-gbr",
+          "country": "GBR",
+          "bib": 261,
+          "mark": "11.58"
+        },
+        {
+          "rank": null,
+          "athlete": "KASHAFALI Salum Ageze",
+          "athleteId": "kashafali-salum-ageze-nor",
+          "dlId": "14458706",
+          "country": "NOR",
+          "bib": 305,
+          "mark": "DNS",
+          "status": "DNS",
+          "dob": "1993-11-25"
+        }
+      ]
+    },
+    {
+      "id": "london-1500m-para-men-813-8130040",
+      "discipline": "1500m Para",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "12:44",
+      "startDate": "18 Jul 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "SANDILANDS Ben",
+          "athleteId": "sandilands-ben-gbr",
+          "dlId": "14932301",
+          "country": "GBR",
+          "bib": 262,
+          "mark": "3:49.26"
+        },
+        {
+          "rank": 2,
+          "athlete": "BRYCE Steven",
+          "athleteId": "bryce-steven-gbr",
+          "dlId": "15043718",
+          "country": "GBR",
+          "bib": 225,
+          "mark": "4:00.81"
+        },
+        {
+          "rank": 3,
+          "athlete": "BALLARD Brandon",
+          "athleteId": "ballard-brandon-irl",
+          "country": "IRL",
+          "bib": 280,
+          "mark": "4:01.05"
+        },
+        {
+          "rank": 4,
+          "athlete": "WOLFF Daniel",
+          "athleteId": "wolff-daniel-gbr",
+          "dlId": "15096692",
+          "country": "GBR",
+          "bib": 270,
+          "mark": "4:02.56"
+        },
+        {
+          "rank": 5,
+          "athlete": "MILLES Arthur",
+          "athleteId": "milles-arthur-gbr",
+          "dlId": "15234600",
+          "country": "GBR",
+          "bib": 253,
+          "mark": "4:04.35"
+        },
+        {
+          "rank": 6,
+          "athlete": "O'HARA Kieran",
+          "athleteId": "o-hara-kieran-gbr",
+          "dlId": "15032944",
+          "country": "GBR",
+          "bib": 255,
+          "mark": "4:04.44"
+        },
+        {
+          "rank": 7,
+          "athlete": "MILLER Owen",
+          "athleteId": "miller-owen-gbr",
+          "dlId": "14755476",
+          "country": "GBR",
+          "bib": 252,
+          "mark": "4:12.48"
+        },
+        {
+          "rank": null,
+          "athlete": "MARSHALL Reiss",
+          "athleteId": "marshall-reiss-gbr",
+          "country": "GBR",
+          "bib": 251,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "london-1500m-wheelchair-men-858-8580040",
+      "discipline": "1500m Wheelchair",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:07",
+      "startDate": "18 Jul 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "HUG Marcel",
+          "athleteId": "hug-marcel-sui",
+          "country": "SUI",
+          "bib": 312,
+          "mark": "2:59.24"
+        },
+        {
+          "rank": 2,
+          "athlete": "CARTER Samuel",
+          "athleteId": "carter-samuel-aus",
+          "country": "AUS",
+          "bib": 204,
+          "mark": "2:59.61"
+        },
+        {
+          "rank": 3,
+          "athlete": "RIZZO Samuel",
+          "athleteId": "rizzo-samuel-aus",
+          "country": "AUS",
+          "bib": 209,
+          "mark": "3:00.20"
+        },
+        {
+          "rank": 4,
+          "athlete": "LAKATOS Brent",
+          "athleteId": "lakatos-brent-can",
+          "country": "CAN",
+          "bib": 212,
+          "mark": "3:00.34"
+        },
+        {
+          "rank": 5,
+          "athlete": "MAGUIRE Nathan",
+          "athleteId": "maguire-nathan-gbr",
+          "country": "GBR",
+          "bib": 250,
+          "mark": "3:00.50"
+        },
+        {
+          "rank": 6,
+          "athlete": "MALTER Ludwig",
+          "athleteId": "malter-ludwig-aut",
+          "country": "AUT",
+          "bib": 210,
+          "mark": "3:00.61"
+        },
+        {
+          "rank": 7,
+          "athlete": "SIDBURY Danny",
+          "athleteId": "sidbury-danny-gbr",
+          "country": "GBR",
+          "bib": 266,
+          "mark": "3:00.98"
+        },
+        {
+          "rank": 8,
+          "athlete": "ANKER Lito",
+          "athleteId": "anker-lito-ned",
+          "country": "NED",
+          "bib": 295,
+          "mark": "3:01.35"
+        }
+      ]
+    },
+    {
+      "id": "london-100m-para-women-910-9100040",
+      "discipline": "100m Para",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.7",
+      "startTime": "12:58",
+      "startDate": "18 Jul 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "COMERFORD Orla",
+          "athleteId": "comerford-orla-irl",
+          "dlId": "14624296",
+          "country": "IRL",
+          "bib": 72,
+          "mark": "11.79",
+          "note": "PB",
+          "dob": "1997-09-14"
+        },
+        {
+          "rank": 2,
+          "athlete": "JONG Fleur",
+          "athleteId": "jong-fleur-ned",
+          "dlId": "14944885",
+          "country": "NED",
+          "bib": 88,
+          "mark": "12.22",
+          "note": "PB"
+        },
+        {
+          "rank": 3,
+          "athlete": "GRIMALDI Anna",
+          "athleteId": "grimaldi-anna-nzl",
+          "country": "NZL",
+          "bib": 95,
+          "mark": "12.59"
+        },
+        {
+          "rank": 4,
+          "athlete": "HAHN Sophie",
+          "athleteId": "hahn-sophie-gbr",
+          "dlId": "14814691",
+          "country": "GBR",
+          "bib": 41,
+          "mark": "12.99"
+        },
+        {
+          "rank": 5,
+          "athlete": "BREEN Olivia",
+          "athleteId": "breen-olivia-gbr",
+          "dlId": "15130920",
+          "country": "GBR",
+          "bib": 32,
+          "mark": "13.01"
+        },
+        {
+          "rank": 6,
+          "athlete": "CLARKE Rhiannon",
+          "athleteId": "clarke-rhiannon-aus",
+          "country": "AUS",
+          "bib": 2,
+          "mark": "13.04"
+        },
+        {
+          "rank": 7,
+          "athlete": "DOWN Maddie",
+          "athleteId": "down-maddie-gbr",
+          "country": "GBR",
+          "bib": 33,
+          "mark": "13.05"
+        },
+        {
+          "rank": 8,
+          "athlete": "HAND Macey",
+          "athleteId": "hand-macey-gbr",
+          "country": "GBR",
+          "bib": 114,
+          "mark": "13.48"
+        }
+      ]
+    },
+    {
+      "id": "london-4x100m-relay-mixed-u18-women-934-9340040",
+      "discipline": "4x100m Relay Mixed U18",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "12:13",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "40.82",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2012-08-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "41.37",
+          "holder": "German Democratic Republic",
+          "holderCountry": "GDR",
+          "location": "Canberra",
+          "date": "1985-10-06T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "41.58",
+          "holder": "United States of America",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-13T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "41.55",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "41.55",
+          "holder": "United Kingdom of Great Britain and Northern Ireland",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Blackheath & Bromley Harriers",
+          "athleteId": "blackheath-bromley-harriers-gbr",
+          "country": "GBR",
+          "bib": 502,
+          "mark": "43.75"
+        },
+        {
+          "rank": 2,
+          "athlete": "Be Fit Today Academy",
+          "athleteId": "be-fit-today-academy-gbr",
+          "country": "GBR",
+          "bib": 501,
+          "mark": "43.89"
+        },
+        {
+          "rank": 3,
+          "athlete": "Croydon Harriers",
+          "athleteId": "croydon-harriers-gbr",
+          "country": "GBR",
+          "bib": 504,
+          "mark": "44.19"
+        },
+        {
+          "rank": 4,
+          "athlete": "Shaftsbury Barnet Harriers",
+          "athleteId": "shaftsbury-barnet-harriers-gbr",
+          "country": "GBR",
+          "bib": 507,
+          "mark": "44.57"
+        },
+        {
+          "rank": 5,
+          "athlete": "Cambridge Harriers",
+          "athleteId": "cambridge-harriers-gbr",
+          "country": "GBR",
+          "bib": 503,
+          "mark": "44.69"
+        },
+        {
+          "rank": 6,
+          "athlete": "Woodford Green And Essex Ladies",
+          "athleteId": "woodford-green-and-essex-ladies-gbr",
+          "country": "GBR",
+          "bib": 511,
+          "mark": "45.31"
+        },
+        {
+          "rank": 7,
+          "athlete": "Thames Valley Harriers",
+          "athleteId": "thames-valley-harriers-gbr",
+          "country": "GBR",
+          "bib": 508,
+          "mark": "45.72"
+        },
+        {
+          "rank": 8,
+          "athlete": "Herne Hill Harriers",
+          "athleteId": "herne-hill-harriers-gbr",
+          "country": "GBR",
+          "bib": 505,
+          "mark": "46.35"
+        }
+      ]
+    },
+    {
+      "id": "london-4x100m-relay-mixed-u20-women-975-9750040",
+      "discipline": "4x100m Relay Mixed U20",
+      "category": "sprints",
+      "gender": "women",
+      "isPrimary": false,
+      "isDiamondRace": false,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "12:24",
+      "startDate": "18 Jul 2026",
+      "records": [],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "Shaftsbury Barnet Harriers",
+          "athleteId": "shaftsbury-barnet-harriers-gbr",
+          "country": "GBR",
+          "bib": 507,
+          "mark": "43.07"
+        },
+        {
+          "rank": 2,
+          "athlete": "Herne Hill Harriers",
+          "athleteId": "herne-hill-harriers-gbr",
+          "country": "GBR",
+          "bib": 505,
+          "mark": "43.72"
+        },
+        {
+          "rank": 3,
+          "athlete": "Blackheath & Bromley Harriers",
+          "athleteId": "blackheath-bromley-harriers-gbr",
+          "country": "GBR",
+          "bib": 502,
+          "mark": "43.98"
+        },
+        {
+          "rank": 4,
+          "athlete": "Wimbledon Hercules Harriers",
+          "athleteId": "wimbledon-hercules-harriers-gbr",
+          "country": "GBR",
+          "bib": 510,
+          "mark": "44.04"
+        },
+        {
+          "rank": 5,
+          "athlete": "Woodford Green And Essex Ladies",
+          "athleteId": "woodford-green-and-essex-ladies-gbr",
+          "country": "GBR",
+          "bib": 511,
+          "mark": "44.64"
+        },
+        {
+          "rank": 6,
+          "athlete": "Thames Valley Harriers",
+          "athleteId": "thames-valley-harriers-gbr",
+          "country": "GBR",
+          "bib": 508,
+          "mark": "44.84"
+        },
+        {
+          "rank": 7,
+          "athlete": "Croydon Harriers",
+          "athleteId": "croydon-harriers-gbr",
+          "country": "GBR",
+          "bib": 504,
+          "mark": "44.89"
+        },
+        {
+          "rank": null,
+          "athlete": "Be Fit Today Academy",
+          "athleteId": "be-fit-today-academy-gbr",
+          "country": "GBR",
+          "bib": 501,
+          "mark": "DNF",
+          "status": "DNF"
+        }
+      ]
+    },
+    {
+      "id": "london-100m-men-001-0010040",
+      "discipline": "100m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "-0.7",
+      "startTime": "15:04",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "9.58",
+          "holder": "BOLT Usain",
+          "holderCountry": "JAM",
+          "location": "Berlin",
+          "date": "2009-08-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.77",
+          "holder": "OMANYALA Ferdinand",
+          "holderCountry": "KEN",
+          "location": "Kasarani, Nairobi",
+          "date": "2021-09-18T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "9.80",
+          "holder": "JACOBS Lamont Marcell",
+          "holderCountry": "ITA",
+          "location": "Tokyo",
+          "date": "2021-08-01T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "9.82",
+          "holder": "SEVILLE Oblique",
+          "holderCountry": "JAM",
+          "location": "Kingston",
+          "date": "2026-06-19T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "9.69",
+          "holder": "BLAKE Yohan",
+          "holderCountry": "JAM",
+          "location": "Lausanne",
+          "date": "2012-08-23T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "9.78",
+          "holder": "GAY Tyson",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2010-08-13T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "AJAYI Kayinsola",
+          "athleteId": "ajayi-kayinsola-ngr",
+          "dlId": "14976296",
+          "country": "NGR",
+          "bib": 301,
+          "mark": "9.84",
+          "note": "=NR",
+          "qualificationRank": 12,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 2,
+          "athlete": "SEVILLE Oblique",
+          "athleteId": "seville-oblique-jam",
+          "dlId": "14737998",
+          "country": "JAM",
+          "bib": 287,
+          "mark": "9.87",
+          "qualificationRank": 6,
+          "qualificationPoints": 15,
+          "dob": "2001-03-16",
+          "personalBest": "9.77",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.77",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "14 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14737998"
+          },
+          "seasonBest": "9.82",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.82",
+            "venue": "National Stadium, Kingston (JAM)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14737998"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "GLAVE Romell",
+          "athleteId": "glave-romell-gbr",
+          "dlId": "14759041",
+          "country": "GBR",
+          "bib": 235,
+          "mark": "9.97",
+          "note": "PB",
+          "qualificationRank": 14,
+          "qualificationPoints": 6,
+          "dob": "1999-11-11",
+          "personalBest": "9.97",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.97",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14759041"
+          },
+          "seasonBest": "9.97",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.97",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14759041"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "ESEME Emmanuel",
+          "athleteId": "eseme-emmanuel-cmr",
+          "dlId": "14852717",
+          "country": "CMR",
+          "bib": 213,
+          "mark": "9.97",
+          "qualificationRank": 5,
+          "qualificationPoints": 18
+        },
+        {
+          "rank": 5,
+          "athlete": "LEOTLELA Gift",
+          "athleteId": "leotlela-gift-rsa",
+          "dlId": "14578589",
+          "country": "RSA",
+          "bib": 310,
+          "mark": "9.99",
+          "qualificationRank": 4,
+          "qualificationPoints": 19,
+          "dob": "1998-05-12",
+          "personalBest": "9.87",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.87",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "13 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14578589"
+          },
+          "seasonBest": "9.97",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.97",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "16 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14578589"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "ANTHONY Jordan",
+          "athleteId": "anthony-jordan-usa",
+          "dlId": "14961803",
+          "country": "USA",
+          "bib": 315,
+          "mark": "9.99",
+          "qualificationRank": 2,
+          "qualificationPoints": 19
+        },
+        {
+          "rank": 7,
+          "athlete": "HUGHES Zharnel",
+          "athleteId": "hughes-zharnel-gbr",
+          "dlId": "14414524",
+          "country": "GBR",
+          "bib": 243,
+          "mark": "10.02",
+          "qualificationRank": 18,
+          "qualificationPoints": 2,
+          "dob": "1995-07-13",
+          "personalBest": "9.83",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.83",
+            "venue": "Icahn Stadium, New York, NY (USA)",
+            "date": "24 JUN 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14414524"
+          },
+          "seasonBest": "10.01",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.01",
+            "venue": "Alexander Stadium, Birmingham (GBR)",
+            "date": "20 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14414524"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "AZU Jeremiah",
+          "athleteId": "azu-jeremiah-gbr",
+          "dlId": "14771648",
+          "country": "GBR",
+          "bib": 223,
+          "mark": "10.07",
+          "qualificationRank": 22,
+          "qualificationPoints": 2,
+          "dob": "2001-05-15",
+          "personalBest": "9.97",
+          "personalBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "9.97",
+            "venue": "London Marathon Community Track, London (GBR)",
+            "date": "17 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14771648"
+          },
+          "seasonBest": "10.03",
+          "seasonBestDetails": {
+            "discipline": "Men's 100 Metres",
+            "mark": "10.03",
+            "venue": "Alexander Stadium, Birmingham (GBR)",
+            "date": "20 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14771648"
+          }
+        }
+      ]
+    },
+    {
+      "id": "london-400m-men-004-0040040",
+      "discipline": "400m",
+      "category": "sprints",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:26",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "43.03",
+          "holder": "van NIEKERK Wayde",
+          "holderCountry": "RSA",
+          "location": "Rio de Janeiro",
+          "date": "2016-08-14T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.18",
+          "holder": "JOHNSON Michael",
+          "holderCountry": "USA",
+          "location": "Sevilla",
+          "date": "1999-08-26T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "43.44",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "Paris",
+          "date": "2024-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "43.38",
+          "holder": "OGAZI Samuel",
+          "holderCountry": "NGR",
+          "location": "Eugene, OR",
+          "date": "2026-06-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "43.44",
+          "holder": "KEBINATSHIPI Busang Collen",
+          "holderCountry": "BOT",
+          "location": "Monaco",
+          "date": "2026-07-10T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "43.74",
+          "holder": "HUDSON-SMITH Matthew",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2024-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "BENJAMIN Rai",
+          "athleteId": "benjamin-rai-usa",
+          "dlId": "14574865",
+          "country": "USA",
+          "bib": 317,
+          "mark": "44.05",
+          "note": "PB",
+          "qualificationRank": 5,
+          "qualificationPoints": 21,
+          "dob": "1997-07-27",
+          "personalBest": "44.05",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.05",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14574865"
+          },
+          "seasonBest": "44.05",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.05",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14574865"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "HUDSON-SMITH Matthew",
+          "athleteId": "hudson-smith-matthew-gbr",
+          "dlId": "14407278",
+          "country": "GBR",
+          "bib": 242,
+          "mark": "44.18",
+          "qualificationRank": 4,
+          "qualificationPoints": 24,
+          "dob": "1994-10-26",
+          "personalBest": "43.44",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.44",
+            "venue": "Stade de France, Paris (FRA)",
+            "date": "07 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14407278"
+          },
+          "seasonBest": "44.09",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.09",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14407278"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "PATTERSON Jacory",
+          "athleteId": "patterson-jacory-usa",
+          "dlId": "14715097",
+          "country": "USA",
+          "bib": 331,
+          "mark": "44.25",
+          "qualificationRank": 1,
+          "qualificationPoints": 33,
+          "dob": "2000-02-02",
+          "personalBest": "43.85",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.85",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "28 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          },
+          "seasonBest": "43.96",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.96",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "RICHARDS Jereem",
+          "athleteId": "richards-jereem-tto",
+          "dlId": "14434521",
+          "country": "TTO",
+          "bib": 314,
+          "mark": "44.63",
+          "qualificationRank": 8,
+          "qualificationPoints": 17,
+          "dob": "1994-01-13",
+          "personalBest": "43.72",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.72",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "18 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14434521"
+          },
+          "seasonBest": "44.44",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.44",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14434521"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "EPPIE Lee",
+          "athleteId": "eppie-lee-bot",
+          "dlId": "14804565",
+          "country": "BOT",
+          "bib": 336,
+          "mark": "44.71",
+          "qualificationRank": 13,
+          "qualificationPoints": 4,
+          "dob": "1999-05-18",
+          "personalBest": "44.40",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.40",
+            "venue": "Francistown Stadion, Francistown (BOT)",
+            "date": "16 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14804565"
+          },
+          "seasonBest": "44.52",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.52",
+            "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+            "date": "12 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14804565"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "McRAE Khaleb",
+          "athleteId": "mcrae-khaleb-usa",
+          "dlId": "14797010",
+          "country": "USA",
+          "bib": 326,
+          "mark": "44.90",
+          "qualificationRank": 7,
+          "qualificationPoints": 17,
+          "dob": "2000-09-09",
+          "personalBest": "43.91",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.91",
+            "venue": "Alumni Stadium, London (CAN)",
+            "date": "22 JUN 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14797010"
+          },
+          "seasonBest": "44.40",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.40",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14797010"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "NORWOOD Vernon",
+          "athleteId": "norwood-vernon-usa",
+          "dlId": "14490237",
+          "country": "USA",
+          "bib": 329,
+          "mark": "44.97",
+          "qualificationRank": 12,
+          "qualificationPoints": 5,
+          "dob": "1992-04-10",
+          "personalBest": "44.10",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.10",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14490237"
+          },
+          "seasonBest": "44.58",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.58",
+            "venue": "Hilmer Lodge Stadium, Walnut, CA (USA)",
+            "date": "18 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14490237"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "JEFFERIES Ben",
+          "athleteId": "jefferies-ben-gbr",
+          "dlId": "14932145",
+          "country": "GBR",
+          "bib": 244,
+          "mark": "45.30",
+          "qualificationRank": 20,
+          "qualificationPoints": 1
+        }
+      ]
+    },
+    {
+      "id": "london-800m-men-011-0110040",
+      "discipline": "800m",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:25",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "1:40.91",
+          "holder": "RUDISHA David",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2012-08-09T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.11",
+          "holder": "KIPKETER Wilson",
+          "holderCountry": "DEN",
+          "location": "Köln",
+          "date": "1997-08-24T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:41.20",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2024-08-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "1:42.55",
+          "holder": "BOL Peter",
+          "holderCountry": "AUS",
+          "location": "Monaco",
+          "date": "2025-07-11T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "1:41.84",
+          "holder": "AROP Marco",
+          "holderCountry": "CAN",
+          "location": "Paris",
+          "date": "2026-06-28T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "1:41.11",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "Lausanne",
+          "date": "2024-08-22T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "1:42.00",
+          "holder": "WANYONYI Emmanuel",
+          "holderCountry": "KEN",
+          "location": "London",
+          "date": "2025-07-19T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "MILLER Brandon",
+          "athleteId": "miller-brandon-usa",
+          "dlId": "14939097",
+          "country": "USA",
+          "bib": 327,
+          "mark": "1:42.19",
+          "note": "PB",
+          "qualificationRank": 6,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 2,
+          "athlete": "ENGLISH Mark",
+          "athleteId": "english-mark-irl",
+          "dlId": "14377494",
+          "country": "IRL",
+          "bib": 281,
+          "mark": "1:42.97",
+          "note": "PB",
+          "qualificationRank": 5,
+          "qualificationPoints": 15,
+          "dob": "1993-03-18",
+          "personalBest": "1:43.37",
+          "personalBestDetails": {
+            "mark": "1:43.37"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "BURGIN Max",
+          "athleteId": "burgin-max-gbr",
+          "dlId": "14755557",
+          "country": "GBR",
+          "bib": 226,
+          "mark": "1:43.30",
+          "qualificationRank": 7,
+          "qualificationPoints": 14,
+          "dob": "2002-05-20",
+          "personalBest": "1:42.29",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:42.29",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "20 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14755557"
+          },
+          "seasonBest": "1:42.98",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:42.98",
+            "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+            "date": "31 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14755557"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "WANYONYI Emmanuel",
+          "athleteId": "wanyonyi-emmanuel-ken",
+          "dlId": "14974928",
+          "country": "KEN",
+          "bib": 293,
+          "mark": "1:43.31",
+          "qualificationRank": 1,
+          "qualificationPoints": 27
+        },
+        {
+          "rank": 5,
+          "athlete": "PATTISON Ben",
+          "athleteId": "pattison-ben-gbr",
+          "dlId": "14706169",
+          "country": "GBR",
+          "bib": 256,
+          "mark": "1:43.34",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 21,
+          "dob": "2001-12-15",
+          "personalBest": "1:42.27",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:42.27",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "12 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706169"
+          },
+          "seasonBest": "1:43.34",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:43.34",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706169"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "BOL Peter",
+          "athleteId": "bol-peter-aus",
+          "dlId": "14456885",
+          "country": "AUS",
+          "bib": 202,
+          "mark": "1:43.60",
+          "note": "SB",
+          "qualificationRank": 11,
+          "qualificationPoints": 11,
+          "dob": "1994-02-22",
+          "personalBest": "1:42.55",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:42.55",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "11 JUL 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14456885"
+          },
+          "seasonBest": "1:43.60",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:43.60",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14456885"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "McPHILLIPS Cian",
+          "athleteId": "mcphillips-cian-irl",
+          "dlId": "14809057",
+          "country": "IRL",
+          "bib": 283,
+          "mark": "1:43.97",
+          "note": "SB",
+          "qualificationRank": 22,
+          "qualificationPoints": 2,
+          "dob": "2002-06-07",
+          "personalBest": "1:42.15",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:42.15",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "20 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14809057"
+          },
+          "seasonBest": "1:43.97",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:43.97",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14809057"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "GRØNSTAD Tobias",
+          "athleteId": "gr-nstad-tobias-nor",
+          "dlId": "14855967",
+          "country": "NOR",
+          "bib": 303,
+          "mark": "1:44.58",
+          "qualificationRank": 10,
+          "qualificationPoints": 12
+        },
+        {
+          "rank": 9,
+          "athlete": "BOTTERILL Alex",
+          "athleteId": "botterill-alex-gbr",
+          "dlId": "14713098",
+          "country": "GBR",
+          "bib": 337,
+          "mark": "1:44.71",
+          "dob": "2000-01-18",
+          "personalBest": "1:44.16",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:44.16",
+            "venue": "Parc des Sports C. Ehrmann, Nice (FRA)",
+            "date": "13 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713098"
+          },
+          "seasonBest": "1:44.16",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:44.16",
+            "venue": "Parc des Sports C. Ehrmann, Nice (FRA)",
+            "date": "13 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14713098"
+          }
+        },
+        {
+          "rank": 10,
+          "athlete": "HOPPEL Bryce",
+          "athleteId": "hoppel-bryce-usa",
+          "dlId": "14656699",
+          "country": "USA",
+          "bib": 323,
+          "mark": "1:45.32",
+          "qualificationRank": 24,
+          "qualificationPoints": 2,
+          "dob": "1997-09-05",
+          "personalBest": "1:41.67",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:41.67",
+            "venue": "Stade de France, Paris (FRA)",
+            "date": "10 AUG 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14656699"
+          },
+          "seasonBest": "1:44.45",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:44.45",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14656699"
+          }
+        },
+        {
+          "rank": null,
+          "athlete": "SIERADZKI Patryk",
+          "athleteId": "sieradzki-patryk-pol",
+          "dlId": "14647295",
+          "country": "POL",
+          "bib": 308,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "1998-10-06",
+          "personalBest": "1:44.16",
+          "personalBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:44.16",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "12 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14647295"
+          },
+          "seasonBest": "1:45.87",
+          "seasonBestDetails": {
+            "discipline": "Men's 800 Metres",
+            "mark": "1:45.87",
+            "venue": "Sports Park Mladost, Zagreb (CRO)",
+            "date": "26 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14647295"
+          }
+        }
+      ]
+    },
+    {
+      "id": "london-1-mile-men-014-0140040",
+      "discipline": "1 Mile",
+      "category": "middle",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "15:36",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "3:42.66",
+          "holder": "KERR Josh",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "World Record",
+          "performance": "3:43.13",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "Roma",
+          "date": "1999-07-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:43.73",
+          "holder": "INGEBRIGTSEN Jakob",
+          "holderCountry": "NOR",
+          "location": "Eugene, OR",
+          "date": "2023-09-16T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "3:43.97",
+          "holder": "NUGUSE Yared",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2023-09-16T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:42.66",
+          "holder": "KERR Josh",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "3:45.94",
+          "holder": "HOCKER Cole",
+          "holderCountry": "USA",
+          "location": "Winston Salem, NC",
+          "date": "2026-02-14T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:42.66",
+          "holder": "KERR Josh",
+          "holderCountry": "GBR",
+          "location": "London",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "3:43.73",
+          "holder": "INGEBRIGTSEN Jakob",
+          "holderCountry": "NOR",
+          "location": "Eugene, OR",
+          "date": "2023-09-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:42.66",
+          "holder": "KERR Josh",
+          "holderCountry": "GBR",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "3:45.96",
+          "holder": "EL GUERROUJ Hicham",
+          "holderCountry": "MAR",
+          "location": "London",
+          "date": "2000-08-05T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KERR Josh",
+          "athleteId": "kerr-josh-gbr",
+          "dlId": "14533464",
+          "country": "GBR",
+          "bib": 247,
+          "mark": "3:42.66",
+          "note": "WR,DLR,MR",
+          "qualificationRank": 6,
+          "qualificationPoints": 8,
+          "dob": "1997-10-08"
+        },
+        {
+          "rank": 2,
+          "athlete": "NUGUSE Yared",
+          "athleteId": "nuguse-yared-usa",
+          "dlId": "14798735",
+          "country": "USA",
+          "bib": 330,
+          "mark": "3:45.69",
+          "note": "SB",
+          "qualificationRank": 1,
+          "qualificationPoints": 37,
+          "dob": "1999-06-01"
+        },
+        {
+          "rank": 3,
+          "athlete": "HEYWARD Jake",
+          "athleteId": "heyward-jake-gbr",
+          "dlId": "14597392",
+          "country": "GBR",
+          "bib": 239,
+          "mark": "3:46.73",
+          "note": "PB",
+          "qualificationRank": 11,
+          "qualificationPoints": 6,
+          "dob": "1999-04-26"
+        },
+        {
+          "rank": 4,
+          "athlete": "FARKEN Robert",
+          "athleteId": "farken-robert-ger",
+          "dlId": "14597052",
+          "country": "GER",
+          "bib": 275,
+          "mark": "3:46.82",
+          "note": "NR",
+          "qualificationRank": 7,
+          "qualificationPoints": 8,
+          "dob": "1997-09-20"
+        },
+        {
+          "rank": 5,
+          "athlete": "GREEN Nathan",
+          "athleteId": "green-nathan-usa",
+          "dlId": "15021942",
+          "country": "USA",
+          "bib": 322,
+          "mark": "3:48.05",
+          "note": "PB",
+          "qualificationRank": 12,
+          "qualificationPoints": 4
+        },
+        {
+          "rank": 6,
+          "athlete": "LUDEWICK Arlo",
+          "athleteId": "ludewick-arlo-gbr",
+          "dlId": "14960895",
+          "country": "GBR",
+          "bib": 249,
+          "mark": "3:48.17",
+          "note": "PB",
+          "qualificationRank": 18,
+          "qualificationPoints": 3
+        },
+        {
+          "rank": 7,
+          "athlete": "STRAND Ethan",
+          "athleteId": "strand-ethan-usa",
+          "dlId": "14969299",
+          "country": "USA",
+          "bib": 333,
+          "mark": "3:49.13",
+          "qualificationRank": 8,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 8,
+          "athlete": "KEEN Thomas",
+          "athleteId": "keen-thomas-gbr",
+          "dlId": "14798393",
+          "country": "GBR",
+          "bib": 246,
+          "mark": "3:49.33",
+          "note": "PB",
+          "qualificationRank": 23,
+          "qualificationPoints": 1,
+          "dob": "2001-06-16"
+        },
+        {
+          "rank": 9,
+          "athlete": "PRAKEL Samuel",
+          "athleteId": "prakel-samuel-usa",
+          "dlId": "14530986",
+          "country": "USA",
+          "bib": 332,
+          "mark": "3:49.63",
+          "note": "PB",
+          "dob": "1994-10-29"
+        },
+        {
+          "rank": 10,
+          "athlete": "DAVIS Archie",
+          "athleteId": "davis-archie-gbr",
+          "dlId": "14593733",
+          "country": "GBR",
+          "bib": 230,
+          "mark": "3:51.09",
+          "note": "PB",
+          "dob": "1998-10-16"
+        },
+        {
+          "rank": null,
+          "athlete": "ABDILAAHI Mohamed",
+          "athleteId": "abdilaahi-mohamed-ger",
+          "dlId": "14753471",
+          "country": "GER",
+          "bib": 273,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "1999-03-24"
+        },
+        {
+          "rank": null,
+          "athlete": "BIRNBAUM Simeon",
+          "athleteId": "birnbaum-simeon-usa",
+          "dlId": "15027172",
+          "country": "USA",
+          "bib": 318,
+          "mark": "DNF",
+          "status": "DNF"
+        },
+        {
+          "rank": null,
+          "athlete": "KIDDER Brannon",
+          "athleteId": "kidder-brannon-usa",
+          "dlId": "14477011",
+          "country": "USA",
+          "bib": 325,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "1993-11-18"
+        },
+        {
+          "rank": null,
+          "athlete": "RUDOLF Žan",
+          "athleteId": "rudolf-zan-slo",
+          "dlId": "14375002",
+          "country": "SLO",
+          "bib": 311,
+          "mark": "DNF",
+          "status": "DNF",
+          "dob": "1993-05-09"
+        }
+      ]
+    },
+    {
+      "id": "london-110m-hurdles-men-026-0260040",
+      "discipline": "110m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "wind": "+0.3",
+      "startTime": "14:53",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "12.91",
+          "holder": "JACKSON Colin",
+          "holderCountry": "GBR",
+          "location": "Stuttgart",
+          "date": "1993-08-20T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "12.75",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "location": "Eugene, OR",
+          "date": "2026-06-10T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "12.80",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "Bruxelles",
+          "date": "2012-09-07T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.89",
+          "holder": "THARP Ja'Kobe",
+          "holderCountry": "USA",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "12.93",
+          "holder": "MERRITT Aries",
+          "holderCountry": "USA",
+          "location": "London",
+          "date": "2012-07-13T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "THARP Ja'Kobe",
+          "athleteId": "tharp-ja-kobe-usa",
+          "dlId": "15129238",
+          "country": "USA",
+          "bib": 334,
+          "mark": "12.89",
+          "note": "MR",
+          "qualificationRank": 6,
+          "qualificationPoints": 15
+        },
+        {
+          "rank": 2,
+          "athlete": "MENÉNDEZ Kendry L.",
+          "athleteId": "menendez-kendry-l-cub",
+          "dlId": "15070256",
+          "country": "CUB",
+          "bib": 214,
+          "mark": "13.01",
+          "note": "PB",
+          "qualificationRank": 7,
+          "qualificationPoints": 14
+        },
+        {
+          "rank": 3,
+          "athlete": "CUNNINGHAM Trey",
+          "athleteId": "cunningham-trey-usa",
+          "dlId": "14675757",
+          "country": "USA",
+          "bib": 320,
+          "mark": "13.12",
+          "qualificationRank": 5,
+          "qualificationPoints": 20,
+          "dob": "1998-08-26",
+          "personalBest": "12.98",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.98",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14675757"
+          },
+          "seasonBest": "12.98",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.98",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14675757"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "BRITT Jamal",
+          "athleteId": "britt-jamal-usa",
+          "dlId": "14769264",
+          "country": "USA",
+          "bib": 319,
+          "mark": "13.16",
+          "qualificationRank": 1,
+          "qualificationPoints": 38,
+          "dob": "1998-12-28",
+          "personalBest": "12.86",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.86",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14769264"
+          },
+          "seasonBest": "12.86",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.86",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14769264"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "TINCH Cordell",
+          "athleteId": "tinch-cordell-usa",
+          "dlId": "14719972",
+          "country": "USA",
+          "bib": 335,
+          "mark": "13.17",
+          "qualificationRank": 2,
+          "qualificationPoints": 28,
+          "dob": "2000-07-13",
+          "personalBest": "12.87",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "12.87",
+            "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+            "date": "03 MAY 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14719972"
+          },
+          "seasonBest": "13.06",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.06",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "14 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14719972"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "BENNETT Orlando",
+          "athleteId": "bennett-orlando-jam",
+          "dlId": "14739873",
+          "country": "JAM",
+          "bib": 286,
+          "mark": "13.21",
+          "qualificationRank": 3,
+          "qualificationPoints": 25,
+          "dob": "1999-10-12",
+          "personalBest": "13.08",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.08",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "16 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14739873"
+          },
+          "seasonBest": "13.15",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.15",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14739873"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "PRINCE Demario",
+          "athleteId": "prince-demario-jam",
+          "dlId": "14876581",
+          "country": "JAM",
+          "bib": 338,
+          "mark": "13.27",
+          "qualificationRank": 11,
+          "qualificationPoints": 8
+        },
+        {
+          "rank": 8,
+          "athlete": "BENNETT Samuel",
+          "athleteId": "bennett-samuel-gbr",
+          "dlId": "14738539",
+          "country": "GBR",
+          "bib": 224,
+          "mark": "13.53",
+          "qualificationRank": 24,
+          "qualificationPoints": 1,
+          "dob": "2001-02-02",
+          "personalBest": "13.41",
+          "personalBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.41",
+            "venue": "Alexander Stadium, Birmingham (GBR)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14738539"
+          },
+          "seasonBest": "13.41",
+          "seasonBestDetails": {
+            "discipline": "Men's 110 Metres Hurdles",
+            "mark": "13.41",
+            "venue": "Alexander Stadium, Birmingham (GBR)",
+            "date": "21 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14738539"
+          }
+        }
+      ]
+    },
+    {
+      "id": "london-400m-hurdles-men-027-0270040",
+      "discipline": "400m Hurdles",
+      "category": "hurdles",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "14:03",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "45.94",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.17",
+          "holder": "BENJAMIN Rai",
+          "holderCountry": "USA",
+          "location": "Tokyo",
+          "date": "2021-08-03T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.29",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Eugene, OR",
+          "date": "2022-07-19T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "46.98",
+          "holder": "SAMBA Abderrahman",
+          "holderCountry": "QAT",
+          "location": "Paris",
+          "date": "2018-06-30T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "47.10",
+          "holder": "MATETE Samuel",
+          "holderCountry": "ZAM",
+          "location": "Zürich",
+          "date": "1991-08-07T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "46.61",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "London",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "46.72",
+          "holder": "dos SANTOS Alison",
+          "holderCountry": "BRA",
+          "location": "Xiamen",
+          "date": "2026-05-23T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "46.28",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "Chorzów",
+          "date": "2025-08-16T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "46.61",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "date": "2026-07-18T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "47.12",
+          "holder": "WARHOLM Karsten",
+          "holderCountry": "NOR",
+          "location": "London",
+          "date": "2019-07-20T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "WARHOLM Karsten",
+          "athleteId": "warholm-karsten-nor",
+          "dlId": "14479487",
+          "country": "NOR",
+          "bib": 306,
+          "mark": "46.61",
+          "note": "MR,WL",
+          "qualificationRank": 1,
+          "qualificationPoints": 29,
+          "dob": "1996-02-28",
+          "personalBest": "45.94",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "45.94",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "03 AUG 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14479487"
+          },
+          "seasonBest": "46.61",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "46.61",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14479487"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "AGYEKUM Emil",
+          "athleteId": "agyekum-emil-ger",
+          "dlId": "14679384",
+          "country": "GER",
+          "bib": 274,
+          "mark": "47.45",
+          "note": "NR",
+          "qualificationRank": 6,
+          "qualificationPoints": 11,
+          "dob": "1999-05-22",
+          "personalBest": "47.45",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "47.45",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679384"
+          },
+          "seasonBest": "47.45",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "47.45",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679384"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "SAMBA Abderrahman",
+          "athleteId": "samba-abderrahman-qat",
+          "dlId": "14752208",
+          "country": "QAT",
+          "bib": 309,
+          "mark": "48.10",
+          "qualificationRank": 5,
+          "qualificationPoints": 13,
+          "dob": "1995-09-05",
+          "personalBest": "46.98",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "46.98",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "30 JUN 2018",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14752208"
+          },
+          "seasonBest": "47.93",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "47.93",
+            "venue": "Egret Stadium, Xiamen (CHN)",
+            "date": "23 MAY 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14752208"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "NATHANIEL Ezekiel",
+          "athleteId": "nathaniel-ezekiel-ngr",
+          "dlId": "14960533",
+          "country": "NGR",
+          "bib": 302,
+          "mark": "48.30",
+          "qualificationRank": 9,
+          "qualificationPoints": 5
+        },
+        {
+          "rank": 5,
+          "athlete": "LIMA Matheus",
+          "athleteId": "lima-matheus-bra",
+          "dlId": "14918836",
+          "country": "BRA",
+          "bib": 211,
+          "mark": "48.33",
+          "qualificationRank": 3,
+          "qualificationPoints": 18
+        },
+        {
+          "rank": 6,
+          "athlete": "CHALMERS Alastair",
+          "athleteId": "chalmers-alastair-gbr",
+          "dlId": "14720465",
+          "country": "GBR",
+          "bib": 227,
+          "mark": "48.81",
+          "qualificationRank": 11,
+          "qualificationPoints": 3,
+          "dob": "2000-03-31",
+          "personalBest": "48.30",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "48.30",
+            "venue": "Bungertstadion, Rehlingen (GER)",
+            "date": "08 JUN 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14720465"
+          },
+          "seasonBest": "48.53",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "48.53",
+            "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+            "date": "03 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14720465"
+          }
+        },
+        {
+          "rank": 7,
+          "athlete": "DEAN Caleb",
+          "athleteId": "dean-caleb-usa",
+          "dlId": "14865900",
+          "country": "USA",
+          "bib": 321,
+          "mark": "50.45",
+          "qualificationRank": 4,
+          "qualificationPoints": 17
+        },
+        {
+          "rank": null,
+          "athlete": "BASSITT Trevor",
+          "athleteId": "bassitt-trevor-usa",
+          "dlId": "14719193",
+          "country": "USA",
+          "bib": 316,
+          "mark": "DNS",
+          "qualificationRank": 7,
+          "qualificationPoints": 10,
+          "status": "DNS",
+          "dob": "1998-02-26",
+          "personalBest": "47.37",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "47.37",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14719193"
+          },
+          "seasonBest": "47.37",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres Hurdles",
+            "mark": "47.37",
+            "venue": "Cushing Stadium, College Station, TX (USA)",
+            "date": "06 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14719193"
+          }
+        }
+      ]
+    },
+    {
+      "id": "london-pole-vault-men-082-0820040",
+      "discipline": "Pole Vault",
+      "category": "jumps",
+      "gender": "men",
+      "isPrimary": true,
+      "isDiamondRace": true,
+      "listType": "resultados_finais",
+      "listLabel": "Results",
+      "startTime": "13:15",
+      "startDate": "18 Jul 2026",
+      "records": [
+        {
+          "name": "World Record",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.06",
+          "holder": "HOOKER Steven",
+          "holderCountry": "AUS",
+          "location": "Boston, MA",
+          "date": "2009-02-07T00:00:00"
+        },
+        {
+          "name": "Area Record",
+          "performance": "6.07",
+          "holder": "LIGHTFOOT KC",
+          "holderCountry": "USA",
+          "location": "Nashville, TN",
+          "date": "2023-06-02T00:00:00"
+        },
+        {
+          "name": "World Lead",
+          "performance": "6.31",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Uppsala",
+          "date": "2026-03-12T00:00:00"
+        },
+        {
+          "name": "Diamond League Record",
+          "performance": "6.28",
+          "holder": "DUPLANTIS Armand",
+          "holderCountry": "SWE",
+          "location": "Stockholm",
+          "date": "2025-06-15T00:00:00"
+        },
+        {
+          "name": "Meeting Record",
+          "performance": "6.03",
+          "holder": "LAVILLENIE Renaud",
+          "holderCountry": "FRA",
+          "location": "London",
+          "date": "2015-07-25T00:00:00"
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "athlete": "KENDRICKS Sam",
+          "athleteId": "kendricks-sam-usa",
+          "dlId": "14440868",
+          "country": "USA",
+          "bib": 324,
+          "mark": "5.95",
+          "note": "SB",
+          "qualificationRank": 3,
+          "qualificationPoints": 27,
+          "dob": "1992-09-07",
+          "personalBest": "6.06",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.06",
+            "venue": "Drake Stadium, Des Moines, IA (USA)",
+            "date": "27 JUL 2019",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14440868"
+          },
+          "seasonBest": "5.95",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.95",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "18 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14440868"
+          }
+        },
+        {
+          "rank": 2,
+          "athlete": "DUPLANTIS Armand",
+          "athleteId": "duplantis-armand-swe",
+          "dlId": "14679502",
+          "country": "SWE",
+          "bib": 313,
+          "mark": "5.95",
+          "qualificationRank": 2,
+          "qualificationPoints": 30,
+          "dob": "1999-11-10",
+          "personalBest": "6.31",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.31",
+            "venue": "IFU Arena, Uppsala (SWE) (i)",
+            "date": "12 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679502"
+          },
+          "seasonBest": "6.31",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.31",
+            "venue": "IFU Arena, Uppsala (SWE) (i)",
+            "date": "12 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679502"
+          }
+        },
+        {
+          "rank": 3,
+          "athlete": "MARSCHALL Kurtis",
+          "athleteId": "marschall-kurtis-aus",
+          "dlId": "14565327",
+          "country": "AUS",
+          "bib": 208,
+          "mark": "5.95",
+          "qualificationRank": 1,
+          "qualificationPoints": 31,
+          "dob": "1997-04-25",
+          "personalBest": "6.00",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.00",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565327"
+          },
+          "seasonBest": "6.00",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.00",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14565327"
+          }
+        },
+        {
+          "rank": 4,
+          "athlete": "KARALIS Emmanouil",
+          "athleteId": "karalis-emmanouil-gre",
+          "dlId": "14669731",
+          "country": "GRE",
+          "bib": 277,
+          "mark": "5.95",
+          "qualificationRank": 4,
+          "qualificationPoints": 24,
+          "dob": "1999-10-20",
+          "personalBest": "6.17",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.17",
+            "venue": "Olympic Sports Complex of Paiania, Athina (GRE) (i)",
+            "date": "28 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14669731"
+          },
+          "seasonBest": "6.17",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.17",
+            "venue": "Olympic Sports Complex of Paiania, Athina (GRE) (i)",
+            "date": "28 FEB 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14669731"
+          }
+        },
+        {
+          "rank": 5,
+          "athlete": "GUTTORMSEN Sondre",
+          "athleteId": "guttormsen-sondre-nor",
+          "dlId": "14681630",
+          "country": "NOR",
+          "bib": 304,
+          "mark": "5.85",
+          "qualificationRank": 5,
+          "qualificationPoints": 24,
+          "dob": "1999-06-01",
+          "personalBest": "6.06",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.06",
+            "venue": "Complexe Kindarena, Rouen (FRA) (i)",
+            "date": "07 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14681630"
+          },
+          "seasonBest": "6.06",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.06",
+            "venue": "Complexe Kindarena, Rouen (FRA) (i)",
+            "date": "07 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14681630"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "LAVILLENIE Renaud",
+          "athleteId": "lavillenie-renaud-fra",
+          "dlId": "14185853",
+          "country": "FRA",
+          "bib": 216,
+          "mark": "5.60",
+          "qualificationRank": 11,
+          "qualificationPoints": 6,
+          "dob": "1986-09-18",
+          "personalBest": "6.16",
+          "personalBestDetails": {
+            "mark": "6.16"
+          }
+        },
+        {
+          "rank": 6,
+          "athlete": "VLOON Menno",
+          "athleteId": "vloon-menno-ned",
+          "dlId": "14482223",
+          "country": "NED",
+          "bib": 299,
+          "mark": "5.60",
+          "qualificationRank": 7,
+          "qualificationPoints": 17,
+          "dob": "1994-05-11",
+          "personalBest": "5.96",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.96",
+            "venue": "Stadium Jean-Pellez, Aubière (FRA) (i)",
+            "date": "27 FEB 2021",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14482223"
+          },
+          "seasonBest": "5.85",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.85",
+            "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+            "date": "21 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14482223"
+          }
+        },
+        {
+          "rank": 8,
+          "athlete": "HEARD Owen",
+          "athleteId": "heard-owen-gbr",
+          "dlId": "14854394",
+          "country": "GBR",
+          "bib": 238,
+          "mark": "5.60",
+          "qualificationRank": 16,
+          "qualificationPoints": 1
+        },
+        {
+          "rank": 9,
+          "athlete": "NILSEN Christopher",
+          "athleteId": "nilsen-christopher-usa",
+          "dlId": "14709278",
+          "country": "USA",
+          "bib": 328,
+          "mark": "5.60",
+          "qualificationRank": 9,
+          "qualificationPoints": 12,
+          "dob": "1998-01-13",
+          "personalBest": "6.05",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.05",
+            "venue": "Complexe Kindarena, Rouen (FRA) (i)",
+            "date": "05 MAR 2022",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14709278"
+          },
+          "seasonBest": "5.92",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "5.92",
+            "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+            "date": "19 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14709278"
+          }
+        }
+      ]
     }
-  ],
-  "hasProgram": true,
-  "timezone": "Europe/London",
-  "state": "aguardando_fonte",
-  "eventCount": 14,
-  "athleteCount": 0
+  ]
 }

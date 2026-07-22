@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14803753",
+  "athleteId": "li-chunhui-chn",
+  "athlete": "LI Chunhui",
+  "country": "CHN",
+  "dob": "2001-03-29",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:06.28",
+      "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+      "date": "20 NOV 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:07.43",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14803753",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14803753",
+  "scrapedAt": "2026-07-22T19:48:11.599Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14789852",
+  "athleteId": "reiss-annika-usa",
+  "athlete": "REISS Annika",
+  "country": "USA",
+  "dob": "2000-09-11",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:03.54",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "08 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:03.54",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "08 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14789852",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14789852",
+  "scrapedAt": "2026-07-22T19:46:23.642Z",
+  "source": "diamondleague.com"
+}

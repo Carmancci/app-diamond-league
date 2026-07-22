@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14773921",
+  "athleteId": "bisschops-minke-ned",
+  "athlete": "BISSCHOPS Minke",
+  "country": "NED",
+  "dob": "2002-09-02",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.05",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "02 AUG 2025"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.39",
+      "venue": "Konstantinos Baglatzis Municipal Stadium, Vari (GRE)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.08",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.95",
+      "venue": "Stade universitaire de St-Léonard, Fribourg (SUI)",
+      "date": "01 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14773921",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14773921",
+  "scrapedAt": "2026-07-22T19:44:41.257Z",
+  "source": "diamondleague.com"
+}
