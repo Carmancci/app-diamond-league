@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14674295",
+  "athleteId": "mandros-jose-per",
+  "athlete": "MANDROS José",
+  "country": "PER",
+  "dob": "1998-11-12",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.17",
+      "venue": "Cochabamba (BOL) (i)",
+      "date": "20 FEB 2022"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "7.42",
+      "venue": "Estadi Joan Serrahima, Barcelona (ESP)",
+      "date": "07 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14674295",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14674295",
+  "scrapedAt": "2026-07-22T16:24:06.433Z",
+  "source": "diamondleague.com"
+}

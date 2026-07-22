@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14696997",
+  "athleteId": "nene-zakithi-rsa",
+  "athlete": "NENE Zakithi",
+  "country": "RSA",
+  "dob": "1998-04-02",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.76",
+      "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+      "date": "31 MAY 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.89",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14696997",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14696997",
+  "scrapedAt": "2026-07-22T16:27:16.709Z",
+  "source": "diamondleague.com"
+}

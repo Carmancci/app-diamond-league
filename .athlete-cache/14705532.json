@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14705532",
+  "athleteId": "schier-skadi-ger",
+  "athlete": "SCHIER Skadi",
+  "country": "GER",
+  "dob": "2000-03-25",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.53",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.53",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14705532",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14705532",
+  "scrapedAt": "2026-07-22T16:28:13.817Z",
+  "source": "diamondleague.com"
+}

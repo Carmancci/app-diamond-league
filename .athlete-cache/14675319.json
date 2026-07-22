@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14675319",
+  "athleteId": "kushare-sarvesh-anil-ind",
+  "athlete": "KUSHARE Sarvesh Anil",
+  "country": "IND",
+  "dob": "1995-06-17",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.31",
+      "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+      "date": "27 JUN 2026"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.31",
+      "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+      "date": "27 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14675319",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14675319",
+  "scrapedAt": "2026-07-22T16:24:14.222Z",
+  "source": "diamondleague.com"
+}

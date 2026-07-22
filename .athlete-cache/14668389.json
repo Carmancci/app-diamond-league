@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14668389",
+  "athleteId": "herrera-eduardo-mex",
+  "athlete": "HERRERA Eduardo",
+  "country": "MEX",
+  "dob": "1997-09-23",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:27.63",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:13.72",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:58.57",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "24 MAY 2025"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:27.63",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:13.72",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:00.69",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14668389",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14668389",
+  "scrapedAt": "2026-07-22T16:23:40.899Z",
+  "source": "diamondleague.com"
+}

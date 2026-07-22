@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14679916",
+  "athleteId": "kounta-muhammad-abdallah-fra",
+  "athlete": "KOUNTA Muhammad Abdallah",
+  "country": "FRA",
+  "dob": "1994-10-27",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.57",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.57",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14679916",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14679916",
+  "scrapedAt": "2026-07-22T16:25:05.187Z",
+  "source": "diamondleague.com"
+}

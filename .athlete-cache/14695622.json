@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14695622",
+  "athleteId": "yavi-winfred-brn",
+  "athlete": "YAVI Winfred",
+  "country": "BRN",
+  "dob": "1999-12-31",
+  "pb": {
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:30.06",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:44.39",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "30 AUG 2024"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:30.06",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:51.54",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14695622",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14695622",
+  "scrapedAt": "2026-07-22T16:27:09.032Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14708774",
+  "athleteId": "antonsen-pernille-karlsen-nor",
+  "athlete": "ANTONSEN Pernille Karlsen",
+  "country": "NOR",
+  "dob": "2002-12-13",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.82",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.82",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14708774",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14708774",
+  "scrapedAt": "2026-07-22T16:29:11.501Z",
+  "source": "diamondleague.com"
+}

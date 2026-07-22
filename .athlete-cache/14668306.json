@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14668306",
+  "athleteId": "song-jiayuan-chn",
+  "athlete": "SONG Jiayuan",
+  "country": "CHN",
+  "dob": "1997-09-15",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.38",
+      "venue": "Shanghai (CHN)",
+      "date": "16 JUN 2022"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "18.89",
+      "venue": "Sichuan Xipu Training Base, Chengdu (CHN)",
+      "date": "29 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14668306",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14668306",
+  "scrapedAt": "2026-07-22T16:23:37.016Z",
+  "source": "diamondleague.com"
+}

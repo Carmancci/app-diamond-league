@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14693884",
+  "athleteId": "smith-ackelia-jam",
+  "athlete": "SMITH Ackelia",
+  "country": "JAM",
+  "dob": "2002-02-05",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.08",
+      "venue": "John Jacobs Track Complex, Norman, OK (USA)",
+      "date": "13 MAY 2023"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.54",
+      "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+      "date": "10 JUN 2023"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.81",
+      "venue": "Bungertstadion, Rehlingen (GER)",
+      "date": "24 MAY 2026"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.50",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14693884",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14693884",
+  "scrapedAt": "2026-07-22T16:26:49.916Z",
+  "source": "diamondleague.com"
+}

@@ -184,7 +184,24 @@
           "bib": 132,
           "mark": "22.40",
           "qualificationRank": 6,
-          "qualificationPoints": 12
+          "qualificationPoints": 12,
+          "dob": "1999-03-27",
+          "personalBest": "21.93",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.93",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          },
+          "seasonBest": "21.93",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.93",
+            "venue": "Nyayo National Stadium, Nairobi (KEN)",
+            "date": "24 APR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14674111"
+          }
         },
         {
           "rank": 6,
@@ -325,7 +342,24 @@
           "mark": "49.56",
           "note": "SB",
           "qualificationRank": 3,
-          "qualificationPoints": 23
+          "qualificationPoints": 23,
+          "dob": "2001-03-07",
+          "personalBest": "48.57",
+          "personalBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "48.57",
+            "venue": "Olympic Stadium, London (GBR)",
+            "date": "20 JUL 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685519"
+          },
+          "seasonBest": "49.56",
+          "seasonBestDetails": {
+            "discipline": "Women's 400 Metres",
+            "mark": "49.56",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14685519"
+          }
         },
         {
           "rank": 5,
@@ -651,7 +685,24 @@
           "country": "BEL",
           "bib": 10,
           "mark": "8:36.14",
-          "note": "NR"
+          "note": "NR",
+          "dob": "2001-04-22",
+          "personalBest": "8:36.14",
+          "personalBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:36.14",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14704113"
+          },
+          "seasonBest": "8:36.14",
+          "seasonBestDetails": {
+            "discipline": "Women's 3000 Metres",
+            "mark": "8:36.14",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14704113"
+          }
         },
         {
           "rank": 12,
@@ -1223,7 +1274,24 @@
           "bib": 98,
           "mark": "4.37",
           "qualificationRank": 7,
-          "qualificationPoints": 10
+          "qualificationPoints": 10,
+          "dob": "2000-12-12",
+          "personalBest": "4.81",
+          "personalBestDetails": {
+            "discipline": "Women's Pole Vault",
+            "mark": "4.81",
+            "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+            "date": "03 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14668954"
+          },
+          "seasonBest": "4.81",
+          "seasonBestDetails": {
+            "discipline": "Women's Pole Vault",
+            "mark": "4.81",
+            "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+            "date": "03 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14668954"
+          }
         },
         {
           "rank": 9,
@@ -1477,7 +1545,24 @@
           "bib": 84,
           "mark": "14.02",
           "qualificationRank": 6,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "2002-02-05",
+          "personalBest": "14.54",
+          "personalBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.54",
+            "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+            "date": "10 JUN 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14693884"
+          },
+          "seasonBest": "14.50",
+          "seasonBestDetails": {
+            "discipline": "Women's Triple Jump",
+            "mark": "14.50",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14693884"
+          }
         }
       ]
     },
@@ -1848,7 +1933,24 @@
           "country": "SWE",
           "bib": 341,
           "mark": "6.07",
-          "note": "MR"
+          "note": "MR",
+          "dob": "1999-11-10",
+          "personalBest": "6.31",
+          "personalBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.31",
+            "venue": "IFU Arena, Uppsala (SWE) (i)",
+            "date": "12 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679502"
+          },
+          "seasonBest": "6.31",
+          "seasonBestDetails": {
+            "discipline": "Men's Pole Vault",
+            "mark": "6.31",
+            "venue": "IFU Arena, Uppsala (SWE) (i)",
+            "date": "12 MAR 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679502"
+          }
         },
         {
           "rank": 2,
@@ -2828,7 +2930,24 @@
           "mark": "43.96",
           "note": "SB",
           "qualificationRank": 3,
-          "qualificationPoints": 27
+          "qualificationPoints": 27,
+          "dob": "2000-02-02",
+          "personalBest": "43.85",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.85",
+            "venue": "Letzigrund, Zürich (SUI)",
+            "date": "28 AUG 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          },
+          "seasonBest": "43.96",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.96",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14715097"
+          }
         },
         {
           "rank": 3,
@@ -2895,7 +3014,24 @@
           "bib": 336,
           "mark": "44.24",
           "qualificationRank": 2,
-          "qualificationPoints": 30
+          "qualificationPoints": 30,
+          "dob": "1998-04-02",
+          "personalBest": "43.76",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.76",
+            "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+            "date": "31 MAY 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14696997"
+          },
+          "seasonBest": "43.89",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "43.89",
+            "venue": "Stade Charléty, Paris (FRA)",
+            "date": "28 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14696997"
+          }
         },
         {
           "rank": 6,
@@ -2936,7 +3072,24 @@
           "mark": "44.47",
           "note": "NR",
           "qualificationRank": 11,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "2002-01-17",
+          "personalBest": "44.47",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.47",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14712930"
+          },
+          "seasonBest": "44.47",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.47",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14712930"
+          }
         },
         {
           "rank": 8,
@@ -2948,7 +3101,24 @@
           "mark": "44.57",
           "note": "PB",
           "qualificationRank": 14,
-          "qualificationPoints": 3
+          "qualificationPoints": 3,
+          "dob": "1994-10-27",
+          "personalBest": "44.57",
+          "personalBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.57",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679916"
+          },
+          "seasonBest": "44.57",
+          "seasonBestDetails": {
+            "discipline": "Men's 400 Metres",
+            "mark": "44.57",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14679916"
+          }
         }
       ]
     },
@@ -3153,7 +3323,24 @@
           "mark": "2:14.11",
           "note": "PB",
           "qualificationRank": 3,
-          "qualificationPoints": 17
+          "qualificationPoints": 17,
+          "dob": "2001-12-15",
+          "personalBest": "2:14.11",
+          "personalBestDetails": {
+            "discipline": "Men's 1000 Metres",
+            "mark": "2:14.11",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706169"
+          },
+          "seasonBest": "2:14.11",
+          "seasonBestDetails": {
+            "discipline": "Men's 1000 Metres",
+            "mark": "2:14.11",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14706169"
+          }
         },
         {
           "rank": 6,
@@ -3380,7 +3567,24 @@
           "bib": 212,
           "mark": "12:52.91",
           "qualificationRank": 1,
-          "qualificationPoints": 19
+          "qualificationPoints": 19,
+          "dob": "1996-02-27",
+          "personalBest": "12:47.73",
+          "personalBestDetails": {
+            "discipline": "Men's 5000 Metres",
+            "mark": "12:47.73",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14695983"
+          },
+          "seasonBest": "12:47.73",
+          "seasonBestDetails": {
+            "discipline": "Men's 5000 Metres",
+            "mark": "12:47.73",
+            "venue": "Bislett Stadion, Oslo (NOR)",
+            "date": "10 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14695983"
+          }
         },
         {
           "rank": 4,
@@ -3984,7 +4188,24 @@
           "bib": 284,
           "mark": "2.26",
           "qualificationRank": 8,
-          "qualificationPoints": 6
+          "qualificationPoints": 6,
+          "dob": "1995-06-17",
+          "personalBest": "2.31",
+          "personalBestDetails": {
+            "discipline": "Men's High Jump",
+            "mark": "2.31",
+            "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+            "date": "27 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14675319"
+          },
+          "seasonBest": "2.31",
+          "seasonBestDetails": {
+            "discipline": "Men's High Jump",
+            "mark": "2.31",
+            "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+            "date": "27 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14675319"
+          }
         },
         {
           "rank": 4,
@@ -4182,7 +4403,24 @@
           "mark": "8.61",
           "note": "MR,WL",
           "qualificationRank": 1,
-          "qualificationPoints": 23
+          "qualificationPoints": 23,
+          "dob": "1998-03-18",
+          "personalBest": "8.65",
+          "personalBestDetails": {
+            "discipline": "Men's Long Jump",
+            "mark": "8.65",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "08 JUN 2024",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14669734"
+          },
+          "seasonBest": "8.61",
+          "seasonBestDetails": {
+            "discipline": "Men's Long Jump",
+            "mark": "8.61",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14669734"
+          }
         },
         {
           "rank": 2,
@@ -4194,7 +4432,24 @@
           "mark": "8.39",
           "note": "SB",
           "qualificationRank": 4,
-          "qualificationPoints": 12
+          "qualificationPoints": 12,
+          "dob": "2000-10-24",
+          "personalBest": "8.54",
+          "personalBestDetails": {
+            "discipline": "Men's Long Jump",
+            "mark": "8.54",
+            "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+            "date": "23 AUG 2023",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14693852"
+          },
+          "seasonBest": "8.39",
+          "seasonBestDetails": {
+            "discipline": "Men's Long Jump",
+            "mark": "8.39",
+            "venue": "Stade Louis II, Monaco (MON)",
+            "date": "10 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14693852"
+          }
         },
         {
           "rank": 3,

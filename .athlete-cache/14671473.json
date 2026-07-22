@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14671473",
+  "athleteId": "shinno-tomohiro-jpn",
+  "athlete": "SHINNO Tomohiro",
+  "country": "JPN",
+  "dob": "1996-08-17",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.31",
+      "venue": "Prefectural Stadium, Kumagaya (JPN)",
+      "date": "20 SEP 2020"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.30",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14671473",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14671473",
+  "scrapedAt": "2026-07-22T16:23:58.256Z",
+  "source": "diamondleague.com"
+}

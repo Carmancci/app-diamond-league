@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14708130",
+  "athleteId": "beadlescomb-morgan-usa",
+  "athlete": "BEADLESCOMB Morgan",
+  "country": "USA",
+  "dob": "1998-06-01",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:36.10",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:12.24",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:12.24",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:18.32",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14708130",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14708130",
+  "scrapedAt": "2026-07-22T16:28:47.699Z",
+  "source": "diamondleague.com"
+}

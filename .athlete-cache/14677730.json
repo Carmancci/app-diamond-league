@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14677730",
+  "athleteId": "snyders-antoine-bel",
+  "athlete": "SNYDERS Antoine",
+  "country": "BEL",
+  "dob": "1997-02-10",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.29",
+      "venue": "Centre Sport La Fraineuse Château, Spa (BEL)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.29",
+      "venue": "Centre Sport La Fraineuse Château, Spa (BEL)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14677730",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14677730",
+  "scrapedAt": "2026-07-22T16:24:31.390Z",
+  "source": "diamondleague.com"
+}

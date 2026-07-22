@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14693886",
+  "athleteId": "robinson-nia-jam",
+  "athlete": "ROBINSON Nia",
+  "country": "JAM",
+  "dob": "2001-11-08",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.82",
+      "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+      "date": "13 FEB 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.82",
+      "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+      "date": "13 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14693886",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14693886",
+  "scrapedAt": "2026-07-22T16:26:53.799Z",
+  "source": "diamondleague.com"
+}

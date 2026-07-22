@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14714402",
+  "athleteId": "shi-yuhao-chn",
+  "athlete": "SHI Yuhao",
+  "country": "CHN",
+  "dob": "1998-09-26",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.43",
+      "venue": "Shanghai Stadium, Shanghai (CHN)",
+      "date": "12 MAY 2018"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.14",
+      "venue": "Nanjing (CHN)",
+      "date": "09 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14714402",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14714402",
+  "scrapedAt": "2026-07-22T16:30:07.187Z",
+  "source": "diamondleague.com"
+}

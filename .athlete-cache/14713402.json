@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14713402",
+  "athleteId": "malone-noah-usa",
+  "athlete": "MALONE Noah",
+  "country": "USA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14713402",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T16:29:56.411Z",
+  "source": "diamondleague.com"
+}

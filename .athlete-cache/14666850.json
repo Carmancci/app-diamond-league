@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14666850",
+  "athleteId": "bloudek-marino-cro",
+  "athlete": "BLOUDEK Marino",
+  "country": "CRO",
+  "dob": "1999-07-18",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.01",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.63",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14666850",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14666850",
+  "scrapedAt": "2026-07-22T16:23:13.406Z",
+  "source": "diamondleague.com"
+}

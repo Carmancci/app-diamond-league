@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14715244",
+  "athleteId": "bednarek-kenneth-usa",
+  "athlete": "BEDNAREK Kenneth",
+  "country": "USA",
+  "dob": "1998-10-14",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.79",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "01 AUG 2025"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.57",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "05 SEP 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.96",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "19.69",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14715244",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14715244",
+  "scrapedAt": "2026-07-22T16:30:19.932Z",
+  "source": "diamondleague.com"
+}
