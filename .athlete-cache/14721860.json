@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14721860",
+  "athleteId": "leon-gabriela-usa",
+  "athlete": "LEON Gabriela",
+  "country": "USA",
+  "dob": "1999-06-17",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.75",
+      "venue": "Cardinal Park, Louisville, KY (USA)",
+      "date": "23 APR 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.75",
+      "venue": "Cardinal Park, Louisville, KY (USA)",
+      "date": "23 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14721860",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14721860",
+  "scrapedAt": "2026-07-22T17:00:06.006Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14754324",
+  "athleteId": "tisang-kemorena-bot",
+  "athlete": "TISANG Kemorena",
+  "country": "BOT",
+  "dob": "1995-04-25",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.32",
+      "venue": "Golęcin Stadion, Poznan (POL)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.32",
+      "venue": "Golęcin Stadion, Poznan (POL)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14754324",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14754324",
+  "scrapedAt": "2026-07-22T17:03:33.939Z",
+  "source": "diamondleague.com"
+}

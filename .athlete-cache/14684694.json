@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14684694",
+  "athleteId": "mctaggart-olivia-nzl",
+  "athlete": "McTAGGART Olivia",
+  "country": "NZL",
+  "dob": "2000-01-09",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.73",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.71",
+      "venue": "Sportcity Regional Arena, Manchester (GBR)",
+      "date": "14 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14684694",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14684694",
+  "scrapedAt": "2026-07-22T16:25:49.097Z",
+  "source": "diamondleague.com"
+}

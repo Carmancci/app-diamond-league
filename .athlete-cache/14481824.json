@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14481824",
+  "athleteId": "miller-ashley-zim",
+  "athlete": "MILLER Ashley",
+  "country": "ZIM",
+  "dob": "1998-02-17",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.08",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.08",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14481824",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14481824",
+  "scrapedAt": "2026-07-20T15:50:51.405Z",
+  "source": "diamondleague.com"
+}

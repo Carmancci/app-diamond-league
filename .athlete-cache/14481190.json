@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14481190",
+  "athleteId": "petersson-wictor-swe",
+  "athlete": "PETERSSON Wictor",
+  "country": "SWE",
+  "dob": "1998-05-01",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.49",
+      "venue": "Telekonsult Arena, Växjö (SWE) (i)",
+      "date": "22 FEB 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.38",
+      "venue": "Friidrottens Hus, Göteborg (SWE) (i)",
+      "date": "15 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14481190",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14481190",
+  "scrapedAt": "2026-07-20T15:50:34.931Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14501531",
+  "athleteId": "debues-stafford-gabriela-can",
+  "athlete": "DEBUES-STAFFORD Gabriela",
+  "country": "CAN",
+  "dob": "1995-09-13",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.12",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "05 OCT 2019"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.87",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "12 JUL 2019"
+    },
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:28.76",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "2 miles": {
+      "discipline": "Women's 2 Miles",
+      "mark": "9:28.76",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:23.26",
+      "venue": "Terry Fox AF, Ottawa (CAN)",
+      "date": "18 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14501531",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14501531",
+  "scrapedAt": "2026-07-20T16:15:11.714Z",
+  "source": "diamondleague.com"
+}

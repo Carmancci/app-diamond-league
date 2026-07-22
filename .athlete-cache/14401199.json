@@ -1,15 +1,28 @@
 {
+  "status": "success",
   "dlId": "14401199",
   "athleteId": "onnen-imke-ger",
-  "athlete": "Imke ONNEN",
+  "athlete": "ONNEN Imke",
   "country": "GER",
   "dob": "1994-08-17",
   "pb": {
-    "High Jump": "1.98"
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.98",
+      "venue": "Marktplatz, Heilbronn (GER)",
+      "date": "09 AUG 2025"
+    }
   },
-  "sb": {},
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.93",
+      "venue": "Městská sportovní hala, Hustopeče (CZE) (i)",
+      "date": "07 FEB 2026"
+    }
+  },
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14401199",
-  "scrapedAt": "2026-07-20T14:47:09.826Z",
-  "source": "diamondleague.com",
-  "status": "success"
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14401199",
+  "scrapedAt": "2026-07-20T15:43:44.386Z",
+  "source": "diamondleague.com"
 }

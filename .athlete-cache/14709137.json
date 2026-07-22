@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14709137",
+  "athleteId": "morales-silinda-cub",
+  "athlete": "MORÁLES Silinda",
+  "country": "CUB",
+  "dob": "2000-08-30",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "67.25",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "14 SEP 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "64.77",
+      "venue": "Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",
+      "date": "01 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14709137",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14709137",
+  "scrapedAt": "2026-07-22T16:29:23.451Z",
+  "source": "diamondleague.com"
+}

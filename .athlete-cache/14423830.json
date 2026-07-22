@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14423830",
+  "athleteId": "bedrani-djilali-fra",
+  "athlete": "BEDRANI Djilali",
+  "country": "FRA",
+  "dob": "1993-10-01",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:36.41",
+      "venue": "Stade Raymond Troussier, Decines (FRA)",
+      "date": "04 MAY 2024"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:05.23",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "04 OCT 2019"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:49.07",
+      "venue": "Stade Jean Leveillé, Challans (FRA)",
+      "date": "17 MAY 2026"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:19.18",
+      "venue": "Paul-Greifzu-Stadion, Dessau (GER)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14423830",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14423830",
+  "scrapedAt": "2026-07-20T15:45:34.567Z",
+  "source": "diamondleague.com"
+}

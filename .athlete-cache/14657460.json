@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14657460",
+  "athleteId": "amare-hailemariyam-eth",
+  "athlete": "AMARE Hailemariyam",
+  "country": "ETH",
+  "dob": "1997-02-22",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:06.29",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "05 JUN 2022"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:22.84",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14657460",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14657460",
+  "scrapedAt": "2026-07-22T15:22:56.794Z",
+  "source": "diamondleague.com"
+}

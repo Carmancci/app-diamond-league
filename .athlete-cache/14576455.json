@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14576455",
+  "athleteId": "kpatcha-hilary-fra",
+  "athlete": "KPATCHA Hilary",
+  "country": "FRA",
+  "dob": "1998-05-05",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.02",
+      "venue": "Central Square, Kalamata (GRE)",
+      "date": "30 MAY 2025"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.74",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14576455",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14576455",
+  "scrapedAt": "2026-07-20T16:20:59.316Z",
+  "source": "diamondleague.com"
+}

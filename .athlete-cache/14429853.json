@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14429853",
+  "athleteId": "roos-fanny-swe",
+  "athlete": "ROOS Fanny",
+  "country": "SWE",
+  "dob": "1995-01-02",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.70",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.70",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14429853",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14429853",
+  "scrapedAt": "2026-07-20T15:46:41.114Z",
+  "source": "diamondleague.com"
+}

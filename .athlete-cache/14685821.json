@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14685821",
+  "athleteId": "pinto-jose-carlos-por",
+  "athlete": "PINTO José Carlos",
+  "country": "POR",
+  "dob": "1997-05-03",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.47",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.47",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14685821",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14685821",
+  "scrapedAt": "2026-07-22T16:26:09.936Z",
+  "source": "diamondleague.com"
+}

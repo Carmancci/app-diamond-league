@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14512625",
+  "athleteId": "knight-andrenette-jam",
+  "athlete": "KNIGHT Andrenette",
+  "country": "JAM",
+  "dob": "1996-11-19",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.26",
+      "venue": "Bregyó Athletic Center, Székesfehérvár (HUN)",
+      "date": "18 JUL 2023"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "55.25",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14512625",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14512625",
+  "scrapedAt": "2026-07-20T16:15:29.601Z",
+  "source": "diamondleague.com"
+}

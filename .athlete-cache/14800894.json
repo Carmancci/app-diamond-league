@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14800894",
+  "athleteId": "jacobs-dylan-usa",
+  "athlete": "JACOBS Dylan",
+  "country": "USA",
+  "dob": "2000-06-15",
+  "pb": {
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:13.37",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:13.37",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14800894",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14800894",
+  "scrapedAt": "2026-07-22T19:47:39.752Z",
+  "source": "diamondleague.com"
+}

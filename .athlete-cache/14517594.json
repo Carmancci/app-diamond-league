@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14517594",
+  "athleteId": "davies-rose-aus",
+  "athlete": "DAVIES Rose",
+  "country": "AUS",
+  "dob": "1999-12-21",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:25.38",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:31.45",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "10,000m": {
+      "discipline": "Women's 10,000 Metres",
+      "mark": "30:34.11",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "11 JUN 2025"
+    },
+    "5 kilometres road": {
+      "discipline": "Women's 5 Kilometres Road",
+      "mark": "16:06",
+      "venue": "Noosa (AUS)",
+      "date": "02 NOV 2019"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:25.38",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:53.28",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14517594",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14517594",
+  "scrapedAt": "2026-07-20T16:16:01.429Z",
+  "source": "diamondleague.com"
+}

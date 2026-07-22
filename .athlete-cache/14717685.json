@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14717685",
+  "athleteId": "bradford-zachery-usa",
+  "athlete": "BRADFORD Zachery",
+  "country": "USA",
+  "dob": "1999-11-29",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.01",
+      "venue": "Ocean Breeze Athl. Complex, New York, NY (USA) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.01",
+      "venue": "Ocean Breeze Athl. Complex, New York, NY (USA) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14717685",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14717685",
+  "scrapedAt": "2026-07-22T16:59:42.342Z",
+  "source": "diamondleague.com"
+}

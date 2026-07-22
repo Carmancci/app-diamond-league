@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14595849",
+  "athleteId": "minard-alizee-fra",
+  "athlete": "MINARD Alizée",
+  "country": "FRA",
+  "dob": "1997-05-06",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "61.51",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "61.51",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14595849",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14595849",
+  "scrapedAt": "2026-07-22T15:15:56.526Z",
+  "source": "diamondleague.com"
+}

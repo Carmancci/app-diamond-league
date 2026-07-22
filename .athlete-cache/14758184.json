@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14758184",
+  "athleteId": "odira-lilian-ken",
+  "athlete": "ODIRA Lilian",
+  "country": "KEN",
+  "dob": "1999-04-18",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:54.62",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "21 SEP 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.19",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14758184",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14758184",
+  "scrapedAt": "2026-07-22T17:04:52.988Z",
+  "source": "diamondleague.com"
+}

@@ -1,11 +1,15 @@
 {
+  "status": "permanent_error",
   "dlId": "14258130",
   "athleteId": "champion-gabrielle-fra",
   "athlete": "CHAMPION Gabrielle",
   "country": "FRA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14258130",
-  "scrapedAt": "2026-07-20T14:46:45.347Z",
-  "source": "diamondleague.com",
-  "status": "permanent_error",
-  "error": "empty_page: HTTP 200 sem DOB, PB ou SB"
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-20T15:43:25.294Z",
+  "source": "diamondleague.com"
 }

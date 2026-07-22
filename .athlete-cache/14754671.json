@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14754671",
+  "athleteId": "verheyden-ruben-bel",
+  "athlete": "VERHEYDEN Ruben",
+  "country": "BEL",
+  "dob": "2000-12-22",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.99",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:50.67",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    },
+    "2000m": {
+      "discipline": "Men's 2000 Metres",
+      "mark": "4:52.37",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "08 SEP 2023"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "14:32.64",
+      "venue": "Herve (BEL)",
+      "date": "18 SEP 2021"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.38",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14754671",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14754671",
+  "scrapedAt": "2026-07-22T17:03:46.555Z",
+  "source": "diamondleague.com"
+}

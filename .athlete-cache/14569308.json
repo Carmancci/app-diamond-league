@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14569308",
+  "athleteId": "scott-jordan-jam",
+  "athlete": "SCOTT Jordan",
+  "country": "JAM",
+  "dob": "1997-06-29",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.69",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.69",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14569308",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14569308",
+  "scrapedAt": "2026-07-20T16:19:53.648Z",
+  "source": "diamondleague.com"
+}

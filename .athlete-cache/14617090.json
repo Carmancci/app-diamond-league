@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14617090",
+  "athleteId": "wayment-courtney-usa",
+  "athlete": "WAYMENT Courtney",
+  "country": "USA",
+  "dob": "1998-08-04",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:06.50",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "27 JUN 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:20.90",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14617090",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14617090",
+  "scrapedAt": "2026-07-22T15:17:23.746Z",
+  "source": "diamondleague.com"
+}

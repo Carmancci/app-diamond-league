@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14540786",
+  "athleteId": "wallace-erin-gbr",
+  "athlete": "WALLACE Erin",
+  "country": "GBR",
+  "dob": "2000-05-18",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.19",
+      "venue": "Sportcity Regional Arena, Manchester (GBR)",
+      "date": "25 MAY 2024"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.10",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "12 AUG 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:20.44",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.01",
+      "venue": "Woodside Stadium, Watford (GBR)",
+      "date": "11 JUL 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:02.87",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14540786",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14540786",
+  "scrapedAt": "2026-07-20T16:18:30.190Z",
+  "source": "diamondleague.com"
+}

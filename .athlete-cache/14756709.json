@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14756709",
+  "athleteId": "tzengko-elina-gre",
+  "athlete": "TZENGKO Elina",
+  "country": "GRE",
+  "dob": "2002-09-02",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "65.81",
+      "venue": "Olympiastadion, München (GER)",
+      "date": "20 AUG 2022"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "58.37",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14756709",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14756709",
+  "scrapedAt": "2026-07-22T17:04:34.243Z",
+  "source": "diamondleague.com"
+}

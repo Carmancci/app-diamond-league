@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14589082",
+  "athleteId": "mawdsley-sharlene-irl",
+  "athlete": "MAWDSLEY Sharlene",
+  "country": "IRL",
+  "dob": "1998-08-10",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.06",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.06",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14589082",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14589082",
+  "scrapedAt": "2026-07-20T16:22:50.187Z",
+  "source": "diamondleague.com"
+}

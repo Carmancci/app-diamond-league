@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14681630",
+  "athleteId": "guttormsen-sondre-nor",
+  "athlete": "GUTTORMSEN Sondre",
+  "country": "NOR",
+  "dob": "1999-06-01",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.06",
+      "venue": "Complexe Kindarena, Rouen (FRA) (i)",
+      "date": "07 MAR 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.06",
+      "venue": "Complexe Kindarena, Rouen (FRA) (i)",
+      "date": "07 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14681630",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14681630",
+  "scrapedAt": "2026-07-22T16:25:32.609Z",
+  "source": "diamondleague.com"
+}

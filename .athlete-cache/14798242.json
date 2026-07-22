@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14798242",
+  "athleteId": "akidor-margaret-ken",
+  "athlete": "AKIDOR Margaret",
+  "country": "KEN",
+  "dob": "2002-06-26",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:29.88",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "02 SEP 2023"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:30.34",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:37.45",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:34.01",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14798242",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14798242",
+  "scrapedAt": "2026-07-22T19:47:13.516Z",
+  "source": "diamondleague.com"
+}

@@ -1,16 +1,34 @@
 {
+  "status": "success",
   "dlId": "14407278",
   "athleteId": "hudson-smith-matthew-gbr",
-  "athlete": "Matthew HUDSON-SMITH",
+  "athlete": "HUDSON-SMITH Matthew",
   "country": "GBR",
   "dob": "1994-10-26",
   "pb": {
-    "300 Metres": "32.74",
-    "400 Metres": "43.44"
+    "300m": {
+      "discipline": "Men's 300 Metres",
+      "mark": "32.74",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "07 JUN 2015"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.44",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "07 AUG 2024"
+    }
   },
-  "sb": {},
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.09",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14407278",
-  "scrapedAt": "2026-07-20T14:47:26.064Z",
-  "source": "diamondleague.com",
-  "status": "success"
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14407278",
+  "scrapedAt": "2026-07-20T15:43:50.966Z",
+  "source": "diamondleague.com"
 }

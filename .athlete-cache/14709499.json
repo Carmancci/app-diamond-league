@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14709499",
+  "athleteId": "freij-maria-swe",
+  "athlete": "FREIJ Maria",
+  "country": "SWE",
+  "dob": "1998-10-24",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:02.14",
+      "venue": "Estadi Joan Serrahima, Barcelona (ESP)",
+      "date": "07 JUL 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:02.14",
+      "venue": "Estadi Joan Serrahima, Barcelona (ESP)",
+      "date": "07 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14709499",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14709499",
+  "scrapedAt": "2026-07-22T16:29:31.094Z",
+  "source": "diamondleague.com"
+}

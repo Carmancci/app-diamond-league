@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14571850",
+  "athleteId": "martinez-lazaro-cub",
+  "athlete": "MARTÍNEZ Lázaro",
+  "country": "CUB",
+  "dob": "1997-11-03",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.64",
+      "venue": "Štark Arena, Beograd (SRB) (i)",
+      "date": "18 MAR 2022"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.33",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14571850",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14571850",
+  "scrapedAt": "2026-07-20T16:19:57.783Z",
+  "source": "diamondleague.com"
+}

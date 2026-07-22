@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14523787",
+  "athleteId": "bourgoin-anais-fra",
+  "athlete": "BOURGOIN Anaïs",
+  "country": "FRA",
+  "dob": "1996-10-03",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:55.65",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:33.36",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:55.65",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14523787",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14523787",
+  "scrapedAt": "2026-07-20T16:16:32.860Z",
+  "source": "diamondleague.com"
+}

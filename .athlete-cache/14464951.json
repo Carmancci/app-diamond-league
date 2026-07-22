@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14464951",
+  "athleteId": "mccreath-sade-can",
+  "athlete": "McCREATH Sade",
+  "country": "CAN",
+  "dob": "1996-06-25",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.86",
+      "venue": "Foote Field, Edmonton (CAN)",
+      "date": "12 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.86",
+      "venue": "Foote Field, Edmonton (CAN)",
+      "date": "12 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14464951",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14464951",
+  "scrapedAt": "2026-07-20T15:48:37.934Z",
+  "source": "diamondleague.com"
+}

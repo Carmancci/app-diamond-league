@@ -1,11 +1,15 @@
 {
+  "status": "permanent_error",
   "dlId": "14285156",
   "athleteId": "rosati-martina-ita",
   "athlete": "ROSATI Martina",
   "country": "ITA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14285156",
-  "scrapedAt": "2026-07-20T14:46:52.290Z",
-  "source": "diamondleague.com",
-  "status": "permanent_error",
-  "error": "empty_page: HTTP 200 sem DOB, PB ou SB"
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-20T15:43:31.941Z",
+  "source": "diamondleague.com"
 }

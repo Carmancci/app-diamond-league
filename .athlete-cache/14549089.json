@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14549089",
+  "athleteId": "chopra-neeraj-ind",
+  "athlete": "CHOPRA Neeraj",
+  "country": "IND",
+  "dob": "1997-12-24",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "90.23",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "16 MAY 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "85.69",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14549089",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14549089",
+  "scrapedAt": "2026-07-20T16:18:43.759Z",
+  "source": "diamondleague.com"
+}

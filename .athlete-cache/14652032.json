@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14652032",
+  "athleteId": "peduzzi-alessia-ita",
+  "athlete": "PEDUZZI Alessia",
+  "country": "ITA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14652032",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T15:22:05.206Z",
+  "source": "diamondleague.com"
+}

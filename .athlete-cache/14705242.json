@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "dlId": "14705242",
+  "athleteId": "healy-sarah-irl",
+  "athlete": "HEALY Sarah",
+  "country": "IRL",
+  "dob": "2001-02-13",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:57.15",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:16.26",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:25.63",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:48.88",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.50",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:18.49",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:25.63",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:48.88",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14705242",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14705242",
+  "scrapedAt": "2026-07-22T16:28:04.774Z",
+  "source": "diamondleague.com"
+}

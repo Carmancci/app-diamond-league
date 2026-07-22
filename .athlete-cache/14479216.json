@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14479216",
+  "athleteId": "sion-valarie-usa",
+  "athlete": "SION Valarie",
+  "country": "USA",
+  "dob": "1995-02-23",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "73.52",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "12 APR 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "73.10",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14479216",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14479216",
+  "scrapedAt": "2026-07-20T15:50:14.934Z",
+  "source": "diamondleague.com"
+}

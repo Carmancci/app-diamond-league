@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14748703",
+  "athleteId": "weil-martina-chi",
+  "athlete": "WEIL Martina",
+  "country": "CHI",
+  "dob": "1999-07-12",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.72",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "28 AUG 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.43",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14748703",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14748703",
+  "scrapedAt": "2026-07-22T17:02:46.134Z",
+  "source": "diamondleague.com"
+}

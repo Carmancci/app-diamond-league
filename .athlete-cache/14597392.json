@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14597392",
+  "athleteId": "heyward-jake-gbr",
+  "athlete": "HEYWARD Jake",
+  "country": "GBR",
+  "dob": "1999-04-26",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.08",
+      "venue": "Birmingham (GBR)",
+      "date": "06 AUG 2022"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:46.73",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.81",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:46.73",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597392",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597392",
+  "scrapedAt": "2026-07-22T15:16:25.879Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14435687",
+  "athleteId": "carmassi-giada-ita",
+  "athlete": "CARMASSI Giada",
+  "country": "ITA",
+  "dob": "1994-05-15",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.69",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "15 JUN 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.90",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14435687",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14435687",
+  "scrapedAt": "2026-07-20T15:46:57.273Z",
+  "source": "diamondleague.com"
+}

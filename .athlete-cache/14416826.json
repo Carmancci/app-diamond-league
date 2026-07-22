@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14416826",
+  "athleteId": "lafond-thea-dma",
+  "athlete": "LAFOND Thea",
+  "country": "DMA",
+  "dob": "1994-04-05",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "15.25",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "15.25",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14416826",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14416826",
+  "scrapedAt": "2026-07-20T15:44:44.494Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14579514",
+  "athleteId": "hajji-soukaina-mar",
+  "athlete": "HAJJI Soukaina",
+  "country": "MAR",
+  "dob": "1997-02-04",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.98",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "24 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.62",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.98",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "24 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.62",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14579514",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14579514",
+  "scrapedAt": "2026-07-20T16:21:36.028Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14535353",
+  "athleteId": "johansson-vidar-swe",
+  "athlete": "JOHANSSON Vidar",
+  "country": "SWE",
+  "dob": "1996-10-08",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:15.00",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "09 AUG 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:21.41",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14535353",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14535353",
+  "scrapedAt": "2026-07-20T16:18:12.136Z",
+  "source": "diamondleague.com"
+}

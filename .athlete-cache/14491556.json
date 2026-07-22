@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14491556",
+  "athleteId": "crittenden-freddie-usa",
+  "athlete": "CRITTENDEN Freddie",
+  "country": "USA",
+  "dob": "1994-08-03",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.93",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "28 JUN 2024"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.64",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14491556",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14491556",
+  "scrapedAt": "2026-07-20T16:14:41.516Z",
+  "source": "diamondleague.com"
+}

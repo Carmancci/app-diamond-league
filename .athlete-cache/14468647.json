@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14468647",
+  "athleteId": "thomas-dodd-danniel-jam",
+  "athlete": "THOMAS-DODD Danniel",
+  "country": "JAM",
+  "dob": "1992-11-11",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.77",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "27 MAY 2023"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.34",
+      "venue": "Spec Towns Track, Athens, GA (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14468647",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14468647",
+  "scrapedAt": "2026-07-20T15:49:15.562Z",
+  "source": "diamondleague.com"
+}

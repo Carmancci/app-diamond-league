@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14595096",
+  "athleteId": "bouzayani-marwa-tun",
+  "athlete": "BOUZAYANI Marwa",
+  "country": "TUN",
+  "dob": "1997-03-26",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:54.32",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:54.32",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14595096",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14595096",
+  "scrapedAt": "2026-07-20T16:23:53.222Z",
+  "source": "diamondleague.com"
+}

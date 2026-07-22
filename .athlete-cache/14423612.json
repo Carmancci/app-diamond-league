@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14423612",
+  "athleteId": "gerashchenko-iryna-ukr",
+  "athlete": "GERASHCHENKO Iryna",
+  "country": "UKR",
+  "dob": "1995-03-10",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.00",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "29 JUN 2023"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.97",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14423612",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14423612",
+  "scrapedAt": "2026-07-20T15:45:30.353Z",
+  "source": "diamondleague.com"
+}

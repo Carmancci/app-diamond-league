@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14589446",
+  "athleteId": "danismaz-tugba-tur",
+  "athlete": "DANISMAZ Tugba",
+  "country": "TUR",
+  "dob": "1999-09-01",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.57",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "09 JUN 2024"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.03",
+      "venue": "Princess Noura University, Riyadh (KSA)",
+      "date": "15 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14589446",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14589446",
+  "scrapedAt": "2026-07-20T16:22:59.425Z",
+  "source": "diamondleague.com"
+}

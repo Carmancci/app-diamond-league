@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14757466",
+  "athleteId": "teare-cooper-usa",
+  "athlete": "TEARE Cooper",
+  "country": "USA",
+  "dob": "1999-08-18",
+  "pb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:54.72",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "17 MAY 2024"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:18.13",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14757466",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14757466",
+  "scrapedAt": "2026-07-22T17:04:43.993Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14450465",
+  "athleteId": "moser-angelica-sui",
+  "athlete": "MOSER Angelica",
+  "country": "SUI",
+  "dob": "1997-10-09",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.88",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "12 JUL 2024"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.80",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14450465",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14450465",
+  "scrapedAt": "2026-07-20T15:47:31.173Z",
+  "source": "diamondleague.com"
+}

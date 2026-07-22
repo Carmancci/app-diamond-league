@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14558613",
+  "athleteId": "du-plessis-jo-ane-rsa",
+  "athlete": "du PLESSIS Jo-Ane",
+  "country": "RSA",
+  "dob": "1997-10-03",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "64.22",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "07 AUG 2024"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "57.54",
+      "venue": "McArthur Stadium, Potchefstroom (RSA)",
+      "date": "08 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14558613",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14558613",
+  "scrapedAt": "2026-07-20T16:19:13.680Z",
+  "source": "diamondleague.com"
+}

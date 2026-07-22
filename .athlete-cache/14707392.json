@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14707392",
+  "athleteId": "henriksen-vilde-vage-nor",
+  "athlete": "HENRIKSEN Vilde Våge",
+  "country": "NOR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14707392",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T16:28:41.419Z",
+  "source": "diamondleague.com"
+}

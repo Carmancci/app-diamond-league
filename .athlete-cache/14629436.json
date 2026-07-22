@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14629436",
+  "athleteId": "ratcliffe-thomas-usa",
+  "athlete": "RATCLIFFE Thomas",
+  "country": "USA",
+  "dob": "1997-09-03",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:33.28",
+      "venue": "Lincoln HS, Portland, OR (USA)",
+      "date": "19 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:37.92",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:11.68",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:42.53",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    },
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:11.68",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14629436",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14629436",
+  "scrapedAt": "2026-07-22T15:18:26.464Z",
+  "source": "diamondleague.com"
+}

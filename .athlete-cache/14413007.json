@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14413007",
+  "athleteId": "walsh-tom-nzl",
+  "athlete": "WALSH Tom",
+  "country": "NZL",
+  "dob": "1992-03-01",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.90",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "05 OCT 2019"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.82",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "22 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14413007",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14413007",
+  "scrapedAt": "2026-07-20T15:44:19.465Z",
+  "source": "diamondleague.com"
+}

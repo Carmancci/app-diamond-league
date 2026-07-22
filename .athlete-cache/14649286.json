@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14649286",
+  "athleteId": "benkassem-khadija-mar",
+  "athlete": "BENKASSEM Khadija",
+  "country": "MAR",
+  "dob": "1998-04-20",
+  "pb": {
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:46.39",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "13 JUL 2018"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:25.86",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "16 JUL 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:36.90",
+      "venue": "Fes (MAR)",
+      "date": "05 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14649286",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14649286",
+  "scrapedAt": "2026-07-22T15:21:35.584Z",
+  "source": "diamondleague.com"
+}

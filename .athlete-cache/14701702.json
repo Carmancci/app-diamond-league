@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14701702",
+  "athleteId": "krolik-kinga-pol",
+  "athlete": "KRÓLIK Kinga",
+  "country": "POL",
+  "dob": "1999-09-26",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:22.14",
+      "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+      "date": "30 MAY 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:33.79",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14701702",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14701702",
+  "scrapedAt": "2026-07-22T16:27:42.064Z",
+  "source": "diamondleague.com"
+}

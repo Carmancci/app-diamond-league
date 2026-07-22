@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14685519",
+  "athleteId": "pryce-nickisha-jam",
+  "athlete": "PRYCE Nickisha",
+  "country": "JAM",
+  "dob": "2001-03-07",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.57",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.56",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14685519",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14685519",
+  "scrapedAt": "2026-07-22T16:26:00.960Z",
+  "source": "diamondleague.com"
+}

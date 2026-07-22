@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14500229",
+  "athleteId": "bukowiecki-konrad-pol",
+  "athlete": "BUKOWIECKI Konrad",
+  "country": "POL",
+  "dob": "1997-03-17",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.25",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "14 SEP 2019"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.34",
+      "venue": "Market square, Białystok (POL)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14500229",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14500229",
+  "scrapedAt": "2026-07-20T16:15:02.295Z",
+  "source": "diamondleague.com"
+}

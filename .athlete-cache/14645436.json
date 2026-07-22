@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14645436",
+  "athleteId": "kubinec-jakub-svk",
+  "athlete": "KUBÍNEC Jakub",
+  "country": "SVK",
+  "dob": "1998-05-18",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "83.49",
+      "venue": "Atletický štadión, Martin (SVK)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "83.49",
+      "venue": "Atletický štadión, Martin (SVK)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14645436",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14645436",
+  "scrapedAt": "2026-07-22T15:20:47.455Z",
+  "source": "diamondleague.com"
+}

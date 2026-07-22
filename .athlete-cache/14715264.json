@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14715264",
+  "athleteId": "lightfoot-kc-usa",
+  "athlete": "LIGHTFOOT KC",
+  "country": "USA",
+  "dob": "1999-11-11",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.07",
+      "venue": "Vanderbilt Track, Nashville, TN (USA)",
+      "date": "02 JUN 2023"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.91",
+      "venue": "Jordan Creek Town Center, Des Moines, IA (USA)",
+      "date": "20 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14715264",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14715264",
+  "scrapedAt": "2026-07-22T16:30:25.963Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14538561",
+  "athleteId": "jacobs-gabi-usa",
+  "athlete": "JACOBS Gabi",
+  "country": "USA",
+  "dob": "1996-08-20",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "68.21",
+      "venue": "Rock Chalk Park, Lawrence, KS (USA)",
+      "date": "26 APR 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "62.76",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14538561",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14538561",
+  "scrapedAt": "2026-07-20T16:18:26.107Z",
+  "source": "diamondleague.com"
+}

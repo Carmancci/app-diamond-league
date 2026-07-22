@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "dlId": "14522654",
+  "athleteId": "wightman-jake-gbr",
+  "athlete": "WIGHTMAN Jake",
+  "country": "GBR",
+  "dob": "1994-07-11",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:43.65",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "02 SEP 2022"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:12.77",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:29.23",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "19 JUL 2022"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:47.82",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.39",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:12.77",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:29.95",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.36",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14522654",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14522654",
+  "scrapedAt": "2026-07-20T16:16:19.432Z",
+  "source": "diamondleague.com"
+}

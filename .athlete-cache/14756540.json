@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14756540",
+  "athleteId": "daguinos-etienne-fra",
+  "athlete": "DAGUINOS Etienne",
+  "country": "FRA",
+  "dob": "2000-02-15",
+  "pb": {
+    "2 miles": {
+      "discipline": "Men's 2 Miles",
+      "mark": "8:31.29",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "09 JUN 2023"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:55.76",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:01.92",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14756540",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14756540",
+  "scrapedAt": "2026-07-22T17:04:27.006Z",
+  "source": "diamondleague.com"
+}

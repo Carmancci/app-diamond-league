@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14694062",
+  "athleteId": "gressier-jimmy-fra",
+  "athlete": "GRESSIER Jimmy",
+  "country": "FRA",
+  "dob": "1997-05-04",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.71",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "19 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:28.67",
+      "venue": "Stade Jean Delbert, Montreuil (FRA)",
+      "date": "17 JUN 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:51.59",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "10,000m": {
+      "discipline": "Men's 10,000 Metres",
+      "mark": "26:58.67",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "02 AUG 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:34.63",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:28.67",
+      "venue": "Stade Jean Delbert, Montreuil (FRA)",
+      "date": "17 JUN 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:57.79",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14694062",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14694062",
+  "scrapedAt": "2026-07-22T16:26:59.024Z",
+  "source": "diamondleague.com"
+}

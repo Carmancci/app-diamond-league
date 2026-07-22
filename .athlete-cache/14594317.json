@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14594317",
+  "athleteId": "nielsen-lina-gbr",
+  "athlete": "NIELSEN Lina",
+  "country": "GBR",
+  "dob": "1996-03-13",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.43",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "10 JUN 2024"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.69",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14594317",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14594317",
+  "scrapedAt": "2026-07-22T19:43:16.863Z",
+  "source": "diamondleague.com"
+}

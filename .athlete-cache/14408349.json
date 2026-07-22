@@ -1,15 +1,28 @@
 {
+  "status": "success",
   "dlId": "14408349",
   "athleteId": "talos-elena-andreea-rou",
-  "athlete": "Elena Andreea TALOȘ",
+  "athlete": "TALOS Elena Andreea",
   "country": "ROU",
   "dob": "1995-02-24",
   "pb": {
-    "Triple Jump": "14.47"
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.47",
+      "venue": "Montreuil (FRA)",
+      "date": "19 JUN 2018"
+    }
   },
-  "sb": {},
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.24",
+      "venue": "Sala de Atletism Ioan Soter, Bucureşti (ROU) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14408349",
-  "scrapedAt": "2026-07-20T14:47:46.065Z",
-  "source": "diamondleague.com",
-  "status": "success"
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14408349",
+  "scrapedAt": "2026-07-20T15:44:02.840Z",
+  "source": "diamondleague.com"
 }

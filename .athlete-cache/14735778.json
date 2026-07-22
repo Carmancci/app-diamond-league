@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14735778",
+  "athleteId": "jhinaoui-mohamed-amin-tun",
+  "athlete": "JHINAOUI Mohamed Amin",
+  "country": "TUN",
+  "dob": "1997-04-02",
+  "pb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:37.56",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "05 MAY 2023"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:07.73",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "07 AUG 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:28.85",
+      "venue": "Stade Raymond Troussier, Decines (FRA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14735778",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14735778",
+  "scrapedAt": "2026-07-22T17:00:47.145Z",
+  "source": "diamondleague.com"
+}

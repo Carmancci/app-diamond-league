@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14632781",
+  "athleteId": "anning-amber-gbr",
+  "athlete": "ANNING Amber",
+  "country": "GBR",
+  "dob": "2000-11-18",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.29",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "09 AUG 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.16",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14632781",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14632781",
+  "scrapedAt": "2026-07-22T15:19:04.119Z",
+  "source": "diamondleague.com"
+}

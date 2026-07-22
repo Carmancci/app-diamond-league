@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14647721",
+  "athleteId": "zapletalova-emma-svk",
+  "athlete": "ZAPLETALOVÁ Emma",
+  "country": "SVK",
+  "dob": "2000-03-24",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "52.30",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "52.30",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14647721",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14647721",
+  "scrapedAt": "2026-07-22T15:21:15.750Z",
+  "source": "diamondleague.com"
+}

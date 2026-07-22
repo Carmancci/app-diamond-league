@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14474566",
+  "athleteId": "broeders-ben-bel",
+  "athlete": "BROEDERS Ben",
+  "country": "BEL",
+  "dob": "1995-06-21",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.85",
+      "venue": "Gymnasium am Stefansberg, Merzig (GER)",
+      "date": "11 JUN 2022"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "5.72",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14474566",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14474566",
+  "scrapedAt": "2026-07-20T15:49:47.676Z",
+  "source": "diamondleague.com"
+}

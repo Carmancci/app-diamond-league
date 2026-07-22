@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14513285",
+  "athleteId": "bakker-veerle-ned",
+  "athlete": "BAKKER Veerle",
+  "country": "NED",
+  "dob": "1997-09-29",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:25.53",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "09 AUG 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:58.27",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14513285",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14513285",
+  "scrapedAt": "2026-07-20T16:15:37.916Z",
+  "source": "diamondleague.com"
+}

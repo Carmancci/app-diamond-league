@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14755096",
+  "athleteId": "kones-wilberforce-chemiat-ken",
+  "athlete": "KONES Wilberforce Chemiat",
+  "country": "KEN",
+  "dob": "1993-09-19",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:21.42",
+      "venue": "Estadio Iberoamericano, Huelva (ESP)",
+      "date": "03 JUN 2021"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:47.23",
+      "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+      "date": "27 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14755096",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14755096",
+  "scrapedAt": "2026-07-22T17:03:55.353Z",
+  "source": "diamondleague.com"
+}

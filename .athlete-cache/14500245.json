@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14500245",
+  "athleteId": "andrejczyk-maria-pol",
+  "athlete": "ANDREJCZYK Maria",
+  "country": "POL",
+  "dob": "1996-03-09",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "71.40",
+      "venue": "Stadion Park Mladeži, Split (CRO)",
+      "date": "09 MAY 2021"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "62.78",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14500245",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14500245",
+  "scrapedAt": "2026-07-20T16:15:06.391Z",
+  "source": "diamondleague.com"
+}

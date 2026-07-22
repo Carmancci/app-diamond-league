@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14565327",
+  "athleteId": "marschall-kurtis-aus",
+  "athlete": "MARSCHALL Kurtis",
+  "country": "AUS",
+  "dob": "1997-04-25",
+  "pb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.00",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "21 MAR 2026"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Men's Pole Vault",
+      "mark": "6.00",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "21 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14565327",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14565327",
+  "scrapedAt": "2026-07-20T16:19:28.060Z",
+  "source": "diamondleague.com"
+}

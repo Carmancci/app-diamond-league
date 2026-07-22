@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14776879",
+  "athleteId": "clayton-tina-jam",
+  "athlete": "CLAYTON Tina",
+  "country": "JAM",
+  "dob": "2004-08-17",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.76",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "14 SEP 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.85",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14776879",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14776879",
+  "scrapedAt": "2026-07-22T19:45:10.132Z",
+  "source": "diamondleague.com"
+}

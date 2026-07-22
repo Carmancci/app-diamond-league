@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14423522",
+  "athleteId": "woodruff-gianna-pan",
+  "athlete": "WOODRUFF Gianna",
+  "country": "PAN",
+  "dob": "1993-11-18",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "52.66",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 SEP 2025"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.58",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14423522",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14423522",
+  "scrapedAt": "2026-07-20T15:45:20.537Z",
+  "source": "diamondleague.com"
+}

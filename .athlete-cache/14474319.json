@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14474319",
+  "athleteId": "sasinek-filip-cze",
+  "athlete": "SASÍNEK Filip",
+  "country": "CZE",
+  "dob": "1996-01-08",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:34.30",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "24 JUN 2025"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:55.47",
+      "venue": "Stadion U Červených domků, Hodonín (CZE)",
+      "date": "03 SEP 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:36.55",
+      "venue": "Province Naimette Arena, Liège (BEL)",
+      "date": "15 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14474319",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14474319",
+  "scrapedAt": "2026-07-20T15:49:39.672Z",
+  "source": "diamondleague.com"
+}

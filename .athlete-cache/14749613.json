@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14749613",
+  "athleteId": "paulino-marileidy-dom",
+  "athlete": "PAULINO Marileidy",
+  "country": "DOM",
+  "dob": "1996-10-25",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.30",
+      "venue": "Ansin Sports Complex, Miramar, FL (USA)",
+      "date": "04 MAY 2025"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "47.98",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "18 SEP 2025"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.60",
+      "venue": "Estadio de Atletismo - Unidad Deportiva el Salitre, Bogotá (COL)",
+      "date": "25 APR 2026"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.48",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14749613",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14749613",
+  "scrapedAt": "2026-07-22T17:03:02.416Z",
+  "source": "diamondleague.com"
+}

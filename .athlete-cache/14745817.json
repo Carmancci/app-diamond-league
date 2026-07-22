@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14745817",
+  "athleteId": "sekgodiso-prudence-rsa",
+  "athlete": "SEKGODISO Prudence",
+  "country": "RSA",
+  "dob": "2002-01-05",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.83",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.83",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14745817",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14745817",
+  "scrapedAt": "2026-07-22T17:02:17.795Z",
+  "source": "diamondleague.com"
+}

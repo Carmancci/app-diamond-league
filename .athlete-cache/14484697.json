@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14484697",
+  "athleteId": "r-nningen-helene-nor",
+  "athlete": "RØNNINGEN Helene",
+  "country": "NOR",
+  "dob": "1998-09-04",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.38",
+      "venue": "Østerbro Stadion, København (DEN)",
+      "date": "07 JUN 2023"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.27",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "07 JUN 2018"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.44",
+      "venue": "Stade d'Athletisme Pierre Voillequin, Troyes (FRA)",
+      "date": "28 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.91",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "24 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14484697",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14484697",
+  "scrapedAt": "2026-07-20T15:51:11.392Z",
+  "source": "diamondleague.com"
+}

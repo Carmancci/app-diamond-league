@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14663467",
+  "athleteId": "velazco-davisleydi-cub",
+  "athlete": "VELAZCO Davisleydi",
+  "country": "CUB",
+  "dob": "1999-09-04",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "15.13",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "15.13",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14663467",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14663467",
+  "scrapedAt": "2026-07-22T15:23:31.910Z",
+  "source": "diamondleague.com"
+}

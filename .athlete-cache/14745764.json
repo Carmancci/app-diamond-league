@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14745764",
+  "athleteId": "yeargin-nicole-gbr",
+  "athlete": "YEARGIN Nicole",
+  "country": "GBR",
+  "dob": "1997-08-11",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.96",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "10 JUN 2021"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.98",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14745764",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14745764",
+  "scrapedAt": "2026-07-22T19:43:52.449Z",
+  "source": "diamondleague.com"
+}

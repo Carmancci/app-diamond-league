@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14479154",
+  "athleteId": "jeruto-norah-kaz",
+  "athlete": "JERUTO Norah",
+  "country": "KAZ",
+  "dob": "1995-10-02",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:33.61",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "04 SEP 2018"
+    },
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "8:53.02",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "20 JUL 2022"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:10.90",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14479154",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14479154",
+  "scrapedAt": "2026-07-20T15:50:07.822Z",
+  "source": "diamondleague.com"
+}

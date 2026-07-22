@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14436941",
+  "athleteId": "winkler-rudy-usa",
+  "athlete": "WINKLER Rudy",
+  "country": "USA",
+  "dob": "1994-12-06",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "83.16",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "81.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14436941",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14436941",
+  "scrapedAt": "2026-07-20T15:47:06.298Z",
+  "source": "diamondleague.com"
+}

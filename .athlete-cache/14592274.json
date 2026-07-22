@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14592274",
+  "athleteId": "schmidt-alica-ger",
+  "athlete": "SCHMIDT Alica",
+  "country": "GER",
+  "dob": "1998-11-08",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "52.07",
+      "venue": "Olympiastadion, Berlin (GER)",
+      "date": "03 SEP 2023"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14592274",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14592274",
+  "scrapedAt": "2026-07-20T16:23:17.014Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14765228",
+  "athleteId": "pagliassotto-federica-ita",
+  "athlete": "PAGLIASSOTTO Federica",
+  "country": "ITA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14765228",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T19:44:07.664Z",
+  "source": "diamondleague.com"
+}

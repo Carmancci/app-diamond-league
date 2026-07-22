@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14595545",
+  "athleteId": "claridge-ben-gbr",
+  "athlete": "CLARIDGE Ben",
+  "country": "GBR",
+  "dob": "1997-11-12",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:41.78",
+      "venue": "Manchester Regional Arena, Manchester (GBR)",
+      "date": "29 JUN 2024"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14595545",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14595545",
+  "scrapedAt": "2026-07-20T16:24:02.884Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14738969",
+  "athleteId": "joseph-gemima-fra",
+  "athlete": "JOSEPH Gémima",
+  "country": "FRA",
+  "dob": "2001-10-17",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.01",
+      "venue": "Stade Josette et Roger Mikulak, Angers (FRA)",
+      "date": "29 JUN 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.57",
+      "venue": "Stade Edmard Lama, Remire-Montjoly (FRA)",
+      "date": "13 APR 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.31",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.60",
+      "venue": "Ray Conn Sports Complex, Cleveland, TN (USA)",
+      "date": "29 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14738969",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14738969",
+  "scrapedAt": "2026-07-22T17:01:18.757Z",
+  "source": "diamondleague.com"
+}

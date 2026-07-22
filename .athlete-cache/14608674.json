@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14608674",
+  "athleteId": "feain-ryan-cara-aus",
+  "athlete": "FEAIN-RYAN Cara",
+  "country": "AUS",
+  "dob": "1999-02-05",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:21.35",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:21.35",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14608674",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14608674",
+  "scrapedAt": "2026-07-22T15:17:08.615Z",
+  "source": "diamondleague.com"
+}

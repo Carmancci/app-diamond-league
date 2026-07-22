@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14490237",
+  "athleteId": "norwood-vernon-usa",
+  "athlete": "NORWOOD Vernon",
+  "country": "USA",
+  "dob": "1992-04-10",
+  "pb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.30",
+      "venue": "LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",
+      "date": "24 APR 2021"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.10",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.73",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "11 APR 2026"
+    },
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.58",
+      "venue": "Hilmer Lodge Stadium, Walnut, CA (USA)",
+      "date": "18 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14490237",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14490237",
+  "scrapedAt": "2026-07-20T15:52:09.871Z",
+  "source": "diamondleague.com"
+}

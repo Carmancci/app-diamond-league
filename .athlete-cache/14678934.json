@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14678934",
+  "athleteId": "brossier-amandine-fra",
+  "athlete": "BROSSIER Amandine",
+  "country": "FRA",
+  "dob": "1995-08-15",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.43",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "12 JUL 2024"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14678934",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14678934",
+  "scrapedAt": "2026-07-22T16:24:39.198Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14685249",
+  "athleteId": "nugent-ackera-jam",
+  "athlete": "NUGENT Ackera",
+  "country": "JAM",
+  "dob": "2002-04-29",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.24",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "30 AUG 2024"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.61",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14685249",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14685249",
+  "scrapedAt": "2026-07-22T16:25:57.001Z",
+  "source": "diamondleague.com"
+}

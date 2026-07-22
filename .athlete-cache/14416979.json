@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14416979",
+  "athleteId": "mattis-sam-usa",
+  "athlete": "MATTIS Sam",
+  "country": "USA",
+  "dob": "1994-03-19",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "72.45",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "72.45",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14416979",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14416979",
+  "scrapedAt": "2026-07-20T15:44:48.692Z",
+  "source": "diamondleague.com"
+}

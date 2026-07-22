@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14634359",
+  "athleteId": "lasser-elise-bel",
+  "athlete": "LASSER Elise",
+  "country": "BEL",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14634359",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T15:19:08.968Z",
+  "source": "diamondleague.com"
+}

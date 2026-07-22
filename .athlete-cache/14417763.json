@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14417763",
+  "athleteId": "simbine-akani-rsa",
+  "athlete": "SIMBINE Akani",
+  "country": "RSA",
+  "dob": "1993-09-21",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.82",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "04 AUG 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.97",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14417763",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14417763",
+  "scrapedAt": "2026-07-20T15:44:52.665Z",
+  "source": "diamondleague.com"
+}

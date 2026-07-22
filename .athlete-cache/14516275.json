@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14516275",
+  "athleteId": "guillaume-ilionis-fra",
+  "athlete": "GUILLAUME Ilionis",
+  "country": "FRA",
+  "dob": "1998-01-13",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.59",
+      "venue": "Pista atletismo Fuente de la Niña, Guadalajara (ESP)",
+      "date": "23 JUN 2024"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.09",
+      "venue": "Stade Omnisports Schlossberg, Forbach (FRA)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14516275",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14516275",
+  "scrapedAt": "2026-07-20T16:15:57.234Z",
+  "source": "diamondleague.com"
+}

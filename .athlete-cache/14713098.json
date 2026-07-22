@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14713098",
+  "athleteId": "botterill-alex-gbr",
+  "athlete": "BOTTERILL Alex",
+  "country": "GBR",
+  "dob": "2000-01-18",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.16",
+      "venue": "Parc des Sports C. Ehrmann, Nice (FRA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.16",
+      "venue": "Parc des Sports C. Ehrmann, Nice (FRA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14713098",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14713098",
+  "scrapedAt": "2026-07-22T19:43:41.051Z",
+  "source": "diamondleague.com"
+}

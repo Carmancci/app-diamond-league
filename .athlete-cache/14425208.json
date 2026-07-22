@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14425208",
+  "athleteId": "clayton-rushell-jam",
+  "athlete": "CLAYTON Rushell",
+  "country": "JAM",
+  "dob": "1992-10-18",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.81",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "13 APR 2024"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "52.51",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "28 JUN 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.85",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "18 APR 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.05",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14425208",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14425208",
+  "scrapedAt": "2026-07-20T15:45:42.630Z",
+  "source": "diamondleague.com"
+}

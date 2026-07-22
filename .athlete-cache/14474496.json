@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14474496",
+  "athleteId": "filipic-neja-slo",
+  "athlete": "FILIPIC Neja",
+  "country": "SLO",
+  "dob": "1995-04-22",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.50",
+      "venue": "Štadion Kladivar, Celje (SLO)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.50",
+      "venue": "Štadion Kladivar, Celje (SLO)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14474496",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14474496",
+  "scrapedAt": "2026-07-20T15:49:43.677Z",
+  "source": "diamondleague.com"
+}

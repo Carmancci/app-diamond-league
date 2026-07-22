@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14756075",
+  "athleteId": "ofili-favour-ngr",
+  "athlete": "OFILI Favour",
+  "country": "NGR",
+  "dob": "2002-12-31",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.87",
+      "venue": "Southwestern University Track Stadium, Georgetown, TX (USA)",
+      "date": "28 JUN 2025"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.96",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "15 APR 2022"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.07",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.15",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14756075",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14756075",
+  "scrapedAt": "2026-07-22T17:04:19.035Z",
+  "source": "diamondleague.com"
+}

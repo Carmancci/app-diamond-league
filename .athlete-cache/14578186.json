@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14578186",
+  "athleteId": "beamish-geordie-nzl",
+  "athlete": "BEAMISH Geordie",
+  "country": "NZL",
+  "dob": "1996-10-24",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:34.47",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "25 MAY 2024"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.09",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "25 MAY 2024"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:09.64",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:13.11",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14578186",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14578186",
+  "scrapedAt": "2026-07-20T16:21:12.461Z",
+  "source": "diamondleague.com"
+}

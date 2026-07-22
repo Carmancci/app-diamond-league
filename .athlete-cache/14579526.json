@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14579526",
+  "athleteId": "amusan-tobi-ngr",
+  "athlete": "AMUSAN Tobi",
+  "country": "NGR",
+  "dob": "1997-04-23",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "24 JUL 2022"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.28",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14579526",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14579526",
+  "scrapedAt": "2026-07-20T16:21:40.133Z",
+  "source": "diamondleague.com"
+}

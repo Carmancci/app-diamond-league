@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14487463",
+  "athleteId": "del-ponte-ajla-sui",
+  "athlete": "del PONTE Ajla",
+  "country": "SUI",
+  "dob": "1996-07-15",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.90",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 AUG 2021"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.38",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.11",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.99",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14487463",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14487463",
+  "scrapedAt": "2026-07-20T15:51:50.530Z",
+  "source": "diamondleague.com"
+}

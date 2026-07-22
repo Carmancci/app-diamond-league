@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14735578",
+  "athleteId": "haydock-wilson-alex-gbr",
+  "athlete": "HAYDOCK-WILSON Alex",
+  "country": "GBR",
+  "dob": "1999-07-28",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.08",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "20 JUL 2022"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "46.56",
+      "venue": "Pista atletismo Can Mises, Ibiza (ESP)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14735578",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14735578",
+  "scrapedAt": "2026-07-22T17:00:43.303Z",
+  "source": "diamondleague.com"
+}

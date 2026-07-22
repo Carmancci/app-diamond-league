@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14739461",
+  "athleteId": "kambundji-ditaji-sui",
+  "athlete": "KAMBUNDJI Ditaji",
+  "country": "SUI",
+  "dob": "2002-05-20",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.24",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "15 SEP 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.62",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14739461",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14739461",
+  "scrapedAt": "2026-07-22T17:01:27.998Z",
+  "source": "diamondleague.com"
+}

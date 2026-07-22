@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14635021",
+  "athleteId": "liu-jingyang-chn",
+  "athlete": "LIU Jingyang",
+  "country": "CHN",
+  "dob": "1997-08-12",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.81",
+      "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+      "date": "19 NOV 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "13.07",
+      "venue": "Kuishan Sports Center, Rizhao (CHN)",
+      "date": "27 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14635021",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14635021",
+  "scrapedAt": "2026-07-22T15:19:25.941Z",
+  "source": "diamondleague.com"
+}

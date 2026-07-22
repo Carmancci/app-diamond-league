@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14579721",
+  "athleteId": "leduc-audrey-can",
+  "athlete": "LEDUC Audrey",
+  "country": "CAN",
+  "dob": "1999-03-09",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.36",
+      "venue": "Edwin Moses Track, Atlanta, GA (USA)",
+      "date": "31 MAY 2024"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.38",
+      "venue": "Terry Fox AF, Ottawa (CAN)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14579721",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14579721",
+  "scrapedAt": "2026-07-20T16:21:43.986Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14755476",
+  "athleteId": "miller-owen-gbr",
+  "athlete": "MILLER Owen",
+  "country": "GBR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14755476",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T19:43:57.118Z",
+  "source": "diamondleague.com"
+}

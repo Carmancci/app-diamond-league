@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14590424",
+  "athleteId": "el-bakkali-soufiane-mar",
+  "athlete": "EL BAKKALI Soufiane",
+  "country": "MAR",
+  "dob": "1996-01-07",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.95",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "28 MAY 2021"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:33.87",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "05 MAY 2023"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:55.49",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "7:56.68",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "28 MAY 2023"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "7:57.25",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14590424",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14590424",
+  "scrapedAt": "2026-07-20T16:23:08.727Z",
+  "source": "diamondleague.com"
+}

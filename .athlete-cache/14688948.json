@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14688948",
+  "athleteId": "caudery-molly-gbr",
+  "athlete": "CAUDERY Molly",
+  "country": "GBR",
+  "dob": "2000-03-17",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.92",
+      "venue": "Place du Capitole, Toulouse (FRA)",
+      "date": "22 JUN 2024"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.85",
+      "venue": "Kujawsko-Pomorska Arena, Toruń (POL) (i)",
+      "date": "22 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14688948",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14688948",
+  "scrapedAt": "2026-07-22T16:26:31.791Z",
+  "source": "diamondleague.com"
+}

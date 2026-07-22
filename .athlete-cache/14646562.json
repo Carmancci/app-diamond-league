@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14646562",
+  "athleteId": "alfred-julien-lca",
+  "athlete": "ALFRED Julien",
+  "country": "LCA",
+  "dob": "2001-06-10",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.72",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "03 AUG 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.51",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.87",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.51",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14646562",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14646562",
+  "scrapedAt": "2026-07-22T15:20:59.356Z",
+  "source": "diamondleague.com"
+}

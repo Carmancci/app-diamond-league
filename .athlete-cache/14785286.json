@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14785286",
+  "athleteId": "harrison-juvaughn-usa",
+  "athlete": "HARRISON JuVaughn",
+  "country": "USA",
+  "dob": "1999-04-30",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.36",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "22 AUG 2023"
+    },
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.47",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "27 JUN 2021"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.23",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "7.70",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14785286",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14785286",
+  "scrapedAt": "2026-07-22T19:46:02.777Z",
+  "source": "diamondleague.com"
+}

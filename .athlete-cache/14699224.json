@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14699224",
+  "athleteId": "coiro-eloisa-ita",
+  "athlete": "COIRO Eloisa",
+  "country": "ITA",
+  "dob": "2000-12-01",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.42",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.42",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14699224",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14699224",
+  "scrapedAt": "2026-07-22T16:27:27.229Z",
+  "source": "diamondleague.com"
+}

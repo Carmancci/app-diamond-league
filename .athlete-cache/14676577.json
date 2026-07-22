@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14676577",
+  "athleteId": "van-klinken-jorinde-ned",
+  "athlete": "van KLINKEN Jorinde",
+  "country": "NED",
+  "dob": "2000-02-02",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.57",
+      "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+      "date": "11 FEB 2023"
+    },
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "70.99",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "19.34",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    },
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "70.99",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "11 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14676577",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14676577",
+  "scrapedAt": "2026-07-22T16:24:25.866Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14713125",
+  "athleteId": "geist-jordan-usa",
+  "athlete": "GEIST Jordan",
+  "country": "USA",
+  "dob": "1998-07-21",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.44",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.44",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14713125",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14713125",
+  "scrapedAt": "2026-07-22T16:29:48.041Z",
+  "source": "diamondleague.com"
+}

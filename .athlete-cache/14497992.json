@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14497992",
+  "athleteId": "chaudhary-parul-ind",
+  "athlete": "CHAUDHARY Parul",
+  "country": "IND",
+  "dob": "1995-04-15",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:12.46",
+      "venue": "Gumi Civic Stadium, Gumi (KOR)",
+      "date": "30 MAY 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:12.84",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14497992",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14497992",
+  "scrapedAt": "2026-07-20T16:14:52.404Z",
+  "source": "diamondleague.com"
+}

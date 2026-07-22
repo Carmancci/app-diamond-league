@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14486620",
+  "athleteId": "johnson-alaysha-usa",
+  "athlete": "JOHNSON Alaysha",
+  "country": "USA",
+  "dob": "1996-07-20",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.31",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "30 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.38",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14486620",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14486620",
+  "scrapedAt": "2026-07-20T15:51:26.399Z",
+  "source": "diamondleague.com"
+}

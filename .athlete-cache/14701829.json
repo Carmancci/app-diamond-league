@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14701829",
+  "athleteId": "moreau-astrid-fra",
+  "athlete": "MOREAU Astrid",
+  "country": "FRA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14701829",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T16:27:46.852Z",
+  "source": "diamondleague.com"
+}

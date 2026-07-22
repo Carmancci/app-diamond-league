@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14720465",
+  "athleteId": "chalmers-alastair-gbr",
+  "athlete": "CHALMERS Alastair",
+  "country": "GBR",
+  "dob": "2000-03-31",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.30",
+      "venue": "Bungertstadion, Rehlingen (GER)",
+      "date": "08 JUN 2025"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.53",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14720465",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14720465",
+  "scrapedAt": "2026-07-22T19:43:44.813Z",
+  "source": "diamondleague.com"
+}

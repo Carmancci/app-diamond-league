@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14708730",
+  "athleteId": "diallo-fatoumata-binta-por",
+  "athlete": "DIALLO Fatoumata Binta",
+  "country": "POR",
+  "dob": "2000-04-06",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.31",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.31",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14708730",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14708730",
+  "scrapedAt": "2026-07-22T16:29:02.049Z",
+  "source": "diamondleague.com"
+}

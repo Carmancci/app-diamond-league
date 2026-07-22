@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14484475",
+  "athleteId": "folorunso-ayomide-ita",
+  "athlete": "FOLORUNSO Ayomide",
+  "country": "ITA",
+  "dob": "1996-10-17",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.89",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "22 AUG 2023"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.53",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14484475",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14484475",
+  "scrapedAt": "2026-07-20T15:51:07.427Z",
+  "source": "diamondleague.com"
+}

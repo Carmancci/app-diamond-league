@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14715561",
+  "athleteId": "silva-patricia-por",
+  "athlete": "SILVA Patricia",
+  "country": "POR",
+  "dob": "1999-12-09",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.74",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:58.74",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14715561",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14715561",
+  "scrapedAt": "2026-07-22T16:58:59.528Z",
+  "source": "diamondleague.com"
+}

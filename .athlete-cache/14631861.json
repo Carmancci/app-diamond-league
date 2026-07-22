@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14631861",
+  "athleteId": "gayle-tajay-jam",
+  "athlete": "GAYLE Tajay",
+  "country": "JAM",
+  "dob": "1996-08-02",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.69",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "28 SEP 2019"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.37",
+      "venue": "National Stadium, Kingston (JAM)",
+      "date": "20 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14631861",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14631861",
+  "scrapedAt": "2026-07-22T15:18:56.009Z",
+  "source": "diamondleague.com"
+}

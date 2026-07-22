@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14713427",
+  "athleteId": "bengtstrom-carl-swe",
+  "athlete": "BENGTSTRÖM Carl",
+  "country": "SWE",
+  "dob": "2000-01-13",
+  "pb": {
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "34.75",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "26 APR 2025"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "47.94",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "11 JUN 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.89",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.11",
+      "venue": "Sola Arena, Karlstad (SWE)",
+      "date": "08 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14713427",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14713427",
+  "scrapedAt": "2026-07-22T16:29:58.722Z",
+  "source": "diamondleague.com"
+}

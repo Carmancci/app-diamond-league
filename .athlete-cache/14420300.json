@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14420300",
+  "athleteId": "arce-daniel-esp",
+  "athlete": "ARCE Daniel",
+  "country": "ESP",
+  "dob": "1992-04-22",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:08.45",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "25 AUG 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:11.42",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14420300",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14420300",
+  "scrapedAt": "2026-07-20T15:45:09.349Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14777460",
+  "athleteId": "dodds-callum-gbr",
+  "athlete": "DODDS Callum",
+  "country": "GBR",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14777460",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T19:45:14.598Z",
+  "source": "diamondleague.com"
+}

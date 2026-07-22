@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14674111",
+  "athleteId": "sturgis-cambrea-usa",
+  "athlete": "STURGIS Cambrea",
+  "country": "USA",
+  "dob": "1999-03-27",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.87",
+      "venue": "Marcus T. Johnson Track, Greensboro, NC (USA)",
+      "date": "23 APR 2022"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.93",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.92",
+      "venue": "Pilditch Stadium, Pretoria (RSA)",
+      "date": "28 APR 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.93",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14674111",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14674111",
+  "scrapedAt": "2026-07-22T16:24:02.446Z",
+  "source": "diamondleague.com"
+}

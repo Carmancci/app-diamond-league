@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "dlId": "14680524",
+  "athleteId": "zenoni-marta-ita",
+  "athlete": "ZENONI Marta",
+  "country": "ITA",
+  "dob": "1999-03-09",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.45",
+      "venue": "Centro Gabre Gabric, Brescia (ITA)",
+      "date": "15 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:59.16",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.16",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:41.72",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "15 JUN 2025"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14680524",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14680524",
+  "scrapedAt": "2026-07-22T16:25:15.863Z",
+  "source": "diamondleague.com"
+}

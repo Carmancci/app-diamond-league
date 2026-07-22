@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14649131",
+  "athleteId": "kitaguchi-haruka-jpn",
+  "athlete": "KITAGUCHI Haruka",
+  "country": "JPN",
+  "dob": "1998-03-16",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "67.38",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "08 SEP 2023"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.01",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14649131",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14649131",
+  "scrapedAt": "2026-07-22T15:21:30.812Z",
+  "source": "diamondleague.com"
+}

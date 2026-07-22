@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14748837",
+  "athleteId": "dai-qianqian-chn",
+  "athlete": "DAI Qianqian",
+  "country": "CHN",
+  "dob": "2000-08-23",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "64.38",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "03 MAY 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "62.42",
+      "venue": "Kuishan Sports Center, Rizhao (CHN)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14748837",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14748837",
+  "scrapedAt": "2026-07-22T17:02:54.342Z",
+  "source": "diamondleague.com"
+}

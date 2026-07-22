@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14674710",
+  "athleteId": "otterdahl-payton-usa",
+  "athlete": "OTTERDAHL Payton",
+  "country": "USA",
+  "dob": "1996-04-02",
+  "pb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "22.59",
+      "venue": "Drake Stadium, Des Moines, IA (USA)",
+      "date": "24 APR 2024"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Men's Shot Put",
+      "mark": "21.76",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14674710",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14674710",
+  "scrapedAt": "2026-07-22T16:24:10.269Z",
+  "source": "diamondleague.com"
+}

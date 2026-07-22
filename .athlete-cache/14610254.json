@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14610254",
+  "athleteId": "wesche-maddison-lee-nzl",
+  "athlete": "WESCHE Maddison-Lee",
+  "country": "NZL",
+  "dob": "1999-06-13",
+  "pb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "20.06",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "20 SEP 2025"
+    }
+  },
+  "sb": {
+    "shot put": {
+      "discipline": "Women's Shot Put",
+      "mark": "17.71",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14610254",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14610254",
+  "scrapedAt": "2026-07-22T15:17:16.869Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14775357",
+  "athleteId": "amoah-joseph-paul-gha",
+  "athlete": "AMOAH Joseph Paul",
+  "country": "GHA",
+  "dob": "1997-01-12",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.92",
+      "venue": "Alumni Stadium, Guelph (CAN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.92",
+      "venue": "Alumni Stadium, Guelph (CAN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14775357",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14775357",
+  "scrapedAt": "2026-07-22T19:45:02.266Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14736174",
+  "athleteId": "muraro-alice-ita",
+  "athlete": "MURARO Alice",
+  "country": "ITA",
+  "dob": "2000-08-14",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.36",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "15 SEP 2025"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "55.50",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14736174",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14736174",
+  "scrapedAt": "2026-07-22T17:00:55.941Z",
+  "source": "diamondleague.com"
+}

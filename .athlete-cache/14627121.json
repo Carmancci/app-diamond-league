@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14627121",
+  "athleteId": "ruppert-frederik-ger",
+  "athlete": "RUPPERT Frederik",
+  "country": "GER",
+  "dob": "1997-02-19",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "7:57.80",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "7:57.80",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14627121",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14627121",
+  "scrapedAt": "2026-07-22T15:18:06.585Z",
+  "source": "diamondleague.com"
+}

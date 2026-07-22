@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14413641",
+  "athleteId": "smith-jonielle-jam",
+  "athlete": "SMITH Jonielle",
+  "country": "JAM",
+  "dob": "1996-01-30",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.89",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.89",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14413641",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14413641",
+  "scrapedAt": "2026-07-20T15:44:31.915Z",
+  "source": "diamondleague.com"
+}

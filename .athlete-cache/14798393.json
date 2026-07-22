@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14798393",
+  "athleteId": "keen-thomas-gbr",
+  "athlete": "KEEN Thomas",
+  "country": "GBR",
+  "dob": "2001-06-16",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.94",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.33",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.94",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.33",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14798393",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14798393",
+  "scrapedAt": "2026-07-22T19:47:18.776Z",
+  "source": "diamondleague.com"
+}

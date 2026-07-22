@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14778502",
+  "athleteId": "mumenthaler-timothe-sui",
+  "athlete": "MUMENTHALER Timothé",
+  "country": "SUI",
+  "dob": "2002-12-12",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.13",
+      "venue": "Centre sportif Bout-du-Monde, Genève (SUI)",
+      "date": "21 JUN 2025"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.27",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.26",
+      "venue": "Sepp-Herberger-Stadion, Weinheim (GER)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.31",
+      "venue": "Stadion Allmend, Luzern (SUI)",
+      "date": "16 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14778502",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14778502",
+  "scrapedAt": "2026-07-22T19:45:24.559Z",
+  "source": "diamondleague.com"
+}

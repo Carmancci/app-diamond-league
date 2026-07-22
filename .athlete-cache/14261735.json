@@ -1,11 +1,15 @@
 {
+  "status": "permanent_error",
   "dlId": "14261735",
   "athleteId": "diez-marta-esp",
   "athlete": "DIEZ Marta",
   "country": "ESP",
+  "dob": null,
+  "pb": {},
+  "sb": {},
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14261735",
-  "scrapedAt": "2026-07-20T14:46:48.859Z",
-  "source": "diamondleague.com",
-  "status": "permanent_error",
-  "error": "empty_page: HTTP 200 sem DOB, PB ou SB"
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-20T15:43:28.664Z",
+  "source": "diamondleague.com"
 }

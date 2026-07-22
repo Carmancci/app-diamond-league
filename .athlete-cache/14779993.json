@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14779993",
+  "athleteId": "nkansa-delphine-bel",
+  "athlete": "NKANSA Delphine",
+  "country": "BEL",
+  "dob": "2001-09-21",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.17",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.88",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "03 AUG 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.17",
+      "venue": "Estadio Vallehermoso, Madrid (ESP)",
+      "date": "16 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.26",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "24 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14779993",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14779993",
+  "scrapedAt": "2026-07-22T19:45:32.215Z",
+  "source": "diamondleague.com"
+}

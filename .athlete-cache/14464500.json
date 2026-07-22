@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14464500",
+  "athleteId": "mccartney-eliza-nzl",
+  "athlete": "McCARTNEY Eliza",
+  "country": "NZL",
+  "dob": "1996-12-11",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.94",
+      "venue": "Jockgrim (GER)",
+      "date": "17 JUL 2018"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.81",
+      "venue": "Douglas Track & Field, Auckland (NZL)",
+      "date": "07 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14464500",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14464500",
+  "scrapedAt": "2026-07-20T15:48:19.577Z",
+  "source": "diamondleague.com"
+}

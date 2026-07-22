@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14634367",
+  "athleteId": "obasuyi-michael-bel",
+  "athlete": "OBASUYI Michael",
+  "country": "BEL",
+  "dob": "1999-08-12",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.10",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.10",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14634367",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14634367",
+  "scrapedAt": "2026-07-22T15:19:12.704Z",
+  "source": "diamondleague.com"
+}

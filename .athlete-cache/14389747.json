@@ -1,15 +1,28 @@
 {
+  "status": "success",
   "dlId": "14389747",
   "athleteId": "rose-alex-sam",
-  "athlete": "Alex ROSE",
+  "athlete": "ROSE Alex",
   "country": "SAM",
   "dob": "1991-11-17",
   "pb": {
-    "Discus Throw": "71.48"
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "71.48",
+      "venue": "GVSU Track/Lacrosse Stadium, Allendale, MI (USA)",
+      "date": "11 MAY 2024"
+    }
   },
-  "sb": {},
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "70.43",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
   "officialProfileUrl": "https://www.diamondleague.com/athlete/14389747",
-  "scrapedAt": "2026-07-20T14:46:54.981Z",
-  "source": "diamondleague.com",
-  "status": "success"
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14389747",
+  "scrapedAt": "2026-07-20T15:43:34.882Z",
+  "source": "diamondleague.com"
 }

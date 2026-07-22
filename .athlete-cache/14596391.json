@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14596391",
+  "athleteId": "peoples-paris-usa",
+  "athlete": "PEOPLES Paris",
+  "country": "USA",
+  "dob": "2000-05-27",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.60",
+      "venue": "Hornet Stadium - Sac St., Sacramento, CA (USA)",
+      "date": "27 MAY 2023"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:06.85",
+      "venue": "John McDonnell Field, Fayetteville, AR (USA)",
+      "date": "25 APR 2021"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.79",
+      "venue": "National Stadium, Gaborone (BOT)",
+      "date": "26 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14596391",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14596391",
+  "scrapedAt": "2026-07-22T15:16:00.487Z",
+  "source": "diamondleague.com"
+}

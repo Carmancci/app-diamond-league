@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14687513",
+  "athleteId": "desgagnes-jean-simon-can",
+  "athlete": "DESGAGNÉS Jean-Simon",
+  "country": "CAN",
+  "dob": "1998-07-26",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:13.11",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "07 JUL 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:14.85",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14687513",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14687513",
+  "scrapedAt": "2026-07-22T16:26:17.749Z",
+  "source": "diamondleague.com"
+}

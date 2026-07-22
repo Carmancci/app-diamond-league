@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14645257",
+  "athleteId": "andrikopoulos-nikolaos-gre",
+  "athlete": "ANDRIKOPOULOS Nikolaos",
+  "country": "GRE",
+  "dob": "1997-04-17",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "16.73",
+      "venue": "Atletski stadion, Smederevo (SRB)",
+      "date": "27 JUN 2021"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "16.56",
+      "venue": "Municipal Sports Center, Alexandria (GRE)",
+      "date": "24 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14645257",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14645257",
+  "scrapedAt": "2026-07-22T15:20:42.405Z",
+  "source": "diamondleague.com"
+}

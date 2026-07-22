@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14605824",
+  "athleteId": "svabikova-amalie-cze",
+  "athlete": "ŠVÁBÍKOVÁ Amálie",
+  "country": "CZE",
+  "dob": "1999-11-22",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.80",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "07 AUG 2024"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.76",
+      "venue": "Maison des Sports, Clermont-Ferrand (FRA) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14605824",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14605824",
+  "scrapedAt": "2026-07-22T15:16:49.130Z",
+  "source": "diamondleague.com"
+}

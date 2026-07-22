@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14642681",
+  "athleteId": "white-kayla-usa",
+  "athlete": "WHITE Kayla",
+  "country": "USA",
+  "dob": "1996-09-14",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.84",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "01 AUG 2025"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.92",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.08",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "14 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "21.92",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14642681",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14642681",
+  "scrapedAt": "2026-07-22T15:20:12.908Z",
+  "source": "diamondleague.com"
+}

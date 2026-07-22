@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14481392",
+  "athleteId": "iuel-amalie-nor",
+  "athlete": "IUEL Amalie",
+  "country": "NOR",
+  "dob": "1994-04-17",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.64",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "09 SEP 2021"
+    },
+    "300m hurdles": {
+      "discipline": "Women's 300 Metres Hurdles",
+      "mark": "39.35",
+      "venue": "Lillestrøm (NOR)",
+      "date": "27 MAY 2018"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.05",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "54.05",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14481392",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14481392",
+  "scrapedAt": "2026-07-20T15:50:43.034Z",
+  "source": "diamondleague.com"
+}

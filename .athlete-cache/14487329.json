@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14487329",
+  "athleteId": "montler-thobias-swe",
+  "athlete": "MONTLER Thobias",
+  "country": "SWE",
+  "dob": "1996-02-15",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.38",
+      "venue": "Štark Arena, Beograd (SRB) (i)",
+      "date": "18 MAR 2022"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.04",
+      "venue": "Sätrahallen, Stockholm (SWE) (i)",
+      "date": "28 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14487329",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14487329",
+  "scrapedAt": "2026-07-20T15:51:46.412Z",
+  "source": "diamondleague.com"
+}

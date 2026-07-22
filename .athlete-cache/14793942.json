@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14793942",
+  "athleteId": "messaoudi-fouad-mar",
+  "athlete": "MESSAOUDI Fouad",
+  "country": "MAR",
+  "dob": "2001-01-07",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.11",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.11",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14793942",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14793942",
+  "scrapedAt": "2026-07-22T19:46:41.964Z",
+  "source": "diamondleague.com"
+}

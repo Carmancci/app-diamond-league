@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14679006",
+  "athleteId": "pointet-leonie-sui",
+  "athlete": "POINTET Léonie",
+  "country": "SUI",
+  "dob": "2001-02-17",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.69",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.69",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14679006",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14679006",
+  "scrapedAt": "2026-07-22T16:24:43.071Z",
+  "source": "diamondleague.com"
+}

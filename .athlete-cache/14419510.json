@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14419510",
+  "athleteId": "adekoya-kemi-brn",
+  "athlete": "ADEKOYA Kemi",
+  "country": "BRN",
+  "dob": "1993-01-16",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.28",
+      "venue": "Addis Ababa Stadium, Addis Ababa (ETH)",
+      "date": "18 APR 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.09",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "24 AUG 2023"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.28",
+      "venue": "Addis Ababa Stadium, Addis Ababa (ETH)",
+      "date": "18 APR 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.67",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14419510",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14419510",
+  "scrapedAt": "2026-07-20T15:45:05.148Z",
+  "source": "diamondleague.com"
+}

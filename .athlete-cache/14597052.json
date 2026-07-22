@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14597052",
+  "athleteId": "farken-robert-ger",
+  "athlete": "FARKEN Robert",
+  "country": "GER",
+  "dob": "1997-09-20",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.09",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:46.82",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.09",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:46.82",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597052",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597052",
+  "scrapedAt": "2026-07-22T15:16:08.562Z",
+  "source": "diamondleague.com"
+}

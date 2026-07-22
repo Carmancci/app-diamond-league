@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14516195",
+  "athleteId": "martin-lorena-esp",
+  "athlete": "MARTÍN Lorena",
+  "country": "ESP",
+  "dob": "1996-10-22",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:09.61",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:09.61",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14516195",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14516195",
+  "scrapedAt": "2026-07-20T16:15:51.879Z",
+  "source": "diamondleague.com"
+}

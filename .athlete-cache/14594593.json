@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14594593",
+  "athleteId": "afonso-salome-por",
+  "athlete": "AFONSO Salomé",
+  "country": "POR",
+  "dob": "1997-11-19",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:59.32",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "20 JUN 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:19.51",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.84",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "31 MAY 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:39.85",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14594593",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14594593",
+  "scrapedAt": "2026-07-20T16:23:45.251Z",
+  "source": "diamondleague.com"
+}

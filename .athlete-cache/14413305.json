@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "dlId": "14413305",
+  "athleteId": "kipyegon-faith-ken",
+  "athlete": "KIPYEGON Faith",
+  "country": "KEN",
+  "dob": "1994-01-10",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.68",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "25 SEP 2020"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:29.15",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "14 AUG 2020"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:48.68",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "05 JUL 2025"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:07.64",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "21 JUL 2023"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:07.04",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:05.20",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "09 JUN 2023"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.92",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:17.80",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:24.21",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:24.14",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14413305",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14413305",
+  "scrapedAt": "2026-07-20T15:44:23.929Z",
+  "source": "diamondleague.com"
+}

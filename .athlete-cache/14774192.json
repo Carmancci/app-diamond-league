@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14774192",
+  "athleteId": "duguma-tsige-eth",
+  "athlete": "DUGUMA Tsige",
+  "country": "ETH",
+  "dob": "2001-02-23",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.64",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "03 MAY 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:55.71",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:56.92",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:55.71",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14774192",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14774192",
+  "scrapedAt": "2026-07-22T19:44:45.441Z",
+  "source": "diamondleague.com"
+}
