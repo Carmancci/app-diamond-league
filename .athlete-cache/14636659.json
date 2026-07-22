@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "dlId": "14636659",
+  "athleteId": "caldwell-abbey-aus",
+  "athlete": "CALDWELL Abbey",
+  "country": "AUS",
+  "dob": "2001-07-03",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:57.70",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:32.94",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "26 APR 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.12",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:20.51",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "21 JUL 2023"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.22",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.12",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14636659",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14636659",
+  "scrapedAt": "2026-07-22T15:19:40.258Z",
+  "source": "diamondleague.com"
+}

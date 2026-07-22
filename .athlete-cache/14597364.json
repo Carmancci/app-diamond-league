@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14597364",
+  "athleteId": "triki-yasser-mohammed-alg",
+  "athlete": "TRIKI Yasser Mohammed",
+  "country": "ALG",
+  "dob": "1997-03-24",
+  "pb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.67",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Men's Triple Jump",
+      "mark": "17.67",
+      "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+      "date": "19 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597364",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597364",
+  "scrapedAt": "2026-07-22T15:16:21.750Z",
+  "source": "diamondleague.com"
+}

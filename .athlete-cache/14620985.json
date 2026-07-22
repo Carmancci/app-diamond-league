@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14620985",
+  "athleteId": "zodzik-maria-pol",
+  "athlete": "ZODZIK Maria",
+  "country": "POL",
+  "dob": "1997-01-19",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.00",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "21 SEP 2025"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.98",
+      "venue": "Arena Toruń, Toruń (POL) (i)",
+      "date": "22 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14620985",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14620985",
+  "scrapedAt": "2026-07-22T15:17:32.964Z",
+  "source": "diamondleague.com"
+}

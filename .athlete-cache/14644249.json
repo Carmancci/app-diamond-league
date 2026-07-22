@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14644249",
+  "athleteId": "aks-josefine-tomine-eriksen-nor",
+  "athlete": "AKS Josefine Tomine Eriksen",
+  "country": "NOR",
+  "dob": "2000-08-16",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.43",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.43",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14644249",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14644249",
+  "scrapedAt": "2026-07-22T15:20:33.579Z",
+  "source": "diamondleague.com"
+}

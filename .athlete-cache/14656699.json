@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14656699",
+  "athleteId": "hoppel-bryce-usa",
+  "athlete": "HOPPEL Bryce",
+  "country": "USA",
+  "dob": "1997-09-05",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:41.67",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "10 AUG 2024"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:15.80",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.45",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    },
+    "1000m": {
+      "discipline": "Men's 1000 Metres",
+      "mark": "2:15.80",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14656699",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14656699",
+  "scrapedAt": "2026-07-22T15:22:48.018Z",
+  "source": "diamondleague.com"
+}

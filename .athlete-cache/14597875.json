@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14597875",
+  "athleteId": "bertemes-hoffmann-vera-lux",
+  "athlete": "BERTEMES-HOFFMANN Vera",
+  "country": "LUX",
+  "dob": "1996-11-02",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:48.84",
+      "venue": "Stade Delort, Marseille (FRA)",
+      "date": "13 JUL 2025"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "9:01.32",
+      "venue": "Stade Delort, Marseille (FRA)",
+      "date": "10 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597875",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597875",
+  "scrapedAt": "2026-07-22T15:16:30.979Z",
+  "source": "diamondleague.com"
+}

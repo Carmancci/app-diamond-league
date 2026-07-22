@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "dlId": "14643526",
+  "athleteId": "cheruiyot-timothy-ken",
+  "athlete": "CHERUIYOT Timothy",
+  "country": "KEN",
+  "dob": "1995-11-20",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:43.11",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "22 AUG 2019"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:28.28",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "09 JUL 2021"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:47.39",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "2000m": {
+      "discipline": "Men's 2000 Metres",
+      "mark": "5:03.05",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "11 JUN 2020"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:27.24",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:16.41",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:30.67",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:47.39",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    },
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:27.24",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:16.41",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14643526",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14643526",
+  "scrapedAt": "2026-07-22T15:20:25.916Z",
+  "source": "diamondleague.com"
+}

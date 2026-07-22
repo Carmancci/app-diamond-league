@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14647295",
+  "athleteId": "sieradzki-patryk-pol",
+  "athlete": "SIERADZKI Patryk",
+  "country": "POL",
+  "dob": "1998-10-06",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.16",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "12 AUG 2025"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:58.04",
+      "venue": "Bialogard (POL)",
+      "date": "24 SEP 2016"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.87",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14647295",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14647295",
+  "scrapedAt": "2026-07-22T15:21:06.706Z",
+  "source": "diamondleague.com"
+}

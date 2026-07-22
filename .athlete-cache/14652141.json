@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14652141",
+  "athleteId": "johansen-mathias-hove-nor",
+  "athlete": "JOHANSEN Mathias Hove",
+  "country": "NOR",
+  "dob": "1998-09-27",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.27",
+      "venue": "Ravnanger Idrettspark, Askoy (NOR)",
+      "date": "01 AUG 2025"
+    },
+    "200m": {
+      "discipline": "Men's 200 Metres",
+      "mark": "20.68",
+      "venue": "Friidrettsstadion, Jessheim (NOR)",
+      "date": "06 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.69",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "24 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14652141",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14652141",
+  "scrapedAt": "2026-07-22T15:22:08.744Z",
+  "source": "diamondleague.com"
+}

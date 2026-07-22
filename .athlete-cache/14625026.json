@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "dlId": "14625026",
+  "athleteId": "van-es-diane-ned",
+  "athlete": "van ES Diane",
+  "country": "NED",
+  "dob": "1999-03-22",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:02.97",
+      "venue": "Morton Stadium, Santry, Dublin (IRL)",
+      "date": "11 JUL 2025"
+    },
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:38.12",
+      "venue": "Stade Olympique, Rabat (MAR)",
+      "date": "25 MAY 2025"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:43.80",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    },
+    "10,000m": {
+      "discipline": "Women's 10,000 Metres",
+      "mark": "30:57.24",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "11 JUN 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:08.64",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:04.51",
+      "venue": "Drake Stadium, Los Angeles, CA (USA)",
+      "date": "23 MAY 2026"
+    },
+    "10,000m": {
+      "discipline": "Women's 10,000 Metres",
+      "mark": "31:39.28",
+      "venue": "Sportcomplex De Leidse Hout, Leiden (NED)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14625026",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14625026",
+  "scrapedAt": "2026-07-22T15:17:49.993Z",
+  "source": "diamondleague.com"
+}

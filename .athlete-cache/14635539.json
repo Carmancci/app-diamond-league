@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14635539",
+  "athleteId": "magnusson-leo-swe",
+  "athlete": "MAGNUSSON Leo",
+  "country": "SWE",
+  "dob": "1998-02-04",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:13.08",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "08 SEP 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:23.54",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14635539",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14635539",
+  "scrapedAt": "2026-07-22T15:19:36.266Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14659662",
+  "athleteId": "lear-bailey-usa",
+  "athlete": "LEAR Bailey",
+  "country": "USA",
+  "dob": "2001-03-17",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.42",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.42",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14659662",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14659662",
+  "scrapedAt": "2026-07-22T15:23:09.336Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14630564",
+  "athleteId": "williams-stacey-ann-jam",
+  "athlete": "WILLIAMS Stacey Ann",
+  "country": "JAM",
+  "dob": "1999-03-08",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.48",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.48",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14630564",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14630564",
+  "scrapedAt": "2026-07-22T15:18:38.961Z",
+  "source": "diamondleague.com"
+}

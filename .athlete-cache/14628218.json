@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14628218",
+  "athleteId": "kassanavoid-janee-usa",
+  "athlete": "KASSANAVOID Janee'",
+  "country": "USA",
+  "dob": "1995-01-19",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "78.00",
+      "venue": "Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",
+      "date": "21 MAY 2022"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "70.65",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14628218",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14628218",
+  "scrapedAt": "2026-07-22T15:18:21.289Z",
+  "source": "diamondleague.com"
+}

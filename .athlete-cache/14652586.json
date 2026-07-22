@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14652586",
+  "athleteId": "el-guesse-abdelati-mar",
+  "athlete": "EL GUESSE Abdelati",
+  "country": "MAR",
+  "dob": "1993-02-27",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.19",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "24 JUN 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.46",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14652586",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14652586",
+  "scrapedAt": "2026-07-22T15:22:12.592Z",
+  "source": "diamondleague.com"
+}

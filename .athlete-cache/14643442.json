@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14643442",
+  "athleteId": "naser-salwa-eid-brn",
+  "athlete": "NASER Salwa Eid",
+  "country": "BRN",
+  "dob": "1998-05-23",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.45",
+      "venue": "Estadio Luguelín Santos, Bayaguana (DOM)",
+      "date": "29 MAR 2025"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "48.14",
+      "venue": "Khalifa International Stadium, Doha (QAT)",
+      "date": "03 OCT 2019"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "51.56",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14643442",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14643442",
+  "scrapedAt": "2026-07-22T15:20:21.977Z",
+  "source": "diamondleague.com"
+}

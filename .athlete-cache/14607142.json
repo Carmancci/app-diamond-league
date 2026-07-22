@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14607142",
+  "athleteId": "rogers-camryn-can",
+  "athlete": "ROGERS Camryn",
+  "country": "CAN",
+  "dob": "1999-06-07",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "81.13",
+      "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+      "date": "02 APR 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "81.13",
+      "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+      "date": "02 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14607142",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14607142",
+  "scrapedAt": "2026-07-22T15:16:58.136Z",
+  "source": "diamondleague.com"
+}

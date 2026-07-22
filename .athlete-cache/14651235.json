@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14651235",
+  "athleteId": "nissen-annemarie-den",
+  "athlete": "NISSEN Annemarie",
+  "country": "DEN",
+  "dob": "1994-07-08",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.10",
+      "venue": "Ratinan Stadion, Tampere (FIN)",
+      "date": "08 AUG 2023"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:03.85",
+      "venue": "Olympiastadion, Stockholm (SWE)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14651235",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14651235",
+  "scrapedAt": "2026-07-22T15:21:48.271Z",
+  "source": "diamondleague.com"
+}

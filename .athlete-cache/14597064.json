@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14597064",
+  "athleteId": "bebendorf-karl-ger",
+  "athlete": "BEBENDORF Karl",
+  "country": "GER",
+  "dob": "1996-05-07",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:05.55",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:05.55",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "28 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14597064",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14597064",
+  "scrapedAt": "2026-07-22T15:16:13.715Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14663422",
+  "athleteId": "diaz-mario-alberto-cub",
+  "athlete": "DÍAZ Mario Alberto",
+  "country": "CUB",
+  "dob": "1999-12-08",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "67.44",
+      "venue": "Stade Jean Jacoby, Schifflange (LUX)",
+      "date": "26 JUL 2025"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "63.91",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14663422",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14663422",
+  "scrapedAt": "2026-07-22T15:23:28.107Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14645137",
+  "athleteId": "ben-adrian-esp",
+  "athlete": "BEN Adrián",
+  "country": "ESP",
+  "dob": "1998-08-04",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:43.92",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "24 AUG 2023"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:31.70",
+      "venue": "TSV Stadion, Pfungstadt (GER)",
+      "date": "20 AUG 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.45",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.66",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14645137",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14645137",
+  "scrapedAt": "2026-07-22T15:20:37.523Z",
+  "source": "diamondleague.com"
+}
