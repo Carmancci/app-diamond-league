@@ -306,7 +306,24 @@
           "bib": 203,
           "mark": "10.95",
           "qualificationRank": 2,
-          "qualificationPoints": 16
+          "qualificationPoints": 16,
+          "dob": "2001-02-21",
+          "personalBest": "10.61",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.61",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "14 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          },
+          "seasonBest": "10.78",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.78",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          }
         },
         {
           "rank": 2,
@@ -478,7 +495,24 @@
           "mark": "10.78",
           "note": "SB",
           "qualificationRank": 2,
-          "qualificationPoints": 16
+          "qualificationPoints": 16,
+          "dob": "2001-02-21",
+          "personalBest": "10.61",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.61",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "14 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          },
+          "seasonBest": "10.78",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.78",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          }
         },
         {
           "rank": 2,
@@ -693,7 +727,24 @@
           "bib": 203,
           "mark": "10.95",
           "qualificationRank": 2,
-          "qualificationPoints": 16
+          "qualificationPoints": 16,
+          "dob": "2001-02-21",
+          "personalBest": "10.61",
+          "personalBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.61",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "14 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          },
+          "seasonBest": "10.78",
+          "seasonBestDetails": {
+            "discipline": "Women's 100 Metres",
+            "mark": "10.78",
+            "venue": "Hayward Field, Eugene, OR (USA)",
+            "date": "04 JUL 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          }
         },
         {
           "rank": 4,

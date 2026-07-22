@@ -126,7 +126,24 @@
           "mark": "22.17",
           "note": "SB",
           "qualificationRank": 9,
-          "qualificationPoints": 7
+          "qualificationPoints": 7,
+          "dob": "2001-02-21",
+          "personalBest": "21.68",
+          "personalBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "21.68",
+            "venue": "National Stadium, Tokyo (JPN)",
+            "date": "19 SEP 2025",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          },
+          "seasonBest": "22.17",
+          "seasonBestDetails": {
+            "discipline": "Women's 200 Metres",
+            "mark": "22.17",
+            "venue": "Stadio Olimpico, Roma (ITA)",
+            "date": "04 JUN 2026",
+            "sourceUrl": "https://www.diamondleague.com/athlete/14756997"
+          }
         },
         {
           "rank": 3,
