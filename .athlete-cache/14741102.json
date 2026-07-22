@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14741102",
+  "athleteId": "halladay-lexy-usa",
+  "athlete": "HALLADAY Lexy",
+  "country": "USA",
+  "dob": "2001-07-23",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:08.68",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "14 JUN 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:13.33",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "04 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14741102",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14741102",
+  "scrapedAt": "2026-07-22T17:01:48.018Z",
+  "source": "diamondleague.com"
+}

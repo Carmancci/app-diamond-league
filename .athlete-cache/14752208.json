@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14752208",
+  "athleteId": "samba-abderrahman-qat",
+  "athlete": "SAMBA Abderrahman",
+  "country": "QAT",
+  "dob": "1995-09-05",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.60",
+      "venue": "Pretoria (RSA)",
+      "date": "09 APR 2019"
+    },
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "33.84",
+      "venue": "Bislett Stadion, Oslo (NOR)",
+      "date": "12 JUN 2025"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "46.98",
+      "venue": "Stade Charléty, Paris (FRA)",
+      "date": "30 JUN 2018"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "47.93",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14752208",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14752208",
+  "scrapedAt": "2026-07-22T17:03:13.784Z",
+  "source": "diamondleague.com"
+}

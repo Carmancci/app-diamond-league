@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14744385",
+  "athleteId": "stona-roje-jam",
+  "athlete": "STONA Roje",
+  "country": "JAM",
+  "dob": "1999-02-26",
+  "pb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "70.66",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Men's Discus Throw",
+      "mark": "70.66",
+      "venue": "Millican Field at Throw Town, Ramona, OK (USA)",
+      "date": "09 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14744385",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14744385",
+  "scrapedAt": "2026-07-22T17:02:03.401Z",
+  "source": "diamondleague.com"
+}

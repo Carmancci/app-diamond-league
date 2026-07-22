@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14753334",
+  "athleteId": "wegner-dawid-pol",
+  "athlete": "WEGNER Dawid",
+  "country": "POL",
+  "dob": "2000-04-23",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "85.67",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 SEP 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "82.17",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14753334",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14753334",
+  "scrapedAt": "2026-07-22T17:03:22.584Z",
+  "source": "diamondleague.com"
+}

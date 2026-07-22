@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14760253",
+  "athleteId": "wale-getnet-eth",
+  "athlete": "WALE Getnet",
+  "country": "ETH",
+  "dob": "2000-07-16",
+  "pb": {
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "12:53.28",
+      "venue": "FBK Stadium, Hengelo (NED)",
+      "date": "08 JUN 2021"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:05.15",
+      "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+      "date": "28 MAY 2023"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Men's 3000 Metres",
+      "mark": "7:29.98",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "5000m": {
+      "discipline": "Men's 5000 Metres",
+      "mark": "13:03.95",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    },
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:45.72",
+      "venue": "Campo Comunale, Cosenza (ITA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14760253",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14760253",
+  "scrapedAt": "2026-07-22T17:05:17.881Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14747153",
+  "athleteId": "omanyala-ferdinand-ken",
+  "athlete": "OMANYALA Ferdinand",
+  "country": "KEN",
+  "dob": "1996-01-02",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.77",
+      "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+      "date": "18 SEP 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.94",
+      "venue": "Egret Stadium, Xiamen (CHN)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14747153",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14747153",
+  "scrapedAt": "2026-07-22T17:02:31.744Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14750659",
+  "athleteId": "xi-xiaoheng-chn",
+  "athlete": "XI Xiaoheng",
+  "country": "CHN",
+  "dob": "1999-12-08",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.48",
+      "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+      "date": "16 NOV 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.62",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14750659",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14750659",
+  "scrapedAt": "2026-07-22T17:03:06.264Z",
+  "source": "diamondleague.com"
+}

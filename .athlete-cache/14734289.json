@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14734289",
+  "athleteId": "kwaou-mathey-just-fra",
+  "athlete": "KWAOU-MATHEY Just",
+  "country": "FRA",
+  "dob": "1999-12-04",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.99",
+      "venue": "Stade Pierre Paul Bernard, Talence (FRA)",
+      "date": "03 AUG 2025"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.21",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14734289",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14734289",
+  "scrapedAt": "2026-07-22T17:00:35.640Z",
+  "source": "diamondleague.com"
+}

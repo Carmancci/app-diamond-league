@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14719972",
+  "athleteId": "tinch-cordell-usa",
+  "athlete": "TINCH Cordell",
+  "country": "USA",
+  "dob": "2000-07-13",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "12.87",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "03 MAY 2025"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.06",
+      "venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+      "date": "14 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14719972",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14719972",
+  "scrapedAt": "2026-07-22T17:00:02.190Z",
+  "source": "diamondleague.com"
+}

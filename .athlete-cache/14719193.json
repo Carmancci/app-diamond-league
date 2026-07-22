@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14719193",
+  "athleteId": "bassitt-trevor-usa",
+  "athlete": "BASSITT Trevor",
+  "country": "USA",
+  "dob": "1998-02-26",
+  "pb": {
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "34.02",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "47.37",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "sb": {
+    "300m hurdles": {
+      "discipline": "Men's 300 Metres Hurdles",
+      "mark": "34.02",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "47.37",
+      "venue": "Cushing Stadium, College Station, TX (USA)",
+      "date": "06 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14719193",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14719193",
+  "scrapedAt": "2026-07-22T16:59:57.642Z",
+  "source": "diamondleague.com"
+}

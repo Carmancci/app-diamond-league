@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14758400",
+  "athleteId": "schaub-theo-fra",
+  "athlete": "SCHAUB Theo",
+  "country": "FRA",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14758400",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-07-22T17:05:01.706Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14761424",
+  "athleteId": "holmes-alexis-usa",
+  "athlete": "HOLMES Alexis",
+  "country": "USA",
+  "dob": "2000-01-28",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.77",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "09 AUG 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.36",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14761424",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14761424",
+  "scrapedAt": "2026-07-22T17:05:36.052Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14761302",
+  "athleteId": "jackson-shawnti-usa",
+  "athlete": "JACKSON Shawnti",
+  "country": "USA",
+  "dob": "2005-05-02",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.88",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "11 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.88",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "11 JUN 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.12",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14761302",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14761302",
+  "scrapedAt": "2026-07-22T17:05:27.005Z",
+  "source": "diamondleague.com"
+}

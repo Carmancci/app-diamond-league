@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14735462",
+  "athleteId": "van-daalen-alida-ned",
+  "athlete": "van DAALEN Alida",
+  "country": "NED",
+  "dob": "2002-04-12",
+  "pb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "69.31",
+      "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "sb": {
+    "discus throw": {
+      "discipline": "Women's Discus Throw",
+      "mark": "69.31",
+      "venue": "Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",
+      "date": "30 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14735462",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14735462",
+  "scrapedAt": "2026-07-22T17:00:39.523Z",
+  "source": "diamondleague.com"
+}

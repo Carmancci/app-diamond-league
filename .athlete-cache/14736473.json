@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14736473",
+  "athleteId": "joyeux-caroline-ger",
+  "athlete": "JOYEUX Caroline",
+  "country": "GER",
+  "dob": "2001-03-26",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.45",
+      "venue": "Kennedyplatz, Essen (GER)",
+      "date": "01 JUN 2025"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.22",
+      "venue": "Kennedyplatz, Essen (GER)",
+      "date": "21 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14736473",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14736473",
+  "scrapedAt": "2026-07-22T17:01:03.458Z",
+  "source": "diamondleague.com"
+}

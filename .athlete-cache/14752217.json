@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14752217",
+  "athleteId": "cavalli-ludovica-ita",
+  "athlete": "CAVALLI Ludovica",
+  "country": "ITA",
+  "dob": "2000-12-20",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.64",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.64",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "04 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14752217",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14752217",
+  "scrapedAt": "2026-07-22T17:03:17.595Z",
+  "source": "diamondleague.com"
+}

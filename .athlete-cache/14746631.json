@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14746631",
+  "athleteId": "langat-wesley-ken",
+  "athlete": "LANGAT Wesley",
+  "country": "KEN",
+  "dob": "1994-07-07",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:26.04",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "20 APR 2024"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Men's 3000 Metres Steeplechase",
+      "mark": "8:48.11",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14746631",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14746631",
+  "scrapedAt": "2026-07-22T17:02:28.000Z",
+  "source": "diamondleague.com"
+}

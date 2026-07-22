@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14736349",
+  "athleteId": "skrzyszowska-pia-pol",
+  "athlete": "SKRZYSZOWSKA Pia",
+  "country": "POL",
+  "dob": "2001-04-20",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.37",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 JUL 2024"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.44",
+      "venue": "Stade Raymond Petit, Tomblaine (FRA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14736349",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14736349",
+  "scrapedAt": "2026-07-22T17:00:59.579Z",
+  "source": "diamondleague.com"
+}

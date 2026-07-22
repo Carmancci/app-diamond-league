@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14715821",
+  "athleteId": "morris-gracie-usa",
+  "athlete": "MORRIS Gracie",
+  "country": "USA",
+  "dob": "2001-12-17",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.29",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.29",
+      "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+      "date": "16 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14715821",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14715821",
+  "scrapedAt": "2026-07-22T16:59:09.018Z",
+  "source": "diamondleague.com"
+}

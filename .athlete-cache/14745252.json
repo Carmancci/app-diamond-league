@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14745252",
+  "athleteId": "adeleke-rhasidat-irl",
+  "athlete": "ADELEKE Rhasidat",
+  "country": "IRL",
+  "dob": "2002-08-29",
+  "pb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.34",
+      "venue": "Percy Beard Track, Gainesville, FL (USA)",
+      "date": "14 APR 2023"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "49.07",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "10 JUN 2024"
+    }
+  },
+  "sb": {
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.86",
+      "venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+      "date": "30 APR 2026"
+    },
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "52.26",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "03 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14745252",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14745252",
+  "scrapedAt": "2026-07-22T17:02:12.454Z",
+  "source": "diamondleague.com"
+}
