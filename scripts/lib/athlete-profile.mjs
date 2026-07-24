@@ -28,7 +28,8 @@ export function dateToIso(value) {
 
 export function normalizeDisciplineKey(value = '') {
   return decodeHtml(value)
-    .replace(/^(women|men)(?:'s|s)?\s+/i, '')
+    .replace(/^(women|men)(?:'s|s)?\s+/i, '')   // "Men's 100 metres" → "100 metres"
+    .replace(/\s+(women|men)(?:'s|s)?$/i, '')    // "100 metres Men" → "100 metres"
     .replace(/\bmetres?\b/gi, 'm')
     .replace(/(\d)\s+m\b/gi, '$1m')
     .replace(/\s+/g, ' ')

@@ -226,12 +226,12 @@ describe('parseAthleteProfileHtml — parser legado preservado', () => {
       <a href="https://worldathletics.org/athletes/jamaica/shericka-jackson">WA</a>
     `
     const result = parseAthleteProfileHtml(html)
-    // normalizeDisciplineKey('200 metres Women') → '200m women'
+    // normalizeDisciplineKey('200 metres Women') → '200m' (gender removido do fim e início)
     assert.equal(result.dob, '1994-07-16')
-    assert.ok(result.pb['200m women'], `pb keys: ${Object.keys(result.pb).join(', ')}`)
-    assert.equal(result.pb['200m women'].mark, '21.45')
-    assert.ok(result.sb['200m women'])
-    assert.equal(result.sb['200m women'].mark, '21.80')
+    assert.ok(result.pb['200m'], `pb keys: ${Object.keys(result.pb).join(', ')}`)
+    assert.equal(result.pb['200m'].mark, '21.45')
+    assert.ok(result.sb['200m'])
+    assert.equal(result.sb['200m'].mark, '21.80')
     assert.match(result.worldAthleticsUrl, /worldathletics\.org/)
   })
 
