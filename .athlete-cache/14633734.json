@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14633734",
+  "athleteId": "o-sullivan-sophie-irl",
+  "athlete": "O'SULLIVAN Sophie",
+  "country": "IRL",
+  "dob": "2001-12-23",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:00.23",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "06 AUG 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:05.62",
+      "venue": "Morton Stadium, Santry, Dublin (IRL)",
+      "date": "26 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14633734",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14633734",
+  "scrapedAt": "2026-09-07T04:42:29.483Z",
+  "source": "diamondleague.com"
+}

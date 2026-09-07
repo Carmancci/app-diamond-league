@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14762384",
+  "athleteId": "gacka-kinga-pol",
+  "athlete": "GACKA Kinga",
+  "country": "POL",
+  "dob": "2001-10-25",
+  "pb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "36.50",
+      "venue": "Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",
+      "date": "30 AUG 2026"
+    }
+  },
+  "sb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "36.50",
+      "venue": "Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",
+      "date": "30 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14762384",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14762384",
+  "scrapedAt": "2026-09-07T04:45:32.172Z",
+  "source": "diamondleague.com"
+}

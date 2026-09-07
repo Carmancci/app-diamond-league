@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14741773",
+  "athleteId": "scotti-edoardo-ita",
+  "athlete": "SCOTTI Edoardo",
+  "country": "ITA",
+  "dob": "2000-05-09",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.45",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "14 SEP 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.70",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14741773",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14741773",
+  "scrapedAt": "2026-09-07T04:44:52.421Z",
+  "source": "diamondleague.com"
+}

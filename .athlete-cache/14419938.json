@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14419938",
+  "athleteId": "borlee-dylan-bel",
+  "athlete": "BORLÉE Dylan",
+  "country": "BEL",
+  "dob": "1992-09-20",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.94",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "22 AUG 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.20",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "04 SEP 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14419938",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14419938",
+  "scrapedAt": "2026-09-07T04:39:13.146Z",
+  "source": "diamondleague.com"
+}

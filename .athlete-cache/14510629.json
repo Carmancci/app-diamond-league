@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14510629",
+  "athleteId": "di-tizio-frey-geraldine-sui",
+  "athlete": "Di TIZIO-FREY Géraldine",
+  "country": "SUI",
+  "dob": "1997-06-19",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.96",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "25 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.96",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "25 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14510629",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14510629",
+  "scrapedAt": "2026-09-07T04:40:22.390Z",
+  "source": "diamondleague.com"
+}

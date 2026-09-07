@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14450468",
+  "athleteId": "bachmann-lea-sui",
+  "athlete": "BACHMANN Lea",
+  "country": "SUI",
+  "dob": "1996-06-25",
+  "pb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.58",
+      "venue": "Untere Rheinwerft / Rheinuferpromenade, Düsseldorf (GER)",
+      "date": "10 AUG 2025"
+    }
+  },
+  "sb": {
+    "pole vault": {
+      "discipline": "Women's Pole Vault",
+      "mark": "4.40",
+      "venue": "Sportanlage Zälgli, Frauenkappelen (SUI)",
+      "date": "01 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14450468",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14450468",
+  "scrapedAt": "2026-09-07T04:39:40.692Z",
+  "source": "diamondleague.com"
+}

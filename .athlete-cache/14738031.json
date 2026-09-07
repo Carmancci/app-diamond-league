@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14738031",
+  "athleteId": "goldson-kadrian-jam",
+  "athlete": "GOLDSON Kadrian",
+  "country": "JAM",
+  "dob": "1997-11-08",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.89",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.89",
+      "venue": "Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",
+      "date": "10 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14738031",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14738031",
+  "scrapedAt": "2026-09-07T04:44:37.925Z",
+  "source": "diamondleague.com"
+}

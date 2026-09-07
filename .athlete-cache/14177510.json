@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14177510",
+  "athleteId": "herman-timothy-bel",
+  "athlete": "HERMAN Timothy",
+  "country": "BEL",
+  "dob": "1990-10-19",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "87.35",
+      "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+      "date": "13 MAY 2023"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "76.87",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14177510",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14177510",
+  "scrapedAt": "2026-09-07T04:38:16.860Z",
+  "source": "diamondleague.com"
+}

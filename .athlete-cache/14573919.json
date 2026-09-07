@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14573919",
+  "athleteId": "burgi-celine-sui",
+  "athlete": "BÜRGI Céline",
+  "country": "SUI",
+  "dob": "1999-09-22",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.30",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "17 JUL 2025"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.49",
+      "venue": "Stade Bouleyres, Bulle (SUI)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14573919",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14573919",
+  "scrapedAt": "2026-09-07T04:41:17.246Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14689303",
+  "athleteId": "reinle-cynthia-sui",
+  "athlete": "REINLE Cynthia",
+  "country": "SUI",
+  "dob": "2000-05-06",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.24",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.36",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.24",
+      "venue": "Stadion Trinermatten, Zofingen (SUI)",
+      "date": "23 MAY 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.36",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14689303",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14689303",
+  "scrapedAt": "2026-09-07T04:43:43.459Z",
+  "source": "diamondleague.com"
+}

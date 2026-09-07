@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/shanghai.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SHANGHAI_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "526f02eaa34067da5b338cbac680f2bed845f7683c10dc407dbc0e0f58f668f6",
-    "collectedAt": "2026-07-17T13:02:57.494Z",
+    "collectedAt": "2026-09-07T04:38:01.143Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:02:57.494Z",
+  "updatedAt": "2026-09-07T04:38:01.143Z",
   "eventCount": 25,
   "athleteCount": 254,
   "events": [

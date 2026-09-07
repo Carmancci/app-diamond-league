@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14584794",
+  "athleteId": "vancardo-veronica-sui",
+  "athlete": "VANCARDO Veronica",
+  "country": "SUI",
+  "dob": "2000-09-26",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.20",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "11 AUG 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.20",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "11 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14584794",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14584794",
+  "scrapedAt": "2026-09-07T04:41:21.312Z",
+  "source": "diamondleague.com"
+}

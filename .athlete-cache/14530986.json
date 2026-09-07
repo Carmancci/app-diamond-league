@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14530986",
+  "athleteId": "prakel-samuel-usa",
+  "athlete": "PRAKEL Samuel",
+  "country": "USA",
+  "dob": "1994-10-29",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.76",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.63",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:32.76",
+      "venue": "Paavo Nurmen Stadion, Turku (FIN)",
+      "date": "03 JUN 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:49.63",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14530986",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14530986",
+  "scrapedAt": "2026-09-07T04:40:44.059Z",
+  "source": "diamondleague.com"
+}

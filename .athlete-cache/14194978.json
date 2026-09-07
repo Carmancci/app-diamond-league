@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "14194978",
+  "athleteId": "anyfantis-giorgio-gre",
+  "athlete": "ANYFANTIS Giorgio",
+  "country": "GRE",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14194978",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-09-07T04:38:21.667Z",
+  "source": "diamondleague.com"
+}

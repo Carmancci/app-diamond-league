@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14666849",
+  "athleteId": "vukovic-jan-slo",
+  "athlete": "VUKOVIC Jan",
+  "country": "SLO",
+  "dob": "2000-06-14",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:45.85",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "13 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:46.11",
+      "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+      "date": "08 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14666849",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14666849",
+  "scrapedAt": "2026-09-07T04:43:16.080Z",
+  "source": "diamondleague.com"
+}

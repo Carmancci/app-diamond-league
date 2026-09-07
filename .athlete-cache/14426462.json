@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14426462",
+  "athleteId": "koala-marthe-bur",
+  "athlete": "KOALA Marthe",
+  "country": "BUR",
+  "dob": "1994-03-08",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.94",
+      "venue": "Stade des Martyrs, Kinshasa (COD)",
+      "date": "02 AUG 2023"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.77",
+      "venue": "Nyayo National Stadium, Nairobi (KEN)",
+      "date": "24 APR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14426462",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14426462",
+  "scrapedAt": "2026-09-07T04:39:23.014Z",
+  "source": "diamondleague.com"
+}

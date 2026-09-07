@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14300421",
+  "athleteId": "spanovic-ivana-srb",
+  "athlete": "ŠPANOVIC Ivana",
+  "country": "SRB",
+  "dob": "1990-05-10",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.24",
+      "venue": "Kombank Arena, Beograd (SRB) (i)",
+      "date": "05 MAR 2017"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.41",
+      "venue": "Atletska dvorana, Beograd (SRB) (i)",
+      "date": "28 JAN 2026"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.37",
+      "venue": "Atletski Stadion, Kraljevo (SRB)",
+      "date": "19 JUL 2026"
+    },
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.41",
+      "venue": "Atletska dvorana, Beograd (SRB) (i)",
+      "date": "28 JAN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14300421",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14300421",
+  "scrapedAt": "2026-09-07T04:38:33.697Z",
+  "source": "diamondleague.com"
+}

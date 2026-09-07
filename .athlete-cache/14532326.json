@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14532326",
+  "athleteId": "woo-sanghyeok-kor",
+  "athlete": "WOO Sanghyeok",
+  "country": "KOR",
+  "dob": "1996-04-23",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.36",
+      "venue": "Městská sportovní hala, Hustopeče (CZE) (i)",
+      "date": "05 FEB 2022"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.30",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14532326",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14532326",
+  "scrapedAt": "2026-09-07T04:40:49.423Z",
+  "source": "diamondleague.com"
+}

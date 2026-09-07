@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14708276",
+  "athleteId": "monson-alicia-usa",
+  "athlete": "MONSON Alicia",
+  "country": "USA",
+  "dob": "1998-05-13",
+  "pb": {
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:19.45",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "23 JUL 2023"
+    },
+    "5 kilometres road": {
+      "discipline": "Women's 5 Kilometres Road",
+      "mark": "14:38",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "07 SEP 2022"
+    }
+  },
+  "sb": {
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "14:50.63",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "01 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14708276",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14708276",
+  "scrapedAt": "2026-09-07T04:44:05.993Z",
+  "source": "diamondleague.com"
+}

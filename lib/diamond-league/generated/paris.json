@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/paris.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "af16ad02dc7211859f412a4733b2e560e380df16132e6f776fcf926bd36d3a11",
-    "collectedAt": "2026-07-17T13:03:00.882Z",
+    "collectedAt": "2026-09-07T04:38:07.072Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:03:00.882Z",
+  "updatedAt": "2026-09-07T04:38:07.072Z",
   "eventCount": 28,
   "athleteCount": 299,
   "events": [

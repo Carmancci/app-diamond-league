@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14300897",
+  "athleteId": "kambundji-mujinga-sui",
+  "athlete": "KAMBUNDJI Mujinga",
+  "country": "SUI",
+  "dob": "1992-06-17",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.89",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "24 JUN 2022"
+    },
+    "150m": {
+      "discipline": "Women's 150 Metres",
+      "mark": "16.80",
+      "venue": "Stadion Hard, Langenthal (SUI)",
+      "date": "09 MAY 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "22.05",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "19 JUL 2022"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.33",
+      "venue": "Stade Bouleyres, Bulle (SUI)",
+      "date": "11 JUL 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.37",
+      "venue": "Stade Bouleyres, Bulle (SUI)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14300897",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14300897",
+  "scrapedAt": "2026-09-07T04:38:41.731Z",
+  "source": "diamondleague.com"
+}

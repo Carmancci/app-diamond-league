@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14720617",
+  "athleteId": "wieland-simon-sui",
+  "athlete": "WIELAND Simon",
+  "country": "SUI",
+  "dob": "2000-12-16",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "82.26",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "17 SEP 2025"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "80.76",
+      "venue": "GPS Stadium, Nicosia (CYP)",
+      "date": "15 MAR 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14720617",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14720617",
+  "scrapedAt": "2026-09-07T04:44:32.568Z",
+  "source": "diamondleague.com"
+}

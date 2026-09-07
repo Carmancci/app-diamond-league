@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14455361",
+  "athleteId": "olyslagers-nicola-aus",
+  "athlete": "OLYSLAGERS Nicola",
+  "country": "AUS",
+  "dob": "1996-12-28",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.04",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2025"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.02",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14455361",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14455361",
+  "scrapedAt": "2026-09-07T04:39:52.519Z",
+  "source": "diamondleague.com"
+}

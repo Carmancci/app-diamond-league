@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/eugene.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/EUGENE_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "d89bb20e8864318fc848d636c1c162d9d9df403c3dce2ba6825cb34fbd73b4ab",
-    "collectedAt": "2026-07-17T13:03:00.919Z",
+    "collectedAt": "2026-09-07T04:38:07.725Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:03:00.919Z",
+  "updatedAt": "2026-09-07T04:38:07.725Z",
   "eventCount": 32,
   "athleteCount": 376,
   "events": [

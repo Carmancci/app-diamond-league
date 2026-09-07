@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14513352",
+  "athleteId": "brand-dany-sui",
+  "athlete": "BRAND Dany",
+  "country": "SUI",
+  "dob": "1996-02-23",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "46.63",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "28 AUG 2025"
+    },
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.92",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.92",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14513352",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14513352",
+  "scrapedAt": "2026-09-07T04:40:27.831Z",
+  "source": "diamondleague.com"
+}

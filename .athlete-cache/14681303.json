@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14681303",
+  "athleteId": "verherstraeten-simon-bel",
+  "athlete": "VERHERSTRAETEN Simon",
+  "country": "BEL",
+  "dob": "1999-01-14",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.06",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 JUL 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.12",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "01 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14681303",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14681303",
+  "scrapedAt": "2026-09-07T04:43:37.357Z",
+  "source": "diamondleague.com"
+}

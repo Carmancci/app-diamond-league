@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14738539",
+  "athleteId": "bennett-samuel-gbr",
+  "athlete": "BENNETT Samuel",
+  "country": "GBR",
+  "dob": "2001-02-02",
+  "pb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.26",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "12 AUG 2026"
+    }
+  },
+  "sb": {
+    "110m hurdles": {
+      "discipline": "Men's 110 Metres Hurdles",
+      "mark": "13.26",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "12 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14738539",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14738539",
+  "scrapedAt": "2026-09-07T04:44:41.861Z",
+  "source": "diamondleague.com"
+}

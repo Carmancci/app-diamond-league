@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/doha.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/DOHA_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "9961f5ef31f911d282dbf1cc5c0acae86e8e45ab64e20af7941e6ae40f82203f",
-    "collectedAt": "2026-07-17T13:03:00.834Z",
+    "collectedAt": "2026-09-07T04:38:06.030Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:03:00.834Z",
+  "updatedAt": "2026-09-07T04:38:06.030Z",
   "eventCount": 20,
   "athleteCount": 191,
   "events": [

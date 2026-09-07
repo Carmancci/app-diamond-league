@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14620126",
+  "athleteId": "johnson-sinclaire-usa",
+  "athlete": "JOHNSON Sinclaire",
+  "country": "USA",
+  "dob": "1998-04-13",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.76",
+      "venue": "Stadio Colbachini, Padova (ITA)",
+      "date": "03 SEP 2023"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:31.30",
+      "venue": "Stade Louis II, Monaco (MON)",
+      "date": "11 JUL 2025"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.75",
+      "venue": "Hayward Field, Eugene, OR (USA)",
+      "date": "30 JUN 2024"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:16.32",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "19 JUL 2025"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:03.30",
+      "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14620126",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14620126",
+  "scrapedAt": "2026-09-07T04:42:00.374Z",
+  "source": "diamondleague.com"
+}

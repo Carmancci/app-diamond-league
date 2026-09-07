@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14757952",
+  "athleteId": "delgado-jesus-david-esp",
+  "athlete": "DELGADO Jesús David",
+  "country": "ESP",
+  "dob": "1999-06-17",
+  "pb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.11",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Men's 400 Metres Hurdles",
+      "mark": "48.11",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14757952",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14757952",
+  "scrapedAt": "2026-09-07T04:45:18.811Z",
+  "source": "diamondleague.com"
+}

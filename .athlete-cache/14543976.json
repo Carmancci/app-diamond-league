@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14543976",
+  "athleteId": "kopec-dominik-pol",
+  "athlete": "KOPEC Dominik",
+  "country": "POL",
+  "dob": "1995-03-05",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.05",
+      "venue": "Paul-Greifzu-Stadion, Dessau (GER)",
+      "date": "17 JUN 2023"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "10.08",
+      "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+      "date": "29 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14543976",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14543976",
+  "scrapedAt": "2026-09-07T04:40:58.726Z",
+  "source": "diamondleague.com"
+}

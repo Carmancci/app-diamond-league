@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/rabat.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/RABAT_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "36f5123e0fc404efbf025f534880b51433981da3ab548829e45715122858d6cf",
-    "collectedAt": "2026-07-17T13:02:58.533Z",
+    "collectedAt": "2026-09-07T04:38:02.992Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:02:58.533Z",
+  "updatedAt": "2026-09-07T04:38:02.992Z",
   "eventCount": 23,
   "athleteCount": 287,
   "events": [

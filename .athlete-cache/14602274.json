@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14602274",
+  "athleteId": "mabille-florent-bel",
+  "athlete": "MABILLE Florent",
+  "country": "BEL",
+  "dob": "1996-10-27",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.45",
+      "venue": "Stedelijke Atletiekpiste, Ninove (BEL)",
+      "date": "20 JUL 2024"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.99",
+      "venue": "Putbosstadion, Oordegem (BEL)",
+      "date": "01 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14602274",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14602274",
+  "scrapedAt": "2026-09-07T04:41:50.717Z",
+  "source": "diamondleague.com"
+}

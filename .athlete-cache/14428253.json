@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14428253",
+  "athleteId": "thiam-nafissatou-bel",
+  "athlete": "THIAM Nafissatou",
+  "country": "BEL",
+  "dob": "1994-08-19",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "2.02",
+      "venue": "Stade Pierre Paul Bernard, Talence (FRA)",
+      "date": "22 JUN 2019"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.86",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "18 AUG 2019"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.84",
+      "venue": "Stadionring, Ratingen (GER)",
+      "date": "27 JUN 2026"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.32",
+      "venue": "Province Naimette Arena, Liège (BEL)",
+      "date": "15 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14428253",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14428253",
+  "scrapedAt": "2026-09-07T04:39:27.368Z",
+  "source": "diamondleague.com"
+}

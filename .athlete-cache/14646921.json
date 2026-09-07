@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14646921",
+  "athleteId": "smolinska-izabela-pol",
+  "athlete": "SMOLINSKA Izabela",
+  "country": "POL",
+  "dob": "1999-01-14",
+  "pb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "37.90",
+      "venue": "Stadion Zygmunta Szelesta, Warszawa (POL)",
+      "date": "11 MAY 2024"
+    }
+  },
+  "sb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "37.92",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "23 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14646921",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14646921",
+  "scrapedAt": "2026-09-07T04:42:48.203Z",
+  "source": "diamondleague.com"
+}

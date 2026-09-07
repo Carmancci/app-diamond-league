@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14763733",
+  "athleteId": "rosamilia-valentina-sui",
+  "athlete": "ROSAMILIA Valentina",
+  "country": "SUI",
+  "dob": "2003-01-27",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.16",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "13 AUG 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:58.16",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "13 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14763733",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14763733",
+  "scrapedAt": "2026-09-07T04:45:45.557Z",
+  "source": "diamondleague.com"
+}

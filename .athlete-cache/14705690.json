@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14705690",
+  "athleteId": "nacheva-aleksandra-bul",
+  "athlete": "NACHEVA Aleksandra",
+  "country": "BUL",
+  "dob": "2001-08-20",
+  "pb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.35",
+      "venue": "Stadio Olimpico, Roma (ITA)",
+      "date": "09 JUN 2024"
+    }
+  },
+  "sb": {
+    "triple jump": {
+      "discipline": "Women's Triple Jump",
+      "mark": "14.35",
+      "venue": "ENKA Atletizm Pisti, Istanbul (TUR)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14705690",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14705690",
+  "scrapedAt": "2026-09-07T04:44:01.929Z",
+  "source": "diamondleague.com"
+}

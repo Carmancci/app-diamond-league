@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14659034",
+  "athleteId": "vincke-rani-bel",
+  "athlete": "VINCKE Rani",
+  "country": "BEL",
+  "dob": "2000-03-01",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.21",
+      "venue": "Atletiekarena Gaston Roelants, Kessel-Lo (BEL)",
+      "date": "25 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.21",
+      "venue": "Atletiekarena Gaston Roelants, Kessel-Lo (BEL)",
+      "date": "25 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14659034",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14659034",
+  "scrapedAt": "2026-09-07T04:43:06.744Z",
+  "source": "diamondleague.com"
+}

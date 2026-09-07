@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14564235",
+  "athleteId": "iguacel-christian-bel",
+  "athlete": "IGUACEL Christian",
+  "country": "BEL",
+  "dob": "1996-05-02",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.66",
+      "venue": "National Stadium, Gaborone (BOT)",
+      "date": "12 APR 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "46.33",
+      "venue": "Atletiekarena Gaston Roelants, Kessel-Lo (BEL)",
+      "date": "17 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14564235",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14564235",
+  "scrapedAt": "2026-09-07T04:41:11.940Z",
+  "source": "diamondleague.com"
+}

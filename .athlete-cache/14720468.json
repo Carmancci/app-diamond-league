@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14720468",
+  "athleteId": "clarke-khan-joel-gbr",
+  "athlete": "CLARKE-KHAN Joel",
+  "country": "GBR",
+  "dob": "1999-09-30",
+  "pb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.27",
+      "venue": "Bedford Athletic Stadium, Bedford (GBR)",
+      "date": "02 JUN 2022"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Men's High Jump",
+      "mark": "2.27",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "20 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14720468",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14720468",
+  "scrapedAt": "2026-09-07T04:44:28.598Z",
+  "source": "diamondleague.com"
+}

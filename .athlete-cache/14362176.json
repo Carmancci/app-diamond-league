@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "dlId": "14362176",
+  "athleteId": "sasinek-maki-k-cze",
+  "athlete": "SASÍNEK MÄKI K.",
+  "country": "CZE",
+  "dob": "1991-09-22",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:01.23",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "04 AUG 2021"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:23.38",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "03 SEP 2021"
+    },
+    "5000m": {
+      "discipline": "Women's 5000 Metres",
+      "mark": "15:31.15",
+      "venue": "Sligo (IRL)",
+      "date": "23 JUN 2016"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:03.58",
+      "venue": "Stadio Comunale, Bellinzona (SUI)",
+      "date": "30 AUG 2026"
+    },
+    "mile": {
+      "discipline": "Women's Mile",
+      "mark": "4:38.26",
+      "venue": "Atletický stadion Děkanka, Praha (CZE)",
+      "date": "14 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14362176",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14362176",
+  "scrapedAt": "2026-09-07T04:38:51.607Z",
+  "source": "diamondleague.com"
+}

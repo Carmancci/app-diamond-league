@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14587444",
+  "athleteId": "gailums-patriks-lat",
+  "athlete": "GAILUMS Patriks",
+  "country": "LAT",
+  "dob": "1998-05-10",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "84.05",
+      "venue": "Campo Sportivo Putti, Bergamo (ITA)",
+      "date": "10 JUN 2023"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Men's Javelin Throw",
+      "mark": "83.09",
+      "venue": "Palangos Stadionas, Palanga (LTU)",
+      "date": "17 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14587444",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14587444",
+  "scrapedAt": "2026-09-07T04:41:26.882Z",
+  "source": "diamondleague.com"
+}
