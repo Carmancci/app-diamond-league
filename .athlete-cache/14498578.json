@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14498578",
+  "athleteId": "baker-ronnie-usa",
+  "athlete": "BAKER Ronnie",
+  "country": "USA",
+  "dob": "1993-10-15",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.83",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "01 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.88",
+      "venue": "Icahn Stadium, New York, NY (USA)",
+      "date": "24 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14498578",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14498578",
+  "scrapedAt": "2026-09-07T04:40:14.412Z",
+  "source": "diamondleague.com"
+}

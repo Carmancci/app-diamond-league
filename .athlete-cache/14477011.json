@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14477011",
+  "athleteId": "kidder-brannon-usa",
+  "athlete": "KIDDER Brannon",
+  "country": "USA",
+  "dob": "1993-11-18",
+  "pb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:33.47",
+      "venue": "Lincoln HS, Portland, OR (USA)",
+      "date": "15 AUG 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:53.09",
+      "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+      "date": "27 JAN 2024"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Men's 1500 Metres",
+      "mark": "3:33.47",
+      "venue": "Lincoln HS, Portland, OR (USA)",
+      "date": "15 AUG 2026"
+    },
+    "mile": {
+      "discipline": "Men's Mile",
+      "mark": "3:54.40",
+      "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+      "date": "30 JAN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14477011",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14477011",
+  "scrapedAt": "2026-09-07T04:40:01.088Z",
+  "source": "diamondleague.com"
+}

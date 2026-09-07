@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14632689",
+  "athleteId": "chaussinand-yann-fra",
+  "athlete": "CHAUSSINAND Yann",
+  "country": "FRA",
+  "dob": "1998-05-11",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "82.44",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Men's Hammer Throw",
+      "mark": "82.44",
+      "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+      "date": "13 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14632689",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14632689",
+  "scrapedAt": "2026-09-07T04:42:25.151Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14604425",
+  "athleteId": "sulek-schubert-a-pol",
+  "athlete": "SULEK-SCHUBERT A.",
+  "country": "POL",
+  "dob": "1999-04-03",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "13.08",
+      "venue": "Stadion Zygmunta Szelesta, Warszawa (POL)",
+      "date": "18 JUN 2022"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.62",
+      "venue": "Ataköy Arena, Istanbul (TUR) (i)",
+      "date": "03 MAR 2023"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "13.09",
+      "venue": "Stadion Miejski, Nakło nad Notecią (POL)",
+      "date": "11 JUL 2026"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.24",
+      "venue": "Stadion BOSiR, Białystok (POL)",
+      "date": "26 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14604425",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14604425",
+  "scrapedAt": "2026-09-07T04:41:56.020Z",
+  "source": "diamondleague.com"
+}

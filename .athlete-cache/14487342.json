@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14487342",
+  "athleteId": "ekman-louise-swe",
+  "athlete": "EKMAN Louise",
+  "country": "SWE",
+  "dob": "1997-04-10",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.96",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.96",
+      "venue": "Športová hala Dukla, Banská Bystrica (SVK) (i)",
+      "date": "24 FEB 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14487342",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14487342",
+  "scrapedAt": "2026-09-07T04:40:10.327Z",
+  "source": "diamondleague.com"
+}

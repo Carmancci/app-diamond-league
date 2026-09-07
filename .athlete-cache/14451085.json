@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14451085",
+  "athleteId": "swoboda-ewa-pol",
+  "athlete": "SWOBODA Ewa",
+  "country": "POL",
+  "dob": "1997-07-26",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.94",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 JUL 2023"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "10.98",
+      "venue": "Sports Park Mladost, Zagreb (CRO)",
+      "date": "26 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14451085",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14451085",
+  "scrapedAt": "2026-09-07T04:39:48.594Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "dlId": "14700633",
+  "athleteId": "ejore-sanders-susan-l-ken",
+  "athlete": "EJORE-SANDERS Susan L.",
+  "country": "KEN",
+  "dob": "1995-11-09",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "3:56.07",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "10 AUG 2024"
+    }
+  },
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14700633",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14700633",
+  "scrapedAt": "2026-09-07T04:43:53.224Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14561420",
+  "athleteId": "saalberg-eveline-ned",
+  "athlete": "SAALBERG Eveline",
+  "country": "NED",
+  "dob": "1998-07-30",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.84",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "13 AUG 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.30",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "50.84",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "13 AUG 2026"
+    },
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.30",
+      "venue": "Stadion Podskarbińska, Warszawa (POL)",
+      "date": "07 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14561420",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14561420",
+  "scrapedAt": "2026-09-07T04:41:06.922Z",
+  "source": "diamondleague.com"
+}

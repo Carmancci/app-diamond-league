@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14195659",
+  "athleteId": "james-kirani-grn",
+  "athlete": "JAMES Kirani",
+  "country": "GRN",
+  "dob": "1992-09-01",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "43.74",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "03 JUL 2014"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.83",
+      "venue": "Letzigrund, Zürich (SUI)",
+      "date": "27 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14195659",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14195659",
+  "scrapedAt": "2026-09-07T04:38:24.280Z",
+  "source": "diamondleague.com"
+}

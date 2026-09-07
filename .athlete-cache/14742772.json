@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14742772",
+  "athleteId": "petrucciani-ricky-sui",
+  "athlete": "PETRUCCIANI Ricky",
+  "country": "SUI",
+  "dob": "2000-06-30",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.02",
+      "venue": "Kadrioru staadion, Tallinn (EST)",
+      "date": "10 JUL 2021"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "45.65",
+      "venue": "Stade Bouleyres, Bulle (SUI)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14742772",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14742772",
+  "scrapedAt": "2026-09-07T04:45:00.586Z",
+  "source": "diamondleague.com"
+}

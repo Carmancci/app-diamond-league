@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14759041",
+  "athleteId": "glave-romell-gbr",
+  "athlete": "GLAVE Romell",
+  "country": "GBR",
+  "dob": "1999-11-11",
+  "pb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.97",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Men's 100 Metres",
+      "mark": "9.97",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14759041",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14759041",
+  "scrapedAt": "2026-09-07T04:45:22.852Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "permanent_error",
+  "dlId": "1500471",
+  "athleteId": "tenisch-luana-sui",
+  "athlete": "TENISCH Luana",
+  "country": "SUI",
+  "dob": null,
+  "pb": {},
+  "sb": {},
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/1500471",
+  "worldAthleticsUrl": null,
+  "error": "empty_page: HTTP 200 sem DOB, PB ou SB",
+  "scrapedAt": "2026-09-07T04:38:14.060Z",
+  "source": "diamondleague.com"
+}

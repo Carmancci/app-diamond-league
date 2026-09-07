@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14375638",
+  "athleteId": "bazolo-lorene-dorcas-por",
+  "athlete": "BAZOLO Lorène Dorcas",
+  "country": "POR",
+  "dob": "1983-05-04",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.10",
+      "venue": "Stade de La Charrière, La Chaux-de-Fonds (SUI)",
+      "date": "14 AUG 2021"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.39",
+      "venue": "Estadio Universitario, Lisboa (POR)",
+      "date": "25 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14375638",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14375638",
+  "scrapedAt": "2026-09-07T04:39:03.697Z",
+  "source": "diamondleague.com"
+}

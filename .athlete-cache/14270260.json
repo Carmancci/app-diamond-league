@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14270260",
+  "athleteId": "parewyck-mariska-bel",
+  "athlete": "PAREWYCK Mariska",
+  "country": "BEL",
+  "dob": "1988-12-13",
+  "pb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:08.40",
+      "venue": "TSV Stadion, Pfungstadt (GER)",
+      "date": "20 AUG 2025"
+    }
+  },
+  "sb": {
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:09.67",
+      "venue": "TSV Stadion, Pfungstadt (GER)",
+      "date": "26 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14270260",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14270260",
+  "scrapedAt": "2026-09-07T04:38:29.772Z",
+  "source": "diamondleague.com"
+}

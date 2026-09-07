@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14680605",
+  "athleteId": "kalin-annik-sui",
+  "athlete": "KÄLIN Annik",
+  "country": "SUI",
+  "dob": "2000-04-27",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.60",
+      "venue": "Stadionring, Ratingen (GER)",
+      "date": "27 JUN 2026"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.90",
+      "venue": "Omnisport, Apeldoorn (NED) (i)",
+      "date": "08 MAR 2025"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "12.60",
+      "venue": "Stadionring, Ratingen (GER)",
+      "date": "27 JUN 2026"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.81",
+      "venue": "Mösle-Stadium, Götzis (AUT)",
+      "date": "31 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14680605",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14680605",
+  "scrapedAt": "2026-09-07T04:43:26.661Z",
+  "source": "diamondleague.com"
+}

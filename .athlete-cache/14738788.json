@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14738788",
+  "athleteId": "rosius-rani-bel",
+  "athlete": "ROSIUS Rani",
+  "country": "BEL",
+  "dob": "2000-04-25",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.10",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "02 AUG 2024"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.11",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "30 JUN 2024"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.17",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "10 AUG 2026"
+    },
+    "200m": {
+      "discipline": "Women's 200 Metres",
+      "mark": "23.20",
+      "venue": "Sportcentrum Wembley, Kortrijk (BEL)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14738788",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14738788",
+  "scrapedAt": "2026-09-07T04:44:46.874Z",
+  "source": "diamondleague.com"
+}

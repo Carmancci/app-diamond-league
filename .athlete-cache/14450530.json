@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14450530",
+  "athleteId": "vidts-noor-bel",
+  "athlete": "VIDTS Noor",
+  "country": "BEL",
+  "dob": "1996-05-30",
+  "pb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "13.10",
+      "venue": "Stade de France, Paris (FRA)",
+      "date": "08 AUG 2024"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.60",
+      "venue": "Štark Arena, Beograd (SRB) (i)",
+      "date": "18 MAR 2022"
+    }
+  },
+  "sb": {
+    "100m hurdles": {
+      "discipline": "Women's 100 Metres Hurdles",
+      "mark": "13.24",
+      "venue": "Mösle-Stadium, Götzis (AUT)",
+      "date": "30 MAY 2026"
+    },
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.23",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "05 SEP 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14450530",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14450530",
+  "scrapedAt": "2026-09-07T04:39:44.572Z",
+  "source": "diamondleague.com"
+}

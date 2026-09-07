@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14691581",
+  "athleteId": "segers-daniel-bel",
+  "athlete": "SEGERS Daniel",
+  "country": "BEL",
+  "dob": "2001-02-01",
+  "pb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.63",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "24 JUN 2025"
+    }
+  },
+  "sb": {
+    "400m": {
+      "discipline": "Men's 400 Metres",
+      "mark": "44.81",
+      "venue": "Mestský Stadion, Ostrava (CZE)",
+      "date": "16 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14691581",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14691581",
+  "scrapedAt": "2026-09-07T04:43:48.103Z",
+  "source": "diamondleague.com"
+}

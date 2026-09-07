@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14655138",
+  "athleteId": "walker-eloise-gbr",
+  "athlete": "WALKER Eloise",
+  "country": "GBR",
+  "dob": "2001-05-27",
+  "pb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:34.80",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "sb": {
+    "3000m": {
+      "discipline": "Women's 3000 Metres",
+      "mark": "8:34.80",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14655138",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14655138",
+  "scrapedAt": "2026-09-07T04:43:02.623Z",
+  "source": "diamondleague.com"
+}

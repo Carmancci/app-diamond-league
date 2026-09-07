@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/rome.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/ROME_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "c2418dc5eed4dec9acef38aed1976f13d10d3191c3b323b0d557cf51527aefb5",
-    "collectedAt": "2026-07-17T13:02:59.109Z",
+    "collectedAt": "2026-09-07T04:38:03.896Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:02:59.109Z",
+  "updatedAt": "2026-09-07T04:38:03.896Z",
   "eventCount": 22,
   "athleteCount": 215,
   "events": [

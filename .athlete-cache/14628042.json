@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14628042",
+  "athleteId": "sarna-angelika-pol",
+  "athlete": "SARNA Angelika",
+  "country": "POL",
+  "dob": "1997-10-01",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "1:59.08",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "16 AUG 2025"
+    },
+    "1000m": {
+      "discipline": "Women's 1000 Metres",
+      "mark": "2:37.42",
+      "venue": "Stadion Śląski, Chorzów (POL)",
+      "date": "25 AUG 2024"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:00.73",
+      "venue": "Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",
+      "date": "26 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14628042",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14628042",
+  "scrapedAt": "2026-09-07T04:42:09.767Z",
+  "source": "diamondleague.com"
+}

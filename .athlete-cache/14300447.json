@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14300447",
+  "athleteId": "vukovic-marija-mne",
+  "athlete": "VUKOVIC Marija",
+  "country": "MNE",
+  "dob": "1992-01-21",
+  "pb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.98",
+      "venue": "Filothei Stadium, Athina (GRE)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "sb": {
+    "high jump": {
+      "discipline": "Women's High Jump",
+      "mark": "1.98",
+      "venue": "Filothei Stadium, Athina (GRE)",
+      "date": "03 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14300447",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14300447",
+  "scrapedAt": "2026-09-07T04:38:37.676Z",
+  "source": "diamondleague.com"
+}

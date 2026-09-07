@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14742125",
+  "athleteId": "lescay-lester-esp",
+  "athlete": "LESCAY Lester",
+  "country": "ESP",
+  "dob": "2001-10-15",
+  "pb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.35",
+      "venue": "Pista atletismo Fuente de la Niña, Guadalajara (ESP)",
+      "date": "23 JUN 2024"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Men's Long Jump",
+      "mark": "8.22",
+      "venue": "Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",
+      "date": "01 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14742125",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14742125",
+  "scrapedAt": "2026-09-07T04:44:56.488Z",
+  "source": "diamondleague.com"
+}

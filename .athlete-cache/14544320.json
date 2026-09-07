@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14544320",
+  "athleteId": "lindner-magdalena-aut",
+  "athlete": "LINDNER Magdalena",
+  "country": "AUT",
+  "dob": "2000-04-14",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.26",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.26",
+      "venue": "Štadión SNP, Banská Bystrica (SVK)",
+      "date": "21 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14544320",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14544320",
+  "scrapedAt": "2026-09-07T04:41:02.785Z",
+  "source": "diamondleague.com"
+}

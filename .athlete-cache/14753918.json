@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14753918",
+  "athleteId": "renouard-flavie-fra",
+  "athlete": "RENOUARD Flavie",
+  "country": "FRA",
+  "dob": "2000-09-10",
+  "pb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:14.69",
+      "venue": "National Stadium, Tokyo (JPN)",
+      "date": "15 SEP 2025"
+    }
+  },
+  "sb": {
+    "3000m steeplechase": {
+      "discipline": "Women's 3000 Metres Steeplechase",
+      "mark": "9:21.79",
+      "venue": "Stadion De Veen, Heusden-Zolder (BEL)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14753918",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14753918",
+  "scrapedAt": "2026-09-07T04:45:09.817Z",
+  "source": "diamondleague.com"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14465496",
+  "athleteId": "gandulla-arialis-por",
+  "athlete": "GANDULLA Arialis",
+  "country": "POR",
+  "dob": "1995-06-22",
+  "pb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.17",
+      "venue": "Estadio Universitario, Lisboa (POR)",
+      "date": "21 MAY 2023"
+    }
+  },
+  "sb": {
+    "100m": {
+      "discipline": "Women's 100 Metres",
+      "mark": "11.25",
+      "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+      "date": "20 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14465496",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14465496",
+  "scrapedAt": "2026-09-07T04:39:56.692Z",
+  "source": "diamondleague.com"
+}

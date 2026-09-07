@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/xiamen.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/XIAMEN_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "cec3dc3cfd22e33b03164d556fb4eed1ccf70555f1cf8e0773443150a992b6c9",
-    "collectedAt": "2026-07-17T13:02:57.911Z",
+    "collectedAt": "2026-09-07T04:38:02.060Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:02:57.911Z",
+  "updatedAt": "2026-09-07T04:38:02.060Z",
   "eventCount": 19,
   "athleteCount": 231,
   "events": [

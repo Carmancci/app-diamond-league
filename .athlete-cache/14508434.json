@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "dlId": "14508434",
+  "athleteId": "couckuyt-paulien-bel",
+  "athlete": "COUCKUYT Paulien",
+  "country": "BEL",
+  "dob": "1997-05-19",
+  "pb": {
+    "400m": {
+      "discipline": "Women's 400 Metres",
+      "mark": "52.98",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "08 AUG 2020"
+    },
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.20",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "04 SEP 2026"
+    }
+  },
+  "sb": {
+    "400m hurdles": {
+      "discipline": "Women's 400 Metres Hurdles",
+      "mark": "53.20",
+      "venue": "Boudewijnstadion, Bruxelles (BEL)",
+      "date": "04 SEP 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14508434",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14508434",
+  "scrapedAt": "2026-09-07T04:40:18.323Z",
+  "source": "diamondleague.com"
+}

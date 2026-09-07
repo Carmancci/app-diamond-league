@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14486748",
+  "athleteId": "wrona-kutrzepa-alicja-pol",
+  "athlete": "WRONA-KUTRZEPA Alicja",
+  "country": "POL",
+  "dob": "1996-01-11",
+  "pb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "37.27",
+      "venue": "Stadion Zygmunta Szelesta, Warszawa (POL)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "sb": {
+    "300m": {
+      "discipline": "Women's 300 Metres",
+      "mark": "37.27",
+      "venue": "Stadion Zygmunta Szelesta, Warszawa (POL)",
+      "date": "11 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14486748",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14486748",
+  "scrapedAt": "2026-09-07T04:40:06.292Z",
+  "source": "diamondleague.com"
+}

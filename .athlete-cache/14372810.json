@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14372810",
+  "athleteId": "sawyers-jazmin-gbr",
+  "athlete": "SAWYERS Jazmin",
+  "country": "GBR",
+  "dob": "1994-05-21",
+  "pb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "7.00",
+      "venue": "Ataköy Arena, Istanbul (TUR) (i)",
+      "date": "05 MAR 2023"
+    }
+  },
+  "sb": {
+    "long jump": {
+      "discipline": "Women's Long Jump",
+      "mark": "6.96",
+      "venue": "Alexander Stadium, Birmingham (GBR)",
+      "date": "16 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14372810",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14372810",
+  "scrapedAt": "2026-09-07T04:38:59.735Z",
+  "source": "diamondleague.com"
+}

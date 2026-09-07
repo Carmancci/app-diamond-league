@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14647649",
+  "athleteId": "wiltrout-madison-usa",
+  "athlete": "WILTROUT Madison",
+  "country": "USA",
+  "dob": "1999-06-04",
+  "pb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.88",
+      "venue": "Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "sb": {
+    "javelin throw": {
+      "discipline": "Women's Javelin Throw",
+      "mark": "63.88",
+      "venue": "Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",
+      "date": "23 MAY 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14647649",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14647649",
+  "scrapedAt": "2026-09-07T04:42:53.209Z",
+  "source": "diamondleague.com"
+}

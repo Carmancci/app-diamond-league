@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14643539",
+  "athleteId": "smiech-aleksandra-pol",
+  "athlete": "SMIECH Aleksandra",
+  "country": "POL",
+  "dob": "1997-10-02",
+  "pb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "71.14",
+      "venue": "Centre sportif Bout-du-Monde, Genève (SUI)",
+      "date": "10 JUN 2023"
+    }
+  },
+  "sb": {
+    "hammer throw": {
+      "discipline": "Women's Hammer Throw",
+      "mark": "70.84",
+      "venue": "Estadio Ciudad de Málaga, Málaga (ESP)",
+      "date": "18 JUN 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14643539",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14643539",
+  "scrapedAt": "2026-09-07T04:42:38.693Z",
+  "source": "diamondleague.com"
+}

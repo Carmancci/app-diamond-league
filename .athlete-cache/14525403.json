@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "dlId": "14525403",
+  "athleteId": "sclabas-delia-sui",
+  "athlete": "SCLABAS Delia",
+  "country": "SUI",
+  "dob": "2000-11-08",
+  "pb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:01.25",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "21 AUG 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:04.50",
+      "venue": "Stadio Comunale, Bellinzona (SUI)",
+      "date": "30 AUG 2026"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Women's 800 Metres",
+      "mark": "2:01.25",
+      "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+      "date": "21 AUG 2026"
+    },
+    "1500m": {
+      "discipline": "Women's 1500 Metres",
+      "mark": "4:04.50",
+      "venue": "Stadio Comunale, Bellinzona (SUI)",
+      "date": "30 AUG 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14525403",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14525403",
+  "scrapedAt": "2026-09-07T04:40:39.997Z",
+  "source": "diamondleague.com"
+}

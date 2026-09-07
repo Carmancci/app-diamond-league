@@ -17,11 +17,11 @@
     "url": "https://ath-wdl-archive.azureedge.net/2026/monaco.json",
     "pdfUrl": "https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/MONACO_2026/PDF_ATH-------------------------------_MUL.PDF",
     "checksum": "f853b4a8b673028e298491c97dfe2a1a281c0753b0af8394d93fe9a192e4f599",
-    "collectedAt": "2026-07-17T13:03:00.958Z",
+    "collectedAt": "2026-09-07T04:38:07.795Z",
     "parserVersion": "2.0.0",
     "state": "confirmado_oficial"
   },
-  "updatedAt": "2026-07-17T13:03:00.958Z",
+  "updatedAt": "2026-09-07T04:38:07.795Z",
   "eventCount": 17,
   "athleteCount": 203,
   "events": [

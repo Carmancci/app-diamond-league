@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "dlId": "14595076",
+  "athleteId": "randolph-thomas-gbr",
+  "athlete": "RANDOLPH Thomas",
+  "country": "GBR",
+  "dob": "1999-02-07",
+  "pb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:44.88",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "23 JUL 2023"
+    }
+  },
+  "sb": {
+    "800m": {
+      "discipline": "Men's 800 Metres",
+      "mark": "1:47.57",
+      "venue": "Olympic Stadium, London (GBR)",
+      "date": "18 JUL 2026"
+    }
+  },
+  "officialProfileUrl": "https://www.diamondleague.com/athlete/14595076",
+  "worldAthleticsUrl": "https://worldathletics.org/athletes/_/14595076",
+  "scrapedAt": "2026-09-07T04:41:46.790Z",
+  "source": "diamondleague.com"
+}
